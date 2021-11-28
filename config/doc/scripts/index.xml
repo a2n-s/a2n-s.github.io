@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Config on Terminal</title>
+    <title>Config on a2n-s&#39; Personal Website &amp; Blog</title>
     <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/</link>
-    <description>Recent content in Config on Terminal</description>
+    <description>Recent content in Config on a2n-s&#39; Personal Website &amp; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Sep 2021 22:08:05 +0200</lastBuildDate><atom:link href="https://a2n-s.github.io/graphic.github.io/config/doc/scripts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>prompt.sh</title>
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/prompt/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/prompt/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/prompt/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/prompt/</guid>
       <description>File is here</description>
       <content>&lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/prompt&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -20,10 +20,10 @@
     
     <item>
       <title>screenshot.sh</title>
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/screenshot.sh/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/screenshot.sh/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/screenshot.sh/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/screenshot.sh/</guid>
       <description>script can be found here.
 Dependencies for screenshot.sh.  the scrot command: can be installed with sudo pacman -S scrot on Arch.  </description>
       <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/screenshot.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -36,10 +36,10 @@ Dependencies for screenshot.sh.  the scrot command: can be installed with sudo p
     
     <item>
       <title>spectrWM-baraction.sh</title>
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/spectrwm-baraction.sh/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/spectrwm-baraction.sh/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/spectrwm-baraction.sh/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/spectrwm-baraction.sh/</guid>
       <description>script can be found here.
 Dependencies for spectrWM-baraction.sh  basic commands: echo, grep, awk, sed, pacman, cut, cat, date, sleep disk commands: df, free, mpstat networking commands: ip, nmcli, ifstat setxkbmap to look at the keyboard layout, play to play sounds.  </description>
       <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/spectrWM-baraction.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -55,10 +55,10 @@ Dependencies for spectrWM-baraction.sh  basic commands: echo, grep, awk, sed, pa
     
     <item>
       <title>togkb.sh</title>
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/togkb.sh/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/togkb.sh/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/togkb.sh/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/togkb.sh/</guid>
       <description>script can be found here.
 Dependencies for togkb.sh  basic commands: echo, grep, sed setxkbmap to change the keyboard layout.  </description>
       <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/togkb.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -72,10 +72,10 @@ Dependencies for togkb.sh  basic commands: echo, grep, sed setxkbmap to change t
     
     <item>
       <title>tree2md.sh</title>
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/tree2md/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/tree2md/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/tree2md/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/tree2md/</guid>
       <description>File is here</description>
       <content>&lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/tree2md&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -83,10 +83,10 @@ Dependencies for togkb.sh  basic commands: echo, grep, sed setxkbmap to change t
     
     <item>
       <title>upl.sh</title>
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/upl/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/upl/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/upl/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/upl/</guid>
       <description>script can be found here.</description>
       <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/upl&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
@@ -94,10 +94,10 @@ Dependencies for togkb.sh  basic commands: echo, grep, sed setxkbmap to change t
     
     <item>
       <title>wvenv.</title>
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/wvenv/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/wvenv/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/wvenv/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/wvenv/</guid>
       <description>script can be found here.
 Dependencies for wvenv. wvenv will not crash without these, but the output might be unpredictable.
  which to know where the command is located. python, python3 the python interpreters. pip, pip3 the python package managers. jupyter, jupyter-notebook to edit and see jupyter notebooks.  Notes:
@@ -124,10 +124,10 @@ and NEVER intall &lt;code&gt;python&lt;/code&gt; package on you system directly!
     
     <item>
       <title>xtcl</title>
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/xtcl/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/xtcl/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/xtcl/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/xtcl/</guid>
       <description>script can be found here.
 Dependencies for xtcl  base commands such as echo. xdotool to force the key value to unactive and xmodmap to disable the key.  </description>
       <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/xtcl&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
