@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Config on Terminal</title>
+    <link>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/</link>
+    <description>Recent content in Config on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Sep 2021 22:08:05 +0200</lastBuildDate><atom:link href="https://a2n-s.github.io/graphic-site.io/config/doc/scripts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>prompt.sh</title>
+      <link>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/prompt/readme/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/prompt/readme/</guid>
+      <description>File is here</description>
+      <content>&lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/prompt&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>screenshot.sh</title>
+      <link>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/screenshot.sh/readme/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/screenshot.sh/readme/</guid>
+      <description>script can be found here.
+Dependencies for screenshot.sh.  the scrot command: can be installed with sudo pacman -S scrot on Arch.  </description>
+      <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/screenshot.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;dependencies-for-screenshotsh&#34;&gt;Dependencies for screenshot.sh.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;the &lt;code&gt;scrot&lt;/code&gt; command: can be installed with &lt;code&gt;sudo pacman -S scrot&lt;/code&gt; on Arch.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>spectrWM-baraction.sh</title>
+      <link>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/spectrwm-baraction.sh/readme/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/spectrwm-baraction.sh/readme/</guid>
+      <description>script can be found here.
+Dependencies for spectrWM-baraction.sh  basic commands: echo, grep, awk, sed, pacman, cut, cat, date, sleep disk commands: df, free, mpstat networking commands: ip, nmcli, ifstat setxkbmap to look at the keyboard layout, play to play sounds.  </description>
+      <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/spectrWM-baraction.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;dependencies-for-spectrwm-baractionsh&#34;&gt;Dependencies for spectrWM-baraction.sh&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;basic commands: &lt;code&gt;echo&lt;/code&gt;, &lt;code&gt;grep&lt;/code&gt;, &lt;code&gt;awk&lt;/code&gt;, &lt;code&gt;sed&lt;/code&gt;, &lt;code&gt;pacman&lt;/code&gt;, &lt;code&gt;cut&lt;/code&gt;, &lt;code&gt;cat&lt;/code&gt;, &lt;code&gt;date&lt;/code&gt;, &lt;code&gt;sleep&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;disk commands: &lt;code&gt;df&lt;/code&gt;, &lt;code&gt;free&lt;/code&gt;, &lt;code&gt;mpstat&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;networking commands: &lt;code&gt;ip&lt;/code&gt;, &lt;code&gt;nmcli&lt;/code&gt;, &lt;code&gt;ifstat&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;setxkbmap&lt;/code&gt; to look at the keyboard layout, &lt;code&gt;play&lt;/code&gt; to play sounds.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>togkb.sh</title>
+      <link>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/togkb.sh/readme/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/togkb.sh/readme/</guid>
+      <description>script can be found here.
+Dependencies for togkb.sh  basic commands: echo, grep, sed setxkbmap to change the keyboard layout.  </description>
+      <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/togkb.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;dependencies-for-togkbsh&#34;&gt;Dependencies for togkb.sh&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;basic commands: &lt;code&gt;echo&lt;/code&gt;, &lt;code&gt;grep&lt;/code&gt;, &lt;code&gt;sed&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;setxkbmap&lt;/code&gt; to change the keyboard layout.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>tree2md.sh</title>
+      <link>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/tree2md/readme/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/tree2md/readme/</guid>
+      <description>File is here</description>
+      <content>&lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/tree2md&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>upl.sh</title>
+      <link>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/upl/readme/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/upl/readme/</guid>
+      <description>script can be found here.</description>
+      <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/upl&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>wvenv.</title>
+      <link>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/wvenv/readme/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/wvenv/readme/</guid>
+      <description>script can be found here.
+Dependencies for wvenv. wvenv will not crash without these, but the output might be unpredictable.
+ which to know where the command is located. python, python3 the python interpreters. pip, pip3 the python package managers. jupyter, jupyter-notebook to edit and see jupyter notebooks.  Notes:
+ I really highly recommend you, once you have installed python on the system, to install virtualenv, pyenv, conda, or similar and NEVER intall python package on you system directly!</description>
+      <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/wvenv&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;dependencies-for-wvenv&#34;&gt;Dependencies for wvenv.&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;wvenv&lt;/code&gt; will not crash without these, but the output might be unpredictable.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;which&lt;/code&gt; to know where the command is located.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;python&lt;/code&gt;, &lt;code&gt;python3&lt;/code&gt; the python interpreters.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;pip&lt;/code&gt;, &lt;code&gt;pip3&lt;/code&gt; the python package managers.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;jupyter&lt;/code&gt;, &lt;code&gt;jupyter-notebook&lt;/code&gt; to edit and see jupyter notebooks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Notes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I really highly recommend you, once you have installed python on the system, to install &lt;code&gt;virtualenv&lt;/code&gt;, &lt;code&gt;pyenv&lt;/code&gt;, &lt;code&gt;conda&lt;/code&gt;, or similar
+and NEVER intall &lt;code&gt;python&lt;/code&gt; package on you system directly!&lt;/li&gt;
+&lt;li&gt;instead, create a sane virtual environment with your prefered environment manager above and install everything in it.&lt;/li&gt;
+&lt;li&gt;one can use multiple environments for different purposes. For instance a dedicated environment for &lt;code&gt;jupyter&lt;/code&gt;
+(it is a pain to uninstall from the main system), another one for machine learning stuff, and so on&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>xtcl</title>
+      <link>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/xtcl/readme/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/xtcl/readme/</guid>
+      <description>script can be found here.
+Dependencies for xtcl  base commands such as echo. xdotool to force the key value to unactive and xmodmap to disable the key.  </description>
+      <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/xtcl&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;dependencies-for-xtcl&#34;&gt;Dependencies for xtcl&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;base commands such as &lt;code&gt;echo&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;xdotool&lt;/code&gt; to force the key value to unactive and &lt;code&gt;xmodmap&lt;/code&gt; to disable the key.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

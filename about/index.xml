@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Terminal</title>
+    <link>https://a2n-s.github.io/graphic-site.io/about/</link>
+    <description>Recent content in About on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Sep 2021 22:08:05 +0200</lastBuildDate><atom:link href="https://a2n-s.github.io/graphic-site.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://a2n-s.github.io/graphic-site.io/about/about/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic-site.io/about/about/</guid>
+      <description>This is about me.
+Go back to the front page.</description>
+      <content>&lt;p&gt;This is about me.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
