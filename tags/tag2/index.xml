@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tag2 on Terminal</title>
-    <link>https://a2n-s.github.io/graphic-site.io/tags/tag2/</link>
+    <link>https://a2n-s.github.io/graphic.github.io/tags/tag2/</link>
     <description>Recent content in tag2 on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Sep 2021 22:08:05 +0200</lastBuildDate><atom:link href="https://a2n-s.github.io/graphic-site.io/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 22:08:05 +0200</lastBuildDate><atom:link href="https://a2n-s.github.io/graphic.github.io/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://a2n-s.github.io/graphic-site.io/about/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/about/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/about/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/about/</guid>
       <description>This is the about section
 Go back to the front page.</description>
       <content>&lt;p&gt;This is the about section&lt;/p&gt;
@@ -22,10 +22,10 @@ Go back to the front page.</description>
     
     <item>
       <title>About</title>
-      <link>https://a2n-s.github.io/graphic-site.io/about/about/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/about/about/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/about/about/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/about/about/</guid>
       <description>This is about me.
 Go back to the front page.</description>
       <content>&lt;p&gt;This is about me.&lt;/p&gt;
@@ -35,10 +35,10 @@ Go back to the front page.</description>
     
     <item>
       <title>Alacritty terminal emulator.</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/programs/alacritty/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/alacritty/readme/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/programs/alacritty/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/alacritty/readme/</guid>
       <description>Alacritty is a minimal terminal emulator.
 Some resources.  the github page here. the arch wiki page here.  Dependencies for alacritty.  xterm-256color mode to display many colors.u the mononoki nerd font: can be installed with yay -S nerd-fonts-mononoki  Install alacritty manually.  install the dependencies. install the alacritty command. copy alacritty.yml inside your ~/.config/alacritty directory.  Gallery. Available soon.</description>
       <content>&lt;!-- raw HTML omitted --&gt;
@@ -66,10 +66,10 @@ Some resources.  the github page here. the arch wiki page here.  Dependencies fo
     
     <item>
       <title>bash shell environment.</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/programs/bash/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/bash/readme/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/programs/bash/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/bash/readme/</guid>
       <description>&amp;ldquo;Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.&amp;rdquo;
 Some resources.  the wikipedia page here. an extensive tutorial to use bash here.  Dependencies for the bash shell.  the scripts in the scripts directory. neofetch, git and cal.  Install the bash shell environment manually.  install the dependencies. copy .bash_aliases, .bash_logout, .</description>
       <content>&lt;!-- raw HTML omitted --&gt;
@@ -96,10 +96,10 @@ Some resources.  the wikipedia page here. an extensive tutorial to use bash here
     
     <item>
       <title>Config</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/</guid>
       <description>This is the config section.
 Doc here.
 doftiles here.
@@ -119,10 +119,10 @@ Wallpapers &lt;a href=&#34;wallpapers&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
     
     <item>
       <title>Config</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/programs/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/programs/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/</guid>
       <description>This is the config section.
 Doc here.</description>
       <content>&lt;p&gt;This is the config section.&lt;/p&gt;
@@ -132,10 +132,10 @@ Doc here.</description>
     
     <item>
       <title>Config</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/</guid>
       <description>This is the config section.
 Doc here.</description>
       <content>&lt;p&gt;This is the config section.&lt;/p&gt;
@@ -145,10 +145,10 @@ Doc here.</description>
     
     <item>
       <title>dmenu</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/dmenu/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/dmenu/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/dmenu/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/dmenu/</guid>
       <description>This is the dmenu section.
 Config here.</description>
       <content>&lt;p&gt;This is the dmenu section.&lt;/p&gt;
@@ -158,10 +158,10 @@ Config here.</description>
     
     <item>
       <title>dmscripts</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/dmscripts/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/dmscripts/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/dmscripts/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/dmscripts/</guid>
       <description>This is the dmscripts section.
 Config here.</description>
       <content>&lt;p&gt;This is the dmscripts section.&lt;/p&gt;
@@ -171,10 +171,10 @@ Config here.</description>
     
     <item>
       <title>Doc</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/</guid>
       <description>This is the doc.
 Programs here.
 Scripts here.</description>
@@ -186,10 +186,10 @@ Scripts &lt;a href=&#34;scripts&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
     
     <item>
       <title>Dotfiles</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/dotfiles/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/dotfiles/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/dotfiles/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/dotfiles/</guid>
       <description>This is the dotfiles section.
 Config here.</description>
       <content>&lt;p&gt;This is the dotfiles section.&lt;/p&gt;
@@ -199,10 +199,10 @@ Config here.</description>
     
     <item>
       <title>Front page</title>
-      <link>https://a2n-s.github.io/graphic-site.io/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/</guid>
       <description>This is the front page.
 About me here.
 My config here.
@@ -220,10 +220,10 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv&lt;/p&gt;
     
     <item>
       <title>git</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/programs/git/doc/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/git/doc/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/programs/git/doc/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/git/doc/</guid>
       <description>&amp;ldquo;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&amp;rdquo;
 Some resources.  the official page here. the arch wiki page here. an interactive and visual tutorial to learn git here.  Install git manually.  install the git command. copy .gitconfig inside your ~/ directory.  Gallery. Available soon.</description>
       <content>&lt;p&gt;&lt;img src=&#34;./images/logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -246,10 +246,10 @@ Some resources.  the official page here. the arch wiki page here. an interactive
     
     <item>
       <title>htop system monitoring tool.</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/programs/htop/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/htop/readme/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/programs/htop/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/htop/readme/</guid>
       <description>&amp;ldquo;htop is an interactive system-monitor process-viewer and process-manager.&amp;rdquo;
 Some resources.  the wikipedia page here. the arch manual page here.  Install htop manually.  install the htop command. copy htoprc inside your ~/.config/htop directory.  Gallery. Available soon.</description>
       <content>&lt;p&gt;&amp;ldquo;htop is an interactive system-monitor process-viewer and process-manager.&amp;rdquo;&lt;/p&gt;
@@ -270,10 +270,10 @@ Some resources.  the wikipedia page here. the arch manual page here.  Install ht
     
     <item>
       <title>neofetch</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/programs/neofetch/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/neofetch/readme/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/programs/neofetch/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/neofetch/readme/</guid>
       <description>neofetch is &amp;ldquo;a command-line system information tool written in bash 3.2+&amp;rdquo;
 Some resources.  the github page here. the arch manual page here.  Dependencies for neofetch.  some art works in ~/.config/neofetch/ascii.  Install neofetch manually.  install the dependencies. install the neofetch command. copy config.conf, .neofetchrc and the files in ascii inside your ~/.config/neofetch directory.  Gallery. Available soon.</description>
       <content>&lt;!-- raw HTML omitted --&gt;
@@ -300,10 +300,10 @@ Some resources.  the github page here. the arch manual page here.  Dependencies 
     
     <item>
       <title>nitrogen</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/programs/nitrogen/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/nitrogen/readme/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/programs/nitrogen/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/nitrogen/readme/</guid>
       <description>a wallpaper manager.
 Some resources.  the arch wiki page here. a youtube tutorial here.  Dependencies for nitrogen.  some wallpapers to load and restore. mine currently is a vibrant scene.  Install nitrogen manually.  install the dependencies. install the nitrogen command. copy nitrogen.cfg inside your ~/.config/nitrogen directory.  Gallery. Available soon.</description>
       <content>&lt;p&gt;a wallpaper manager.&lt;/p&gt;
@@ -330,10 +330,10 @@ Some resources.  the arch wiki page here. a youtube tutorial here.  Dependencies
     
     <item>
       <title>Post 1</title>
-      <link>https://a2n-s.github.io/graphic-site.io/posts/post1/post/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/posts/post1/post/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/posts/post1/post/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/posts/post1/post/</guid>
       <description>This is the first post.</description>
       <content>&lt;p&gt;This is the first post.&lt;/p&gt;
 </content>
@@ -341,10 +341,10 @@ Some resources.  the arch wiki page here. a youtube tutorial here.  Dependencies
     
     <item>
       <title>Posts</title>
-      <link>https://a2n-s.github.io/graphic-site.io/posts/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/posts/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/posts/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/posts/</guid>
       <description>This is the posts.
 Go back to the front page.</description>
       <content>&lt;p&gt;This is the posts.&lt;/p&gt;
@@ -354,10 +354,10 @@ Go back to the front page.</description>
     
     <item>
       <title>prompt.sh</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/prompt/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/prompt/readme/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/prompt/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/prompt/readme/</guid>
       <description>File is here</description>
       <content>&lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/prompt&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -365,10 +365,10 @@ Go back to the front page.</description>
     
     <item>
       <title>screenshot.sh</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/screenshot.sh/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/screenshot.sh/readme/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/screenshot.sh/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/screenshot.sh/readme/</guid>
       <description>script can be found here.
 Dependencies for screenshot.sh.  the scrot command: can be installed with sudo pacman -S scrot on Arch.  </description>
       <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/screenshot.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -381,10 +381,10 @@ Dependencies for screenshot.sh.  the scrot command: can be installed with sudo p
     
     <item>
       <title>spectrWM</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/programs/spectrwm/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/spectrwm/readme/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/programs/spectrwm/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/spectrwm/readme/</guid>
       <description>&amp;ldquo;spectrwm is a small, dynamic tiling and reparenting window manager for X11.&amp;rdquo;
 Some resources.  the github page here. the arch wiki page here. the arch manual page here.  Dependencies for spectrWM.  the mononoki nerd font. a spectrWM-baraction.sh file. a browser: firefox a menu: dmenu a terminal: alacritty an email application: thunderbird a rendering service: arandr an image editor: gimp. I also use kolourpaint brightnessctl to control the brightness of the main screen.</description>
       <content>&lt;p&gt;&amp;ldquo;spectrwm is a small, dynamic tiling and reparenting window manager for X11.&amp;rdquo;&lt;/p&gt;
@@ -422,10 +422,10 @@ Some resources.  the github page here. the arch wiki page here. the arch manual 
     
     <item>
       <title>spectrWM-baraction.sh</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/spectrwm-baraction.sh/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/spectrwm-baraction.sh/readme/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/spectrwm-baraction.sh/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/spectrwm-baraction.sh/readme/</guid>
       <description>script can be found here.
 Dependencies for spectrWM-baraction.sh  basic commands: echo, grep, awk, sed, pacman, cut, cat, date, sleep disk commands: df, free, mpstat networking commands: ip, nmcli, ifstat setxkbmap to look at the keyboard layout, play to play sounds.  </description>
       <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/spectrWM-baraction.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -441,10 +441,10 @@ Dependencies for spectrWM-baraction.sh  basic commands: echo, grep, awk, sed, pa
     
     <item>
       <title>tmux</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/programs/tmux/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/tmux/readme/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/programs/tmux/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/tmux/readme/</guid>
       <description>&amp;ldquo;tmux is an open-source terminal multiplexer for Unix-like operating systems.&amp;rdquo;
 Some resources.  the github page here. the arch wiki page here.  Install tmux manually.  install the tmux command. copy .tmux.conf inside your ~/ directory.  Gallery. Available soon.</description>
       <content>&lt;!-- raw HTML omitted --&gt;
@@ -466,10 +466,10 @@ Some resources.  the github page here. the arch wiki page here.  Install tmux ma
     
     <item>
       <title>togkb.sh</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/togkb.sh/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/togkb.sh/readme/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/togkb.sh/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/togkb.sh/readme/</guid>
       <description>script can be found here.
 Dependencies for togkb.sh  basic commands: echo, grep, sed setxkbmap to change the keyboard layout.  </description>
       <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/togkb.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -483,10 +483,10 @@ Dependencies for togkb.sh  basic commands: echo, grep, sed setxkbmap to change t
     
     <item>
       <title>tree2md.sh</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/tree2md/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/tree2md/readme/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/tree2md/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/tree2md/readme/</guid>
       <description>File is here</description>
       <content>&lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/tree2md&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -494,10 +494,10 @@ Dependencies for togkb.sh  basic commands: echo, grep, sed setxkbmap to change t
     
     <item>
       <title>upl.sh</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/upl/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/upl/readme/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/upl/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/upl/readme/</guid>
       <description>script can be found here.</description>
       <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/upl&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
@@ -505,10 +505,10 @@ Dependencies for togkb.sh  basic commands: echo, grep, sed setxkbmap to change t
     
     <item>
       <title>vifm</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/programs/vifm/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/vifm/readme/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/programs/vifm/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/vifm/readme/</guid>
       <description>&amp;ldquo;Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. &amp;quot;
 Some resources.  the home page of vifm here. the github page here. the arch wiki page here.  Install vifm.  install the vifm command. copy vifmrc and the colors inside your ~/.config/vifm directory.  Gallery. Available soon.</description>
       <content>&lt;!-- raw HTML omitted --&gt;
@@ -531,10 +531,10 @@ Some resources.  the home page of vifm here. the github page here. the arch wiki
     
     <item>
       <title>vim</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/programs/vim/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/vim/readme/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/programs/vim/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/vim/readme/</guid>
       <description>&amp;ldquo;Vim (/vɪm/; a contraction of Vi IMproved) is a free and open-source, screen-based text editor program for Unix.&amp;rdquo;
 Some resources.  the wikipedia page here. the arch wiki page here. for the hardcore vimmers among you, check here. an introduction to configuring vim here. adding python IDE features to vim here.  Dependencies for vim.  make sure to either run vim once with the .vimrc file installed or issue mkdir -p ~/.</description>
       <content>&lt;!-- raw HTML omitted --&gt;
@@ -566,10 +566,10 @@ Some resources.  the wikipedia page here. the arch wiki page here. for the hardc
     
     <item>
       <title>Wallpapers</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/wallpapers/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/wallpapers/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/wallpapers/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/wallpapers/</guid>
       <description>This is the wallpapers section.
 Config here.</description>
       <content>&lt;p&gt;This is the wallpapers section.&lt;/p&gt;
@@ -579,10 +579,10 @@ Config here.</description>
     
     <item>
       <title>wvenv.</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/wvenv/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/wvenv/readme/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/wvenv/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/wvenv/readme/</guid>
       <description>script can be found here.
 Dependencies for wvenv. wvenv will not crash without these, but the output might be unpredictable.
  which to know where the command is located. python, python3 the python interpreters. pip, pip3 the python package managers. jupyter, jupyter-notebook to edit and see jupyter notebooks.  Notes:
@@ -609,10 +609,10 @@ and NEVER intall &lt;code&gt;python&lt;/code&gt; package on you system directly!
     
     <item>
       <title>x</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/programs/x/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/x/readme/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/programs/x/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/x/readme/</guid>
       <description>&amp;ldquo;The X.Org Server runs on many free-software Unix-like operating systems, including being adopted for use by most Linux distributions and BSD variants.&amp;rdquo;
 Some resources.  the wikipedia page here. the arch wiki page here.  Dependencies for x.  picom: a compositor for X11 nitrogen to load and restore wallpapers. xscreensaver to save and lock the screen. spectrWM: the window manager.  Install x manually.  install the dependencies. install the x package.</description>
       <content>&lt;!-- raw HTML omitted --&gt;
@@ -642,10 +642,10 @@ Some resources.  the wikipedia page here. the arch wiki page here.  Dependencies
     
     <item>
       <title>xscreensaver</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/programs/xscreensaver/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/xscreensaver/readme/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/programs/xscreensaver/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/xscreensaver/readme/</guid>
       <description>&amp;ldquo;XScreenSaver is a screen saver and locker for the X Window System. &amp;quot;
 Some resources.  the github page here. the arch wiki page here.  Install alacritty manually.  install the xscreensaver command. copy .xscreensaver inside your ~/ directory.  Gallery. Available soon.</description>
       <content>&lt;p&gt;&amp;ldquo;XScreenSaver is a screen saver and locker for the X Window System. &amp;quot;&lt;/p&gt;
@@ -666,10 +666,10 @@ Some resources.  the github page here. the arch wiki page here.  Install alacrit
     
     <item>
       <title>xtcl</title>
-      <link>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/xtcl/readme/</link>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/xtcl/readme/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic-site.io/config/doc/scripts/xtcl/readme/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/xtcl/readme/</guid>
       <description>script can be found here.
 Dependencies for xtcl  base commands such as echo. xdotool to force the key value to unactive and xmodmap to disable the key.  </description>
       <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/xtcl&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dotfiles on Terminal</title>
-    <link>https://a2n-s.github.io/graphic-site.io/config/dotfiles/</link>
+    <link>https://a2n-s.github.io/graphic.github.io/config/dotfiles/</link>
     <description>Recent content in Dotfiles on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Sep 2021 22:08:05 +0200</lastBuildDate><atom:link href="https://a2n-s.github.io/graphic-site.io/config/dotfiles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 22:08:05 +0200</lastBuildDate><atom:link href="https://a2n-s.github.io/graphic.github.io/config/dotfiles/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
