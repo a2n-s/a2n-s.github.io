@@ -6,7 +6,7 @@ keywords: ["keyword1", "keyword2"]
 description: "Description"
 ---
 
-<img src="https://github.com/a2n-s/dotfiles/blob/main/.doc/images/neofetch-logo.png" width="200">
+![https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png](https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png)
 
 neofetch is "a command-line system information tool written in bash 3.2+"
 

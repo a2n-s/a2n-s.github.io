@@ -6,7 +6,7 @@ keywords: ["keyword1", "keyword2"]
 description: "Description"
 ---
 
-![](./images/logo.png)
+![https://a2n-s.github.io/graphic.github.io/config/doc/images/git-logo.png](https://a2n-s.github.io/graphic.github.io/config/doc/images/git-logo.png)
 
 "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
 

@@ -6,7 +6,7 @@ keywords: ["keyword1", "keyword2"]
 description: "Description"
 ---
 
-<img src="https://github.com/a2n-s/dotfiles/blob/main/.doc/images/vim-logo.png" width="100">
+![https://a2n-s.github.io/graphic.github.io/config/doc/images/vim-logo.png](https://a2n-s.github.io/graphic.github.io/config/doc/images/vim-logo.png)
 
 "Vim (/vɪm/; a contraction of Vi IMproved) is a free and open-source, screen-based text editor program for Unix."
 

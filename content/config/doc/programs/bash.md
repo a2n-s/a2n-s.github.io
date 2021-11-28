@@ -6,7 +6,7 @@ keywords: ["keyword1", "keyword2"]
 description: "Description"
 ---
 
-<img src="logo.png" width="100">
+![https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png](https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png)
 
 "Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell."
 

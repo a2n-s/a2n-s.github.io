@@ -6,7 +6,7 @@ keywords: ["keyword1", "keyword2"]
 description: "Description"
 ---
 
-<img src="logo.png" width="100">
+![https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png](https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png)
 
 "The X.Org Server runs on many free-software Unix-like operating systems, including being adopted for use by most Linux distributions and BSD variants."
 

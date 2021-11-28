@@ -46,7 +46,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "a2n-s' Personal Website & Blog"
     subtitle = "A simple, retro theme for Hugo"
     owner = ""
     keywords = ""

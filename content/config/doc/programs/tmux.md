@@ -6,7 +6,7 @@ keywords: ["keyword1", "keyword2"]
 description: "Description"
 ---
 
-<img src="logo.png" width="100">
+![https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png](https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png)
 
 "tmux is an open-source terminal multiplexer for Unix-like operating systems."
 

@@ -6,7 +6,7 @@ keywords: ["keyword1", "keyword2"]
 description: "Description"
 ---
 
-<img src="https://github.com/a2n-s/dotfiles/blob/main/.doc/images/alacritty-logo.png" width="100">
+![https://a2n-s.github.io/graphic.github.io/config/doc/images/alacritty-logo.png](https://a2n-s.github.io/graphic.github.io/config/doc/images/alacritty-logo.png)
 
 Alacritty is a minimal terminal emulator.
 

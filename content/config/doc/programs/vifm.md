@@ -6,7 +6,7 @@ keywords: ["keyword1", "keyword2"]
 description: "Description"
 ---
 
-<img src="https://github.com/a2n-s/dotfiles/blob/main/.doc/images/vifm-logo.png" width="100">
+![https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png](https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png)
 
 "Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. "
 
