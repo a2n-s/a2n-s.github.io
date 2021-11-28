@@ -14,22 +14,21 @@
       
       <guid>https://a2n-s.github.io/graphic.github.io/about/</guid>
       <description>This is the about section
+information about me here or below.
+my education here or below.
+my experiences here or below.
+my hard and soft skills here or below.
+my hobbies here or below.
+my full resume here or below.
 Go back to the front page.</description>
       <content>&lt;p&gt;This is the about section&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://a2n-s.github.io/graphic.github.io/about/about/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/about/about/</guid>
-      <description>This is about me.
-Go back to the front page.</description>
-      <content>&lt;p&gt;This is about me.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;information about me &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/graphic.github.io/about/me&#34;&gt;here&lt;/a&gt; or below.&lt;br&gt;
+my education &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/graphic.github.io/about/education&#34;&gt;here&lt;/a&gt; or below.&lt;br&gt;
+my experiences &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/graphic.github.io/about/experiences&#34;&gt;here&lt;/a&gt; or below.&lt;br&gt;
+my hard and soft skills &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/graphic.github.io/about/skills&#34;&gt;here&lt;/a&gt; or below.&lt;br&gt;
+my hobbies &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/graphic.github.io/about/hobbies&#34;&gt;here&lt;/a&gt; or below.&lt;br&gt;
+my full resume &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/graphic.github.io/about/resume&#34;&gt;here&lt;/a&gt; or below.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/graphic.github.io/&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
@@ -41,7 +40,13 @@ Go back to the front page.</description>
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/alacritty/</guid>
       <description>Alacritty is a minimal terminal emulator.
 Some resources.  the github page here. the arch wiki page here.  Dependencies for alacritty.  xterm-256color mode to display many colors.u the mononoki nerd font: can be installed with yay -S nerd-fonts-mononoki  Install alacritty manually.  install the dependencies. install the alacritty command. copy alacritty.yml inside your ~/.config/alacritty directory.  Gallery. Available soon.</description>
-      <content>&lt;p&gt;&lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/alacritty-logo.png&#34; alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/alacritty-logo.png&#34;&gt;&lt;/p&gt;
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/alacritty-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/alacritty-logo.png&#34;   width=&#34;150&#34; height=&#34;&#34; /&gt;
+    
+  &lt;/figure&gt;
+
+
 &lt;p&gt;Alacritty is a minimal terminal emulator.&lt;/p&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
 &lt;ul&gt;
@@ -71,8 +76,14 @@ Some resources.  the github page here. the arch wiki page here.  Dependencies fo
       
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/bash/</guid>
       <description>&amp;ldquo;Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.&amp;rdquo;
-Some resources.  the wikipedia page here. an extensive tutorial to use bash here.  Dependencies for the bash shell.  the scripts in the scripts directory. neofetch, git and cal.  Install the bash shell environment manually.  install the dependencies. copy .bash_aliases, .bash_logout, .</description>
-      <content>&lt;p&gt;&lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png&#34; alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png&#34;&gt;&lt;/p&gt;
+Some resources.  the wikipedia page here. an extensive tutorial to use bash here.  Dependencies for the bash shell.  the scripts in the scripts directory. neofetch, git and cal.  Install the bash shell environment manually.  install the dependencies. copy .</description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png&#34;   width=&#34;&#34; height=&#34;150&#34; /&gt;
+    
+  &lt;/figure&gt;
+
+
 &lt;p&gt;&amp;ldquo;Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.&amp;rdquo;&lt;/p&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
 &lt;ul&gt;
@@ -114,32 +125,6 @@ dmenu &lt;a href=&#34;dmenu&#34;&gt;here&lt;/a&gt;.&lt;br&gt;
 dmscripts &lt;a href=&#34;dmscripts&#34;&gt;here&lt;/a&gt;.&lt;br&gt;
 Wallpapers &lt;a href=&#34;wallpapers&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Go back to the &lt;a href=&#34;../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Config</title>
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/</guid>
-      <description>This is the config section.
-Doc here.</description>
-      <content>&lt;p&gt;This is the config section.&lt;/p&gt;
-&lt;p&gt;Doc &lt;a href=&#34;../../doc&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Config</title>
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/</guid>
-      <description>This is the config section.
-Doc here.</description>
-      <content>&lt;p&gt;This is the config section.&lt;/p&gt;
-&lt;p&gt;Doc &lt;a href=&#34;../../doc&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
@@ -198,6 +183,32 @@ Config here.</description>
     </item>
     
     <item>
+      <title>education</title>
+      <link>https://a2n-s.github.io/graphic.github.io/about/education/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic.github.io/about/education/</guid>
+      <description>This is my education.
+Go back to the front page.</description>
+      <content>&lt;p&gt;This is my education.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>experiences</title>
+      <link>https://a2n-s.github.io/graphic.github.io/about/experiences/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic.github.io/about/experiences/</guid>
+      <description>This is my experiences.
+Go back to the front page.</description>
+      <content>&lt;p&gt;This is my experiences.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>Front page</title>
       <link>https://a2n-s.github.io/graphic.github.io/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
@@ -226,7 +237,13 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv&lt;/p&gt;
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/git/</guid>
       <description>&amp;ldquo;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&amp;rdquo;
 Some resources.  the official page here. the arch wiki page here. an interactive and visual tutorial to learn git here.  Install git manually.  install the git command. copy .gitconfig inside your ~/ directory.  Gallery. Available soon.</description>
-      <content>&lt;p&gt;&lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/git-logo.png&#34; alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/git-logo.png&#34;&gt;&lt;/p&gt;
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/git-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/git-logo.png&#34;   width=&#34;&#34; height=&#34;150&#34; /&gt;
+    
+  &lt;/figure&gt;
+
+
 &lt;p&gt;&amp;ldquo;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&amp;rdquo;&lt;/p&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
 &lt;ul&gt;
@@ -241,6 +258,19 @@ Some resources.  the official page here. the arch wiki page here. an interactive
 &lt;/ul&gt;
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
 &lt;p&gt;Available soon.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>hobbies</title>
+      <link>https://a2n-s.github.io/graphic.github.io/about/hobbies/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic.github.io/about/hobbies/</guid>
+      <description>This is my hobbies.
+Go back to the front page.</description>
+      <content>&lt;p&gt;This is my hobbies.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
@@ -269,6 +299,19 @@ Some resources.  the wikipedia page here. the arch manual page here.  Install ht
     </item>
     
     <item>
+      <title>Me</title>
+      <link>https://a2n-s.github.io/graphic.github.io/about/me/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic.github.io/about/me/</guid>
+      <description>This is about me.
+Go back to the front page.</description>
+      <content>&lt;p&gt;This is about me.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>neofetch</title>
       <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/neofetch/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
@@ -276,7 +319,13 @@ Some resources.  the wikipedia page here. the arch manual page here.  Install ht
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/neofetch/</guid>
       <description>neofetch is &amp;ldquo;a command-line system information tool written in bash 3.2+&amp;rdquo;
 Some resources.  the github page here. the arch manual page here.  Dependencies for neofetch.  some art works in ~/.config/neofetch/ascii.  Install neofetch manually.  install the dependencies. install the neofetch command. copy config.conf, .neofetchrc and the files in ascii inside your ~/.config/neofetch directory.  Gallery. Available soon.</description>
-      <content>&lt;p&gt;&lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png&#34; alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png&#34;&gt;&lt;/p&gt;
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png&#34;   width=&#34;450&#34; height=&#34;&#34; /&gt;
+    
+  &lt;/figure&gt;
+
+
 &lt;p&gt;neofetch is &amp;ldquo;a command-line system information tool written in bash 3.2+&amp;rdquo;&lt;/p&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
 &lt;ul&gt;
@@ -329,17 +378,6 @@ Some resources.  the arch wiki page here. a youtube tutorial here.  Dependencies
     </item>
     
     <item>
-      <title>Post 1</title>
-      <link>https://a2n-s.github.io/graphic.github.io/posts/post1/post/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/posts/post1/post/</guid>
-      <description>This is the first post.</description>
-      <content>&lt;p&gt;This is the first post.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
       <title>Posts</title>
       <link>https://a2n-s.github.io/graphic.github.io/posts/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
@@ -353,6 +391,19 @@ Go back to the front page.</description>
     </item>
     
     <item>
+      <title>Programs</title>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/</guid>
+      <description>This is the programs section.
+Doc here.</description>
+      <content>&lt;p&gt;This is the programs section.&lt;/p&gt;
+&lt;p&gt;Doc &lt;a href=&#34;../../doc&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>prompt.sh</title>
       <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/prompt/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
@@ -360,6 +411,19 @@ Go back to the front page.</description>
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/prompt/</guid>
       <description>File is here</description>
       <content>&lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/prompt&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>resume</title>
+      <link>https://a2n-s.github.io/graphic.github.io/about/resume/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic.github.io/about/resume/</guid>
+      <description>This is my resume.
+Go back to the front page.</description>
+      <content>&lt;p&gt;This is my resume.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
@@ -376,6 +440,32 @@ Dependencies for screenshot.sh.  the scrot command: can be installed with sudo p
 &lt;ul&gt;
 &lt;li&gt;the &lt;code&gt;scrot&lt;/code&gt; command: can be installed with &lt;code&gt;sudo pacman -S scrot&lt;/code&gt; on Arch.&lt;/li&gt;
 &lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Scripts</title>
+      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/</guid>
+      <description>This is the scripts section.
+Doc here.</description>
+      <content>&lt;p&gt;This is the scripts section.&lt;/p&gt;
+&lt;p&gt;Doc &lt;a href=&#34;../../doc&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>skills</title>
+      <link>https://a2n-s.github.io/graphic.github.io/about/skills/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic.github.io/about/skills/</guid>
+      <description>This is my skills.
+Go back to the front page.</description>
+      <content>&lt;p&gt;This is my skills.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
@@ -447,7 +537,13 @@ Dependencies for spectrWM-baraction.sh  basic commands: echo, grep, awk, sed, pa
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/tmux/</guid>
       <description>&amp;ldquo;tmux is an open-source terminal multiplexer for Unix-like operating systems.&amp;rdquo;
 Some resources.  the github page here. the arch wiki page here.  Install tmux manually.  install the tmux command. copy .tmux.conf inside your ~/ directory.  Gallery. Available soon.</description>
-      <content>&lt;p&gt;&lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png&#34; alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png&#34;&gt;&lt;/p&gt;
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png&#34;   width=&#34;&#34; height=&#34;100&#34; /&gt;
+    
+  &lt;/figure&gt;
+
+
 &lt;p&gt;&amp;ldquo;tmux is an open-source terminal multiplexer for Unix-like operating systems.&amp;rdquo;&lt;/p&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
 &lt;ul&gt;
@@ -511,7 +607,13 @@ Dependencies for togkb.sh  basic commands: echo, grep, sed setxkbmap to change t
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/vifm/</guid>
       <description>&amp;ldquo;Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. &amp;quot;
 Some resources.  the home page of vifm here. the github page here. the arch wiki page here.  Install vifm.  install the vifm command. copy vifmrc and the colors inside your ~/.config/vifm directory.  Gallery. Available soon.</description>
-      <content>&lt;p&gt;&lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png&#34; alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png&#34;&gt;&lt;/p&gt;
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png&#34;   width=&#34;&#34; height=&#34;150&#34; /&gt;
+    
+  &lt;/figure&gt;
+
+
 &lt;p&gt;&amp;ldquo;Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. &amp;quot;&lt;/p&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
 &lt;ul&gt;
@@ -537,7 +639,13 @@ Some resources.  the home page of vifm here. the github page here. the arch wiki
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/vim/</guid>
       <description>&amp;ldquo;Vim (/vɪm/; a contraction of Vi IMproved) is a free and open-source, screen-based text editor program for Unix.&amp;rdquo;
 Some resources.  the wikipedia page here. the arch wiki page here. for the hardcore vimmers among you, check here. an introduction to configuring vim here. adding python IDE features to vim here.  Dependencies for vim.  make sure to either run vim once with the .vimrc file installed or issue mkdir -p ~/.</description>
-      <content>&lt;p&gt;&lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vim-logo.png&#34; alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vim-logo.png&#34;&gt;&lt;/p&gt;
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vim-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vim-logo.png&#34;   width=&#34;&#34; height=&#34;150&#34; /&gt;
+    
+  &lt;/figure&gt;
+
+
 &lt;p&gt;&amp;ldquo;Vim (/vɪm/; a contraction of Vi IMproved) is a free and open-source, screen-based text editor program for Unix.&amp;rdquo;&lt;/p&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
 &lt;ul&gt;
@@ -614,8 +722,14 @@ and NEVER intall &lt;code&gt;python&lt;/code&gt; package on you system directly!
       
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/x/</guid>
       <description>&amp;ldquo;The X.Org Server runs on many free-software Unix-like operating systems, including being adopted for use by most Linux distributions and BSD variants.&amp;rdquo;
-Some resources.  the wikipedia page here. the arch wiki page here.  Dependencies for x.  picom: a compositor for X11 nitrogen to load and restore wallpapers. xscreensaver to save and lock the screen. spectrWM: the window manager.  Install x manually.  install the dependencies. install the x package.</description>
-      <content>&lt;p&gt;&lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png&#34; alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png&#34;&gt;&lt;/p&gt;
+Some resources.  the wikipedia page here. the arch wiki page here.  Dependencies for x.  picom: a compositor for X11 nitrogen to load and restore wallpapers. xscreensaver to save and lock the screen. spectrWM: the window manager.  Install x manually.  install the dependencies.</description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png&#34;   width=&#34;&#34; height=&#34;150&#34; /&gt;
+    
+  &lt;/figure&gt;
+
+
 &lt;p&gt;&amp;ldquo;The X.Org Server runs on many free-software Unix-like operating systems, including being adopted for use by most Linux distributions and BSD variants.&amp;rdquo;&lt;/p&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
 &lt;ul&gt;

@@ -8,15 +8,80 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Sep 2021 22:08:05 +0200</lastBuildDate><atom:link href="https://a2n-s.github.io/graphic.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://a2n-s.github.io/graphic.github.io/about/about/</link>
+      <title>education</title>
+      <link>https://a2n-s.github.io/graphic.github.io/about/education/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/graphic.github.io/about/about/</guid>
+      <guid>https://a2n-s.github.io/graphic.github.io/about/education/</guid>
+      <description>This is my education.
+Go back to the front page.</description>
+      <content>&lt;p&gt;This is my education.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>experiences</title>
+      <link>https://a2n-s.github.io/graphic.github.io/about/experiences/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic.github.io/about/experiences/</guid>
+      <description>This is my experiences.
+Go back to the front page.</description>
+      <content>&lt;p&gt;This is my experiences.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>hobbies</title>
+      <link>https://a2n-s.github.io/graphic.github.io/about/hobbies/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic.github.io/about/hobbies/</guid>
+      <description>This is my hobbies.
+Go back to the front page.</description>
+      <content>&lt;p&gt;This is my hobbies.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Me</title>
+      <link>https://a2n-s.github.io/graphic.github.io/about/me/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic.github.io/about/me/</guid>
       <description>This is about me.
 Go back to the front page.</description>
       <content>&lt;p&gt;This is about me.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>resume</title>
+      <link>https://a2n-s.github.io/graphic.github.io/about/resume/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic.github.io/about/resume/</guid>
+      <description>This is my resume.
+Go back to the front page.</description>
+      <content>&lt;p&gt;This is my resume.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>skills</title>
+      <link>https://a2n-s.github.io/graphic.github.io/about/skills/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/graphic.github.io/about/skills/</guid>
+      <description>This is my skills.
+Go back to the front page.</description>
+      <content>&lt;p&gt;This is my skills.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
