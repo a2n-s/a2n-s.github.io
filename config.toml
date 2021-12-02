@@ -1,4 +1,5 @@
 baseURL = "https://a2n-s.github.io/graphic.github.io"
+# baseURL = "/"
 languageCode = "en-us"
 theme = "hugo-theme-terminal"
 paginate = 5
@@ -68,6 +69,7 @@ paginate = 5
       identifier = "front"
       name = "Front page"
       url = "/"
+      weight=-1
     [[languages.en.menu.main]]
       identifier = "about"
       name = "About"
