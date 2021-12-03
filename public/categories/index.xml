@@ -2,22 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on a2n-s&#39; Personal Website &amp; Blog</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    <link>https://a2n-s.github.io/graphic.github.io/categories/</link>
-    <description>Recent content in Categories on a2n-s&#39; Personal Website &amp; Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://a2n-s.github.io/graphic.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-=======
-=======
->>>>>>> Stashed changes
     <link>https://a2n-s.github.io/categories/</link>
     <description>Recent content in Categories on a2n-s&#39; Personal Website &amp; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://a2n-s.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   </channel>
 </rss>

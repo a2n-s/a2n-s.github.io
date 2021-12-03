@@ -2,22 +2,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tag1 on a2n-s&#39; Personal Website &amp; Blog</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    <link>https://a2n-s.github.io/graphic.github.io/tags/tag1/</link>
-    <description>Recent content in tag1 on a2n-s&#39; Personal Website &amp; Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 12 Sep 2021 22:08:05 +0200</lastBuildDate><atom:link href="https://a2n-s.github.io/graphic.github.io/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://a2n-s.github.io/graphic.github.io/about/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/about/</guid>
-=======
-=======
->>>>>>> Stashed changes
     <link>https://a2n-s.github.io/tags/tag1/</link>
     <description>Recent content in tag1 on a2n-s&#39; Personal Website &amp; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -29,10 +13,6 @@
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/about/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>This is the about section
 information about me here or below.
 my education here or below.
@@ -42,18 +22,6 @@ my hobbies here or below.
 my full resume here or below.
 Go back to the front page.</description>
       <content>&lt;p&gt;This is the about section&lt;/p&gt;
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-&lt;p&gt;information about me &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/graphic.github.io/about/me&#34;&gt;here&lt;/a&gt; or below.&lt;br&gt;
-my education &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/graphic.github.io/about/education&#34;&gt;here&lt;/a&gt; or below.&lt;br&gt;
-my experiences &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/graphic.github.io/about/experiences&#34;&gt;here&lt;/a&gt; or below.&lt;br&gt;
-my hard and soft skills &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/graphic.github.io/about/skills&#34;&gt;here&lt;/a&gt; or below.&lt;br&gt;
-my hobbies &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/graphic.github.io/about/hobbies&#34;&gt;here&lt;/a&gt; or below.&lt;br&gt;
-my full resume &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/graphic.github.io/about/resume&#34;&gt;here&lt;/a&gt; or below.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/graphic.github.io/&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-=======
-=======
->>>>>>> Stashed changes
 &lt;p&gt;information about me &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/about/me&#34;&gt;here&lt;/a&gt; or below.&lt;br&gt;
 my education &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/about/education&#34;&gt;here&lt;/a&gt; or below.&lt;br&gt;
 my experiences &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/about/experiences&#34;&gt;here&lt;/a&gt; or below.&lt;br&gt;
@@ -61,45 +29,20 @@ my hard and soft skills &lt;a href=&#34;https://a2n-s.github.io/graphic.github.i
 my hobbies &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/about/hobbies&#34;&gt;here&lt;/a&gt; or below.&lt;br&gt;
 my full resume &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/about/resume&#34;&gt;here&lt;/a&gt; or below.&lt;/p&gt;
 &lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/graphic.github.io/&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 </content>
     </item>
     
     <item>
       <title>Alacritty terminal emulator.</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/alacritty/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/alacritty/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/programs/alacritty/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/programs/alacritty/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>Alacritty is a minimal terminal emulator.
 Some resources.  the github page here. the arch wiki page here.  Dependencies for alacritty.  xterm-256color mode to display many colors.u the mononoki nerd font: can be installed with yay -S nerd-fonts-mononoki  Install alacritty manually.  install the dependencies. install the alacritty command. copy alacritty.yml inside your ~/.config/alacritty directory.  Gallery. Available soon.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/alacritty-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/alacritty-logo.png&#34;   width=&#34;150&#34; height=&#34;&#34; /&gt;
-=======
     &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/alacritty-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/alacritty-logo.png&#34;   /&gt;
->>>>>>> Stashed changes
-=======
-    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/alacritty-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/alacritty-logo.png&#34;   /&gt;
->>>>>>> Stashed changes
     
   &lt;/figure&gt;
 
@@ -128,36 +71,15 @@ Some resources.  the github page here. the arch wiki page here.  Dependencies fo
     
     <item>
       <title>bash shell environment.</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/bash/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/bash/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/programs/bash/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/programs/bash/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>&amp;ldquo;Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.&amp;rdquo;
 Some resources.  the wikipedia page here. an extensive tutorial to use bash here.  Dependencies for the bash shell.  the scripts in the scripts directory. neofetch, git and cal.  Install the bash shell environment manually.  install the dependencies. copy .</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png&#34;   width=&#34;&#34; height=&#34;150&#34; /&gt;
-=======
     &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png&#34;   /&gt;
->>>>>>> Stashed changes
-=======
-    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png&#34;   /&gt;
->>>>>>> Stashed changes
     
   &lt;/figure&gt;
 
@@ -185,23 +107,10 @@ Some resources.  the wikipedia page here. an extensive tutorial to use bash here
     
     <item>
       <title>Config</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>This is the config section.
 Doc here.
 doftiles here.
@@ -221,23 +130,10 @@ Wallpapers &lt;a href=&#34;wallpapers&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
     
     <item>
       <title>dmenu</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/dmenu/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/dmenu/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/dmenu/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/dmenu/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>This is the dmenu section.
 Config here.</description>
       <content>&lt;p&gt;This is the dmenu section.&lt;/p&gt;
@@ -247,23 +143,10 @@ Config here.</description>
     
     <item>
       <title>dmscripts</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/dmscripts/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/dmscripts/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/dmscripts/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/dmscripts/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>This is the dmscripts section.
 Config here.</description>
       <content>&lt;p&gt;This is the dmscripts section.&lt;/p&gt;
@@ -273,23 +156,10 @@ Config here.</description>
     
     <item>
       <title>Doc</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>This is the doc.
 Programs here.
 Scripts here.</description>
@@ -301,23 +171,10 @@ Scripts &lt;a href=&#34;scripts&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
     
     <item>
       <title>Dotfiles</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/dotfiles/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/dotfiles/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/dotfiles/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/dotfiles/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>This is the dotfiles section.
 Config here.</description>
       <content>&lt;p&gt;This is the dotfiles section.&lt;/p&gt;
@@ -327,23 +184,10 @@ Config here.</description>
     
     <item>
       <title>education</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/about/education/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/about/education/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/about/education/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/about/education/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>This is my education.
 Go back to the front page.</description>
       <content>&lt;p&gt;This is my education.&lt;/p&gt;
@@ -353,23 +197,10 @@ Go back to the front page.</description>
     
     <item>
       <title>experiences</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/about/experiences/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/about/experiences/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/about/experiences/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/about/experiences/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>This is my experiences.
 Go back to the front page.</description>
       <content>&lt;p&gt;This is my experiences.&lt;/p&gt;
@@ -379,23 +210,10 @@ Go back to the front page.</description>
     
     <item>
       <title>Front page</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>This is the front page.
 About me here.
 My config here.
@@ -413,36 +231,15 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv&lt;/p&gt;
     
     <item>
       <title>git</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/git/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/git/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/programs/git/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/programs/git/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>&amp;ldquo;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&amp;rdquo;
 Some resources.  the official page here. the arch wiki page here. an interactive and visual tutorial to learn git here.  Install git manually.  install the git command. copy .gitconfig inside your ~/ directory.  Gallery. Available soon.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/git-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/git-logo.png&#34;   width=&#34;&#34; height=&#34;150&#34; /&gt;
-=======
     &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/git-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/git-logo.png&#34;   /&gt;
->>>>>>> Stashed changes
-=======
-    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/git-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/git-logo.png&#34;   /&gt;
->>>>>>> Stashed changes
     
   &lt;/figure&gt;
 
@@ -466,23 +263,10 @@ Some resources.  the official page here. the arch wiki page here. an interactive
     
     <item>
       <title>hobbies</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/about/hobbies/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/about/hobbies/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/about/hobbies/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/about/hobbies/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>This is my hobbies.
 Go back to the front page.</description>
       <content>&lt;p&gt;This is my hobbies.&lt;/p&gt;
@@ -492,23 +276,10 @@ Go back to the front page.</description>
     
     <item>
       <title>htop system monitoring tool.</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/htop/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/htop/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/programs/htop/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/programs/htop/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>&amp;ldquo;htop is an interactive system-monitor process-viewer and process-manager.&amp;rdquo;
 Some resources.  the wikipedia page here. the arch manual page here.  Install htop manually.  install the htop command. copy htoprc inside your ~/.config/htop directory.  Gallery. Available soon.</description>
       <content>&lt;p&gt;&amp;ldquo;htop is an interactive system-monitor process-viewer and process-manager.&amp;rdquo;&lt;/p&gt;
@@ -529,23 +300,10 @@ Some resources.  the wikipedia page here. the arch manual page here.  Install ht
     
     <item>
       <title>Me</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/about/me/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/about/me/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/about/me/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/about/me/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>This is about me.
 Go back to the front page.</description>
       <content>&lt;p&gt;This is about me.&lt;/p&gt;
@@ -555,36 +313,15 @@ Go back to the front page.</description>
     
     <item>
       <title>neofetch</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/neofetch/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/neofetch/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/programs/neofetch/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/programs/neofetch/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>neofetch is &amp;ldquo;a command-line system information tool written in bash 3.2+&amp;rdquo;
 Some resources.  the github page here. the arch manual page here.  Dependencies for neofetch.  some art works in ~/.config/neofetch/ascii.  Install neofetch manually.  install the dependencies. install the neofetch command. copy config.conf, .neofetchrc and the files in ascii inside your ~/.config/neofetch directory.  Gallery. Available soon.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png&#34;   width=&#34;450&#34; height=&#34;&#34; /&gt;
-=======
     &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png&#34;   /&gt;
->>>>>>> Stashed changes
-=======
-    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png&#34;   /&gt;
->>>>>>> Stashed changes
     
   &lt;/figure&gt;
 
@@ -612,23 +349,10 @@ Some resources.  the github page here. the arch manual page here.  Dependencies 
     
     <item>
       <title>nitrogen</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/nitrogen/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/nitrogen/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/programs/nitrogen/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/programs/nitrogen/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>a wallpaper manager.
 Some resources.  the arch wiki page here. a youtube tutorial here.  Dependencies for nitrogen.  some wallpapers to load and restore. mine currently is a vibrant scene.  Install nitrogen manually.  install the dependencies. install the nitrogen command. copy nitrogen.cfg inside your ~/.config/nitrogen directory.  Gallery. Available soon.</description>
       <content>&lt;p&gt;a wallpaper manager.&lt;/p&gt;
@@ -655,23 +379,10 @@ Some resources.  the arch wiki page here. a youtube tutorial here.  Dependencies
     
     <item>
       <title>Posts</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/posts/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/posts/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/posts/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/posts/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>This is the posts.
 Go back to the front page.</description>
       <content>&lt;p&gt;This is the posts.&lt;/p&gt;
@@ -681,23 +392,10 @@ Go back to the front page.</description>
     
     <item>
       <title>Programs</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/programs/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/programs/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>This is the programs section.
 Doc here.</description>
       <content>&lt;p&gt;This is the programs section.&lt;/p&gt;
@@ -707,23 +405,10 @@ Doc here.</description>
     
     <item>
       <title>prompt.sh</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/prompt/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/prompt/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/scripts/prompt/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/scripts/prompt/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>File is here</description>
       <content>&lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/prompt&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -731,23 +416,10 @@ Doc here.</description>
     
     <item>
       <title>resume</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/about/resume/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/about/resume/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/about/resume/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/about/resume/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>This is my resume.
 Go back to the front page.</description>
       <content>&lt;p&gt;This is my resume.&lt;/p&gt;
@@ -757,23 +429,10 @@ Go back to the front page.</description>
     
     <item>
       <title>screenshot.sh</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/screenshot.sh/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/screenshot.sh/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/scripts/screenshot.sh/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/scripts/screenshot.sh/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>script can be found here.
 Dependencies for screenshot.sh.  the scrot command: can be installed with sudo pacman -S scrot on Arch.  </description>
       <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/screenshot.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -786,23 +445,10 @@ Dependencies for screenshot.sh.  the scrot command: can be installed with sudo p
     
     <item>
       <title>Scripts</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/scripts/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/scripts/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>This is the scripts section.
 Doc here.</description>
       <content>&lt;p&gt;This is the scripts section.&lt;/p&gt;
@@ -812,23 +458,10 @@ Doc here.</description>
     
     <item>
       <title>skills</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/about/skills/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/about/skills/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/about/skills/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/about/skills/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>This is my skills.
 Go back to the front page.</description>
       <content>&lt;p&gt;This is my skills.&lt;/p&gt;
@@ -838,23 +471,10 @@ Go back to the front page.</description>
     
     <item>
       <title>spectrWM</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/spectrwm/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/spectrwm/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/programs/spectrwm/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/programs/spectrwm/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>&amp;ldquo;spectrwm is a small, dynamic tiling and reparenting window manager for X11.&amp;rdquo;
 Some resources.  the github page here. the arch wiki page here. the arch manual page here.  Dependencies for spectrWM.  the mononoki nerd font. a spectrWM-baraction.sh file. a browser: firefox a menu: dmenu a terminal: alacritty an email application: thunderbird a rendering service: arandr an image editor: gimp. I also use kolourpaint brightnessctl to control the brightness of the main screen.</description>
       <content>&lt;p&gt;&amp;ldquo;spectrwm is a small, dynamic tiling and reparenting window manager for X11.&amp;rdquo;&lt;/p&gt;
@@ -892,23 +512,10 @@ Some resources.  the github page here. the arch wiki page here. the arch manual 
     
     <item>
       <title>spectrWM-baraction.sh</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/spectrwm-baraction.sh/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/spectrwm-baraction.sh/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/scripts/spectrwm-baraction.sh/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/scripts/spectrwm-baraction.sh/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>script can be found here.
 Dependencies for spectrWM-baraction.sh  basic commands: echo, grep, awk, sed, pacman, cut, cat, date, sleep disk commands: df, free, mpstat networking commands: ip, nmcli, ifstat setxkbmap to look at the keyboard layout, play to play sounds.  </description>
       <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/spectrWM-baraction.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -924,36 +531,15 @@ Dependencies for spectrWM-baraction.sh  basic commands: echo, grep, awk, sed, pa
     
     <item>
       <title>tmux</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/tmux/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/tmux/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/programs/tmux/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/programs/tmux/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>&amp;ldquo;tmux is an open-source terminal multiplexer for Unix-like operating systems.&amp;rdquo;
 Some resources.  the github page here. the arch wiki page here.  Install tmux manually.  install the tmux command. copy .tmux.conf inside your ~/ directory.  Gallery. Available soon.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png&#34;   width=&#34;&#34; height=&#34;100&#34; /&gt;
-=======
     &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png&#34;   /&gt;
->>>>>>> Stashed changes
-=======
-    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png&#34;   /&gt;
->>>>>>> Stashed changes
     
   &lt;/figure&gt;
 
@@ -976,23 +562,10 @@ Some resources.  the github page here. the arch wiki page here.  Install tmux ma
     
     <item>
       <title>togkb.sh</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/togkb.sh/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/togkb.sh/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/scripts/togkb.sh/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/scripts/togkb.sh/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>script can be found here.
 Dependencies for togkb.sh  basic commands: echo, grep, sed setxkbmap to change the keyboard layout.  </description>
       <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/togkb.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -1006,23 +579,10 @@ Dependencies for togkb.sh  basic commands: echo, grep, sed setxkbmap to change t
     
     <item>
       <title>tree2md.sh</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/tree2md/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/tree2md/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/scripts/tree2md/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/scripts/tree2md/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>File is here</description>
       <content>&lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/tree2md&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -1030,23 +590,10 @@ Dependencies for togkb.sh  basic commands: echo, grep, sed setxkbmap to change t
     
     <item>
       <title>upl.sh</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/upl/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/upl/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/scripts/upl/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/scripts/upl/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>script can be found here.</description>
       <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/upl&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
@@ -1054,36 +601,15 @@ Dependencies for togkb.sh  basic commands: echo, grep, sed setxkbmap to change t
     
     <item>
       <title>vifm</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/vifm/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/vifm/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/programs/vifm/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/programs/vifm/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>&amp;ldquo;Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. &amp;quot;
 Some resources.  the home page of vifm here. the github page here. the arch wiki page here.  Install vifm.  install the vifm command. copy vifmrc and the colors inside your ~/.config/vifm directory.  Gallery. Available soon.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png&#34;   width=&#34;&#34; height=&#34;150&#34; /&gt;
-=======
     &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png&#34;   /&gt;
->>>>>>> Stashed changes
-=======
-    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png&#34;   /&gt;
->>>>>>> Stashed changes
     
   &lt;/figure&gt;
 
@@ -1107,36 +633,15 @@ Some resources.  the home page of vifm here. the github page here. the arch wiki
     
     <item>
       <title>vim</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/vim/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/vim/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/programs/vim/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/programs/vim/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>&amp;ldquo;Vim (/vɪm/; a contraction of Vi IMproved) is a free and open-source, screen-based text editor program for Unix.&amp;rdquo;
 Some resources.  the wikipedia page here. the arch wiki page here. for the hardcore vimmers among you, check here. an introduction to configuring vim here. adding python IDE features to vim here.  Dependencies for vim.  make sure to either run vim once with the .vimrc file installed or issue mkdir -p ~/.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vim-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vim-logo.png&#34;   width=&#34;&#34; height=&#34;150&#34; /&gt;
-=======
     &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vim-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vim-logo.png&#34;   /&gt;
->>>>>>> Stashed changes
-=======
-    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vim-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vim-logo.png&#34;   /&gt;
->>>>>>> Stashed changes
     
   &lt;/figure&gt;
 
@@ -1169,23 +674,10 @@ Some resources.  the wikipedia page here. the arch wiki page here. for the hardc
     
     <item>
       <title>Wallpapers</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/wallpapers/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/wallpapers/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/wallpapers/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/wallpapers/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>This is the wallpapers section.
 Config here.</description>
       <content>&lt;p&gt;This is the wallpapers section.&lt;/p&gt;
@@ -1195,23 +687,10 @@ Config here.</description>
     
     <item>
       <title>wvenv.</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/wvenv/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/wvenv/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/scripts/wvenv/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/scripts/wvenv/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>script can be found here.
 Dependencies for wvenv. wvenv will not crash without these, but the output might be unpredictable.
  which to know where the command is located. python, python3 the python interpreters. pip, pip3 the python package managers. jupyter, jupyter-notebook to edit and see jupyter notebooks.  Notes:
@@ -1238,36 +717,15 @@ and NEVER intall &lt;code&gt;python&lt;/code&gt; package on you system directly!
     
     <item>
       <title>x</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/x/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/x/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/programs/x/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/programs/x/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>&amp;ldquo;The X.Org Server runs on many free-software Unix-like operating systems, including being adopted for use by most Linux distributions and BSD variants.&amp;rdquo;
 Some resources.  the wikipedia page here. the arch wiki page here.  Dependencies for x.  picom: a compositor for X11 nitrogen to load and restore wallpapers. xscreensaver to save and lock the screen. spectrWM: the window manager.  Install x manually.  install the dependencies.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png&#34;   width=&#34;&#34; height=&#34;150&#34; /&gt;
-=======
     &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png&#34;   /&gt;
->>>>>>> Stashed changes
-=======
-    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png&#34;   /&gt;
->>>>>>> Stashed changes
     
   &lt;/figure&gt;
 
@@ -1298,23 +756,10 @@ Some resources.  the wikipedia page here. the arch wiki page here.  Dependencies
     
     <item>
       <title>xscreensaver</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/xscreensaver/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/xscreensaver/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/programs/xscreensaver/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/programs/xscreensaver/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>&amp;ldquo;XScreenSaver is a screen saver and locker for the X Window System. &amp;quot;
 Some resources.  the github page here. the arch wiki page here.  Install alacritty manually.  install the xscreensaver command. copy .xscreensaver inside your ~/ directory.  Gallery. Available soon.</description>
       <content>&lt;p&gt;&amp;ldquo;XScreenSaver is a screen saver and locker for the X Window System. &amp;quot;&lt;/p&gt;
@@ -1335,23 +780,10 @@ Some resources.  the github page here. the arch wiki page here.  Install alacrit
     
     <item>
       <title>xtcl</title>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <link>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/xtcl/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/graphic.github.io/config/doc/scripts/xtcl/</guid>
-=======
-=======
->>>>>>> Stashed changes
       <link>https://a2n-s.github.io/config/doc/scripts/xtcl/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/config/doc/scripts/xtcl/</guid>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <description>script can be found here.
 Dependencies for xtcl  base commands such as echo. xdotool to force the key value to unactive and xmodmap to disable the key.  </description>
       <content>&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/xtcl&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
