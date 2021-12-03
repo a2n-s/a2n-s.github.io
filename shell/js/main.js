@@ -27,7 +27,9 @@ var configs = (function () {
         rmdir_help: "Remove directory, this command will only work if the folders are empty.",
         touch_help: "Change file timestamps. If the file doesn't exist, it's created an empty one.",
         sudo_help: "Execute a command as the superuser.",
-        welcome: "Welcome to my terminal website !\n Use basic linux commands like ls, cat, cd, ..\n If you wan't to see all commands available, enter help.\n If you want to skip the animation of the commands, double click.\nA flag is hidden in the site, find it !\n",
+        // welcome: "                   -`                    guest@a2n-s.github.io\n                  .o+`                   -------------\n                 `ooo/                   OS: Arch-like Linux x86_64.github.io\n                `+oooo:                  Host: a2n-s.github.io 1.0\n               `+oooooo:                 Kernel: 5.15.5-arch-like1-1\n               -+oooooo+:                Shell: ash 1.1.1\n             `/:-:++oooo+:               Theme: a2n-s [v1.1]\n            `/++++/+++++++:              Terminal: alacritty-like\n           `/++++++++++++++:\n          `/+++ooooooooooooo/`\n         ./ooosssso++osssssso+`\n        .oossssso-````/ossssss+`\n       -osssssso.      :ssssssso.\n      :osssssss/        osssso+++.\n     /ossssssss/        +ssssooo/-\n   `/ossssso+/:-        -:/+osssso+-\n  `+sso+:-`                 `.-/+oso:\n `++:.                           `-/+/\n .`                                 `/",
+        welcome: "-----------------\nWORK IN PROGRESS.\n-----------------\nInformation on this page can be very wrong or very incomplete.\nFull page available soon.",
+                  
         internet_explorer_warning: "NOTE: I see you're using internet explorer, this sound bad for this website and your security.",
         welcome_file_name: "welcome_message.txt",
         invalid_command_message: "<value>: command not found.",
@@ -45,7 +47,7 @@ var configs = (function () {
         accesible_cores: "Accessible cores",
         language: "Language",
         value_token: "<value>",
-        host: "wortyClient",
+        host: "a2n-s.github.io",
         user: "guest",
         is_root: false,
         type_delay: 2
@@ -517,7 +519,7 @@ var main = (function () {
         var i = 0;
         var output = this.output;
         var timer = this.timer;
-        var skipped = false;
+        var skipped = true;
         var skip = function () {
             skipped = true;
         }.bind(this);

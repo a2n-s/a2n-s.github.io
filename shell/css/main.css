@@ -9,8 +9,8 @@ html, body {
 body {
     font-size: 13pt;
     font-family: monospace;
-    color:  #808b96;
-    background-color: #4c636d;
+    color: #bbc2cf;
+    background-color: #2a2e35;
 }
 #container {
     padding: .1em 1.5em 1em 1em;
@@ -46,7 +46,7 @@ body {
     user-select: none;
 }
 .prompt-color {
-    color: #1abc9c;
+    color: #4db5bd;
 }
 .input-line {
     display: -webkit-box;
