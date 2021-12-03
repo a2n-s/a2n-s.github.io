@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programs on a2n-s&#39; Personal Website &amp; Blog</title>
-    <link>https://a2n-s.github.io/config/doc/programs/</link>
+    <link>https://a2n-s.github.io/public/config/doc/programs/</link>
     <description>Recent content in Programs on a2n-s&#39; Personal Website &amp; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Sep 2021 22:08:05 +0200</lastBuildDate><atom:link href="https://a2n-s.github.io/config/doc/programs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 22:08:05 +0200</lastBuildDate><atom:link href="https://a2n-s.github.io/public/config/doc/programs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alacritty terminal emulator.</title>
-      <link>https://a2n-s.github.io/config/doc/programs/alacritty/</link>
+      <link>https://a2n-s.github.io/public/config/doc/programs/alacritty/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/config/doc/programs/alacritty/</guid>
+      <guid>https://a2n-s.github.io/public/config/doc/programs/alacritty/</guid>
       <description>Alacritty is a minimal terminal emulator.
 Some resources.  the github page here. the arch wiki page here.  Dependencies for alacritty.  xterm-256color mode to display many colors.u the mononoki nerd font: can be installed with yay -S nerd-fonts-mononoki  Install alacritty manually.  install the dependencies. install the alacritty command. copy alacritty.yml inside your ~/.config/alacritty directory.  Gallery. Available soon.</description>
       <content>
@@ -46,10 +46,10 @@ Some resources.  the github page here. the arch wiki page here.  Dependencies fo
     
     <item>
       <title>bash shell environment.</title>
-      <link>https://a2n-s.github.io/config/doc/programs/bash/</link>
+      <link>https://a2n-s.github.io/public/config/doc/programs/bash/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/config/doc/programs/bash/</guid>
+      <guid>https://a2n-s.github.io/public/config/doc/programs/bash/</guid>
       <description>&amp;ldquo;Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.&amp;rdquo;
 Some resources.  the wikipedia page here. an extensive tutorial to use bash here.  Dependencies for the bash shell.  the scripts in the scripts directory. neofetch, git and cal.  Install the bash shell environment manually.  install the dependencies. copy .</description>
       <content>
@@ -82,10 +82,10 @@ Some resources.  the wikipedia page here. an extensive tutorial to use bash here
     
     <item>
       <title>git</title>
-      <link>https://a2n-s.github.io/config/doc/programs/git/</link>
+      <link>https://a2n-s.github.io/public/config/doc/programs/git/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/config/doc/programs/git/</guid>
+      <guid>https://a2n-s.github.io/public/config/doc/programs/git/</guid>
       <description>&amp;ldquo;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&amp;rdquo;
 Some resources.  the official page here. the arch wiki page here. an interactive and visual tutorial to learn git here.  Install git manually.  install the git command. copy .gitconfig inside your ~/ directory.  Gallery. Available soon.</description>
       <content>
@@ -114,10 +114,10 @@ Some resources.  the official page here. the arch wiki page here. an interactive
     
     <item>
       <title>htop system monitoring tool.</title>
-      <link>https://a2n-s.github.io/config/doc/programs/htop/</link>
+      <link>https://a2n-s.github.io/public/config/doc/programs/htop/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/config/doc/programs/htop/</guid>
+      <guid>https://a2n-s.github.io/public/config/doc/programs/htop/</guid>
       <description>&amp;ldquo;htop is an interactive system-monitor process-viewer and process-manager.&amp;rdquo;
 Some resources.  the wikipedia page here. the arch manual page here.  Install htop manually.  install the htop command. copy htoprc inside your ~/.config/htop directory.  Gallery. Available soon.</description>
       <content>&lt;p&gt;&amp;ldquo;htop is an interactive system-monitor process-viewer and process-manager.&amp;rdquo;&lt;/p&gt;
@@ -138,10 +138,10 @@ Some resources.  the wikipedia page here. the arch manual page here.  Install ht
     
     <item>
       <title>neofetch</title>
-      <link>https://a2n-s.github.io/config/doc/programs/neofetch/</link>
+      <link>https://a2n-s.github.io/public/config/doc/programs/neofetch/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/config/doc/programs/neofetch/</guid>
+      <guid>https://a2n-s.github.io/public/config/doc/programs/neofetch/</guid>
       <description>neofetch is &amp;ldquo;a command-line system information tool written in bash 3.2+&amp;rdquo;
 Some resources.  the github page here. the arch manual page here.  Dependencies for neofetch.  some art works in ~/.config/neofetch/ascii.  Install neofetch manually.  install the dependencies. install the neofetch command. copy config.conf, .neofetchrc and the files in ascii inside your ~/.config/neofetch directory.  Gallery. Available soon.</description>
       <content>
@@ -174,10 +174,10 @@ Some resources.  the github page here. the arch manual page here.  Dependencies 
     
     <item>
       <title>nitrogen</title>
-      <link>https://a2n-s.github.io/config/doc/programs/nitrogen/</link>
+      <link>https://a2n-s.github.io/public/config/doc/programs/nitrogen/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/config/doc/programs/nitrogen/</guid>
+      <guid>https://a2n-s.github.io/public/config/doc/programs/nitrogen/</guid>
       <description>a wallpaper manager.
 Some resources.  the arch wiki page here. a youtube tutorial here.  Dependencies for nitrogen.  some wallpapers to load and restore. mine currently is a vibrant scene.  Install nitrogen manually.  install the dependencies. install the nitrogen command. copy nitrogen.cfg inside your ~/.config/nitrogen directory.  Gallery. Available soon.</description>
       <content>&lt;p&gt;a wallpaper manager.&lt;/p&gt;
@@ -204,10 +204,10 @@ Some resources.  the arch wiki page here. a youtube tutorial here.  Dependencies
     
     <item>
       <title>spectrWM</title>
-      <link>https://a2n-s.github.io/config/doc/programs/spectrwm/</link>
+      <link>https://a2n-s.github.io/public/config/doc/programs/spectrwm/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/config/doc/programs/spectrwm/</guid>
+      <guid>https://a2n-s.github.io/public/config/doc/programs/spectrwm/</guid>
       <description>&amp;ldquo;spectrwm is a small, dynamic tiling and reparenting window manager for X11.&amp;rdquo;
 Some resources.  the github page here. the arch wiki page here. the arch manual page here.  Dependencies for spectrWM.  the mononoki nerd font. a spectrWM-baraction.sh file. a browser: firefox a menu: dmenu a terminal: alacritty an email application: thunderbird a rendering service: arandr an image editor: gimp. I also use kolourpaint brightnessctl to control the brightness of the main screen.</description>
       <content>&lt;p&gt;&amp;ldquo;spectrwm is a small, dynamic tiling and reparenting window manager for X11.&amp;rdquo;&lt;/p&gt;
@@ -245,10 +245,10 @@ Some resources.  the github page here. the arch wiki page here. the arch manual 
     
     <item>
       <title>tmux</title>
-      <link>https://a2n-s.github.io/config/doc/programs/tmux/</link>
+      <link>https://a2n-s.github.io/public/config/doc/programs/tmux/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/config/doc/programs/tmux/</guid>
+      <guid>https://a2n-s.github.io/public/config/doc/programs/tmux/</guid>
       <description>&amp;ldquo;tmux is an open-source terminal multiplexer for Unix-like operating systems.&amp;rdquo;
 Some resources.  the github page here. the arch wiki page here.  Install tmux manually.  install the tmux command. copy .tmux.conf inside your ~/ directory.  Gallery. Available soon.</description>
       <content>
@@ -276,10 +276,10 @@ Some resources.  the github page here. the arch wiki page here.  Install tmux ma
     
     <item>
       <title>vifm</title>
-      <link>https://a2n-s.github.io/config/doc/programs/vifm/</link>
+      <link>https://a2n-s.github.io/public/config/doc/programs/vifm/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/config/doc/programs/vifm/</guid>
+      <guid>https://a2n-s.github.io/public/config/doc/programs/vifm/</guid>
       <description>&amp;ldquo;Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. &amp;quot;
 Some resources.  the home page of vifm here. the github page here. the arch wiki page here.  Install vifm.  install the vifm command. copy vifmrc and the colors inside your ~/.config/vifm directory.  Gallery. Available soon.</description>
       <content>
@@ -308,10 +308,10 @@ Some resources.  the home page of vifm here. the github page here. the arch wiki
     
     <item>
       <title>vim</title>
-      <link>https://a2n-s.github.io/config/doc/programs/vim/</link>
+      <link>https://a2n-s.github.io/public/config/doc/programs/vim/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/config/doc/programs/vim/</guid>
+      <guid>https://a2n-s.github.io/public/config/doc/programs/vim/</guid>
       <description>&amp;ldquo;Vim (/vɪm/; a contraction of Vi IMproved) is a free and open-source, screen-based text editor program for Unix.&amp;rdquo;
 Some resources.  the wikipedia page here. the arch wiki page here. for the hardcore vimmers among you, check here. an introduction to configuring vim here. adding python IDE features to vim here.  Dependencies for vim.  make sure to either run vim once with the .vimrc file installed or issue mkdir -p ~/.</description>
       <content>
@@ -349,10 +349,10 @@ Some resources.  the wikipedia page here. the arch wiki page here. for the hardc
     
     <item>
       <title>x</title>
-      <link>https://a2n-s.github.io/config/doc/programs/x/</link>
+      <link>https://a2n-s.github.io/public/config/doc/programs/x/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/config/doc/programs/x/</guid>
+      <guid>https://a2n-s.github.io/public/config/doc/programs/x/</guid>
       <description>&amp;ldquo;The X.Org Server runs on many free-software Unix-like operating systems, including being adopted for use by most Linux distributions and BSD variants.&amp;rdquo;
 Some resources.  the wikipedia page here. the arch wiki page here.  Dependencies for x.  picom: a compositor for X11 nitrogen to load and restore wallpapers. xscreensaver to save and lock the screen. spectrWM: the window manager.  Install x manually.  install the dependencies.</description>
       <content>
@@ -388,10 +388,10 @@ Some resources.  the wikipedia page here. the arch wiki page here.  Dependencies
     
     <item>
       <title>xscreensaver</title>
-      <link>https://a2n-s.github.io/config/doc/programs/xscreensaver/</link>
+      <link>https://a2n-s.github.io/public/config/doc/programs/xscreensaver/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/config/doc/programs/xscreensaver/</guid>
+      <guid>https://a2n-s.github.io/public/config/doc/programs/xscreensaver/</guid>
       <description>&amp;ldquo;XScreenSaver is a screen saver and locker for the X Window System. &amp;quot;
 Some resources.  the github page here. the arch wiki page here.  Install alacritty manually.  install the xscreensaver command. copy .xscreensaver inside your ~/ directory.  Gallery. Available soon.</description>
       <content>&lt;p&gt;&amp;ldquo;XScreenSaver is a screen saver and locker for the X Window System. &amp;quot;&lt;/p&gt;

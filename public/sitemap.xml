@@ -2,126 +2,126 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://a2n-s.github.io/about/</loc>
+    <loc>https://a2n-s.github.io/public/about/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/programs/alacritty/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/programs/alacritty/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/programs/bash/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/programs/bash/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/</loc>
+    <loc>https://a2n-s.github.io/public/config/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/dmenu/</loc>
+    <loc>https://a2n-s.github.io/public/config/dmenu/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/dmscripts/</loc>
+    <loc>https://a2n-s.github.io/public/config/dmscripts/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/dotfiles/</loc>
+    <loc>https://a2n-s.github.io/public/config/dotfiles/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/about/education/</loc>
+    <loc>https://a2n-s.github.io/public/about/education/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/about/experiences/</loc>
+    <loc>https://a2n-s.github.io/public/about/experiences/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/</loc>
+    <loc>https://a2n-s.github.io/public/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/programs/git/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/programs/git/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/about/hobbies/</loc>
+    <loc>https://a2n-s.github.io/public/about/hobbies/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/programs/htop/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/programs/htop/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/about/me/</loc>
+    <loc>https://a2n-s.github.io/public/about/me/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/programs/neofetch/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/programs/neofetch/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/programs/nitrogen/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/programs/nitrogen/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/posts/</loc>
+    <loc>https://a2n-s.github.io/public/posts/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/programs/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/programs/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/scripts/prompt/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/scripts/prompt/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/about/resume/</loc>
+    <loc>https://a2n-s.github.io/public/about/resume/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/scripts/screenshot.sh/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/scripts/screenshot.sh/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/scripts/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/scripts/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/about/skills/</loc>
+    <loc>https://a2n-s.github.io/public/about/skills/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/programs/spectrwm/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/programs/spectrwm/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/scripts/spectrwm-baraction.sh/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/scripts/spectrwm-baraction.sh/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/tags/tag1/</loc>
+    <loc>https://a2n-s.github.io/public/tags/tag1/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/tags/tag2/</loc>
+    <loc>https://a2n-s.github.io/public/tags/tag2/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/tags/</loc>
+    <loc>https://a2n-s.github.io/public/tags/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/programs/tmux/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/programs/tmux/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/scripts/togkb.sh/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/scripts/togkb.sh/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/scripts/tree2md/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/scripts/tree2md/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/scripts/upl/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/scripts/upl/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/programs/vifm/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/programs/vifm/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/programs/vim/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/programs/vim/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/wallpapers/</loc>
+    <loc>https://a2n-s.github.io/public/config/wallpapers/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/scripts/wvenv/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/scripts/wvenv/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/programs/x/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/programs/x/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/programs/xscreensaver/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/programs/xscreensaver/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/config/doc/scripts/xtcl/</loc>
+    <loc>https://a2n-s.github.io/public/config/doc/scripts/xtcl/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/categories/</loc>
+    <loc>https://a2n-s.github.io/public/categories/</loc>
   </url>
 </urlset>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on a2n-s&#39; Personal Website &amp; Blog</title>
-    <link>https://a2n-s.github.io/about/</link>
+    <link>https://a2n-s.github.io/public/about/</link>
     <description>Recent content in About on a2n-s&#39; Personal Website &amp; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Sep 2021 22:08:05 +0200</lastBuildDate><atom:link href="https://a2n-s.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 22:08:05 +0200</lastBuildDate><atom:link href="https://a2n-s.github.io/public/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>education</title>
-      <link>https://a2n-s.github.io/about/education/</link>
+      <link>https://a2n-s.github.io/public/about/education/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/about/education/</guid>
+      <guid>https://a2n-s.github.io/public/about/education/</guid>
       <description>This is my education.
 Go back to the front page.</description>
       <content>&lt;p&gt;This is my education.&lt;/p&gt;
@@ -22,10 +22,10 @@ Go back to the front page.</description>
     
     <item>
       <title>experiences</title>
-      <link>https://a2n-s.github.io/about/experiences/</link>
+      <link>https://a2n-s.github.io/public/about/experiences/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/about/experiences/</guid>
+      <guid>https://a2n-s.github.io/public/about/experiences/</guid>
       <description>This is my experiences.
 Go back to the front page.</description>
       <content>&lt;p&gt;This is my experiences.&lt;/p&gt;
@@ -35,10 +35,10 @@ Go back to the front page.</description>
     
     <item>
       <title>hobbies</title>
-      <link>https://a2n-s.github.io/about/hobbies/</link>
+      <link>https://a2n-s.github.io/public/about/hobbies/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/about/hobbies/</guid>
+      <guid>https://a2n-s.github.io/public/about/hobbies/</guid>
       <description>This is my hobbies.
 Go back to the front page.</description>
       <content>&lt;p&gt;This is my hobbies.&lt;/p&gt;
@@ -48,10 +48,10 @@ Go back to the front page.</description>
     
     <item>
       <title>Me</title>
-      <link>https://a2n-s.github.io/about/me/</link>
+      <link>https://a2n-s.github.io/public/about/me/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/about/me/</guid>
+      <guid>https://a2n-s.github.io/public/about/me/</guid>
       <description>This is about me.
 Go back to the front page.</description>
       <content>&lt;p&gt;This is about me.&lt;/p&gt;
@@ -61,10 +61,10 @@ Go back to the front page.</description>
     
     <item>
       <title>resume</title>
-      <link>https://a2n-s.github.io/about/resume/</link>
+      <link>https://a2n-s.github.io/public/about/resume/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/about/resume/</guid>
+      <guid>https://a2n-s.github.io/public/about/resume/</guid>
       <description>This is my resume.
 Go back to the front page.</description>
       <content>&lt;p&gt;This is my resume.&lt;/p&gt;
@@ -74,10 +74,10 @@ Go back to the front page.</description>
     
     <item>
       <title>skills</title>
-      <link>https://a2n-s.github.io/about/skills/</link>
+      <link>https://a2n-s.github.io/public/about/skills/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
-      <guid>https://a2n-s.github.io/about/skills/</guid>
+      <guid>https://a2n-s.github.io/public/about/skills/</guid>
       <description>This is my skills.
 Go back to the front page.</description>
       <content>&lt;p&gt;This is my skills.&lt;/p&gt;
