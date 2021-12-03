@@ -1,4 +1,4 @@
-baseURL = "https://a2n-s.github.io"
+baseURL = "https://a2n-s.github.io/public"
 # baseURL = "/"
 languageCode = "en-us"
 theme = "hugo-theme-terminal"
