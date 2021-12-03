@@ -14,9 +14,9 @@ var configs = (function () {
         }
     };
     Singleton.defaultOptions = {
-        welcome: "Welcome to my website!\nI have one question, Are you comfortable with a linux terminal?\nEnter yes or no, please.\nOh and i use arch by the way",
+        welcome: "",
         internet_explorer_warning: "NOTE: I see you're using internet explorer, this sound bad for this website and your security.",
-        invalid_command_message: "Please, answer yes or no.",
+        invalid_command_message: "a2n-s.github.io: unknown answer.",
         host: "a2n-s.github.io",
         user: "guest",
         is_root: false,
@@ -129,7 +129,7 @@ var main = (function () {
         if (!(profilePic instanceof Node) || profilePic.nodeName.toUpperCase() !== "IMG") {
             throw new InvalidArgumentException("Invalid value " + profilePic + " for argument 'profilePic'.");
         }
-        (typeof user === "string" && typeof host === "string") && (this.completePrompt = "Your answer: ");
+        (typeof user === "string" && typeof host === "string") && (this.completePrompt = "Are you comfortable in a Unix shell ? (y/n): ");
         this.profilePic = profilePic;
         this.prompt = prompt;
         this.cmdLine = cmdLine;
@@ -251,9 +251,14 @@ var main = (function () {
             case "yes":
                 window.location.href="/shell/index.html";
                 break;
+            case "y":
+                window.location.href="/shell/index.html";
+                break;
             case "no":
                 window.location.href="/public/index.html";
-                // window.location.href="https://a2n-s.github.io/graphic.github.io/";
+                break;
+            case "n":
+                window.location.href="/public/index.html";
                 break;
             default:
                 this.invalidCommand(cmdComponents);
@@ -265,7 +270,7 @@ var main = (function () {
         this.output.textContent = "";
         this.prompt.textContent = "";
         if (this.typeSimulator) {
-            this.type(configs.getInstance().welcome + (isUsingIE ? "\n" + configs.getInstance().internet_explorer_warning : ""), function () {
+            this.type(/*configs.getInstance().welcome + */(isUsingIE ? "\n" + configs.getInstance().internet_explorer_warning : ""), function () {
                 this.unlock();
             }.bind(this));
         }
