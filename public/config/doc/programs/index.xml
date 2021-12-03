@@ -2,6 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programs on a2n-s&#39; Personal Website &amp; Blog</title>
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/</link>
     <description>Recent content in Programs on a2n-s&#39; Personal Website &amp; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -13,11 +15,37 @@
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/alacritty/</guid>
+=======
+=======
+>>>>>>> Stashed changes
+    <link>https://a2n-s.github.io/config/doc/programs/</link>
+    <description>Recent content in Programs on a2n-s&#39; Personal Website &amp; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Sep 2021 22:08:05 +0200</lastBuildDate><atom:link href="https://a2n-s.github.io/config/doc/programs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alacritty terminal emulator.</title>
+      <link>https://a2n-s.github.io/config/doc/programs/alacritty/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/config/doc/programs/alacritty/</guid>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       <description>Alacritty is a minimal terminal emulator.
 Some resources.  the github page here. the arch wiki page here.  Dependencies for alacritty.  xterm-256color mode to display many colors.u the mononoki nerd font: can be installed with yay -S nerd-fonts-mononoki  Install alacritty manually.  install the dependencies. install the alacritty command. copy alacritty.yml inside your ~/.config/alacritty directory.  Gallery. Available soon.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
     &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/alacritty-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/alacritty-logo.png&#34;   width=&#34;150&#34; height=&#34;&#34; /&gt;
+=======
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/alacritty-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/alacritty-logo.png&#34;   /&gt;
+>>>>>>> Stashed changes
+=======
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/alacritty-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/alacritty-logo.png&#34;   /&gt;
+>>>>>>> Stashed changes
     
   &lt;/figure&gt;
 
@@ -46,15 +74,36 @@ Some resources.  the github page here. the arch wiki page here.  Dependencies fo
     
     <item>
       <title>bash shell environment.</title>
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/bash/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/bash/</guid>
+=======
+=======
+>>>>>>> Stashed changes
+      <link>https://a2n-s.github.io/config/doc/programs/bash/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/config/doc/programs/bash/</guid>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       <description>&amp;ldquo;Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.&amp;rdquo;
 Some resources.  the wikipedia page here. an extensive tutorial to use bash here.  Dependencies for the bash shell.  the scripts in the scripts directory. neofetch, git and cal.  Install the bash shell environment manually.  install the dependencies. copy .</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
     &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png&#34;   width=&#34;&#34; height=&#34;150&#34; /&gt;
+=======
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png&#34;   /&gt;
+>>>>>>> Stashed changes
+=======
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png&#34;   /&gt;
+>>>>>>> Stashed changes
     
   &lt;/figure&gt;
 
@@ -82,15 +131,36 @@ Some resources.  the wikipedia page here. an extensive tutorial to use bash here
     
     <item>
       <title>git</title>
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/git/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/git/</guid>
+=======
+=======
+>>>>>>> Stashed changes
+      <link>https://a2n-s.github.io/config/doc/programs/git/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/config/doc/programs/git/</guid>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       <description>&amp;ldquo;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&amp;rdquo;
 Some resources.  the official page here. the arch wiki page here. an interactive and visual tutorial to learn git here.  Install git manually.  install the git command. copy .gitconfig inside your ~/ directory.  Gallery. Available soon.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
     &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/git-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/git-logo.png&#34;   width=&#34;&#34; height=&#34;150&#34; /&gt;
+=======
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/git-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/git-logo.png&#34;   /&gt;
+>>>>>>> Stashed changes
+=======
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/git-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/git-logo.png&#34;   /&gt;
+>>>>>>> Stashed changes
     
   &lt;/figure&gt;
 
@@ -114,10 +184,23 @@ Some resources.  the official page here. the arch wiki page here. an interactive
     
     <item>
       <title>htop system monitoring tool.</title>
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/htop/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/htop/</guid>
+=======
+=======
+>>>>>>> Stashed changes
+      <link>https://a2n-s.github.io/config/doc/programs/htop/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/config/doc/programs/htop/</guid>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       <description>&amp;ldquo;htop is an interactive system-monitor process-viewer and process-manager.&amp;rdquo;
 Some resources.  the wikipedia page here. the arch manual page here.  Install htop manually.  install the htop command. copy htoprc inside your ~/.config/htop directory.  Gallery. Available soon.</description>
       <content>&lt;p&gt;&amp;ldquo;htop is an interactive system-monitor process-viewer and process-manager.&amp;rdquo;&lt;/p&gt;
@@ -138,15 +221,36 @@ Some resources.  the wikipedia page here. the arch manual page here.  Install ht
     
     <item>
       <title>neofetch</title>
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/neofetch/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/neofetch/</guid>
+=======
+=======
+>>>>>>> Stashed changes
+      <link>https://a2n-s.github.io/config/doc/programs/neofetch/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/config/doc/programs/neofetch/</guid>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       <description>neofetch is &amp;ldquo;a command-line system information tool written in bash 3.2+&amp;rdquo;
 Some resources.  the github page here. the arch manual page here.  Dependencies for neofetch.  some art works in ~/.config/neofetch/ascii.  Install neofetch manually.  install the dependencies. install the neofetch command. copy config.conf, .neofetchrc and the files in ascii inside your ~/.config/neofetch directory.  Gallery. Available soon.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
     &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png&#34;   width=&#34;450&#34; height=&#34;&#34; /&gt;
+=======
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png&#34;   /&gt;
+>>>>>>> Stashed changes
+=======
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png&#34;   /&gt;
+>>>>>>> Stashed changes
     
   &lt;/figure&gt;
 
@@ -174,10 +278,23 @@ Some resources.  the github page here. the arch manual page here.  Dependencies 
     
     <item>
       <title>nitrogen</title>
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/nitrogen/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/nitrogen/</guid>
+=======
+=======
+>>>>>>> Stashed changes
+      <link>https://a2n-s.github.io/config/doc/programs/nitrogen/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/config/doc/programs/nitrogen/</guid>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       <description>a wallpaper manager.
 Some resources.  the arch wiki page here. a youtube tutorial here.  Dependencies for nitrogen.  some wallpapers to load and restore. mine currently is a vibrant scene.  Install nitrogen manually.  install the dependencies. install the nitrogen command. copy nitrogen.cfg inside your ~/.config/nitrogen directory.  Gallery. Available soon.</description>
       <content>&lt;p&gt;a wallpaper manager.&lt;/p&gt;
@@ -204,10 +321,23 @@ Some resources.  the arch wiki page here. a youtube tutorial here.  Dependencies
     
     <item>
       <title>spectrWM</title>
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/spectrwm/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/spectrwm/</guid>
+=======
+=======
+>>>>>>> Stashed changes
+      <link>https://a2n-s.github.io/config/doc/programs/spectrwm/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/config/doc/programs/spectrwm/</guid>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       <description>&amp;ldquo;spectrwm is a small, dynamic tiling and reparenting window manager for X11.&amp;rdquo;
 Some resources.  the github page here. the arch wiki page here. the arch manual page here.  Dependencies for spectrWM.  the mononoki nerd font. a spectrWM-baraction.sh file. a browser: firefox a menu: dmenu a terminal: alacritty an email application: thunderbird a rendering service: arandr an image editor: gimp. I also use kolourpaint brightnessctl to control the brightness of the main screen.</description>
       <content>&lt;p&gt;&amp;ldquo;spectrwm is a small, dynamic tiling and reparenting window manager for X11.&amp;rdquo;&lt;/p&gt;
@@ -245,15 +375,36 @@ Some resources.  the github page here. the arch wiki page here. the arch manual 
     
     <item>
       <title>tmux</title>
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/tmux/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/tmux/</guid>
+=======
+=======
+>>>>>>> Stashed changes
+      <link>https://a2n-s.github.io/config/doc/programs/tmux/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/config/doc/programs/tmux/</guid>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       <description>&amp;ldquo;tmux is an open-source terminal multiplexer for Unix-like operating systems.&amp;rdquo;
 Some resources.  the github page here. the arch wiki page here.  Install tmux manually.  install the tmux command. copy .tmux.conf inside your ~/ directory.  Gallery. Available soon.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
     &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png&#34;   width=&#34;&#34; height=&#34;100&#34; /&gt;
+=======
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png&#34;   /&gt;
+>>>>>>> Stashed changes
+=======
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png&#34;   /&gt;
+>>>>>>> Stashed changes
     
   &lt;/figure&gt;
 
@@ -276,15 +427,36 @@ Some resources.  the github page here. the arch wiki page here.  Install tmux ma
     
     <item>
       <title>vifm</title>
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/vifm/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/vifm/</guid>
+=======
+=======
+>>>>>>> Stashed changes
+      <link>https://a2n-s.github.io/config/doc/programs/vifm/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/config/doc/programs/vifm/</guid>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       <description>&amp;ldquo;Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. &amp;quot;
 Some resources.  the home page of vifm here. the github page here. the arch wiki page here.  Install vifm.  install the vifm command. copy vifmrc and the colors inside your ~/.config/vifm directory.  Gallery. Available soon.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
     &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png&#34;   width=&#34;&#34; height=&#34;150&#34; /&gt;
+=======
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png&#34;   /&gt;
+>>>>>>> Stashed changes
+=======
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png&#34;   /&gt;
+>>>>>>> Stashed changes
     
   &lt;/figure&gt;
 
@@ -308,15 +480,36 @@ Some resources.  the home page of vifm here. the github page here. the arch wiki
     
     <item>
       <title>vim</title>
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/vim/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/vim/</guid>
+=======
+=======
+>>>>>>> Stashed changes
+      <link>https://a2n-s.github.io/config/doc/programs/vim/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/config/doc/programs/vim/</guid>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       <description>&amp;ldquo;Vim (/vɪm/; a contraction of Vi IMproved) is a free and open-source, screen-based text editor program for Unix.&amp;rdquo;
 Some resources.  the wikipedia page here. the arch wiki page here. for the hardcore vimmers among you, check here. an introduction to configuring vim here. adding python IDE features to vim here.  Dependencies for vim.  make sure to either run vim once with the .vimrc file installed or issue mkdir -p ~/.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
     &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vim-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vim-logo.png&#34;   width=&#34;&#34; height=&#34;150&#34; /&gt;
+=======
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vim-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vim-logo.png&#34;   /&gt;
+>>>>>>> Stashed changes
+=======
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vim-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/vim-logo.png&#34;   /&gt;
+>>>>>>> Stashed changes
     
   &lt;/figure&gt;
 
@@ -349,15 +542,36 @@ Some resources.  the wikipedia page here. the arch wiki page here. for the hardc
     
     <item>
       <title>x</title>
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/x/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/x/</guid>
+=======
+=======
+>>>>>>> Stashed changes
+      <link>https://a2n-s.github.io/config/doc/programs/x/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/config/doc/programs/x/</guid>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       <description>&amp;ldquo;The X.Org Server runs on many free-software Unix-like operating systems, including being adopted for use by most Linux distributions and BSD variants.&amp;rdquo;
 Some resources.  the wikipedia page here. the arch wiki page here.  Dependencies for x.  picom: a compositor for X11 nitrogen to load and restore wallpapers. xscreensaver to save and lock the screen. spectrWM: the window manager.  Install x manually.  install the dependencies.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
     &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png&#34;   width=&#34;&#34; height=&#34;150&#34; /&gt;
+=======
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png&#34;   /&gt;
+>>>>>>> Stashed changes
+=======
+    &lt;img src=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png&#34;  alt=&#34;https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png&#34;   /&gt;
+>>>>>>> Stashed changes
     
   &lt;/figure&gt;
 
@@ -388,10 +602,23 @@ Some resources.  the wikipedia page here. the arch wiki page here.  Dependencies
     
     <item>
       <title>xscreensaver</title>
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <link>https://a2n-s.github.io/graphic.github.io/config/doc/programs/xscreensaver/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/graphic.github.io/config/doc/programs/xscreensaver/</guid>
+=======
+=======
+>>>>>>> Stashed changes
+      <link>https://a2n-s.github.io/config/doc/programs/xscreensaver/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/config/doc/programs/xscreensaver/</guid>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       <description>&amp;ldquo;XScreenSaver is a screen saver and locker for the X Window System. &amp;quot;
 Some resources.  the github page here. the arch wiki page here.  Install alacritty manually.  install the xscreensaver command. copy .xscreensaver inside your ~/ directory.  Gallery. Available soon.</description>
       <content>&lt;p&gt;&amp;ldquo;XScreenSaver is a screen saver and locker for the X Window System. &amp;quot;&lt;/p&gt;

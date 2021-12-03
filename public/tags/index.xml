@@ -2,6 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on a2n-s&#39; Personal Website &amp; Blog</title>
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <link>https://a2n-s.github.io/graphic.github.io/tags/</link>
     <description>Recent content in Tags on a2n-s&#39; Personal Website &amp; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -13,16 +15,47 @@
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/graphic.github.io/tags/tag1/</guid>
+=======
+=======
+>>>>>>> Stashed changes
+    <link>https://a2n-s.github.io/tags/</link>
+    <description>Recent content in Tags on a2n-s&#39; Personal Website &amp; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Sep 2021 22:08:05 +0200</lastBuildDate><atom:link href="https://a2n-s.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tag1</title>
+      <link>https://a2n-s.github.io/tags/tag1/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/tags/tag1/</guid>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>tag2</title>
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <link>https://a2n-s.github.io/graphic.github.io/tags/tag2/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/graphic.github.io/tags/tag2/</guid>
+=======
+=======
+>>>>>>> Stashed changes
+      <link>https://a2n-s.github.io/tags/tag2/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/tags/tag2/</guid>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       <description></description>
       <content></content>
     </item>
