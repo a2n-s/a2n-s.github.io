@@ -28,7 +28,7 @@ var configs = (function () {
         touch_help: "Change file timestamps. If the file doesn't exist, it's created an empty one.",
         sudo_help: "Execute a command as the superuser.",
         // welcome: "                   -`                    guest@a2n-s.github.io\n                  .o+`                   -------------\n                 `ooo/                   OS: Arch-like Linux x86_64.github.io\n                `+oooo:                  Host: a2n-s.github.io 1.0\n               `+oooooo:                 Kernel: 5.15.5-arch-like1-1\n               -+oooooo+:                Shell: ash 1.1.1\n             `/:-:++oooo+:               Theme: a2n-s [v1.1]\n            `/++++/+++++++:              Terminal: alacritty-like\n           `/++++++++++++++:\n          `/+++ooooooooooooo/`\n         ./ooosssso++osssssso+`\n        .oossssso-````/ossssss+`\n       -osssssso.      :ssssssso.\n      :osssssss/        osssso+++.\n     /ossssssss/        +ssssooo/-\n   `/ossssso+/:-        -:/+osssso+-\n  `+sso+:-`                 `.-/+oso:\n `++:.                           `-/+/\n .`                                 `/",
-        welcome: "-----------------\nWORK IN PROGRESS.\n-----------------\nInformation on this page can be very wrong or very incomplete.\nFull page available soon.",
+        welcome: "-------------------\n WORK IN PROGRESS. \n-------------------\nInformation on this page can be very wrong or very incomplete.\nFull page available soon.",
                   
         internet_explorer_warning: "NOTE: I see you're using internet explorer, this sound bad for this website and your security.",
         welcome_file_name: "welcome_message.txt",
@@ -72,10 +72,9 @@ var files = (function () {
         }
     };
     Singleton.defaultOptions = {
-        "About.txt": "I'm a second year computer science student in Vannes. Later, I would like to work in cyber security, especially in a company or in a red team.\nI've been passionate about this field for a long time and I'm very interested in it via different social networks (facebook, twitter).\nI'm part of a CTF team : saladetomate.onion for 1 year now. In addition, I very often do CTF online but also on site, such as the Breizh CTF, the CTF of the IUT Informatiques, or the EsnaHack CTF.",
-        "Root_Me.txt": "https://www.root-me.org/Worty",
-        "Twitter.txt": "https://twitter.com/WortySTO",
-        "Flag.txt":"Hero{1ts_w0rty_birthd4y_!!}"
+        "about.txt": "Coming soon.",
+        "example-1.txt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum.",
+        "example-2.txt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis finibus pellentesque. Nunc dignissim molestie lorem, vitae semper leo suscipit ac. Aenean vulputate scelerisque erat eu sagittis. Phasellus tincidunt quis mi vitae tempor. Sed ac lacus dui. Nam nisi libero, egestas ut malesuada vel, congue ut nisi. Nulla fringilla leo enim, ut suscipit tortor ultricies sollicitudin.\nInteger viverra diam vel purus fringilla congue. Vestibulum laoreet mi eget felis pretium gravida. Vivamus a accumsan ex, ut luctus quam. Vestibulum ac dignissim urna. Maecenas vel ultrices arcu. Donec blandit lacus vel augue tincidunt dictum. Aliquam felis eros, elementum vel pellentesque ac, suscipit vel sem. \nMaecenas sagittis neque id neque accumsan, sit amet placerat ante volutpat. Phasellus interdum at erat aliquam auctor. Praesent ullamcorper, nunc a rhoncus porta, purus eros ornare odio, ac rutrum ligula risus lobortis magna. Ut lobortis volutpat dui dapibus porta. Cras accumsan erat ex, sed euismod lacus cursus eu. Aliquam auctor, nulla vel vehicula imperdiet, mi lacus sagittis orci, sed imperdiet mauris nunc at lacus. Curabitur ac varius elit, non laoreet mauris. Praesent vehicula cursus metus, eu lobortis ipsum finibus vel. Phasellus feugiat mattis consectetur. Praesent in augue vel orci dignissim tristique sed sit amet erat. Phasellus eu hendrerit lectus. Praesent viverra est vel massa ultricies, eget molestie dui egestas. Praesent sit amet gravida dui. Praesent vitae odio accumsan, iaculis magna non, consequat magna. Integer eu ante leo.",
     };
     return {
         getInstance: function (options) {
@@ -97,7 +96,7 @@ var folders = (function () {
         }
     };
     SingletonFolders.defaultOptions = {
-        "writeups": "writeups.html"
+        // "folder": "folder.html"
     };
     return{
         getInstance: function(options){
@@ -106,6 +105,7 @@ var folders = (function () {
         }
     };
 })();
+
 var main = (function () {
 
     /**
