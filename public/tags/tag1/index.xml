@@ -8,31 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Sep 2021 22:08:05 +0200</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://a2n-s.github.io/public/about/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/about/</guid>
-      <description>This is the about section
-information about me here or below.
-my education here or below.
-my experiences here or below.
-my hard and soft skills here or below.
-my hobbies here or below.
-my full resume here or below.
-Go back to the front page.</description>
-      <content>&lt;p&gt;This is the about section&lt;/p&gt;
-&lt;p&gt;information about me &lt;a href=&#34;https://a2n-s.github.io/public/graphic.github.io/about/me&#34;&gt;here&lt;/a&gt; or below.&lt;br&gt;
-my education &lt;a href=&#34;https://a2n-s.github.io/public/graphic.github.io/about/education&#34;&gt;here&lt;/a&gt; or below.&lt;br&gt;
-my experiences &lt;a href=&#34;https://a2n-s.github.io/public/graphic.github.io/about/experiences&#34;&gt;here&lt;/a&gt; or below.&lt;br&gt;
-my hard and soft skills &lt;a href=&#34;https://a2n-s.github.io/public/graphic.github.io/about/skills&#34;&gt;here&lt;/a&gt; or below.&lt;br&gt;
-my hobbies &lt;a href=&#34;https://a2n-s.github.io/public/graphic.github.io/about/hobbies&#34;&gt;here&lt;/a&gt; or below.&lt;br&gt;
-my full resume &lt;a href=&#34;https://a2n-s.github.io/public/graphic.github.io/about/resume&#34;&gt;here&lt;/a&gt; or below.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/graphic.github.io/&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
       <title>Alacritty terminal emulator.</title>
       <link>https://a2n-s.github.io/public/config/doc/programs/alacritty/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
@@ -183,53 +158,6 @@ Config here.</description>
     </item>
     
     <item>
-      <title>education</title>
-      <link>https://a2n-s.github.io/public/about/education/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/about/education/</guid>
-      <description>This is my education.
-Go back to the front page.</description>
-      <content>&lt;p&gt;This is my education.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>experiences</title>
-      <link>https://a2n-s.github.io/public/about/experiences/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/about/experiences/</guid>
-      <description>This is my experiences.
-Go back to the front page.</description>
-      <content>&lt;p&gt;This is my experiences.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Front page</title>
-      <link>https://a2n-s.github.io/public/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/</guid>
-      <description>This is the front page.
-About me here.
-My config here.
-My posts here.
-List of previews of my posts below
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</description>
-      <content>&lt;p&gt;This is the front page.&lt;/p&gt;
-&lt;p&gt;About me &lt;a href=&#34;about&#34;&gt;here&lt;/a&gt;.&lt;br&gt;
-My config &lt;a href=&#34;config&#34;&gt;here&lt;/a&gt;.&lt;br&gt;
-My posts &lt;a href=&#34;posts&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;List of previews of my posts below&lt;br&gt;
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
       <title>git</title>
       <link>https://a2n-s.github.io/public/config/doc/programs/git/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
@@ -262,19 +190,6 @@ Some resources.  the official page here. the arch wiki page here. an interactive
     </item>
     
     <item>
-      <title>hobbies</title>
-      <link>https://a2n-s.github.io/public/about/hobbies/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/about/hobbies/</guid>
-      <description>This is my hobbies.
-Go back to the front page.</description>
-      <content>&lt;p&gt;This is my hobbies.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
       <title>htop system monitoring tool.</title>
       <link>https://a2n-s.github.io/public/config/doc/programs/htop/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
@@ -295,19 +210,6 @@ Some resources.  the wikipedia page here. the arch manual page here.  Install ht
 &lt;/ul&gt;
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
 &lt;p&gt;Available soon.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Me</title>
-      <link>https://a2n-s.github.io/public/about/me/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/about/me/</guid>
-      <description>This is about me.
-Go back to the front page.</description>
-      <content>&lt;p&gt;This is about me.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
@@ -378,19 +280,6 @@ Some resources.  the arch wiki page here. a youtube tutorial here.  Dependencies
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://a2n-s.github.io/public/posts/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/posts/</guid>
-      <description>This is the posts.
-Go back to the front page.</description>
-      <content>&lt;p&gt;This is the posts.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
       <title>Programs</title>
       <link>https://a2n-s.github.io/public/config/doc/programs/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
@@ -411,19 +300,6 @@ Doc here.</description>
       <guid>https://a2n-s.github.io/public/config/doc/scripts/prompt/</guid>
       <description>File is here</description>
       <content>&lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/prompt&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>resume</title>
-      <link>https://a2n-s.github.io/public/about/resume/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/about/resume/</guid>
-      <description>This is my resume.
-Go back to the front page.</description>
-      <content>&lt;p&gt;This is my resume.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
@@ -453,19 +329,6 @@ Dependencies for screenshot.sh.  the scrot command: can be installed with sudo p
 Doc here.</description>
       <content>&lt;p&gt;This is the scripts section.&lt;/p&gt;
 &lt;p&gt;Doc &lt;a href=&#34;../../doc&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>skills</title>
-      <link>https://a2n-s.github.io/public/about/skills/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/about/skills/</guid>
-      <description>This is my skills.
-Go back to the front page.</description>
-      <content>&lt;p&gt;This is my skills.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     

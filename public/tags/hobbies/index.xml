@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hobbies on a2n-s&#39; Personal Website &amp; Blog</title>
+    <link>https://a2n-s.github.io/public/tags/hobbies/</link>
+    <description>Recent content in hobbies on a2n-s&#39; Personal Website &amp; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/hobbies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hobbies</title>
+      <link>https://a2n-s.github.io/public/about/hobbies/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/about/hobbies/</guid>
+      <description>Configuring and building software for my ArchLinux distro. I document my Arch configuration on my websites. Coding games in the SCSC or ML algorithms in my free time for fun. An artistic pane out of wood and resin to decorate my place. 6502 μ-computer, on breadboard, with custom games in assembly. A CPU out of logic gates with custom assembly.  Go back to the about me section or the front page.</description>
+      <content>&lt;ul&gt;
+&lt;li&gt;Configuring and building software for my ArchLinux distro.&lt;/li&gt;
+&lt;li&gt;I document my Arch configuration on my websites.&lt;/li&gt;
+&lt;li&gt;Coding games in the SCSC or ML algorithms in my free time for fun.&lt;/li&gt;
+&lt;li&gt;An artistic pane out of wood and resin to decorate my place.&lt;/li&gt;
+&lt;li&gt;6502 μ-computer, on breadboard, with custom games in assembly.&lt;/li&gt;
+&lt;li&gt;A CPU out of logic gates with custom assembly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

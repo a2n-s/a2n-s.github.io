@@ -8,6 +8,46 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Sep 2021 22:08:05 +0200</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>about</title>
+      <link>https://a2n-s.github.io/public/tags/about/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/about/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>experiences</title>
+      <link>https://a2n-s.github.io/public/tags/experiences/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/experiences/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>me</title>
+      <link>https://a2n-s.github.io/public/tags/me/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/me/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>resume</title>
+      <link>https://a2n-s.github.io/public/tags/resume/</link>
+      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/resume/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
       <title>tag1</title>
       <link>https://a2n-s.github.io/public/tags/tag1/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
@@ -23,6 +63,66 @@
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/public/tags/tag2/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>https://a2n-s.github.io/public/tags/education/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/education/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>hobbies</title>
+      <link>https://a2n-s.github.io/public/tags/hobbies/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/hobbies/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://a2n-s.github.io/public/tags/index/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/index/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>main page</title>
+      <link>https://a2n-s.github.io/public/tags/main-page/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/main-page/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>posts</title>
+      <link>https://a2n-s.github.io/public/tags/posts/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/posts/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>skills</title>
+      <link>https://a2n-s.github.io/public/tags/skills/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/skills/</guid>
       <description></description>
       <content></content>
     </item>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>posts on a2n-s&#39; Personal Website &amp; Blog</title>
+    <link>https://a2n-s.github.io/public/tags/posts/</link>
+    <description>Recent content in posts on a2n-s&#39; Personal Website &amp; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posts</title>
+      <link>https://a2n-s.github.io/public/posts/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/posts/</guid>
+      <description>Below here, I would like to take the time to write some blog posts some day.
+These would prbably be content about code, linux, mathematics, these kind of stuff.
+Stay tuned!! Go back to the front page.</description>
+      <content>&lt;p&gt;Below here, I would like to take the time to write some blog posts some day.&lt;br&gt;
+These would prbably be content about code, linux, mathematics, these kind of stuff.&lt;/p&gt;
+&lt;h1 id=&#34;stay-tuned&#34;&gt;Stay tuned!!&lt;/h1&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

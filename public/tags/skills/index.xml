@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>skills on a2n-s&#39; Personal Website &amp; Blog</title>
+    <link>https://a2n-s.github.io/public/tags/skills/</link>
+    <description>Recent content in skills on a2n-s&#39; Personal Website &amp; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/skills/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skills</title>
+      <link>https://a2n-s.github.io/public/about/skills/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/about/skills/</guid>
+      <description>Go back to the about me section or the front page.
+Languages French - native speaker
+English - fluent
+German - very good
+Japanese - beginner
+LSF - beginner
+Hard Skills  Linux, Arch, Windows Python, LaTeX, C, C++, Java, Processing, Assembly, Arduino, CamL, Racket MySQL, PostGreSQL, Redis PyTorch, NumPy, Pandas, SciPy, Scikit-Learn sh, bash, ssh, git Jupyter, Google Colab, Computers Cluster, Excel, Gimp, Blender markdown, css, JavaScript, html  Soft Skills Dedicated - Intrinsically curious - Calm under pressure - Versatile - Fast-learner - Spontaneous - Honest - Open-minded</description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;languages&#34;&gt;Languages&lt;/h1&gt;
+&lt;p&gt;French - native speaker&lt;br&gt;
+English - fluent&lt;br&gt;
+German - very good&lt;br&gt;
+Japanese - beginner&lt;br&gt;
+LSF - beginner&lt;/p&gt;
+&lt;h1 id=&#34;hard-skills&#34;&gt;Hard Skills&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Linux, Arch, Windows&lt;/li&gt;
+&lt;li&gt;Python, LaTeX, C, C++, Java, Processing, Assembly, Arduino, CamL, Racket&lt;/li&gt;
+&lt;li&gt;MySQL, PostGreSQL, Redis&lt;/li&gt;
+&lt;li&gt;PyTorch, NumPy, Pandas, SciPy, Scikit-Learn&lt;/li&gt;
+&lt;li&gt;sh, bash, ssh, git&lt;/li&gt;
+&lt;li&gt;Jupyter, Google Colab, Computers Cluster, Excel, Gimp, Blender&lt;/li&gt;
+&lt;li&gt;markdown, css, JavaScript, html&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;soft-skills&#34;&gt;Soft Skills&lt;/h1&gt;
+&lt;p&gt;Dedicated - Intrinsically curious - Calm under pressure - Versatile - Fast-learner - Spontaneous - Honest - Open-minded&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

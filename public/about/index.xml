@@ -6,82 +6,365 @@
     <description>Recent content in About on a2n-s&#39; Personal Website &amp; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Sep 2021 22:08:05 +0200</lastBuildDate><atom:link href="https://a2n-s.github.io/public/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>education</title>
-      <link>https://a2n-s.github.io/public/about/education/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/about/education/</guid>
-      <description>This is my education.
-Go back to the front page.</description>
-      <content>&lt;p&gt;This is my education.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>experiences</title>
+      <title>Experiences</title>
       <link>https://a2n-s.github.io/public/about/experiences/</link>
       <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
       
       <guid>https://a2n-s.github.io/public/about/experiences/</guid>
-      <description>This is my experiences.
-Go back to the front page.</description>
-      <content>&lt;p&gt;This is my experiences.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <description>Go back to the about me section or the front page.
+july 2021 – august 2021  2nd year internship (7 weeks)
+SuReLI, ISAE-supaero
+Continuation of the previous research topic of my PIR project:
+ Further in the disentanglement model &amp;amp; learning technique.    Skill Skill 1 Skill 2 Skill 3     Hard Full ML pipeline Image processing Imitation RL   Soft Autonomy Talking about my work Resilience to failure      january 2021– july 2021  Innovation &amp;amp; Research Project(PIR) (5 months)</description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;july-2021--august-2021&#34;&gt;july 2021 – august 2021&lt;/h1&gt;
+&lt;p&gt;     2nd year internship (7 weeks)&lt;br&gt;
+     SuReLI, ISAE-supaero&lt;br&gt;
+Continuation of the previous research topic of my PIR project:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Further in the disentanglement model &amp;amp; learning technique.
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Skill&lt;/th&gt;
+&lt;th&gt;Skill 1&lt;/th&gt;
+&lt;th&gt;Skill 2&lt;/th&gt;
+&lt;th&gt;Skill 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Hard&lt;/td&gt;
+&lt;td&gt;Full ML pipeline&lt;/td&gt;
+&lt;td&gt;Image processing&lt;/td&gt;
+&lt;td&gt;Imitation RL&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Soft&lt;/td&gt;
+&lt;td&gt;Autonomy&lt;/td&gt;
+&lt;td&gt;Talking about my work&lt;/td&gt;
+&lt;td&gt;Resilience to failure&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;january-2021-july-2021&#34;&gt;january 2021– july 2021&lt;/h1&gt;
+&lt;p&gt;     Innovation &amp;amp; Research Project(PIR) (5 months)&lt;br&gt;
+     ISAE-Supaero&lt;br&gt;
+First research experience leading to a paper with academic level.
+&lt;strong&gt;Title&lt;/strong&gt;:Applying Disentanglement for Domain Adaptation to RL.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Key questions and techniques of disentanglement.&lt;/li&gt;
+&lt;li&gt;Short paper submitted to the ISAE-Supaero.
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Skill&lt;/th&gt;
+&lt;th&gt;Skill 1&lt;/th&gt;
+&lt;th&gt;Skill 2&lt;/th&gt;
+&lt;th&gt;Skill 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Hard&lt;/td&gt;
+&lt;td&gt;Image processing&lt;/td&gt;
+&lt;td&gt;Disentanglement&lt;/td&gt;
+&lt;td&gt;Submitting a paper&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Soft&lt;/td&gt;
+&lt;td&gt;Writing communication&lt;/td&gt;
+&lt;td&gt;Oral presentation&lt;/td&gt;
+&lt;td&gt;Fast learning&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;november2020--april2021&#34;&gt;november2020 – april2021&lt;/h1&gt;
+&lt;p&gt;     Tutor for students (6 months / part-time)&lt;br&gt;
+     ISAE-Supaero&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Organized support sessions about basic or deeper notions.&lt;/li&gt;
+&lt;li&gt;Helped students to graduate their 2nd year.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Skill&lt;/th&gt;
+&lt;th&gt;Skill 1&lt;/th&gt;
+&lt;th&gt;Skill 2&lt;/th&gt;
+&lt;th&gt;Skill 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Hard&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Soft&lt;/td&gt;
+&lt;td&gt;Patience&lt;/td&gt;
+&lt;td&gt;Popularization skill&lt;/td&gt;
+&lt;td&gt;Time Management&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;october-2020-may-2021&#34;&gt;october 2020– may 2021&lt;/h1&gt;
+&lt;p&gt;     Part-time operator (8 months)&lt;br&gt;
+     ISAE-Supaero, InnovSpace&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed ISAE-Supaero’s InnovSpace during my free-time.&lt;/li&gt;
+&lt;li&gt;Watched the place, the tools and helped users.
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Skill&lt;/th&gt;
+&lt;th&gt;Skill 1&lt;/th&gt;
+&lt;th&gt;Skill 2&lt;/th&gt;
+&lt;th&gt;Skill 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Hard&lt;/td&gt;
+&lt;td&gt;Manual tools&lt;/td&gt;
+&lt;td&gt;Professional management&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Soft&lt;/td&gt;
+&lt;td&gt;Decication&lt;/td&gt;
+&lt;td&gt;Autonomy&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;july-2020-august-20201&#34;&gt;july 2020 –august 20201&lt;/h1&gt;
+&lt;p&gt;     1st year internship (8 weeks)&lt;br&gt;
+     Naval Force 3, La Rochelle, France&lt;br&gt;
+Naval Force 3 is a private shipyard (SME) in La Rochelle.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First experience in a firm.&lt;/li&gt;
+&lt;li&gt;Discovered how it is managed and difficulties due to crisis.
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Skill&lt;/th&gt;
+&lt;th&gt;Skill 1&lt;/th&gt;
+&lt;th&gt;Skill 2&lt;/th&gt;
+&lt;th&gt;Skill 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Hard&lt;/td&gt;
+&lt;td&gt;Building nautical objects&lt;/td&gt;
+&lt;td&gt;Resin techniques&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Soft&lt;/td&gt;
+&lt;td&gt;Managing a workshop&lt;/td&gt;
+&lt;td&gt;Going out of comfort zone&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;september2018--june2019&#34;&gt;september2018 – june2019&lt;/h1&gt;
+&lt;p&gt;     Research school project (TIPE) (9 months / part-time)&lt;br&gt;
+     Georges Clemenceau, Nantes, France&lt;br&gt;
+First research experience.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Optimization of the urban space through simulation.&lt;/li&gt;
+&lt;li&gt;Learning-based algorithm to facilitate pedestrian traffic.
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Skill&lt;/th&gt;
+&lt;th&gt;Skill 1&lt;/th&gt;
+&lt;th&gt;Skill 2&lt;/th&gt;
+&lt;th&gt;Skill 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Hard&lt;/td&gt;
+&lt;td&gt;Problem statement&lt;/td&gt;
+&lt;td&gt;Evolutionary algorithms&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Soft&lt;/td&gt;
+&lt;td&gt;Autonomy&lt;/td&gt;
+&lt;td&gt;Oral communication&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
-      <title>hobbies</title>
+      <title>Education</title>
+      <link>https://a2n-s.github.io/public/about/education/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/about/education/</guid>
+      <description>Go back to the about me section or the front page.
+2019 – 2022  ISAE-Supaero Toulouse, France
+The Aeronautic &amp;amp; Space Superior Institute in France.
+Currently attending the Data Science &amp;amp; Decision Making (SDD) class:
+ geometrical, probabilistic and connectionist approaches commitee-based ML, Deep Learning and RL. stochastic optimization and evolution.  2017 – 2019  Preparatory Class [MPSI, MP,computer science]
+Georges Clemenceau High School, Nantes French class to prepare for highly selective graduate schools.</description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;2019--2022&#34;&gt;2019 – 2022&lt;/h1&gt;
+&lt;p&gt;     ISAE-Supaero Toulouse, France&lt;br&gt;
+     The Aeronautic &amp;amp; Space Superior Institute in France.&lt;br&gt;
+Currently attending the Data Science &amp;amp; Decision Making (SDD) class:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;geometrical, probabilistic and connectionist approaches&lt;/li&gt;
+&lt;li&gt;commitee-based ML, Deep Learning and RL.&lt;/li&gt;
+&lt;li&gt;stochastic optimization and evolution.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2017--2019&#34;&gt;2017 – 2019&lt;/h1&gt;
+&lt;p&gt;     Preparatory Class [MPSI, MP,computer science]&lt;br&gt;
+     Georges Clemenceau High School, Nantes
+French class to prepare for highly selective graduate schools.&lt;/p&gt;
+&lt;h1 id=&#34;2014--2017&#34;&gt;2014 – 2017&lt;/h1&gt;
+&lt;p&gt;     High school [engineering science sand computer science]&lt;br&gt;
+     Léonce Vieljeux High School, France
+Good results in high schools opens the way to preparatory classes after graduation, which are selective classes.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Hobbies</title>
       <link>https://a2n-s.github.io/public/about/hobbies/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/about/hobbies/</guid>
-      <description>This is my hobbies.
-Go back to the front page.</description>
-      <content>&lt;p&gt;This is my hobbies.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <description>Configuring and building software for my ArchLinux distro. I document my Arch configuration on my websites. Coding games in the SCSC or ML algorithms in my free time for fun. An artistic pane out of wood and resin to decorate my place. 6502 μ-computer, on breadboard, with custom games in assembly. A CPU out of logic gates with custom assembly.  Go back to the about me section or the front page.</description>
+      <content>&lt;ul&gt;
+&lt;li&gt;Configuring and building software for my ArchLinux distro.&lt;/li&gt;
+&lt;li&gt;I document my Arch configuration on my websites.&lt;/li&gt;
+&lt;li&gt;Coding games in the SCSC or ML algorithms in my free time for fun.&lt;/li&gt;
+&lt;li&gt;An artistic pane out of wood and resin to decorate my place.&lt;/li&gt;
+&lt;li&gt;6502 μ-computer, on breadboard, with custom games in assembly.&lt;/li&gt;
+&lt;li&gt;A CPU out of logic gates with custom assembly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>Me</title>
       <link>https://a2n-s.github.io/public/about/me/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/about/me/</guid>
-      <description>This is about me.
-Go back to the front page.</description>
-      <content>&lt;p&gt;This is about me.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <description>Go back to the about me section or the front page.
+Hey, this is me again!  So you wanna know more about me? Let&amp;rsquo;s go a bit deeper then!
+My look. This is fairly easy I guess to find my real look on the internet, a few google researches around Github and LinkedIn should be enough.
+I just find it boring to use a real photograph of mine as a virtual avatar.</description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;img src=&#34;https://a2n-s.github.io/public/public/res/ewilan.png&#34;  alt=&#34;/public/res/ewilan.png&#34;  class=&#34;center&#34;  width=&#34;500&#34; height=&#34;&#34; /&gt;
+
+
+&lt;h1 id=&#34;hey-this-is-me-again&#34;&gt;Hey, this is me again!&lt;/h1&gt;
+&lt;p&gt;
+  &lt;img src=&#34;https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif&#34;  alt=&#34;https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif&#34;  class=&#34;center&#34;  width=&#34;50&#34; height=&#34;50&#34; /&gt;
+
+
+So you wanna know more about me? Let&amp;rsquo;s go a bit deeper then!&lt;/p&gt;
+&lt;h1 id=&#34;my-look&#34;&gt;My look.&lt;/h1&gt;
+&lt;p&gt;This is fairly easy I guess to find my real look on the internet, a few google researches around Github and LinkedIn should be enough.&lt;br&gt;
+I just find it boring to use a real photograph of mine as a virtual avatar. If there is a place where it is easy to look different without being different, I think it is the Internet!&lt;/p&gt;
+&lt;p&gt;So let me present to you the greater Drawer the Earth and Gwendalavir have ever know, formerly called Camille Duciel, but nowadays known as&amp;hellip;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://a2n-s.github.io/public/public/res/ewilan2.png&#34;  alt=&#34;/public/res/ewilan2.png&#34;   /&gt;
+    
+      &lt;figcaption class=&#34;center&#34; &gt;Ewilan Gil&#39; Sayan&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+Really, if you do not know this person, I warmly recommend the books of Pierre Bottero about her adventures!&lt;br&gt;
+She is badass, her friends are cool and become your friends as well, &amp;hellip;, lovely reading ahead.&lt;/p&gt;
+&lt;h1 id=&#34;my-interests&#34;&gt;My interests.&lt;/h1&gt;
+&lt;h1 id=&#34;my-memberships&#34;&gt;My memberships.&lt;/h1&gt;
+&lt;p&gt;I also am:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;part of the &lt;a href=&#34;https://github.com/SuReLI&#34;&gt;Supareo Reinforcement Learning Initiative&lt;/a&gt; (SuReLI) lab in the ISAE-Supaero where I do research and heads towards a PhD in 2 years from now.&lt;/li&gt;
+&lt;li&gt;the vice-predident of the &lt;a href=&#34;https://github.com/Supaero-Computer-Science-Club&#34;&gt;Supaero Computer Science Club&lt;/a&gt; the first and only computer science, video game development and linux- oriented club of the ISAE-Supaero.&lt;/li&gt;
+&lt;li&gt;a member of the &lt;a href=&#34;https://sites.google.com/view/innovspace&#34;&gt;InnovSpace&lt;/a&gt; of Supaero, a place where students come and create stuffs from wood, 3D-printing techniques, electronics, &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
-      <title>resume</title>
+      <title>Resume</title>
       <link>https://a2n-s.github.io/public/about/resume/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/about/resume/</guid>
-      <description>This is my resume.
-Go back to the front page.</description>
-      <content>&lt;p&gt;This is my resume.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <description>The resume is available here.
+Go back to the about me section or the front page.</description>
+      <content>&lt;p&gt;The resume is available &lt;a href=&#34;https://github.com/a2n-s/a2n-s/blob/main/resume.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
-      <title>skills</title>
+      <title>Skills</title>
       <link>https://a2n-s.github.io/public/about/skills/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/about/skills/</guid>
-      <description>This is my skills.
-Go back to the front page.</description>
-      <content>&lt;p&gt;This is my skills.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;../../&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <description>Go back to the about me section or the front page.
+Languages French - native speaker
+English - fluent
+German - very good
+Japanese - beginner
+LSF - beginner
+Hard Skills  Linux, Arch, Windows Python, LaTeX, C, C++, Java, Processing, Assembly, Arduino, CamL, Racket MySQL, PostGreSQL, Redis PyTorch, NumPy, Pandas, SciPy, Scikit-Learn sh, bash, ssh, git Jupyter, Google Colab, Computers Cluster, Excel, Gimp, Blender markdown, css, JavaScript, html  Soft Skills Dedicated - Intrinsically curious - Calm under pressure - Versatile - Fast-learner - Spontaneous - Honest - Open-minded</description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;languages&#34;&gt;Languages&lt;/h1&gt;
+&lt;p&gt;French - native speaker&lt;br&gt;
+English - fluent&lt;br&gt;
+German - very good&lt;br&gt;
+Japanese - beginner&lt;br&gt;
+LSF - beginner&lt;/p&gt;
+&lt;h1 id=&#34;hard-skills&#34;&gt;Hard Skills&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Linux, Arch, Windows&lt;/li&gt;
+&lt;li&gt;Python, LaTeX, C, C++, Java, Processing, Assembly, Arduino, CamL, Racket&lt;/li&gt;
+&lt;li&gt;MySQL, PostGreSQL, Redis&lt;/li&gt;
+&lt;li&gt;PyTorch, NumPy, Pandas, SciPy, Scikit-Learn&lt;/li&gt;
+&lt;li&gt;sh, bash, ssh, git&lt;/li&gt;
+&lt;li&gt;Jupyter, Google Colab, Computers Cluster, Excel, Gimp, Blender&lt;/li&gt;
+&lt;li&gt;markdown, css, JavaScript, html&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;soft-skills&#34;&gt;Soft Skills&lt;/h1&gt;
+&lt;p&gt;Dedicated - Intrinsically curious - Calm under pressure - Versatile - Fast-learner - Spontaneous - Honest - Open-minded&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
