@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>monitoring on a2n-s&#39; Personal Website &amp; Blog</title>
+    <link>https://a2n-s.github.io/public/tags/monitoring/</link>
+    <description>Recent content in monitoring on a2n-s&#39; Personal Website &amp; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/monitoring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>htop.</title>
+      <link>https://a2n-s.github.io/public/config/doc/programs/htop/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/config/doc/programs/htop/</guid>
+      <description>Go back to the programs, the doc or the front page.
+&amp;ldquo;htop is an interactive system-monitor process-viewer and process-manager.&amp;rdquo;
+Some resources.  the wikipedia page here. the arch manual page here.  Install htop manually.  install the htop command. copy htoprc inside your ~/.config/htop directory.  Gallery. Available soon.
+Snippets on the dotfiles repo.
+Go back to the programs, the doc or the front page.</description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;htop is an interactive system-monitor process-viewer and process-manager.&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;the wikipedia page &lt;a href=&#34;https://en.wikipedia.org/wiki/Htop&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;the arch manual page &lt;a href=&#34;https://man.archlinux.org/man/htop.1.en&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;install-htop-manually&#34;&gt;Install htop manually.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;install the &lt;code&gt;htop&lt;/code&gt; command.&lt;/li&gt;
+&lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/htop/htoprc&#34;&gt;&lt;code&gt;htoprc&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/.config/htop&lt;/code&gt; directory.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
+&lt;p&gt;Available soon.&lt;br&gt;
+Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

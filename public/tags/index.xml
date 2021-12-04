@@ -48,21 +48,71 @@
     </item>
     
     <item>
-      <title>tag1</title>
-      <link>https://a2n-s.github.io/public/tags/tag1/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      <title>config</title>
+      <link>https://a2n-s.github.io/public/tags/config/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/tags/tag1/</guid>
+      <guid>https://a2n-s.github.io/public/tags/config/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
-      <title>tag2</title>
-      <link>https://a2n-s.github.io/public/tags/tag2/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      <title>contact</title>
+      <link>https://a2n-s.github.io/public/tags/contact/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/tags/tag2/</guid>
+      <guid>https://a2n-s.github.io/public/tags/contact/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>dmenu</title>
+      <link>https://a2n-s.github.io/public/tags/dmenu/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/dmenu/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>dmscripts</title>
+      <link>https://a2n-s.github.io/public/tags/dmscripts/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/dmscripts/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>doc</title>
+      <link>https://a2n-s.github.io/public/tags/doc/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/doc/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>dotfiles</title>
+      <link>https://a2n-s.github.io/public/tags/dotfiles/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/dotfiles/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>editor</title>
+      <link>https://a2n-s.github.io/public/tags/editor/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/editor/</guid>
       <description></description>
       <content></content>
     </item>
@@ -73,6 +123,16 @@
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/tags/education/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>files</title>
+      <link>https://a2n-s.github.io/public/tags/files/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/files/</guid>
       <description></description>
       <content></content>
     </item>
@@ -108,6 +168,16 @@
     </item>
     
     <item>
+      <title>monitoring</title>
+      <link>https://a2n-s.github.io/public/tags/monitoring/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/monitoring/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
       <title>posts</title>
       <link>https://a2n-s.github.io/public/tags/posts/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
@@ -118,11 +188,121 @@
     </item>
     
     <item>
+      <title>programs</title>
+      <link>https://a2n-s.github.io/public/tags/programs/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/programs/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>rice</title>
+      <link>https://a2n-s.github.io/public/tags/rice/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/rice/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>screen</title>
+      <link>https://a2n-s.github.io/public/tags/screen/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/screen/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>scripts</title>
+      <link>https://a2n-s.github.io/public/tags/scripts/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/scripts/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://a2n-s.github.io/public/tags/security/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/security/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>shell</title>
+      <link>https://a2n-s.github.io/public/tags/shell/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/shell/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
       <title>skills</title>
       <link>https://a2n-s.github.io/public/tags/skills/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/tags/skills/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>terminal</title>
+      <link>https://a2n-s.github.io/public/tags/terminal/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/terminal/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>tools</title>
+      <link>https://a2n-s.github.io/public/tags/tools/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/tools/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>vi</title>
+      <link>https://a2n-s.github.io/public/tags/vi/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/vi/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>wallpapers</title>
+      <link>https://a2n-s.github.io/public/tags/wallpapers/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/wallpapers/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>windows manager</title>
+      <link>https://a2n-s.github.io/public/tags/windows-manager/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/windows-manager/</guid>
       <description></description>
       <content></content>
     </item>

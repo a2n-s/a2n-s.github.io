@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shell on a2n-s&#39; Personal Website &amp; Blog</title>
+    <link>https://a2n-s.github.io/public/tags/shell/</link>
+    <description>Recent content in shell on a2n-s&#39; Personal Website &amp; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bash.</title>
+      <link>https://a2n-s.github.io/public/config/doc/programs/bash/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/config/doc/programs/bash/</guid>
+      <description>Go back to the programs, the doc or the front page.
+&amp;ldquo;Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.&amp;rdquo;
+Some resources.  the wikipedia page here. an extensive tutorial to use bash here.  Dependencies for the bash shell.  the scripts in the scripts directory. neofetch, git and cal.  Install the bash shell environment manually.</description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;img src=&#34;https://a2n-s.github.io/public/config/doc/images/bash-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/config/doc/images/bash-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+
+
+&lt;p&gt;&amp;ldquo;Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;the wikipedia page &lt;a href=&#34;https://en.wikipedia.org/wiki/Bash_(Unix_shell)&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;an extensive tutorial to use bash &lt;a href=&#34;https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dependencies-for-the-bash-shell&#34;&gt;Dependencies for the bash shell.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;the scripts in the &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts&#34;&gt;&lt;code&gt;scripts&lt;/code&gt;&lt;/a&gt; directory.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;neofetch&lt;/code&gt;, &lt;code&gt;git&lt;/code&gt; and &lt;code&gt;cal&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;install-the-bash-shell-environment-manually&#34;&gt;Install the bash shell environment manually.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;install the dependencies.&lt;/li&gt;
+&lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bash_aliases&#34;&gt;&lt;code&gt;.bash_aliases&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bash_logout&#34;&gt;&lt;code&gt;.bash_logout&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bash_profile&#34;&gt;&lt;code&gt;.bash_profile&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bashrc&#34;&gt;&lt;code&gt;.bashrc&lt;/code&gt;&lt;/a&gt; and &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.profile&#34;&gt;&lt;code&gt;.profile&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/&lt;/code&gt; directory.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
+&lt;p&gt;Available soon.&lt;br&gt;
+Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

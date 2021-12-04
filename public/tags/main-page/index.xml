@@ -59,6 +59,68 @@ I am studying &lt;strong&gt;data science &amp;amp; machine learning (ML)&lt;/str
     </item>
     
     <item>
+      <title>Config</title>
+      <link>https://a2n-s.github.io/public/config/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/config/</guid>
+      <description>This is the config section.
+ the entire doc here. the doftiles for my Arch setup (*). my dmenu rice (*). all the dmscripts I use (*). my wallpapers (*).  (*) means that the field comes from another place. Clicking will redirect you there.
+Go back to the front page.</description>
+      <content>&lt;p&gt;This is the config section.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the entire doc &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://github.com/a2n-s/dotfiles&#34;&gt;doftiles&lt;/a&gt; for my Arch setup (*).&lt;/li&gt;
+&lt;li&gt;my &lt;a href=&#34;https://github.com/a2n-s/dmenu&#34;&gt;dmenu rice&lt;/a&gt; (*).&lt;/li&gt;
+&lt;li&gt;all the &lt;a href=&#34;https://github.com/a2n-s/dmscripts&#34;&gt;dmscripts&lt;/a&gt; I use (*).&lt;/li&gt;
+&lt;li&gt;my &lt;a href=&#34;https://github.com/a2n-s/wallpapers&#34;&gt;wallpapers&lt;/a&gt; (*).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(*) means that the field comes from another place. Clicking will redirect you there.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>https://a2n-s.github.io/public/contact/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/contact/</guid>
+      <description>I you want to contact me, fell free to:
+ reach me on GitHub DM me on Discord (antoine#1306) send me an email  Go back to the front page.</description>
+      <content>&lt;p&gt;I you want to contact me, fell free to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;reach me on &lt;a href=&#34;https://github.com/a2n-s&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;DM me on Discord (antoine#1306)&lt;/li&gt;
+&lt;li&gt;send me an &lt;a href=&#34;mailto:Antoine.Stevan@student.isae-supaero.fr&#34;&gt;email&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Doc</title>
+      <link>https://a2n-s.github.io/public/config/doc/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/config/doc/</guid>
+      <description>This page allows the user to redirect to the different docs of my config, as the latter is composed of many different blocks.
+One can find information below:
+ the programs I run on my machine. the scripts I use to make my life easier. the doftiles for my Arch setup. my dmenu rice. all the dmscripts I use. my wallpapers.  </description>
+      <content>&lt;p&gt;This page allows the user to redirect to the different docs of my config, as the latter is composed of many different blocks.&lt;br&gt;
+One can find information below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt; I run on my machine.&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/scripts&#34;&gt;scripts&lt;/a&gt; I use to make my life easier.&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/dotfiles&#34;&gt;doftiles&lt;/a&gt; for my Arch setup.&lt;/li&gt;
+&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/dmenu&#34;&gt;dmenu rice&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;all the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/dmscripts&#34;&gt;dmscripts&lt;/a&gt; I use.&lt;/li&gt;
+&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/wallpapers&#34;&gt;wallpapers&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
       <title>Posts</title>
       <link>https://a2n-s.github.io/public/posts/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>

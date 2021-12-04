@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wallpapers on a2n-s&#39; Personal Website &amp; Blog</title>
+    <link>https://a2n-s.github.io/public/tags/wallpapers/</link>
+    <description>Recent content in wallpapers on a2n-s&#39; Personal Website &amp; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/wallpapers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nitrogen</title>
+      <link>https://a2n-s.github.io/public/config/doc/programs/nitrogen/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/config/doc/programs/nitrogen/</guid>
+      <description>Go back to the programs, the doc or the front page.
+a wallpaper manager.
+Some resources.  the arch wiki page here. a youtube tutorial here.  Dependencies for nitrogen.  some wallpapers to load and restore. mine currently is a vibrant scene.  Install nitrogen manually.  install the dependencies. install the nitrogen command. copy nitrogen.cfg inside your ~/.config/nitrogen directory.  Gallery. Available soon.
+Snippets on the dotfiles repo.</description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;a wallpaper manager.&lt;/p&gt;
+&lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;the arch wiki page &lt;a href=&#34;https://wiki.archlinux.org/title/nitrogen&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;a youtube tutorial &lt;a href=&#34;https://www.youtube.com/watch?v=V4Kh2JBrpO0&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dependencies-for-nitrogen&#34;&gt;Dependencies for nitrogen.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;some wallpapers to load and restore.&lt;/li&gt;
+&lt;li&gt;mine currently is a &lt;a href=&#34;https://voyage-onirique.com/wp-content/uploads/2020/03/backiee-138908-landscape-scaled.jpg&#34;&gt;vibrant scene&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;install-nitrogen-manually&#34;&gt;Install nitrogen manually.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;install the dependencies.&lt;/li&gt;
+&lt;li&gt;install the &lt;code&gt;nitrogen&lt;/code&gt; command.&lt;/li&gt;
+&lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/nitrogen/nitrogen.cfg&#34;&gt;&lt;code&gt;nitrogen.cfg&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/.config/nitrogen&lt;/code&gt; directory.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
+&lt;p&gt;Available soon.&lt;br&gt;
+Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Wallpapers</title>
+      <link>https://a2n-s.github.io/public/config/doc/wallpapers/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/config/doc/wallpapers/</guid>
+      <description>Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+Go back to the doc or the front page.</description>
+      <content>&lt;h1 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h1&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/wallpapers&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
