@@ -1,11 +1,11 @@
 ---
-title: "resume"
-date: 2021-09-12T22:08:05+02:00
-tags: ["tag1", "tag2"]
-keywords: ["keyword1", "keyword2"]
-description: "Description"
+title: "Resume"
+date: 2021-04-12
+tags: ["about", "resume", "me", "resume"]
+keywords: ["about", "resume", "me", "resume"]
+description: "My full resume, for those who are interested in a professional format."
 ---
 
-This is my resume.  
+The resume is available [here](https://github.com/a2n-s/a2n-s/blob/main/resume.pdf).
 
-Go back to the [front page](../../).  
+Go back to the [about me](/public/about) section or the [front page](/public).  

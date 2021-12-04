@@ -1,11 +1,33 @@
 ---
 title: "Me"
-date: 2021-09-12T22:08:05+02:00
-tags: ["tag1", "tag2"]
-keywords: ["keyword1", "keyword2"]
-description: "Description"
+date: 2021-04-12
+tags: ["about", "resume", "me"]
+keywords: ["about", "resume", "me"]
+description: "More details about myself."
 ---
+Go back to the [about me](/public/about) section or the [front page](/public).  
 
-This is about me.  
+{{<image src="/public/res/ewilan.png" alt="/public/res/ewilan.png" title="Wave hand" width="500" position="center">}}
+# Hey, this is me again!
+{{<image src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" title="Wave hand" height="50" width="50" position="center">}}
+So you wanna know more about me? Let's go a bit deeper then!
 
-Go back to the [front page](../../).  
+# My look.
+This is fairly easy I guess to find my real look on the internet, a few google researches around Github and LinkedIn should be enough.  
+I just find it boring to use a real photograph of mine as a virtual avatar. If there is a place where it is easy to look different without being different, I think it is the Internet!  
+
+So let me present to you the greater Drawer the Earth and Gwendalavir have ever know, formerly called Camille Duciel, but nowadays known as...
+{{<figure src="/public/res/ewilan2.png" alt="/public/res/ewilan2.png" title="Wave hand" width="500" position="center" caption="Ewilan Gil' Sayan">}}
+Really, if you do not know this person, I warmly recommend the books of Pierre Bottero about her adventures!  
+She is badass, her friends are cool and become your friends as well, ..., lovely reading ahead.
+
+
+# My interests.
+
+# My memberships.
+I also am:
+- part of the [Supareo Reinforcement Learning Initiative](https://github.com/SuReLI) (SuReLI) lab in the ISAE-Supaero where I do research and heads towards a PhD in 2 years from now.
+- the vice-predident of the [Supaero Computer Science Club](https://github.com/Supaero-Computer-Science-Club) the first and only computer science, video game development and linux- oriented club of the ISAE-Supaero.
+- a member of the [InnovSpace](https://sites.google.com/view/innovspace) of Supaero, a place where students come and create stuffs from wood, 3D-printing techniques, electronics, ...
+
+Go back to the [about me](/public/about) section or the [front page](/public).  

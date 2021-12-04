@@ -37,12 +37,6 @@ paginate = 5
   # it's set to `true` by default
   # oneHeadingSize = false
 
-[params.twitter]
-  # set Twitter handles for Twitter cards
-  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
-  # do not include @
-  creator = ""
-  site = ""
 
 [languages]
   [languages.en]
@@ -74,14 +68,22 @@ paginate = 5
       identifier = "about"
       name = "About"
       url = "/about"
+      weight=1
     [[languages.en.menu.main]]
       identifier = "posts"
       name = "Posts"
       url = "/posts"
+      weight=2
     [[languages.en.menu.main]]
       identifier = "config"
       name = "Config"
       url = "/config"
+      weight=3
+    [[languages.en.menu.main]]
+      identifier = "tags"
+      name = "Tags"
+      url = "/tags"
+      weight=4
 
 #  [languages.fr]
 #    languageName = "French"

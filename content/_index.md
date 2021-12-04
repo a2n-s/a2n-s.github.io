@@ -1,16 +1,19 @@
 ---
 title: "Front page"
-date: 2021-09-12T22:08:05+02:00
-tags: ["tag1", "tag2"]
-keywords: ["keyword1", "keyword2"]
-description: "Description"
+date: 2021-04-12
 ---
 
-This is the front page.
+{{<image src="/public/res/ewilan.png" alt="/public/res/ewilan.png" title="Wave hand" width="500" position="center">}}
+# Welcome to my personal website.
+{{<image src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" title="Wave hand" height="50" width="50" position="center">}}
 
-About me [here](about).  
-My config [here](config).  
-My posts [here](posts).  
+### Short introduction.
+Here you will find all sorts of things about me. This place is meant to be as friendly as possible, free of any copyright and with usefull stuff I do or I did!  
 
-List of previews of my posts below  
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+### Disclaimer.
+If you find any error or issue in the pages, or have any idea for improvements or things I am missing, please feel very free to contact me!
+
+### Places one might want to explore.
+If you want more information about me, my education, my hobbies and my goals in like, [click here](/public/about).  
+As I use Arch Linux on a daily basis, I created a very personal config a share some of its key components [over there](/public/config).  
+In the future, I would like to take the time to posts [here](/public/posts).  

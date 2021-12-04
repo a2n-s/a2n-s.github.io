@@ -1,11 +1,13 @@
 ---
 title: "Posts"
-date: 2021-09-12T22:08:05+02:00
-tags: ["tag1", "tag2"]
-keywords: ["keyword1", "keyword2"]
-description: "Description"
+date: 2021-04-12
+tags: ["index", "main page", "posts"]
+keywords: ["index", "main page", "posts"]
+description: "The front page of the posts I would like to broadcast about topics as programming, linux, or machine learning."
 ---
 
-This is the posts.
+Below here, I would like to take the time to write some blog posts some day.  
+These would prbably be content about code, linux, mathematics, these kind of stuff.  
+# Stay tuned!!
 
-Go back to the [front page](../).  
+Go back to the [front page](/public).  
