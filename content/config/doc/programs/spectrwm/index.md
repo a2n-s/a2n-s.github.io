@@ -1,10 +1,11 @@
 ---
 title: "spectrWM"
-date: 2021-09-12T22:08:05+02:00
-tags: ["tag1", "tag2"]
-keywords: ["keyword1", "keyword2"]
-description: "Description"
+date: 2021-04-12
+tags: ["doc", "programs", "windows manager"]
+keywords: ["doc", "programs", "windows manager"]
+description: "My first ever windows manager and advices to install all the required config on your machine."
 ---
+Go back to the [programs](/public/config/doc/programs), the [doc](/public/config/doc) or the [front page](/public).  
 
 "spectrwm is a small, dynamic tiling and reparenting window manager for X11."
 
@@ -34,7 +35,10 @@ description: "Description"
 - copy [`spectrwm.conf`] and [`spectrwm_us.conf`] inside your `~/.config/spectrwm` directory.
 
 ## Gallery.
-Available soon.
+Available soon.  
+Snippets on the [dotfiles](https://github.com/a2n-s/dotfiles#4-gallery-toc) repo.
+
+Go back to the [programs](/public/config/doc/programs), the [doc](/public/config/doc) or the [front page](/public).  
 
 [`spectrWM-baraction.sh`]: https://github.com/a2n-s/dotfiles/blob/main/scripts/spectrWM-baraction.sh
 [`togkb.sh`]:              https://github.com/a2n-s/dotfiles/blob/main/scripts/togkb.sh

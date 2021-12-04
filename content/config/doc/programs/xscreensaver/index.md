@@ -1,10 +1,11 @@
 ---
 title: "xscreensaver"
-date: 2021-09-12T22:08:05+02:00
-tags: ["tag1", "tag2"]
-keywords: ["keyword1", "keyword2"]
-description: "Description"
+date: 2021-04-12
+tags: ["doc", "programs", "security"]
+keywords: ["doc", "programs", "security"]
+description: "Some config installation to secure once machine."
 ---
+Go back to the [programs](/public/config/doc/programs), the [doc](/public/config/doc) or the [front page](/public).  
 
 "XScreenSaver is a screen saver and locker for the X Window System. "
 
@@ -18,6 +19,9 @@ description: "Description"
 - copy [`.xscreensaver`] inside your `~/` directory.
 
 ## Gallery.
-Available soon.
+Available soon.  
+Snippets on the [dotfiles](https://github.com/a2n-s/dotfiles#4-gallery-toc) repo.
+
+Go back to the [programs](/public/config/doc/programs), the [doc](/public/config/doc) or the [front page](/public).  
 
 [`.xscreensaver`]: https://github.com/a2n-s/dotfiles/blob/main/.xscreensaver

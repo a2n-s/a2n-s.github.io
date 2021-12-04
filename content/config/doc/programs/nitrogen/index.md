@@ -1,10 +1,11 @@
 ---
 title: "nitrogen"
-date: 2021-09-12T22:08:05+02:00
-tags: ["tag1", "tag2"]
-keywords: ["keyword1", "keyword2"]
-description: "Description"
+date: 2021-04-12
+tags: ["doc", "programs", "wallpapers"]
+keywords: ["doc", "programs", "wallpapers"]
+description: "How to install the same config to restore wallpapers."
 ---
+Go back to the [programs](/public/config/doc/programs), the [doc](/public/config/doc) or the [front page](/public).  
 
  a wallpaper manager.
 
@@ -23,6 +24,9 @@ description: "Description"
 - copy [`nitrogen.cfg`] inside your `~/.config/nitrogen` directory.
 
 ## Gallery.
-Available soon.
+Available soon.  
+Snippets on the [dotfiles](https://github.com/a2n-s/dotfiles#4-gallery-toc) repo.
+
+Go back to the [programs](/public/config/doc/programs), the [doc](/public/config/doc) or the [front page](/public).  
 
 [`nitrogen.cfg`]: https://github.com/a2n-s/dotfiles/blob/main/.config/nitrogen/nitrogen.cfg

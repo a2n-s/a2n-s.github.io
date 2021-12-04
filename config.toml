@@ -70,20 +70,25 @@ paginate = 5
       url = "/about"
       weight=1
     [[languages.en.menu.main]]
+      identifier = "contact"
+      name = "Contact Me"
+      url = "/contact"
+      weight=2
+    [[languages.en.menu.main]]
       identifier = "posts"
       name = "Posts"
       url = "/posts"
-      weight=2
+      weight=3
     [[languages.en.menu.main]]
       identifier = "config"
       name = "Config"
       url = "/config"
-      weight=3
+      weight=4
     [[languages.en.menu.main]]
       identifier = "tags"
       name = "Tags"
       url = "/tags"
-      weight=4
+      weight=5
 
 #  [languages.fr]
 #    languageName = "French"

@@ -1,18 +1,15 @@
 ---
 title: "tmux"
-date: 2021-09-12T22:08:05+02:00
-tags: ["tag1", "tag2"]
-keywords: ["keyword1", "keyword2"]
-description: "Description"
+date: 2021-04-12
+tags: ["doc", "programs", "terminal"]
+keywords: ["doc", "programs", "terminal"]
+description: "Install this config to multiplex terminals like a pro!"
 ---
+Go back to the [programs](/public/config/doc/programs), the [doc](/public/config/doc) or the [front page](/public).  
 
-{{< 
-figure src="https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png" 
-       alt="https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-logo.png"
-       title="tmux' logo"
-       height="100"
-       position="center"
->}}
+{{< image src="https://a2n-s.github.io/public/config/doc/images/tmux-logo.png" 
+          alt="https://a2n-s.github.io/public/config/doc/images/tmux-logo.png"
+          title="tmux' logo" height="150" position="center">}}
 
 "tmux is an open-source terminal multiplexer for Unix-like operating systems."
 
@@ -26,6 +23,9 @@ figure src="https://a2n-s.github.io/graphic.github.io/config/doc/images/tmux-log
 - copy [`.tmux.conf`] inside your `~/` directory.
 
 ## Gallery.
-Available soon.
+Available soon.  
+Snippets on the [dotfiles](https://github.com/a2n-s/dotfiles#4-gallery-toc) repo.
+
+Go back to the [programs](/public/config/doc/programs), the [doc](/public/config/doc) or the [front page](/public).  
 
 [`.tmux.conf`]: https://github.com/a2n-s/dotfiles/blob/main/.tmux.conf

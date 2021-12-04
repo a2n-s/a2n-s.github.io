@@ -1,17 +1,19 @@
 ---
 title: "Config"
-date: 2021-09-12T22:08:05+02:00
-tags: ["tag1", "tag2"]
-keywords: ["keyword1", "keyword2"]
-description: "Description"
+date: 2021-04-12
+tags: ["index", "main page", "config"]
+keywords: ["index", "main page", "config"]
+description: "Details about my linux configuration."
 ---
 
 This is the config section.
 
-Doc [here](doc).  
-doftiles [here](dotfiles).  
-dmenu [here](dmenu).  
-dmscripts [here](dmscripts).  
-Wallpapers [here](wallpapers).  
+- the entire doc [here](/public/config/doc).  
+- the [doftiles](https://github.com/a2n-s/dotfiles) for my Arch setup (\*).  
+- my [dmenu rice](https://github.com/a2n-s/dmenu) (\*).  
+- all the [dmscripts](https://github.com/a2n-s/dmscripts) I use (\*).  
+- my [wallpapers](https://github.com/a2n-s/wallpapers) (\*).  
 
-Go back to the [front page](../).  
+(\*) means that the field comes from another place. Clicking will redirect you there.
+
+Go back to the [front page](/public).  

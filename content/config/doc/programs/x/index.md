@@ -1,18 +1,15 @@
 ---
 title: "x"
-date: 2021-09-12T22:08:05+02:00
-tags: ["tag1", "tag2"]
-keywords: ["keyword1", "keyword2"]
-description: "Description"
+date: 2021-04-12
+tags: ["doc", "programs", "screen"]
+keywords: ["doc", "programs", "screen"]
+description: "Some installation details to be able to display things on the screen."
 ---
+Go back to the [programs](/public/config/doc/programs), the [doc](/public/config/doc) or the [front page](/public).  
 
-{{< 
-figure src="https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png" 
-       alt="https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.png"
-       title="x' logo"
-       height="150"
-       position="center"
->}}
+{{< image src="https://a2n-s.github.io/public/config/doc/images/x-logo.png" 
+          alt="https://a2n-s.github.io/public/config/doc/images/x-logo.png"
+          title="x' logo" height="150" position="center">}}
 
 "The X.Org Server runs on many free-software Unix-like operating systems, including being adopted for use by most Linux distributions and BSD variants."
 
@@ -33,6 +30,9 @@ figure src="https://a2n-s.github.io/graphic.github.io/config/doc/images/x-logo.p
 - copy [`.xinitrc`] inside your `~/` directory.
 
 ## Gallery.
-Available soon.
+Available soon.  
+Snippets on the [dotfiles](https://github.com/a2n-s/dotfiles#4-gallery-toc) repo.
+
+Go back to the [programs](/public/config/doc/programs), the [doc](/public/config/doc) or the [front page](/public).  
 
 [`.xinitrc`]: https://github.com/a2n-s/dotfiles/blob/main/.xinitrc

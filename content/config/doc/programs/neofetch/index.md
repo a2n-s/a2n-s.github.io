@@ -1,20 +1,17 @@
 ---
 title: "neofetch"
-date: 2021-09-12T22:08:05+02:00
-tags: ["tag1", "tag2"]
-keywords: ["keyword1", "keyword2"]
-description: "Description"
+date: 2021-04-12
+tags: ["doc", "programs", "terminal"]
+keywords: ["doc", "programs", "terminal"]
+description: "Prints information on the terminal at log time, information to install the config locally."
 ---
+Go back to the [programs](/public/config/doc/programs), the [doc](/public/config/doc) or the [front page](/public).  
 
-{{< 
-figure src="https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png" 
-       alt="https://a2n-s.github.io/graphic.github.io/config/doc/images/neofetch-logo.png"
-       title="Neofetch's logo"
-       width="450"
-       position="center"
->}}
+{{< image src="https://a2n-s.github.io/public/config/doc/images/neofetch-logo.png" 
+          alt="https://a2n-s.github.io/public/config/doc/images/neofetch-logo.png"
+          title="neofetch's logo" height="150" position="center">}}
 
-neofetch is "a command-line system information tool written in bash 3.2+"
+`neofetch` is "a command-line system information tool written in bash 3.2+"
 
 
 ## Some resources.
@@ -30,7 +27,10 @@ neofetch is "a command-line system information tool written in bash 3.2+"
 - copy [`config.conf`], [`.neofetchrc`] and the files in [`ascii`] inside your `~/.config/neofetch` directory.
 
 ## Gallery.
-Available soon.
+Available soon.  
+Snippets on the [dotfiles](https://github.com/a2n-s/dotfiles#4-gallery-toc) repo.
+
+Go back to the [programs](/public/config/doc/programs), the [doc](/public/config/doc) or the [front page](/public).  
 
 [`config.conf`]: https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/config.conf
 [`.neofetchrc`]: https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/.neofetchrc

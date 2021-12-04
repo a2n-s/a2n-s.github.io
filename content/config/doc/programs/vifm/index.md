@@ -1,18 +1,15 @@
 ---
 title: "vifm"
-date: 2021-09-12T22:08:05+02:00
-tags: ["tag1", "tag2"]
-keywords: ["keyword1", "keyword2"]
-description: "Description"
+date: 2021-04-12
+tags: ["doc", "programs", "files", "vi"]
+keywords: ["doc", "programs", "files", "vi"]
+description: "Explore files of the system with the config of vifm."
 ---
+Go back to the [programs](/public/config/doc/programs), the [doc](/public/config/doc) or the [front page](/public).  
 
-{{< 
-figure src="https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png" 
-       alt="https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-logo.png"
-       title="vifm' logo"
-       height="150"
-       position="center"
->}}
+{{< image src="https://a2n-s.github.io/public/config/doc/images/vifm-logo.png" 
+          alt="https://a2n-s.github.io/public/config/doc/images/vifm-logo.png"
+          title="vifm's logo" height="150" position="center">}}
 
 "Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. "
 
@@ -26,7 +23,10 @@ figure src="https://a2n-s.github.io/graphic.github.io/config/doc/images/vifm-log
 - copy [`vifmrc`] and the [`colors`] inside your `~/.config/vifm` directory.
 
 ## Gallery.
-Available soon.
+Available soon.  
+Snippets on the [dotfiles](https://github.com/a2n-s/dotfiles#4-gallery-toc) repo.
+
+Go back to the [programs](/public/config/doc/programs), the [doc](/public/config/doc) or the [front page](/public).  
 
 [`vifmrc`]: https://github.com/a2n-s/dotfiles/blob/main/.config/vifm/vifmrc
 [`colors`]: https://github.com/a2n-s/dotfiles/blob/main/.config/vifm/colors

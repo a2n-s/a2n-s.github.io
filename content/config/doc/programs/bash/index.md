@@ -1,18 +1,15 @@
 ---
-title: "bash shell environment."
-date: 2021-09-12T22:08:05+02:00
-tags: ["tag1", "tag2"]
-keywords: ["keyword1", "keyword2"]
-description: "Description"
+title: "bash."
+date: 2021-04-12
+tags: ["doc", "programs", "shell"]
+keywords: ["doc", "programs", "shell"]
+description: "The famous Unix Shell, some detail, how to install my config."
 ---
+Go back to the [programs](/public/config/doc/programs), the [doc](/public/config/doc) or the [front page](/public).  
 
-{{< 
-figure src="https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png" 
-       alt="https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-logo.png"
-       title="Bash's logo"
-       height="150"
-       position="center"
->}}
+{{< image src="https://a2n-s.github.io/public/config/doc/images/bash-logo.png" 
+          alt="https://a2n-s.github.io/public/config/doc/images/bash-logo.png"
+          title="Bash's logo" height="150" position="center">}}
 
 "Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell."
 
@@ -30,7 +27,10 @@ figure src="https://a2n-s.github.io/graphic.github.io/config/doc/images/bash-log
 - copy [`.bash_aliases`], [`.bash_logout`], [`.bash_profile`], [`.bashrc`] and [`.profile`] inside your `~/` directory.
 
 ## Gallery.
-Available soon.
+Available soon.  
+Snippets on the [dotfiles](https://github.com/a2n-s/dotfiles#4-gallery-toc) repo.
+
+Go back to the [programs](/public/config/doc/programs), the [doc](/public/config/doc) or the [front page](/public).  
 
 [`scripts`]:       https://github.com/a2n-s/dotfiles/blob/main/scripts
 [`.bash_aliases`]: https://github.com/a2n-s/dotfiles/blob/main/.bash_aliases
