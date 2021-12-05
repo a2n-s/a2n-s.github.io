@@ -20,6 +20,30 @@
     <loc>https://a2n-s.github.io/public/tags/</loc>
     <lastmod>2021-09-12T22:08:05+02:00</lastmod>
   </url><url>
+    <loc>https://a2n-s.github.io/public/tags/bar/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2n-s.github.io/public/doc/config/programs/bspwm/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2n-s.github.io/public/tags/doc/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2n-s.github.io/public/tags/keyboard/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2n-s.github.io/public/doc/config/programs/polybar/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2n-s.github.io/public/tags/programs/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2n-s.github.io/public/doc/config/programs/sxhkd/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2n-s.github.io/public/tags/windows-manager/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://a2n-s.github.io/public/about/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -57,9 +81,6 @@
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2n-s.github.io/public/tags/doc/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/dotfiles/</loc>
@@ -120,9 +141,6 @@
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/programs/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2n-s.github.io/public/tags/programs/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/scripts/prompt.sh/</loc>
@@ -195,9 +213,6 @@
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/wallpapers/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2n-s.github.io/public/tags/windows-manager/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/scripts/wvenv.sh/</loc>

@@ -48,6 +48,56 @@
     </item>
     
     <item>
+      <title>bar</title>
+      <link>https://a2n-s.github.io/public/tags/bar/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/bar/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>doc</title>
+      <link>https://a2n-s.github.io/public/tags/doc/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/doc/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>keyboard</title>
+      <link>https://a2n-s.github.io/public/tags/keyboard/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/keyboard/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>programs</title>
+      <link>https://a2n-s.github.io/public/tags/programs/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/programs/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>windows manager</title>
+      <link>https://a2n-s.github.io/public/tags/windows-manager/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/windows-manager/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
       <title>config</title>
       <link>https://a2n-s.github.io/public/tags/config/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
@@ -83,16 +133,6 @@
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/tags/dmscripts/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>doc</title>
-      <link>https://a2n-s.github.io/public/tags/doc/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/tags/doc/</guid>
       <description></description>
       <content></content>
     </item>
@@ -183,16 +223,6 @@
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/tags/posts/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>programs</title>
-      <link>https://a2n-s.github.io/public/tags/programs/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/tags/programs/</guid>
       <description></description>
       <content></content>
     </item>
@@ -293,16 +323,6 @@
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/tags/wallpapers/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>windows manager</title>
-      <link>https://a2n-s.github.io/public/tags/windows-manager/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/tags/windows-manager/</guid>
       <description></description>
       <content></content>
     </item>

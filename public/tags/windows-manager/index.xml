@@ -6,7 +6,45 @@
     <description>Recent content in windows manager on a2n-s&#39; Personal Website &amp; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/windows-manager/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/windows-manager/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bspwm</title>
+      <link>https://a2n-s.github.io/public/doc/config/programs/bspwm/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/doc/config/programs/bspwm/</guid>
+      <description>Go back to the programs, the doc or the front page.
+&amp;ldquo;bspwm is a tiling window manager that represents windows as the leaves of a full binary tree.&amp;rdquo;
+Some resources.  the github page here the arch wiki page here the arch manual page here the arch manual page of sxhkb here https://www.youtube.com/watch?v=_55HGnz422M https://wiki.archlinux.org/title/rxvt-unicode https://github.com/notusknot/dotfiles https://github.com/aguslr/bspwm-config https://gitlab.com/dwt1/dotfiles  Dependencies for bspwm.  available soon.  Install bspwm.  available soon.  Gallery.</description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;bspwm is a tiling window manager that represents windows as the leaves of a full binary tree.&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;the github page &lt;a href=&#34;https://github.com/baskerville/bspwm&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;the arch wiki page &lt;a href=&#34;https://wiki.archlinux.org/title/bspwm&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;the arch manual page &lt;a href=&#34;https://man.archlinux.org/man/bspwm.1&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;the arch manual page of sxhkb &lt;a href=&#34;https://man.archlinux.org/man/sxhkd.1&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=_55HGnz422M&#34;&gt;https://www.youtube.com/watch?v=_55HGnz422M&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.archlinux.org/title/rxvt-unicode&#34;&gt;https://wiki.archlinux.org/title/rxvt-unicode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/notusknot/dotfiles&#34;&gt;https://github.com/notusknot/dotfiles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aguslr/bspwm-config&#34;&gt;https://github.com/aguslr/bspwm-config&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/dwt1/dotfiles&#34;&gt;https://gitlab.com/dwt1/dotfiles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dependencies-for-bspwm&#34;&gt;Dependencies for bspwm.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;available soon.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;install-bspwm&#34;&gt;Install bspwm.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;available soon.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
+&lt;p&gt;Available soon.&lt;br&gt;
+Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>spectrWM</title>
       <link>https://a2n-s.github.io/public/doc/config/programs/spectrwm/</link>

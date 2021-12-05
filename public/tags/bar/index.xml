@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bar on a2n-s&#39; Personal Website &amp; Blog</title>
+    <link>https://a2n-s.github.io/public/tags/bar/</link>
+    <description>Recent content in bar on a2n-s&#39; Personal Website &amp; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/bar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>polybar</title>
+      <link>https://a2n-s.github.io/public/doc/config/programs/polybar/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/doc/config/programs/polybar/</guid>
+      <description>Go back to the programs, the doc or the front page.
+&amp;ldquo;A fast and easy to use tool for creating status bars.&amp;rdquo;
+Some resources.  the github page here the home page here the arch wiki page here some themes for polybar here  Dependencies for polybar.  available soon.  Install polybar.  available soon.  Gallery. Available soon.
+Snippets on the dotfiles repo.
+Go back to the programs, the doc or the front page.</description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;A fast and easy to use tool for creating status bars.&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;the github page &lt;a href=&#34;https://github.com/polybar/polybar&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;the home page &lt;a href=&#34;https://polybar.github.io/&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;the arch wiki page &lt;a href=&#34;https://wiki.archlinux.org/title/Polybar&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;some themes for polybar &lt;a href=&#34;https://github.com/adi1090x/polybar-themes&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dependencies-for-polybar&#34;&gt;Dependencies for polybar.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;available soon.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;install-polybar&#34;&gt;Install polybar.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;available soon.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
+&lt;p&gt;Available soon.&lt;br&gt;
+Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
