@@ -8,7 +8,7 @@ description: "Details about my linux configuration."
 
 This is the config section.
 
-- the entire doc [here](/public/config/doc).  
+- the entire doc [here](/public/doc/config).  
 - the [doftiles](https://github.com/a2n-s/dotfiles) for my Arch setup (\*).  
 - my [dmenu rice](https://github.com/a2n-s/dmenu) (\*).  
 - all the [dmscripts](https://github.com/a2n-s/dmscripts) I use (\*).  

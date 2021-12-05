@@ -85,10 +85,15 @@ paginate = 5
       url = "/config"
       weight=4
     [[languages.en.menu.main]]
+      identifier = "doc"
+      name = "Doc"
+      url = "/doc"
+      weight=5
+    [[languages.en.menu.main]]
       identifier = "tags"
       name = "Tags"
       url = "/tags"
-      weight=5
+      weight=6
 
 #  [languages.fr]
 #    languageName = "French"
