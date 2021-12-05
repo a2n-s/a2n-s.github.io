@@ -18,7 +18,7 @@ Alacritty is a minimal terminal emulator.
 Some resources.  the github page here. the arch wiki page here.  Dependencies for alacritty.  xterm-256color mode to display many colors. the mononoki nerd font: can be installed with yay -S nerd-fonts-mononoki  Install alacritty manually.  install the dependencies. install the alacritty command. copy alacritty.yml inside your ~/.config/alacritty directory.  Gallery.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/doc/config/programs/alacritty-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/doc/config/programs/alacritty-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/programs/alacritty-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/programs/alacritty-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;Alacritty is a minimal terminal emulator.&lt;/p&gt;
@@ -56,7 +56,7 @@ Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&
 Some resources.  the wikipedia page here. an extensive tutorial to use bash here.  Dependencies for the bash shell.  the scripts in the scripts directory. neofetch, git and cal.  Install the bash shell environment manually.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/doc/config/programs/bash-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/doc/config/programs/bash-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/programs/bash-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/programs/bash-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&amp;ldquo;Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.&amp;rdquo;&lt;/p&gt;
@@ -176,7 +176,7 @@ Go back to the doc or the front page.</description>
 Some resources.  the official page here. the arch wiki page here. an interactive and visual tutorial to learn git here.  Install git manually.  install the git command. copy .gitconfig inside your ~/ directory.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/doc/config/programs/git-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/doc/config/programs/git-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/programs/git-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/programs/git-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&amp;ldquo;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&amp;rdquo;&lt;/p&gt;
@@ -239,7 +239,7 @@ neofetch is &amp;ldquo;a command-line system information tool written in bash 3.
 Some resources.  the github page here. the arch manual page here.  Dependencies for neofetch.  some art works in ~/.config/neofetch/ascii.  Install neofetch manually.  install the dependencies. install the neofetch command. copy config.conf, .neofetchrc and the files in ascii inside your ~/.config/neofetch directory.  Gallery. Available soon.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/doc/config/programs/neofetch-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/doc/config/programs/neofetch-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/programs/neofetch-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/programs/neofetch-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&lt;code&gt;neofetch&lt;/code&gt; is &amp;ldquo;a command-line system information tool written in bash 3.2+&amp;rdquo;&lt;/p&gt;
@@ -483,7 +483,7 @@ Snippets on the dotfiles repo.
 Go back to the programs, the doc or the front page.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/doc/config/programs/tmux-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/doc/config/programs/tmux-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/programs/tmux-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/programs/tmux-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&amp;ldquo;tmux is an open-source terminal multiplexer for Unix-like operating systems.&amp;rdquo;&lt;/p&gt;
@@ -559,7 +559,7 @@ script can be found here.</description>
 Some resources.  the home page of vifm here. the github page here. the arch wiki page here.  Install vifm.  install the vifm command. copy vifmrc and the colors inside your ~/.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/doc/config/programs/vifm-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/doc/config/programs/vifm-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/programs/vifm-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/programs/vifm-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&amp;ldquo;Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. &amp;quot;&lt;/p&gt;
@@ -592,7 +592,7 @@ Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&
 Some resources.  the wikipedia page here. the arch wiki page here. for the hardcore vimmers among you, check here. an introduction to configuring vim here. adding python IDE features to vim here.  Dependencies for vim.  make sure to either run vim once with the .</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/doc/config/programs/vim-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/doc/config/programs/vim-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/programs/vim-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/programs/vim-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&amp;ldquo;Vim (/vɪm/; a contraction of Vi IMproved) is a free and open-source, screen-based text editor program for Unix.&amp;rdquo;&lt;/p&gt;
@@ -680,7 +680,7 @@ and NEVER intall &lt;code&gt;python&lt;/code&gt; package on you system directly!
 Some resources.  the wikipedia page here. the arch wiki page here.  Dependencies for x.  picom: a compositor for X11 nitrogen to load and restore wallpapers. xscreensaver to save and lock the screen. spectrWM: the window manager.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/doc/config/programs/x-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/doc/config/programs/x-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/programs/x-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/programs/x-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&amp;ldquo;The X.Org Server runs on many free-software Unix-like operating systems, including being adopted for use by most Linux distributions and BSD variants.&amp;rdquo;&lt;/p&gt;
