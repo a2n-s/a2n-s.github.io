@@ -9,16 +9,16 @@
     <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alacritty.</title>
-      <link>https://a2n-s.github.io/public/config/doc/programs/alacritty/</link>
+      <link>https://a2n-s.github.io/public/doc/config/programs/alacritty/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/programs/alacritty/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/programs/alacritty/</guid>
       <description>Go back to the programs, the doc or the front page.
 Alacritty is a minimal terminal emulator.
 Some resources.  the github page here. the arch wiki page here.  Dependencies for alacritty.  xterm-256color mode to display many colors. the mononoki nerd font: can be installed with yay -S nerd-fonts-mononoki  Install alacritty manually.  install the dependencies. install the alacritty command. copy alacritty.yml inside your ~/.config/alacritty directory.  Gallery.</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/config/doc/images/alacritty-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/config/doc/images/alacritty-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/doc/config/programs/alacritty-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/doc/config/programs/alacritty-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;Alacritty is a minimal terminal emulator.&lt;/p&gt;
@@ -41,22 +41,22 @@ Some resources.  the github page here. the arch wiki page here.  Dependencies fo
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
 &lt;p&gt;Available soon.&lt;br&gt;
 Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>neofetch</title>
-      <link>https://a2n-s.github.io/public/config/doc/programs/neofetch/</link>
+      <link>https://a2n-s.github.io/public/doc/config/programs/neofetch/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/programs/neofetch/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/programs/neofetch/</guid>
       <description>Go back to the programs, the doc or the front page.
 neofetch is &amp;ldquo;a command-line system information tool written in bash 3.2+&amp;rdquo;
 Some resources.  the github page here. the arch manual page here.  Dependencies for neofetch.  some art works in ~/.config/neofetch/ascii.  Install neofetch manually.  install the dependencies. install the neofetch command. copy config.conf, .neofetchrc and the files in ascii inside your ~/.config/neofetch directory.  Gallery. Available soon.</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/config/doc/images/neofetch-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/config/doc/images/neofetch-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/doc/config/programs/neofetch-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/doc/config/programs/neofetch-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&lt;code&gt;neofetch&lt;/code&gt; is &amp;ldquo;a command-line system information tool written in bash 3.2+&amp;rdquo;&lt;/p&gt;
@@ -78,24 +78,24 @@ Some resources.  the github page here. the arch manual page here.  Dependencies 
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
 &lt;p&gt;Available soon.&lt;br&gt;
 Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>tmux</title>
-      <link>https://a2n-s.github.io/public/config/doc/programs/tmux/</link>
+      <link>https://a2n-s.github.io/public/doc/config/programs/tmux/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/programs/tmux/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/programs/tmux/</guid>
       <description>Go back to the programs, the doc or the front page.
 &amp;ldquo;tmux is an open-source terminal multiplexer for Unix-like operating systems.&amp;rdquo;
 Some resources.  the github page here. the arch wiki page here.  Install tmux manually.  install the tmux command. copy .tmux.conf inside your ~/ directory.  Gallery. Available soon.
 Snippets on the dotfiles repo.
 Go back to the programs, the doc or the front page.</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/config/doc/images/tmux-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/config/doc/images/tmux-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/doc/config/programs/tmux-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/doc/config/programs/tmux-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&amp;ldquo;tmux is an open-source terminal multiplexer for Unix-like operating systems.&amp;rdquo;&lt;/p&gt;
@@ -112,7 +112,7 @@ Go back to the programs, the doc or the front page.</description>
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
 &lt;p&gt;Available soon.&lt;br&gt;
 Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     

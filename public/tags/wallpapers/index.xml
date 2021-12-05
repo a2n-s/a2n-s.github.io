@@ -9,15 +9,15 @@
     <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/wallpapers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>nitrogen</title>
-      <link>https://a2n-s.github.io/public/config/doc/programs/nitrogen/</link>
+      <link>https://a2n-s.github.io/public/doc/config/programs/nitrogen/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/programs/nitrogen/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/programs/nitrogen/</guid>
       <description>Go back to the programs, the doc or the front page.
 a wallpaper manager.
 Some resources.  the arch wiki page here. a youtube tutorial here.  Dependencies for nitrogen.  some wallpapers to load and restore. mine currently is a vibrant scene.  Install nitrogen manually.  install the dependencies. install the nitrogen command. copy nitrogen.cfg inside your ~/.config/nitrogen directory.  Gallery. Available soon.
 Snippets on the dotfiles repo.</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;a wallpaper manager.&lt;/p&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
 &lt;ul&gt;
@@ -38,21 +38,21 @@ Snippets on the dotfiles repo.</description>
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
 &lt;p&gt;Available soon.&lt;br&gt;
 Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>Wallpapers</title>
-      <link>https://a2n-s.github.io/public/config/doc/wallpapers/</link>
+      <link>https://a2n-s.github.io/public/doc/config/wallpapers/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/wallpapers/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/wallpapers/</guid>
       <description>Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
 Go back to the doc or the front page.</description>
       <content>&lt;h1 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h1&gt;
 &lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/wallpapers&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     

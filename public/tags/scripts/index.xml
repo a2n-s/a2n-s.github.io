@@ -9,27 +9,27 @@
     <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/scripts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>prompt.sh</title>
-      <link>https://a2n-s.github.io/public/config/doc/scripts/prompt.sh/</link>
+      <link>https://a2n-s.github.io/public/doc/config/scripts/prompt.sh/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/scripts/prompt.sh/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/scripts/prompt.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
 File is here</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/prompt.sh&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>screenshot.sh</title>
-      <link>https://a2n-s.github.io/public/config/doc/scripts/screenshot.sh/</link>
+      <link>https://a2n-s.github.io/public/doc/config/scripts/screenshot.sh/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/scripts/screenshot.sh/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/scripts/screenshot.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
 script can be found here.
 Dependencies for screenshot.sh.  the scrot command: can be installed with sudo pacman -S scrot on Arch.  </description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/screenshot.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;dependencies-for-screenshotsh&#34;&gt;Dependencies for screenshot.sh.&lt;/h2&gt;
 &lt;ul&gt;
@@ -40,39 +40,39 @@ Dependencies for screenshot.sh.  the scrot command: can be installed with sudo p
     
     <item>
       <title>Scripts</title>
-      <link>https://a2n-s.github.io/public/config/doc/scripts/</link>
+      <link>https://a2n-s.github.io/public/doc/config/scripts/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/scripts/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/scripts/</guid>
       <description>The programs I run on my machine can be split into a few parts:
  prompt.sh screenshot.sh spectrWM-baraction.sh togkb.sh tree2md.sh upl.sh wvenv.sh xtcl.sh  or in the list below.
 Go back to the doc or the front page.</description>
       <content>&lt;p&gt;The programs I run on my machine can be split into a few parts:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/scripts/prompt.sh&#34;&gt;prompt.sh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/scripts/screenshot.sh&#34;&gt;screenshot.sh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/scripts/spectrwm-baraction.sh&#34;&gt;spectrWM-baraction.sh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/scripts/togkb.sh&#34;&gt;togkb.sh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/scripts/tree2md.sh&#34;&gt;tree2md.sh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/scripts/upl.sh&#34;&gt;upl.sh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/scripts/wvenv.sh&#34;&gt;wvenv.sh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/scripts/xtcl.sh&#34;&gt;xtcl.sh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/prompt.sh&#34;&gt;prompt.sh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/screenshot.sh&#34;&gt;screenshot.sh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/spectrwm-baraction.sh&#34;&gt;spectrWM-baraction.sh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/togkb.sh&#34;&gt;togkb.sh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/tree2md.sh&#34;&gt;tree2md.sh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/upl.sh&#34;&gt;upl.sh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/wvenv.sh&#34;&gt;wvenv.sh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/xtcl.sh&#34;&gt;xtcl.sh&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;or in the list below.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>spectrWM-baraction.sh</title>
-      <link>https://a2n-s.github.io/public/config/doc/scripts/spectrwm-baraction.sh/</link>
+      <link>https://a2n-s.github.io/public/doc/config/scripts/spectrwm-baraction.sh/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/scripts/spectrwm-baraction.sh/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/scripts/spectrwm-baraction.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
 script can be found here.
 Dependencies for spectrWM-baraction.sh  disk commands: df, free, mpstat networking commands: ip, nmcli, ifstat setxkbmap to look at the keyboard layout, play to play sounds.  </description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/spectrWM-baraction.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;dependencies-for-spectrwm-baractionsh&#34;&gt;Dependencies for spectrWM-baraction.sh&lt;/h2&gt;
 &lt;ul&gt;
@@ -85,14 +85,14 @@ Dependencies for spectrWM-baraction.sh  disk commands: df, free, mpstat networki
     
     <item>
       <title>togkb.sh</title>
-      <link>https://a2n-s.github.io/public/config/doc/scripts/togkb.sh/</link>
+      <link>https://a2n-s.github.io/public/doc/config/scripts/togkb.sh/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/scripts/togkb.sh/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/scripts/togkb.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
 script can be found here.
 Dependencies for togkb.sh  setxkbmap to change the keyboard layout.  </description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/togkb.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;dependencies-for-togkbsh&#34;&gt;Dependencies for togkb.sh&lt;/h2&gt;
 &lt;ul&gt;
@@ -103,42 +103,42 @@ Dependencies for togkb.sh  setxkbmap to change the keyboard layout.  </descripti
     
     <item>
       <title>tree2md.sh</title>
-      <link>https://a2n-s.github.io/public/config/doc/scripts/tree2md.sh/</link>
+      <link>https://a2n-s.github.io/public/doc/config/scripts/tree2md.sh/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/scripts/tree2md.sh/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/scripts/tree2md.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
 File is here</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/tree2md.sh&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>upl.sh</title>
-      <link>https://a2n-s.github.io/public/config/doc/scripts/upl.sh/</link>
+      <link>https://a2n-s.github.io/public/doc/config/scripts/upl.sh/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/scripts/upl.sh/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/scripts/upl.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
 script can be found here.</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/upl.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>wvenv.</title>
-      <link>https://a2n-s.github.io/public/config/doc/scripts/wvenv.sh/</link>
+      <link>https://a2n-s.github.io/public/doc/config/scripts/wvenv.sh/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/scripts/wvenv.sh/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/scripts/wvenv.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
 script can be found here.
 Dependencies for wvenv. wvenv will not crash without these, but the output might be unpredictable.
  which to know where the command is located. python, python3 the python interpreters. pip, pip3 the python package managers. jupyter, jupyter-notebook to edit and see jupyter notebooks.  Notes:
  I really highly recommend you, once you have installed python on the system, to install virtualenv, pyenv, conda, or similar and NEVER intall python package on you system directly!</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/wvenv.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;dependencies-for-wvenv&#34;&gt;Dependencies for wvenv.&lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;wvenv&lt;/code&gt; will not crash without these, but the output might be unpredictable.&lt;/p&gt;
@@ -161,14 +161,14 @@ and NEVER intall &lt;code&gt;python&lt;/code&gt; package on you system directly!
     
     <item>
       <title>xtcl</title>
-      <link>https://a2n-s.github.io/public/config/doc/scripts/xtcl.sh/</link>
+      <link>https://a2n-s.github.io/public/doc/config/scripts/xtcl.sh/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/scripts/xtcl.sh/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/scripts/xtcl.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
 script can be found here.
 Dependencies for xtcl  xdotool to force the key value to unactive and xmodmap to disable the key.  </description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/xtcl.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;dependencies-for-xtcl&#34;&gt;Dependencies for xtcl&lt;/h2&gt;
 &lt;ul&gt;

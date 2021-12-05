@@ -9,16 +9,16 @@
     <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/programs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alacritty.</title>
-      <link>https://a2n-s.github.io/public/config/doc/programs/alacritty/</link>
+      <link>https://a2n-s.github.io/public/doc/config/programs/alacritty/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/programs/alacritty/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/programs/alacritty/</guid>
       <description>Go back to the programs, the doc or the front page.
 Alacritty is a minimal terminal emulator.
 Some resources.  the github page here. the arch wiki page here.  Dependencies for alacritty.  xterm-256color mode to display many colors. the mononoki nerd font: can be installed with yay -S nerd-fonts-mononoki  Install alacritty manually.  install the dependencies. install the alacritty command. copy alacritty.yml inside your ~/.config/alacritty directory.  Gallery.</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/config/doc/images/alacritty-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/config/doc/images/alacritty-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/doc/config/programs/alacritty-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/doc/config/programs/alacritty-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;Alacritty is a minimal terminal emulator.&lt;/p&gt;
@@ -41,22 +41,22 @@ Some resources.  the github page here. the arch wiki page here.  Dependencies fo
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
 &lt;p&gt;Available soon.&lt;br&gt;
 Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>bash.</title>
-      <link>https://a2n-s.github.io/public/config/doc/programs/bash/</link>
+      <link>https://a2n-s.github.io/public/doc/config/programs/bash/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/programs/bash/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/programs/bash/</guid>
       <description>Go back to the programs, the doc or the front page.
 &amp;ldquo;Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.&amp;rdquo;
 Some resources.  the wikipedia page here. an extensive tutorial to use bash here.  Dependencies for the bash shell.  the scripts in the scripts directory. neofetch, git and cal.  Install the bash shell environment manually.</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/config/doc/images/bash-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/config/doc/images/bash-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/doc/config/programs/bash-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/doc/config/programs/bash-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&amp;ldquo;Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.&amp;rdquo;&lt;/p&gt;
@@ -78,22 +78,22 @@ Some resources.  the wikipedia page here. an extensive tutorial to use bash here
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
 &lt;p&gt;Available soon.&lt;br&gt;
 Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>git</title>
-      <link>https://a2n-s.github.io/public/config/doc/programs/git/</link>
+      <link>https://a2n-s.github.io/public/doc/config/programs/git/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/programs/git/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/programs/git/</guid>
       <description>Go back to the programs, the doc or the front page.
 &amp;ldquo;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&amp;rdquo;
 Some resources.  the official page here. the arch wiki page here. an interactive and visual tutorial to learn git here.  Install git manually.  install the git command. copy .gitconfig inside your ~/ directory.</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/config/doc/images/git-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/config/doc/images/git-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/doc/config/programs/git-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/doc/config/programs/git-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&amp;ldquo;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&amp;rdquo;&lt;/p&gt;
@@ -111,22 +111,22 @@ Some resources.  the official page here. the arch wiki page here. an interactive
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
 &lt;p&gt;Available soon.&lt;br&gt;
 Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>htop.</title>
-      <link>https://a2n-s.github.io/public/config/doc/programs/htop/</link>
+      <link>https://a2n-s.github.io/public/doc/config/programs/htop/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/programs/htop/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/programs/htop/</guid>
       <description>Go back to the programs, the doc or the front page.
 &amp;ldquo;htop is an interactive system-monitor process-viewer and process-manager.&amp;rdquo;
 Some resources.  the wikipedia page here. the arch manual page here.  Install htop manually.  install the htop command. copy htoprc inside your ~/.config/htop directory.  Gallery. Available soon.
 Snippets on the dotfiles repo.
 Go back to the programs, the doc or the front page.</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;htop is an interactive system-monitor process-viewer and process-manager.&amp;rdquo;&lt;/p&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
 &lt;ul&gt;
@@ -141,22 +141,22 @@ Go back to the programs, the doc or the front page.</description>
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
 &lt;p&gt;Available soon.&lt;br&gt;
 Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>neofetch</title>
-      <link>https://a2n-s.github.io/public/config/doc/programs/neofetch/</link>
+      <link>https://a2n-s.github.io/public/doc/config/programs/neofetch/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/programs/neofetch/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/programs/neofetch/</guid>
       <description>Go back to the programs, the doc or the front page.
 neofetch is &amp;ldquo;a command-line system information tool written in bash 3.2+&amp;rdquo;
 Some resources.  the github page here. the arch manual page here.  Dependencies for neofetch.  some art works in ~/.config/neofetch/ascii.  Install neofetch manually.  install the dependencies. install the neofetch command. copy config.conf, .neofetchrc and the files in ascii inside your ~/.config/neofetch directory.  Gallery. Available soon.</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/config/doc/images/neofetch-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/config/doc/images/neofetch-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/doc/config/programs/neofetch-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/doc/config/programs/neofetch-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&lt;code&gt;neofetch&lt;/code&gt; is &amp;ldquo;a command-line system information tool written in bash 3.2+&amp;rdquo;&lt;/p&gt;
@@ -178,21 +178,21 @@ Some resources.  the github page here. the arch manual page here.  Dependencies 
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
 &lt;p&gt;Available soon.&lt;br&gt;
 Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>nitrogen</title>
-      <link>https://a2n-s.github.io/public/config/doc/programs/nitrogen/</link>
+      <link>https://a2n-s.github.io/public/doc/config/programs/nitrogen/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/programs/nitrogen/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/programs/nitrogen/</guid>
       <description>Go back to the programs, the doc or the front page.
 a wallpaper manager.
 Some resources.  the arch wiki page here. a youtube tutorial here.  Dependencies for nitrogen.  some wallpapers to load and restore. mine currently is a vibrant scene.  Install nitrogen manually.  install the dependencies. install the nitrogen command. copy nitrogen.cfg inside your ~/.config/nitrogen directory.  Gallery. Available soon.
 Snippets on the dotfiles repo.</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;a wallpaper manager.&lt;/p&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
 &lt;ul&gt;
@@ -213,16 +213,16 @@ Snippets on the dotfiles repo.</description>
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
 &lt;p&gt;Available soon.&lt;br&gt;
 Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>Programs</title>
-      <link>https://a2n-s.github.io/public/config/doc/programs/</link>
+      <link>https://a2n-s.github.io/public/doc/config/programs/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/programs/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/programs/</guid>
       <description>The programs I run on my machine can be split into a few parts:
  the basic video drivers:  xorg   the window management:  spectrwm nitrogen   programs that interacts with the system:  vifm xscreensaver   the programs for the terminal:  alacritty bash tmux neofetch   miscellaneous:  vim git htop    or in the list below.
 Go back to the doc or the front page.</description>
@@ -230,52 +230,52 @@ Go back to the doc or the front page.</description>
 &lt;ul&gt;
 &lt;li&gt;the basic video drivers:
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs/x&#34;&gt;xorg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs/x&#34;&gt;xorg&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;the window management:
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs/spectrwm&#34;&gt;spectrwm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs/nitrogen&#34;&gt;nitrogen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs/spectrwm&#34;&gt;spectrwm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs/nitrogen&#34;&gt;nitrogen&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;programs that interacts with the system:
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs/vifm&#34;&gt;vifm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs/xscreensaver&#34;&gt;xscreensaver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs/vifm&#34;&gt;vifm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs/xscreensaver&#34;&gt;xscreensaver&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;the programs for the terminal:
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs/alacritty&#34;&gt;alacritty&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs/bash&#34;&gt;bash&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs/tmux&#34;&gt;tmux&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs/neofetch&#34;&gt;neofetch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs/alacritty&#34;&gt;alacritty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs/bash&#34;&gt;bash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs/tmux&#34;&gt;tmux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs/neofetch&#34;&gt;neofetch&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;miscellaneous:
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs/vim&#34;&gt;vim&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs/git&#34;&gt;git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs/htop&#34;&gt;htop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs/vim&#34;&gt;vim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs/git&#34;&gt;git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs/htop&#34;&gt;htop&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;or in the list below.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>spectrWM</title>
-      <link>https://a2n-s.github.io/public/config/doc/programs/spectrwm/</link>
+      <link>https://a2n-s.github.io/public/doc/config/programs/spectrwm/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/programs/spectrwm/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/programs/spectrwm/</guid>
       <description>Go back to the programs, the doc or the front page.
 &amp;ldquo;spectrwm is a small, dynamic tiling and reparenting window manager for X11.&amp;rdquo;
 Some resources.  the github page here. the arch wiki page here. the arch manual page here.  Dependencies for spectrWM.  the mononoki nerd font. a spectrWM-baraction.sh file. a browser: firefox a menu: dmenu a terminal: alacritty an email application: thunderbird a rendering service: arandr an image editor: gimp.</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;spectrwm is a small, dynamic tiling and reparenting window manager for X11.&amp;rdquo;&lt;/p&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
 &lt;ul&gt;
@@ -307,24 +307,24 @@ Some resources.  the github page here. the arch wiki page here. the arch manual 
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
 &lt;p&gt;Available soon.&lt;br&gt;
 Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>tmux</title>
-      <link>https://a2n-s.github.io/public/config/doc/programs/tmux/</link>
+      <link>https://a2n-s.github.io/public/doc/config/programs/tmux/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/programs/tmux/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/programs/tmux/</guid>
       <description>Go back to the programs, the doc or the front page.
 &amp;ldquo;tmux is an open-source terminal multiplexer for Unix-like operating systems.&amp;rdquo;
 Some resources.  the github page here. the arch wiki page here.  Install tmux manually.  install the tmux command. copy .tmux.conf inside your ~/ directory.  Gallery. Available soon.
 Snippets on the dotfiles repo.
 Go back to the programs, the doc or the front page.</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/config/doc/images/tmux-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/config/doc/images/tmux-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/doc/config/programs/tmux-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/doc/config/programs/tmux-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&amp;ldquo;tmux is an open-source terminal multiplexer for Unix-like operating systems.&amp;rdquo;&lt;/p&gt;
@@ -341,22 +341,22 @@ Go back to the programs, the doc or the front page.</description>
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
 &lt;p&gt;Available soon.&lt;br&gt;
 Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>vifm</title>
-      <link>https://a2n-s.github.io/public/config/doc/programs/vifm/</link>
+      <link>https://a2n-s.github.io/public/doc/config/programs/vifm/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/programs/vifm/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/programs/vifm/</guid>
       <description>Go back to the programs, the doc or the front page.
 &amp;ldquo;Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. &amp;quot;
 Some resources.  the home page of vifm here. the github page here. the arch wiki page here.  Install vifm.  install the vifm command. copy vifmrc and the colors inside your ~/.</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/config/doc/images/vifm-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/config/doc/images/vifm-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/doc/config/programs/vifm-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/doc/config/programs/vifm-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&amp;ldquo;Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. &amp;quot;&lt;/p&gt;
@@ -374,22 +374,22 @@ Some resources.  the home page of vifm here. the github page here. the arch wiki
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
 &lt;p&gt;Available soon.&lt;br&gt;
 Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>vim</title>
-      <link>https://a2n-s.github.io/public/config/doc/programs/vim/</link>
+      <link>https://a2n-s.github.io/public/doc/config/programs/vim/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/programs/vim/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/programs/vim/</guid>
       <description>Go back to the programs, the doc or the front page.
 &amp;ldquo;Vim (/vɪm/; a contraction of Vi IMproved) is a free and open-source, screen-based text editor program for Unix.&amp;rdquo;
 Some resources.  the wikipedia page here. the arch wiki page here. for the hardcore vimmers among you, check here. an introduction to configuring vim here. adding python IDE features to vim here.  Dependencies for vim.  make sure to either run vim once with the .</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/config/doc/images/vim-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/config/doc/images/vim-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/doc/config/programs/vim-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/doc/config/programs/vim-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&amp;ldquo;Vim (/vɪm/; a contraction of Vi IMproved) is a free and open-source, screen-based text editor program for Unix.&amp;rdquo;&lt;/p&gt;
@@ -416,22 +416,22 @@ Some resources.  the wikipedia page here. the arch wiki page here. for the hardc
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
 &lt;p&gt;Available soon.&lt;br&gt;
 Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>x</title>
-      <link>https://a2n-s.github.io/public/config/doc/programs/x/</link>
+      <link>https://a2n-s.github.io/public/doc/config/programs/x/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/programs/x/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/programs/x/</guid>
       <description>Go back to the programs, the doc or the front page.
 &amp;ldquo;The X.Org Server runs on many free-software Unix-like operating systems, including being adopted for use by most Linux distributions and BSD variants.&amp;rdquo;
 Some resources.  the wikipedia page here. the arch wiki page here.  Dependencies for x.  picom: a compositor for X11 nitrogen to load and restore wallpapers. xscreensaver to save and lock the screen. spectrWM: the window manager.</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/config/doc/images/x-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/config/doc/images/x-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/doc/config/programs/x-logo.png&#34;  alt=&#34;https://a2n-s.github.io/public/doc/config/programs/x-logo.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&amp;ldquo;The X.Org Server runs on many free-software Unix-like operating systems, including being adopted for use by most Linux distributions and BSD variants.&amp;rdquo;&lt;/p&gt;
@@ -456,22 +456,22 @@ Some resources.  the wikipedia page here. the arch wiki page here.  Dependencies
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
 &lt;p&gt;Available soon.&lt;br&gt;
 Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>xscreensaver</title>
-      <link>https://a2n-s.github.io/public/config/doc/programs/xscreensaver/</link>
+      <link>https://a2n-s.github.io/public/doc/config/programs/xscreensaver/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/config/doc/programs/xscreensaver/</guid>
+      <guid>https://a2n-s.github.io/public/doc/config/programs/xscreensaver/</guid>
       <description>Go back to the programs, the doc or the front page.
 &amp;ldquo;XScreenSaver is a screen saver and locker for the X Window System. &amp;quot;
 Some resources.  the github page here. the arch wiki page here.  Install alacritty manually.  install the xscreensaver command. copy .xscreensaver inside your ~/ directory.  Gallery. Available soon.
 Snippets on the dotfiles repo.
 Go back to the programs, the doc or the front page.</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;XScreenSaver is a screen saver and locker for the X Window System. &amp;quot;&lt;/p&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
 &lt;ul&gt;
@@ -486,7 +486,7 @@ Go back to the programs, the doc or the front page.</description>
 &lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
 &lt;p&gt;Available soon.&lt;br&gt;
 Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/config/doc&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
