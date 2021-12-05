@@ -7,8 +7,8 @@ description: "A mininal terminal emulator for a minimal linux config."
 ---
 Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< image src="https://a2n-s.github.io/public/doc/config/programs/alacritty-logo.png" 
-          alt="https://a2n-s.github.io/public/doc/config/programs/alacritty-logo.png"
+{{< image src="https://a2n-s.github.io/public/res/doc/config/programs/alacritty-logo.png" 
+          alt="https://a2n-s.github.io/public/res/doc/config/programs/alacritty-logo.png"
           title="Alacritty's logo" height="150" position="center">}}
 
 Alacritty is a minimal terminal emulator.

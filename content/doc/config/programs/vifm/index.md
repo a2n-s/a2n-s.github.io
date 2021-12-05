@@ -7,8 +7,8 @@ description: "Explore files of the system with the config of vifm."
 ---
 Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< image src="https://a2n-s.github.io/public/doc/config/programs/vifm-logo.png" 
-          alt="https://a2n-s.github.io/public/doc/config/programs/vifm-logo.png"
+{{< image src="https://a2n-s.github.io/public/res/doc/config/programs/vifm-logo.png" 
+          alt="https://a2n-s.github.io/public/res/doc/config/programs/vifm-logo.png"
           title="vifm's logo" height="150" position="center">}}
 
 "Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. "

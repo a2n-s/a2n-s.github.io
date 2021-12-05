@@ -7,8 +7,8 @@ description: "The version control system of choice for me, suited for GitHub, Gi
 ---
 Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< image src="https://a2n-s.github.io/public/doc/config/programs/git-logo.png" 
-          alt="https://a2n-s.github.io/public/doc/config/programs/git-logo.png"
+{{< image src="https://a2n-s.github.io/public/res/doc/config/programs/git-logo.png" 
+          alt="https://a2n-s.github.io/public/res/doc/config/programs/git-logo.png"
           title="git's logo" height="150" position="center">}}
 
 "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."

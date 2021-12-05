@@ -7,8 +7,8 @@ description: "Some installation details to be able to display things on the scre
 ---
 Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< image src="https://a2n-s.github.io/public/doc/config/programs/x-logo.png" 
-          alt="https://a2n-s.github.io/public/doc/config/programs/x-logo.png"
+{{< image src="https://a2n-s.github.io/public/res/doc/config/programs/x-logo.png" 
+          alt="https://a2n-s.github.io/public/res/doc/config/programs/x-logo.png"
           title="x' logo" height="150" position="center">}}
 
 "The X.Org Server runs on many free-software Unix-like operating systems, including being adopted for use by most Linux distributions and BSD variants."

@@ -7,8 +7,8 @@ description: "The famous Unix Shell, some detail, how to install my config."
 ---
 Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< image src="https://a2n-s.github.io/public/doc/config/programs/bash-logo.png" 
-          alt="https://a2n-s.github.io/public/doc/config/programs/bash-logo.png"
+{{< image src="https://a2n-s.github.io/public/res/doc/config/programs/bash-logo.png" 
+          alt="https://a2n-s.github.io/public/res/doc/config/programs/bash-logo.png"
           title="Bash's logo" height="150" position="center">}}
 
 "Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell."

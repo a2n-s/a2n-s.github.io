@@ -7,8 +7,8 @@ description: "My config of vim and how to install it."
 ---
 Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< image src="https://a2n-s.github.io/public/doc/config/programs/vim-logo.png" 
-          alt="https://a2n-s.github.io/public/doc/config/programs/vim-logo.png"
+{{< image src="https://a2n-s.github.io/public/res/doc/config/programs/vim-logo.png" 
+          alt="https://a2n-s.github.io/public/res/doc/config/programs/vim-logo.png"
           title="vim's logo" height="150" position="center">}}
 
 "Vim (/vɪm/; a contraction of Vi IMproved) is a free and open-source, screen-based text editor program for Unix."

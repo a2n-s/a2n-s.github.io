@@ -7,8 +7,8 @@ description: "Install this config to multiplex terminals like a pro!"
 ---
 Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< image src="https://a2n-s.github.io/public/doc/config/programs/tmux-logo.png" 
-          alt="https://a2n-s.github.io/public/doc/config/programs/tmux-logo.png"
+{{< image src="https://a2n-s.github.io/public/res/doc/config/programs/tmux-logo.png" 
+          alt="https://a2n-s.github.io/public/res/doc/config/programs/tmux-logo.png"
           title="tmux' logo" height="150" position="center">}}
 
 "tmux is an open-source terminal multiplexer for Unix-like operating systems."

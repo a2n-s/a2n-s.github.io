@@ -7,8 +7,8 @@ description: "Prints information on the terminal at log time, information to ins
 ---
 Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< image src="https://a2n-s.github.io/public/doc/config/programs/neofetch-logo.png" 
-          alt="https://a2n-s.github.io/public/doc/config/programs/neofetch-logo.png"
+{{< image src="https://a2n-s.github.io/public/res/doc/config/programs/neofetch-logo.png" 
+          alt="https://a2n-s.github.io/public/res/doc/config/programs/neofetch-logo.png"
           title="neofetch's logo" height="150" position="center">}}
 
 `neofetch` is "a command-line system information tool written in bash 3.2+"
