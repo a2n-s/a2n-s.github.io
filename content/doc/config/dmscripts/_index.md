@@ -1,6 +1,7 @@
 ---
 title: "dmscripts"
-date: 2021-04-12
+date: 2021-12-04
+lastMod: 2021-12-09
 tags: ["doc", "dmscripts"]
 keywords: ["doc", "dmscripts"]
 description: "A fork of scripts for dmenu, allowing the use of complex commands in a friendly way."

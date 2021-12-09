@@ -1,6 +1,7 @@
 ---
 title: "Me"
-date: 2021-04-12
+date: 2021-12-04
+lastMod: 2021-12-09
 tags: ["about", "resume", "me"]
 keywords: ["about", "resume", "me"]
 description: "More details about myself."

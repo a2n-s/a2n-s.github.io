@@ -1,6 +1,7 @@
 ---
 title: "spectrWM"
-date: 2021-09-12
+date: 2021-12-04
+lastMod: 2021-12-09
 tags: ["doc", "dotfiles", "windows manager"]
 keywords: ["doc", "dotfiles", "windows manager"]
 description: "My first ever windows manager and advices to install all the required config on your machine."

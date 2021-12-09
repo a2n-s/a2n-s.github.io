@@ -1,6 +1,7 @@
 ---
 title: "Hobbies"
-date: 2021-04-12
+date: 2021-12-04
+lastMod: 2021-12-09
 tags: ["about", "resume", "me", "hobbies"]
 keywords: ["about", "resume", "me", "hobbies"]
 description: "What I do for fun."

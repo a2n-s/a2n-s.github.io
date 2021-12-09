@@ -1,6 +1,7 @@
 ---
 title: "Configs's Doc"
-date: 2021-09-12
+date: 2021-12-04
+lastMod: 2021-12-09
 tags: ["index", "main page", "doc", "config"]
 keywords: ["index", "main page", "doc", "config"]
 description: "The documentation of my Arch Linux configuration."

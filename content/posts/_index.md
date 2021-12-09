@@ -1,6 +1,7 @@
 ---
 title: "Posts"
-date: 2021-04-12
+date: 2021-12-04
+lastMod: 2021-12-09 
 tags: ["index", "main page", "posts"]
 keywords: ["index", "main page", "posts"]
 description: "The front page of the posts I would like to broadcast about topics as programming, linux, or machine learning."

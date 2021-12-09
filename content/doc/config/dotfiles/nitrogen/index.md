@@ -1,6 +1,7 @@
 ---
 title: "nitrogen"
-date: 2021-09-12
+date: 2021-12-04
+lastMod: 2021-12-09
 tags: ["doc", "dotfiles", "wallpapers"]
 keywords: ["doc", "dotfiles", "wallpapers"]
 description: "How to install the same config to restore wallpapers."

@@ -1,6 +1,7 @@
 ---
 title: "Scripts"
-date: 2021-04-12
+date: 2021-12-04
+lastMod: 2021-12-09
 tags: ["doc", "scripts"]
 keywords: ["doc", "scripts"]
 description: "All the hand-crafted scripts I use on my machine: tools using dmenu, utils to take screenshots, run the bar of spectrWM, and many more."

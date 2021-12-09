@@ -1,6 +1,7 @@
 ---
 title: "bspwm"
-date: 2021-09-12
+date: 2021-12-04
+lastMod: 2021-12-09
 tags: ["doc", "dotfiles", "windows manager"]
 keywords: ["doc", "dotfiles", "windows manager"]
 description: "The binary space partitioning windows manager."

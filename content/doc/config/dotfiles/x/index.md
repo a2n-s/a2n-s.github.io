@@ -1,6 +1,7 @@
 ---
 title: "x"
-date: 2021-09-12
+date: 2021-12-04
+lastMod: 2021-12-09
 tags: ["doc", "dotfiles", "screen"]
 keywords: ["doc", "dotfiles", "screen"]
 description: "Some installation details to be able to display things on the screen."

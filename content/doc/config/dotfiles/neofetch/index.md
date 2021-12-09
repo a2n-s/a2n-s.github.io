@@ -1,6 +1,7 @@
 ---
 title: "neofetch"
-date: 2021-09-12
+date: 2021-12-04
+lastMod: 2021-12-09
 tags: ["doc", "dotfiles", "terminal"]
 keywords: ["doc", "dotfiles", "terminal"]
 description: "Prints information on the terminal at log time, information to install the config locally."

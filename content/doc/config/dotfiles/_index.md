@@ -1,6 +1,7 @@
 ---
 title: "Dotfiles"
-date: 2021-09-12
+date: 2021-12-04
+lastMod: 2021-12-09
 tags: ["doc", "dotfiles"]
 keywords: ["doc", "dotfiles"]
 description: "All the dotfiles of the programs I run on my machine: my windows manager of the moment, my bar, my terminal emulator and many more."

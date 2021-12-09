@@ -1,6 +1,7 @@
 ---
 title: "Experiences"
-date: 2021-09-12T22:08:05+02:00
+date: 2021-12-04
+lastMod: 2021-12-09
 tags: ["about", "resume", "me", "experiences"]
 keywords: ["about", "resume", "me", "experiences"]
 description: "Details about my professional and semi-professional experiences."

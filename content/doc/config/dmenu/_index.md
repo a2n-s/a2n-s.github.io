@@ -1,6 +1,7 @@
 ---
 title: "dmenu"
-date: 2021-04-12
+date: 2021-12-04
+lastMod: 2021-12-09
 tags: ["doc", "dmenu", "rice"]
 keywords: ["doc", "dmenu", "rice"]
 description: "This is the doc of my fork of the dmenu source code, mainly patches I installed."

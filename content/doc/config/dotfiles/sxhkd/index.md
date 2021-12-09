@@ -1,6 +1,7 @@
 ---
 title: "sxhkd"
-date: 2021-09-12
+date: 2021-12-04
+lastMod: 2021-12-09
 tags: ["doc", "dotfiles", "keyboard"]
 keywords: ["doc", "dotfiles", "keyboard"]
 description: "Needed to interact with and control bspwm."

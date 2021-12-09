@@ -1,6 +1,7 @@
 ---
 title: "htop."
-date: 2021-09-12
+date: 2021-12-04
+lastMod: 2021-12-09
 tags: ["doc", "dotfiles", "monitoring"]
 keywords: ["doc", "dotfiles", "monitoring"]
 description: "A very easy to use process monitoring in the terminal, to manage, look at or kill processes. Some elements to install the config are given."
