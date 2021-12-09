@@ -194,31 +194,127 @@
 
   <div class="post-content"><div>
         <p>Go back to the <a href="/public/doc/config/dotfiles">dotfiles</a>, the <a href="/public/doc/config">doc</a> or the <a href="/public">front page</a>.</p>
+<p>
+  <figure class="center" >
+    <img src="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-alacritty.png"  alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-alacritty.png"    width="" height=""/>
+    
+      <figcaption class="center" >A few Alacritty instances on my machine.</figcaption>
+    
+  </figure>
+
+
+<em>Gaps, borders and opacity have been exagerated for aesthetic purposes.</em><br>
+More pictures of the config <a href="https://github.com/a2n-s/dotfiles#4-gallery-toc"><strong>here</strong></a>.</p>
+<p><code>----------------------------------------------------------------------------------------</code>
 
   <img src="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-alacritty.png"  alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-alacritty.png"  class="center"  width="" height="150" />
 
-
+</p>
 <p>Alacritty is a minimal terminal emulator.</p>
+<h1 id="table-of-content">Table of Content.<a href="#table-of-content" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
+<ul>
+<li><a href="#the-config">The config</a></li>
+<li><a href="#some-resources">Some resources</a></li>
+<li><a href="#dependencies">Dependencies</a></li>
+<li><a href="#manual-installation-process">Manual installation process</a></li>
+</ul>
+<h2 id="the-config">The config.<a href="#the-config" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>The <strong>theme</strong> is <em>simple</em> and <em>easy on the eyes</em>.<br>
+I changed the <em>cursor</em> and added a <em>visual bell</em>.<br>
+I use the following additional <strong>key-bindings</strong>:</p>
+<table>
+<thead>
+<tr>
+<th>Key-binding</th>
+<th>Action</th>
+<th>Character sent</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>F11</td>
+<td>ToggleFullscreen</td>
+<td></td>
+</tr>
+<tr>
+<td>Paste</td>
+<td>Paste</td>
+<td></td>
+</tr>
+<tr>
+<td>Copy</td>
+<td>Copy</td>
+<td></td>
+</tr>
+<tr>
+<td>Control         + Key0</td>
+<td>ResetFontSize</td>
+<td></td>
+</tr>
+<tr>
+<td>Control         + Equals</td>
+<td>IncreaseFontSize</td>
+<td></td>
+</tr>
+<tr>
+<td>Control         + Plus</td>
+<td>IncreaseFontSize</td>
+<td></td>
+</tr>
+<tr>
+<td>Control         + Minus</td>
+<td>DecreaseFontSize</td>
+<td></td>
+</tr>
+<tr>
+<td>Control         + L</td>
+<td>ClearLogNotice</td>
+<td></td>
+</tr>
+<tr>
+<td>Control         + L</td>
+<td></td>
+<td>&ldquo;\x0c&rdquo;</td>
+</tr>
+<tr>
+<td>Control         + N</td>
+<td>SpawnNewInstance</td>
+<td></td>
+</tr>
+<tr>
+<td>Control + Shift + V</td>
+<td>Paste</td>
+<td></td>
+</tr>
+<tr>
+<td>Control + Shift + C</td>
+<td>Copy</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <h2 id="some-resources">Some resources.<a href="#some-resources" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <ul>
-<li>the github page <a href="https://github.com/alacritty/alacritty">here</a>.</li>
-<li>the arch wiki page <a href="https://wiki.archlinux.org/title/Alacritty">here</a>.</li>
+<li>the <a href="https://github.com/alacritty/alacritty">GitHub</a> page.</li>
+<li>the <a href="https://wiki.archlinux.org/title/Alacritty">arch wiki</a> page.</li>
 </ul>
-<h2 id="dependencies-for-alacritty">Dependencies for alacritty.<a href="#dependencies-for-alacritty" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<h2 id="dependencies">Dependencies.<a href="#dependencies" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <ul>
 <li><code>xterm-256color</code> mode to display many colors.</li>
-<li>the <code>mononoki nerd font</code>: can be installed with <code>yay -S nerd-fonts-mononoki</code></li>
+<li>the <code>mononoki nerd font</code>: can be installed with <code>yay -S nerd-fonts-mononoki</code> on Arch.</li>
 </ul>
-<h2 id="install-alacritty-manually">Install alacritty manually.<a href="#install-alacritty-manually" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<h2 id="manual-installation-process">Manual installation process.<a href="#manual-installation-process" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <ul>
-<li>install the dependencies.</li>
+<li>install the dependencies above.</li>
 <li>install the <code>alacritty</code> command.</li>
 <li>copy <a href="https://github.com/a2n-s/dotfiles/blob/main/.config/alacritty/alacritty.yml"><code>alacritty.yml</code></a> inside your <code>~/.config/alacritty</code> directory.</li>
 </ul>
-<h2 id="gallery">Gallery.<a href="#gallery" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
-<p>Available soon.<br>
-Snippets on the <a href="https://github.com/a2n-s/dotfiles#4-gallery-toc">dotfiles</a> repo.</p>
-<p>Go back to the <a href="/public/doc/config/dotfiles">dotfiles</a>, the <a href="/public/doc/config">doc</a> or the <a href="/public">front page</a>.</p>
+<p>which might be more or less completed with:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">yay -S nerd-fonts-mononoki
+sudo pacman -Syu alacritty
+git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
+mv a2n-s_dotfiles/.config/alacritty/alacritty.yml ~/.config/alacritty/alacritty.yml
+</code></pre></div><p>Go back to the <a href="/public/doc/config/dotfiles">dotfiles</a>, the <a href="/public/doc/config">doc</a> or the <a href="/public">front page</a>.</p>
 
       </div></div>
 

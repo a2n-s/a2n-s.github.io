@@ -14,34 +14,133 @@
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/alacritty/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
-Alacritty is a minimal terminal emulator.
-Some resources.  the github page here. the arch wiki page here.  Dependencies for alacritty.  xterm-256color mode to display many colors. the mononoki nerd font: can be installed with yay -S nerd-fonts-mononoki  Install alacritty manually.  install the dependencies. install the alacritty command. copy alacritty.yml inside your ~/.config/alacritty directory.  Gallery.</description>
+ A few Alacritty instances on my machine.  Gaps, borders and opacity have been exagerated for aesthetic purposes.
+More pictures of the config here.
+---------------------------------------------------------------------------------------- Alacritty is a minimal terminal emulator.
+Table of Content.  The config Some resources Dependencies Manual installation process  The config. The theme is simple and easy on the eyes.
+I changed the cursor and added a visual bell.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-alacritty.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-alacritty.png&#34;    width=&#34;&#34; height=&#34;&#34;/&gt;
+    
+      &lt;figcaption class=&#34;center&#34; &gt;A few Alacritty instances on my machine.&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;em&gt;Gaps, borders and opacity have been exagerated for aesthetic purposes.&lt;/em&gt;&lt;br&gt;
+More pictures of the config &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;----------------------------------------------------------------------------------------&lt;/code&gt;
 
   &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-alacritty.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-alacritty.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
-
+&lt;/p&gt;
 &lt;p&gt;Alacritty is a minimal terminal emulator.&lt;/p&gt;
+&lt;h1 id=&#34;table-of-content&#34;&gt;Table of Content.&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#the-config&#34;&gt;The config&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#some-resources&#34;&gt;Some resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#dependencies&#34;&gt;Dependencies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#manual-installation-process&#34;&gt;Manual installation process&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-config&#34;&gt;The config.&lt;/h2&gt;
+&lt;p&gt;The &lt;strong&gt;theme&lt;/strong&gt; is &lt;em&gt;simple&lt;/em&gt; and &lt;em&gt;easy on the eyes&lt;/em&gt;.&lt;br&gt;
+I changed the &lt;em&gt;cursor&lt;/em&gt; and added a &lt;em&gt;visual bell&lt;/em&gt;.&lt;br&gt;
+I use the following additional &lt;strong&gt;key-bindings&lt;/strong&gt;:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Key-binding&lt;/th&gt;
+&lt;th&gt;Action&lt;/th&gt;
+&lt;th&gt;Character sent&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;F11&lt;/td&gt;
+&lt;td&gt;ToggleFullscreen&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Paste&lt;/td&gt;
+&lt;td&gt;Paste&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Copy&lt;/td&gt;
+&lt;td&gt;Copy&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Control         + Key0&lt;/td&gt;
+&lt;td&gt;ResetFontSize&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Control         + Equals&lt;/td&gt;
+&lt;td&gt;IncreaseFontSize&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Control         + Plus&lt;/td&gt;
+&lt;td&gt;IncreaseFontSize&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Control         + Minus&lt;/td&gt;
+&lt;td&gt;DecreaseFontSize&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Control         + L&lt;/td&gt;
+&lt;td&gt;ClearLogNotice&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Control         + L&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;\x0c&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Control         + N&lt;/td&gt;
+&lt;td&gt;SpawnNewInstance&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Control + Shift + V&lt;/td&gt;
+&lt;td&gt;Paste&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Control + Shift + C&lt;/td&gt;
+&lt;td&gt;Copy&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;the github page &lt;a href=&#34;https://github.com/alacritty/alacritty&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;the arch wiki page &lt;a href=&#34;https://wiki.archlinux.org/title/Alacritty&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://github.com/alacritty/alacritty&#34;&gt;GitHub&lt;/a&gt; page.&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://wiki.archlinux.org/title/Alacritty&#34;&gt;arch wiki&lt;/a&gt; page.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;dependencies-for-alacritty&#34;&gt;Dependencies for alacritty.&lt;/h2&gt;
+&lt;h2 id=&#34;dependencies&#34;&gt;Dependencies.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;xterm-256color&lt;/code&gt; mode to display many colors.&lt;/li&gt;
-&lt;li&gt;the &lt;code&gt;mononoki nerd font&lt;/code&gt;: can be installed with &lt;code&gt;yay -S nerd-fonts-mononoki&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;the &lt;code&gt;mononoki nerd font&lt;/code&gt;: can be installed with &lt;code&gt;yay -S nerd-fonts-mononoki&lt;/code&gt; on Arch.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;install-alacritty-manually&#34;&gt;Install alacritty manually.&lt;/h2&gt;
+&lt;h2 id=&#34;manual-installation-process&#34;&gt;Manual installation process.&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;install the dependencies.&lt;/li&gt;
+&lt;li&gt;install the dependencies above.&lt;/li&gt;
 &lt;li&gt;install the &lt;code&gt;alacritty&lt;/code&gt; command.&lt;/li&gt;
 &lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/alacritty/alacritty.yml&#34;&gt;&lt;code&gt;alacritty.yml&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/.config/alacritty&lt;/code&gt; directory.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
-&lt;p&gt;Available soon.&lt;br&gt;
-Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;which might be more or less completed with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;yay -S nerd-fonts-mononoki
+sudo pacman -Syu alacritty
+git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
+mv a2n-s_dotfiles/.config/alacritty/alacritty.yml ~/.config/alacritty/alacritty.yml
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
