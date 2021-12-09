@@ -6,7 +6,29 @@
     <description>Recent content in main page on a2n-s&#39; Personal Website &amp; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/main-page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/main-page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configs&#39;s Doc</title>
+      <link>https://a2n-s.github.io/public/doc/config/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/doc/config/</guid>
+      <description>This page allows the user to redirect to the different docs of my config, as the latter is composed of many different blocks.
+One can find information below:
+ the doftiles for my Arch setup. the scripts I use to make my life easier. my dmenu rice. all the dmscripts I use. my wallpapers.  Go back to the doc or to the front page.</description>
+      <content>&lt;p&gt;This page allows the user to redirect to the different docs of my config, as the latter is composed of many different blocks.&lt;br&gt;
+One can find information below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;doftiles&lt;/a&gt; for my Arch setup.&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt; I use to make my life easier.&lt;/li&gt;
+&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dmenu&#34;&gt;dmenu rice&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;all the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dmscripts&#34;&gt;dmscripts&lt;/a&gt; I use.&lt;/li&gt;
+&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/wallpapers&#34;&gt;wallpapers&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc&#34;&gt;doc&lt;/a&gt; or to the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://a2n-s.github.io/public/about/</link>
@@ -77,29 +99,6 @@ Go back to the front page.</description>
 &lt;/ul&gt;
 &lt;p&gt;(*) means that the field comes from another place. Clicking will redirect you there.&lt;/p&gt;
 &lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Configs&#39;s Doc</title>
-      <link>https://a2n-s.github.io/public/doc/config/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/doc/config/</guid>
-      <description>This page allows the user to redirect to the different docs of my config, as the latter is composed of many different blocks.
-One can find information below:
- the programs I run on my machine. the scripts I use to make my life easier. the doftiles for my Arch setup. my dmenu rice. all the dmscripts I use. my wallpapers.  Go back to the doc or to the front page.</description>
-      <content>&lt;p&gt;This page allows the user to redirect to the different docs of my config, as the latter is composed of many different blocks.&lt;br&gt;
-One can find information below:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/programs&#34;&gt;programs&lt;/a&gt; I run on my machine.&lt;/li&gt;
-&lt;li&gt;the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt; I use to make my life easier.&lt;/li&gt;
-&lt;li&gt;the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;doftiles&lt;/a&gt; for my Arch setup.&lt;/li&gt;
-&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dmenu&#34;&gt;dmenu rice&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;all the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dmscripts&#34;&gt;dmscripts&lt;/a&gt; I use.&lt;/li&gt;
-&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/wallpapers&#34;&gt;wallpapers&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc&#34;&gt;doc&lt;/a&gt; or to the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     

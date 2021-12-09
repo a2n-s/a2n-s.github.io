@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>spectrWM :: a2n-s&#39; Personal Website &amp; Blog</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="My first ever windows manager and advices to install all the required config on your machine." />
+<meta name="keywords" content="doc, dotfiles, windows manager" />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://a2n-s.github.io/public/doc/config/dotfiles/spectrwm/" />
+
+
+
+
+<link rel="stylesheet" href="https://a2n-s.github.io/public/assets/style.css">
+
+  <link rel="stylesheet" href="https://a2n-s.github.io/public/assets/blue.css">
+
+
+
+
+
+
+<link rel="apple-touch-icon" href="https://a2n-s.github.io/public/img/apple-touch-icon-192x192.png">
+
+  <link rel="shortcut icon" href="https://a2n-s.github.io/public/img/favicon/blue.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="spectrWM">
+<meta property="og:description" content="My first ever windows manager and advices to install all the required config on your machine." />
+<meta property="og:url" content="https://a2n-s.github.io/public/doc/config/dotfiles/spectrwm/" />
+<meta property="og:site_name" content="a2n-s&#39; Personal Website &amp; Blog" />
+
+  
+    <meta property="og:image" content="https://a2n-s.github.io/public/img/favicon/blue.png">
+  
+
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+
+  <meta property="article:published_time" content="2021-09-12 00:00:00 &#43;0000 UTC" />
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="blue">
+
+
+<div class="container center headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/">
+  <div class="logo">
+    Home
+  </div>
+</a>
+
+    </div>
+    
+      <div class="menu-trigger">menu</div>
+    
+  </div>
+  
+    <nav class="menu">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/public/">Front page</a></li>
+        
+      
+        
+          <li><a href="/public/about">About</a></li>
+        
+      
+        
+          <li><a href="/public/contact">Contact Me</a></li>
+        
+      
+        
+          <li><a href="/public/posts">Posts</a></li>
+        
+      
+        
+          <li><a href="/public/config">Config</a></li>
+        
+      
+        
+          <li><a href="/public/doc">Doc</a></li>
+        
+      
+        
+          <li><a href="/public/tags">Tags</a></li>
+        
+      
+      
+    
+
+    
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/public/">Front page</a></li>
+      
+    
+      
+        <li><a href="/public/about">About</a></li>
+      
+    
+      
+        <li><a href="/public/contact">Contact Me</a></li>
+      
+    
+      
+        <li><a href="/public/posts">Posts</a></li>
+      
+    
+      
+        <li><a href="/public/config">Config</a></li>
+      
+    
+      
+        <li><a href="/public/doc">Doc</a></li>
+      
+    
+      
+        <li><a href="/public/tags">Tags</a></li>
+      
+    
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<div class="post">
+  <h1 class="post-title">
+    <a href="https://a2n-s.github.io/public/doc/config/dotfiles/spectrwm/">spectrWM</a></h1>
+  <div class="post-meta">
+    
+      <span class="post-date">
+        2021-09-12
+        
+          [Updated: 2021-09-12]
+        
+      </span>
+    
+    
+    
+  </div>
+
+  
+  <span class="post-tags">
+    
+    #<a href="https://a2n-s.github.io/public/tags/doc/">doc</a>&nbsp;
+    
+    #<a href="https://a2n-s.github.io/public/tags/dotfiles/">dotfiles</a>&nbsp;
+    
+    #<a href="https://a2n-s.github.io/public/tags/windows-manager/">windows manager</a>&nbsp;
+    
+  </span>
+  
+  
+
+
+  
+
+  <div class="post-content"><div>
+        <p>Go back to the <a href="/public/doc/config/dotfiles">dotfiles</a>, the <a href="/public/doc/config">doc</a> or the <a href="/public">front page</a>.</p>
+<p>&ldquo;spectrwm is a small, dynamic tiling and reparenting window manager for X11.&rdquo;</p>
+<h2 id="some-resources">Some resources.<a href="#some-resources" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<ul>
+<li>the github page <a href="https://github.com/conformal/spectrwm">here</a>.</li>
+<li>the arch wiki page <a href="https://wiki.archlinux.org/title/spectrwm">here</a>.</li>
+<li>the arch manual page <a href="https://man.archlinux.org/man/spectrwm.1">here</a>.</li>
+</ul>
+<h2 id="dependencies-for-spectrwm">Dependencies for spectrWM.<a href="#dependencies-for-spectrwm" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<ul>
+<li>the <code>mononoki nerd</code> font.</li>
+<li>a <a href="https://github.com/a2n-s/dotfiles/blob/main/scripts/spectrWM-baraction.sh"><code>spectrWM-baraction.sh</code></a> file.</li>
+<li>a browser: <code>firefox</code></li>
+<li>a menu: <code>dmenu</code></li>
+<li>a terminal: <code>alacritty</code></li>
+<li>an email application: <code>thunderbird</code></li>
+<li>a rendering service: <code>arandr</code></li>
+<li>an image editor: <code>gimp</code>. I also use <code>kolourpaint</code></li>
+<li><code>brightnessctl</code> to control the brightness of the main screen.</li>
+<li><code>amixer</code> to control the volume of the main screen.</li>
+<li><a href="https://github.com/a2n-s/dotfiles/blob/main/scripts/togkb.sh"><code>togkb.sh</code></a> to switch the keyboard layout.</li>
+<li><code>xscreensaver</code> to lock and save the screen usage.</li>
+</ul>
+<h2 id="install-spectrwm-manually">Install spectrwm manually.<a href="#install-spectrwm-manually" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<ul>
+<li>install the dependencies.</li>
+<li>install the <code>spectrwm</code> command.</li>
+<li>copy <a href="https://github.com/a2n-s/dotfiles/blob/main/.config/spectrwm/spectrwm.conf"><code>spectrwm.conf</code></a> and <a href="https://github.com/a2n-s/dotfiles/blob/main/.config/spectrwm/spectrwm_us.conf"><code>spectrwm_us.conf</code></a> inside your <code>~/.config/spectrwm</code> directory.</li>
+</ul>
+<h2 id="gallery">Gallery.<a href="#gallery" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>Available soon.<br>
+Snippets on the <a href="https://github.com/a2n-s/dotfiles#4-gallery-toc">dotfiles</a> repo.</p>
+<p>Go back to the <a href="/public/doc/config/dotfiles">dotfiles</a>, the <a href="/public/doc/config">doc</a> or the <a href="/public">front page</a>.</p>
+
+      </div></div>
+
+  
+
+  
+
+</div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© 2021 Powered by <a href="http://gohugo.io">Hugo</a></span>
+    
+        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
+      </div>
+  </div>
+</footer>
+
+<script src="https://a2n-s.github.io/public/assets/main.js"></script>
+<script src="https://a2n-s.github.io/public/assets/prism.js"></script>
+
+
+  <script src="https://a2n-s.github.io/public/assets/languageSelector.js"></script>
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>
