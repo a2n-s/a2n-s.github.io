@@ -6,11 +6,11 @@
     <description>Recent content in scripts on a2n-s&#39; Personal Website &amp; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/scripts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/scripts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>prompt.sh</title>
       <link>https://a2n-s.github.io/public/doc/config/scripts/prompt.sh/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/scripts/prompt.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
@@ -23,7 +23,7 @@ File is here</description>
     <item>
       <title>screenshot.sh</title>
       <link>https://a2n-s.github.io/public/doc/config/scripts/screenshot.sh/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/scripts/screenshot.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
@@ -41,7 +41,7 @@ Dependencies for screenshot.sh.  the scrot command: can be installed with sudo p
     <item>
       <title>Scripts</title>
       <link>https://a2n-s.github.io/public/doc/config/scripts/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/scripts/</guid>
       <description>The programs I run on my machine can be split into a few parts:
@@ -66,7 +66,7 @@ Go back to the doc or the front page.</description>
     <item>
       <title>spectrWM-baraction.sh</title>
       <link>https://a2n-s.github.io/public/doc/config/scripts/spectrwm-baraction.sh/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/scripts/spectrwm-baraction.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
@@ -86,7 +86,7 @@ Dependencies for spectrWM-baraction.sh  disk commands: df, free, mpstat networki
     <item>
       <title>togkb.sh</title>
       <link>https://a2n-s.github.io/public/doc/config/scripts/togkb.sh/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/scripts/togkb.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
@@ -104,7 +104,7 @@ Dependencies for togkb.sh  setxkbmap to change the keyboard layout.  </descripti
     <item>
       <title>tree2md.sh</title>
       <link>https://a2n-s.github.io/public/doc/config/scripts/tree2md.sh/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/scripts/tree2md.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
@@ -117,7 +117,7 @@ File is here</description>
     <item>
       <title>upl.sh</title>
       <link>https://a2n-s.github.io/public/doc/config/scripts/upl.sh/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/scripts/upl.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
@@ -130,7 +130,7 @@ script can be found here.</description>
     <item>
       <title>wvenv.</title>
       <link>https://a2n-s.github.io/public/doc/config/scripts/wvenv.sh/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/scripts/wvenv.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
@@ -162,7 +162,7 @@ and NEVER intall &lt;code&gt;python&lt;/code&gt; package on you system directly!
     <item>
       <title>xtcl</title>
       <link>https://a2n-s.github.io/public/doc/config/scripts/xtcl.sh/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/scripts/xtcl.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.

@@ -6,11 +6,11 @@
     <description>Recent content in Dotfiles on a2n-s&#39; Personal Website &amp; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/doc/config/dotfiles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/doc/config/dotfiles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alacritty.</title>
       <link>https://a2n-s.github.io/public/doc/config/dotfiles/alacritty/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/alacritty/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
@@ -48,7 +48,7 @@ Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&
     <item>
       <title>bash.</title>
       <link>https://a2n-s.github.io/public/doc/config/dotfiles/bash/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/bash/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
@@ -85,7 +85,7 @@ Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&
     <item>
       <title>bspwm</title>
       <link>https://a2n-s.github.io/public/doc/config/dotfiles/bspwm/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/bspwm/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
@@ -123,7 +123,7 @@ Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&
     <item>
       <title>git</title>
       <link>https://a2n-s.github.io/public/doc/config/dotfiles/git/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/git/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
@@ -156,7 +156,7 @@ Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&
     <item>
       <title>htop.</title>
       <link>https://a2n-s.github.io/public/doc/config/dotfiles/htop/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/htop/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
@@ -186,7 +186,7 @@ Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&
     <item>
       <title>neofetch</title>
       <link>https://a2n-s.github.io/public/doc/config/dotfiles/neofetch/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/neofetch/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
@@ -223,7 +223,7 @@ Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&
     <item>
       <title>nitrogen</title>
       <link>https://a2n-s.github.io/public/doc/config/dotfiles/nitrogen/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/nitrogen/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
@@ -258,7 +258,7 @@ Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&
     <item>
       <title>polybar</title>
       <link>https://a2n-s.github.io/public/doc/config/dotfiles/polybar/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/polybar/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
@@ -293,7 +293,7 @@ Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&
     <item>
       <title>spectrWM</title>
       <link>https://a2n-s.github.io/public/doc/config/dotfiles/spectrwm/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/spectrwm/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
@@ -338,7 +338,7 @@ Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&
     <item>
       <title>sxhkd</title>
       <link>https://a2n-s.github.io/public/doc/config/dotfiles/sxhkd/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/sxhkd/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
@@ -370,7 +370,7 @@ Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&
     <item>
       <title>tmux</title>
       <link>https://a2n-s.github.io/public/doc/config/dotfiles/tmux/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/tmux/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
@@ -404,7 +404,7 @@ Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&
     <item>
       <title>vifm</title>
       <link>https://a2n-s.github.io/public/doc/config/dotfiles/vifm/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/vifm/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
@@ -437,7 +437,7 @@ Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&
     <item>
       <title>vim</title>
       <link>https://a2n-s.github.io/public/doc/config/dotfiles/vim/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/vim/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
@@ -479,7 +479,7 @@ Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&
     <item>
       <title>x</title>
       <link>https://a2n-s.github.io/public/doc/config/dotfiles/x/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/x/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
@@ -519,7 +519,7 @@ Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&
     <item>
       <title>xscreensaver</title>
       <link>https://a2n-s.github.io/public/doc/config/dotfiles/xscreensaver/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/xscreensaver/</guid>
       <description>Go back to the dotfiles, the doc or the front page.

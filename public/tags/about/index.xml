@@ -6,11 +6,96 @@
     <description>Recent content in about on a2n-s&#39; Personal Website &amp; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Sep 2021 22:08:05 +0200</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://a2n-s.github.io/public/about/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/about/</guid>
+      <description>Quick menu: res., me, edu., exp., skills, hobbies
+In this bundle of files, I am talking about myself!
+But, wait a minute, who am I?? I am a french student currently living in Toulouse.
+ Somewhere around this brick buildings, along the &amp;ldquo;Canal du Midi&amp;rdquo; lies the ISAE-Supaero graduate school.
+I am studying data science &amp;amp; machine learning (ML) on one side and research &amp;amp; reinforcement learning (RL) on the other side.</description>
+      <content>&lt;p&gt;&lt;strong&gt;Quick menu&lt;/strong&gt;:
+&lt;a href=&#34;https://a2n-s.github.io/public/public/about/resume&#34;&gt;res.&lt;/a&gt;,
+&lt;a href=&#34;https://a2n-s.github.io/public/public/about/me&#34;&gt;me&lt;/a&gt;,
+&lt;a href=&#34;https://a2n-s.github.io/public/public/about/education&#34;&gt;edu.&lt;/a&gt;,
+&lt;a href=&#34;https://a2n-s.github.io/public/public/about/experiences&#34;&gt;exp.&lt;/a&gt;,
+&lt;a href=&#34;https://a2n-s.github.io/public/public/about/skills&#34;&gt;skills&lt;/a&gt;,
+&lt;a href=&#34;https://a2n-s.github.io/public/public/about/hobbies&#34;&gt;hobbies&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this bundle of files, I am talking about myself!&lt;/p&gt;
+&lt;h1 id=&#34;but-wait-a-minute-who-am-i&#34;&gt;But, wait a minute, who am I??&lt;/h1&gt;
+&lt;p&gt;I am a french student currently living in &lt;strong&gt;Toulouse&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/public/res/toulouse1.jpg&#34;  alt=&#34;/public/res/toulouse1.jpg&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;200&#34; /&gt;
+
+&lt;br&gt;
+
+  &lt;img src=&#34;https://a2n-s.github.io/public/public/res/toulouse2.jpg&#34;  alt=&#34;/public/res/toulouse2.jpg&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;200&#34; /&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Somewhere around this brick buildings, along the &amp;ldquo;Canal du Midi&amp;rdquo; lies the &lt;strong&gt;ISAE-Supaero&lt;/strong&gt; graduate school.&lt;br&gt;
+I am studying &lt;strong&gt;data science &amp;amp; machine learning (ML)&lt;/strong&gt; on one side and &lt;strong&gt;research &amp;amp; reinforcement learning (RL)&lt;/strong&gt; on the other side.&lt;/p&gt;
+&lt;p&gt;I am actively looking for an internship in a research lab, in the field of RL, with prefered directions such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(1) &lt;strong&gt;Natural Language Processing (NLP) &amp;amp; Communication&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;(2) &lt;strong&gt;Coordination &amp;amp; Multi-Agent RL (MARL)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;(3) &lt;strong&gt;Robustness &amp;amp; Safety&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;places-one-might-want-to-explore&#34;&gt;Places one might want to explore.&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;my full resume &lt;a href=&#34;https://a2n-s.github.io/public/public/about/resume&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;some more information about me &lt;a href=&#34;https://a2n-s.github.io/public/public/about/me&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;my education &lt;a href=&#34;https://a2n-s.github.io/public/public/about/education&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;my professional or semi-professional experiences &lt;a href=&#34;https://a2n-s.github.io/public/public/about/experiences&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;my hard and soft skills &lt;a href=&#34;https://a2n-s.github.io/public/public/about/skills&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;my hobbies &lt;a href=&#34;https://a2n-s.github.io/public/public/about/hobbies&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;or in the list below.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://a2n-s.github.io/public/about/education/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/about/education/</guid>
+      <description>Go back to the about me section or the front page.
+2019 – 2022  ISAE-Supaero Toulouse, France
+The Aeronautic &amp;amp; Space Superior Institute in France.
+Currently attending the Data Science &amp;amp; Decision Making (SDD) class:
+ geometrical, probabilistic and connectionist approaches commitee-based ML, Deep Learning and RL. stochastic optimization and evolution.  2017 – 2019  Preparatory Class [MPSI, MP,computer science]
+Georges Clemenceau High School, Nantes French class to prepare for highly selective graduate schools.</description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;2019--2022&#34;&gt;2019 – 2022&lt;/h1&gt;
+&lt;p&gt;     ISAE-Supaero Toulouse, France&lt;br&gt;
+     The Aeronautic &amp;amp; Space Superior Institute in France.&lt;br&gt;
+Currently attending the Data Science &amp;amp; Decision Making (SDD) class:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;geometrical, probabilistic and connectionist approaches&lt;/li&gt;
+&lt;li&gt;commitee-based ML, Deep Learning and RL.&lt;/li&gt;
+&lt;li&gt;stochastic optimization and evolution.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2017--2019&#34;&gt;2017 – 2019&lt;/h1&gt;
+&lt;p&gt;     Preparatory Class [MPSI, MP,computer science]&lt;br&gt;
+     Georges Clemenceau High School, Nantes
+French class to prepare for highly selective graduate schools.&lt;/p&gt;
+&lt;h1 id=&#34;2014--2017&#34;&gt;2014 – 2017&lt;/h1&gt;
+&lt;p&gt;     High school [engineering science sand computer science]&lt;br&gt;
+     Léonce Vieljeux High School, France
+Good results in high schools opens the way to preparatory classes after graduation, which are selective classes.&lt;/p&gt;
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Experiences</title>
       <link>https://a2n-s.github.io/public/about/experiences/</link>
-      <pubDate>Sun, 12 Sep 2021 22:08:05 +0200</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/about/experiences/</guid>
       <description>Go back to the about me section or the front page.
@@ -219,94 +304,9 @@ First research experience.&lt;/p&gt;
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://a2n-s.github.io/public/about/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/about/</guid>
-      <description>Quick menu: res., me, edu., exp., skills, hobbies
-In this bundle of files, I am talking about myself!
-But, wait a minute, who am I?? I am a french student currently living in Toulouse.
- Somewhere around this brick buildings, along the &amp;ldquo;Canal du Midi&amp;rdquo; lies the ISAE-Supaero graduate school.
-I am studying data science &amp;amp; machine learning (ML) on one side and research &amp;amp; reinforcement learning (RL) on the other side.</description>
-      <content>&lt;p&gt;&lt;strong&gt;Quick menu&lt;/strong&gt;:
-&lt;a href=&#34;https://a2n-s.github.io/public/public/about/resume&#34;&gt;res.&lt;/a&gt;,
-&lt;a href=&#34;https://a2n-s.github.io/public/public/about/me&#34;&gt;me&lt;/a&gt;,
-&lt;a href=&#34;https://a2n-s.github.io/public/public/about/education&#34;&gt;edu.&lt;/a&gt;,
-&lt;a href=&#34;https://a2n-s.github.io/public/public/about/experiences&#34;&gt;exp.&lt;/a&gt;,
-&lt;a href=&#34;https://a2n-s.github.io/public/public/about/skills&#34;&gt;skills&lt;/a&gt;,
-&lt;a href=&#34;https://a2n-s.github.io/public/public/about/hobbies&#34;&gt;hobbies&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;In this bundle of files, I am talking about myself!&lt;/p&gt;
-&lt;h1 id=&#34;but-wait-a-minute-who-am-i&#34;&gt;But, wait a minute, who am I??&lt;/h1&gt;
-&lt;p&gt;I am a french student currently living in &lt;strong&gt;Toulouse&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&#34;https://a2n-s.github.io/public/public/res/toulouse1.jpg&#34;  alt=&#34;/public/res/toulouse1.jpg&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;200&#34; /&gt;
-
-&lt;br&gt;
-
-  &lt;img src=&#34;https://a2n-s.github.io/public/public/res/toulouse2.jpg&#34;  alt=&#34;/public/res/toulouse2.jpg&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;200&#34; /&gt;
-
-&lt;/p&gt;
-&lt;p&gt;Somewhere around this brick buildings, along the &amp;ldquo;Canal du Midi&amp;rdquo; lies the &lt;strong&gt;ISAE-Supaero&lt;/strong&gt; graduate school.&lt;br&gt;
-I am studying &lt;strong&gt;data science &amp;amp; machine learning (ML)&lt;/strong&gt; on one side and &lt;strong&gt;research &amp;amp; reinforcement learning (RL)&lt;/strong&gt; on the other side.&lt;/p&gt;
-&lt;p&gt;I am actively looking for an internship in a research lab, in the field of RL, with prefered directions such as:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;(1) &lt;strong&gt;Natural Language Processing (NLP) &amp;amp; Communication&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;(2) &lt;strong&gt;Coordination &amp;amp; Multi-Agent RL (MARL)&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;(3) &lt;strong&gt;Robustness &amp;amp; Safety&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;places-one-might-want-to-explore&#34;&gt;Places one might want to explore.&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;my full resume &lt;a href=&#34;https://a2n-s.github.io/public/public/about/resume&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;some more information about me &lt;a href=&#34;https://a2n-s.github.io/public/public/about/me&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;my education &lt;a href=&#34;https://a2n-s.github.io/public/public/about/education&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;my professional or semi-professional experiences &lt;a href=&#34;https://a2n-s.github.io/public/public/about/experiences&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;my hard and soft skills &lt;a href=&#34;https://a2n-s.github.io/public/public/about/skills&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;my hobbies &lt;a href=&#34;https://a2n-s.github.io/public/public/about/hobbies&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;or in the list below.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>https://a2n-s.github.io/public/about/education/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/about/education/</guid>
-      <description>Go back to the about me section or the front page.
-2019 – 2022  ISAE-Supaero Toulouse, France
-The Aeronautic &amp;amp; Space Superior Institute in France.
-Currently attending the Data Science &amp;amp; Decision Making (SDD) class:
- geometrical, probabilistic and connectionist approaches commitee-based ML, Deep Learning and RL. stochastic optimization and evolution.  2017 – 2019  Preparatory Class [MPSI, MP,computer science]
-Georges Clemenceau High School, Nantes French class to prepare for highly selective graduate schools.</description>
-      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-&lt;h1 id=&#34;2019--2022&#34;&gt;2019 – 2022&lt;/h1&gt;
-&lt;p&gt;     ISAE-Supaero Toulouse, France&lt;br&gt;
-     The Aeronautic &amp;amp; Space Superior Institute in France.&lt;br&gt;
-Currently attending the Data Science &amp;amp; Decision Making (SDD) class:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;geometrical, probabilistic and connectionist approaches&lt;/li&gt;
-&lt;li&gt;commitee-based ML, Deep Learning and RL.&lt;/li&gt;
-&lt;li&gt;stochastic optimization and evolution.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;2017--2019&#34;&gt;2017 – 2019&lt;/h1&gt;
-&lt;p&gt;     Preparatory Class [MPSI, MP,computer science]&lt;br&gt;
-     Georges Clemenceau High School, Nantes
-French class to prepare for highly selective graduate schools.&lt;/p&gt;
-&lt;h1 id=&#34;2014--2017&#34;&gt;2014 – 2017&lt;/h1&gt;
-&lt;p&gt;     High school [engineering science sand computer science]&lt;br&gt;
-     Léonce Vieljeux High School, France
-Good results in high schools opens the way to preparatory classes after graduation, which are selective classes.&lt;/p&gt;
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
       <title>Hobbies</title>
       <link>https://a2n-s.github.io/public/about/hobbies/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/about/hobbies/</guid>
       <description>Configuring and building software for my ArchLinux distro. I document my Arch configuration on my websites. Coding games in the SCSC or ML algorithms in my free time for fun. An artistic pane out of wood and resin to decorate my place. 6502 μ-computer, on breadboard, with custom games in assembly. A CPU out of logic gates with custom assembly.  Go back to the about me section or the front page.</description>
@@ -325,7 +325,7 @@ Good results in high schools opens the way to preparatory classes after graduati
     <item>
       <title>Me</title>
       <link>https://a2n-s.github.io/public/about/me/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/about/me/</guid>
       <description>Go back to the about me section or the front page.
@@ -373,7 +373,7 @@ She is badass, her friends are cool and become your friends as well, &amp;hellip
     <item>
       <title>Resume</title>
       <link>https://a2n-s.github.io/public/about/resume/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/about/resume/</guid>
       <description>The resume is available here.
@@ -386,7 +386,7 @@ Go back to the about me section or the front page.</description>
     <item>
       <title>Skills</title>
       <link>https://a2n-s.github.io/public/about/skills/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/about/skills/</guid>
       <description>Go back to the about me section or the front page.
