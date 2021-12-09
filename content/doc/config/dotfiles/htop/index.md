@@ -1,11 +1,11 @@
 ---
 title: "htop."
-date: 2021-04-12
-tags: ["doc", "programs", "monitoring"]
-keywords: ["doc", "programs", "monitoring"]
+date: 2021-09-12
+tags: ["doc", "dotfiles", "monitoring"]
+keywords: ["doc", "dotfiles", "monitoring"]
 description: "A very easy to use process monitoring in the terminal, to manage, look at or kill processes. Some elements to install the config are given."
 ---
-Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
+Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
 "htop is an interactive system-monitor process-viewer and process-manager."
 
@@ -22,6 +22,6 @@ Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/co
 Available soon.  
 Snippets on the [dotfiles](https://github.com/a2n-s/dotfiles#4-gallery-toc) repo.
 
-Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
+Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
 [`htoprc`]: https://github.com/a2n-s/dotfiles/blob/main/.config/htop/htoprc

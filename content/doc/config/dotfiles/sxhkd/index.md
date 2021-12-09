@@ -1,11 +1,11 @@
 ---
 title: "sxhkd"
-date: 2021-05-12
-tags: ["doc", "programs", "keyboard"]
-keywords: ["doc", "programs", "keyboard"]
+date: 2021-09-12
+tags: ["doc", "dotfiles", "keyboard"]
+keywords: ["doc", "dotfiles", "keyboard"]
 description: "Needed to interact with and control bspwm."
 ---
-Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
+Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
 "sxhkd is an X daemon that reacts to input events by executing commands."
 
@@ -22,6 +22,6 @@ Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/co
 Available soon.  
 Snippets on the [dotfiles](https://github.com/a2n-s/dotfiles#4-gallery-toc) repo.
 
-Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
+Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
 [`spectrWM-baraction.sh`]: https://github.com/a2n-s/dotfiles/blob/main/scripts/spectrWM-baraction.sh

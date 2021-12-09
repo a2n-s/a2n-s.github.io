@@ -1,11 +1,11 @@
 ---
 title: "nitrogen"
-date: 2021-04-12
-tags: ["doc", "programs", "wallpapers"]
-keywords: ["doc", "programs", "wallpapers"]
+date: 2021-09-12
+tags: ["doc", "dotfiles", "wallpapers"]
+keywords: ["doc", "dotfiles", "wallpapers"]
 description: "How to install the same config to restore wallpapers."
 ---
-Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
+Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
  a wallpaper manager.
 
@@ -27,6 +27,6 @@ Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/co
 Available soon.  
 Snippets on the [dotfiles](https://github.com/a2n-s/dotfiles#4-gallery-toc) repo.
 
-Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
+Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
 [`nitrogen.cfg`]: https://github.com/a2n-s/dotfiles/blob/main/.config/nitrogen/nitrogen.cfg

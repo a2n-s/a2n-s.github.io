@@ -1,14 +1,14 @@
 ---
 title: "Alacritty."
-date: 2021-04-12
-tags: ["doc", "programs", "terminal"]
-keywords: ["doc", "programs", "terminal"]
-description: "A mininal terminal emulator for a minimal linux config."
+date: 2021-09-12
+tags: ["doc", "dotfiles", "terminal"]
+keywords: ["doc", "dotfiles", "terminal"]
+description: "A minimal terminal emulator for a minimal linux config."
 ---
-Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
+Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< image src="https://a2n-s.github.io/public/res/doc/config/programs/alacritty-logo.png" 
-          alt="https://a2n-s.github.io/public/res/doc/config/programs/alacritty-logo.png"
+{{< image src="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-alacritty.png" 
+          alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-alacritty.png"
           title="Alacritty's logo" height="150" position="center">}}
 
 Alacritty is a minimal terminal emulator.
@@ -31,6 +31,6 @@ Alacritty is a minimal terminal emulator.
 Available soon.  
 Snippets on the [dotfiles](https://github.com/a2n-s/dotfiles#4-gallery-toc) repo.
 
-Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
+Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
 [`alacritty.yml`]: https://github.com/a2n-s/dotfiles/blob/main/.config/alacritty/alacritty.yml

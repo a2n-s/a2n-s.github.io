@@ -1,11 +1,11 @@
 ---
 title: "bspwm"
-date: 2021-05-12
-tags: ["doc", "programs", "windows manager"]
-keywords: ["doc", "programs", "windows manager"]
+date: 2021-09-12
+tags: ["doc", "dotfiles", "windows manager"]
+keywords: ["doc", "dotfiles", "windows manager"]
 description: "The binary space partitioning windows manager."
 ---
-Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
+Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
 "bspwm is a tiling window manager that represents windows as the leaves of a full binary tree."
 
@@ -31,6 +31,6 @@ Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/co
 Available soon.  
 Snippets on the [dotfiles](https://github.com/a2n-s/dotfiles#4-gallery-toc) repo.
 
-Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
+Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
 [`spectrWM-baraction.sh`]: https://github.com/a2n-s/dotfiles/blob/main/scripts/spectrWM-baraction.sh

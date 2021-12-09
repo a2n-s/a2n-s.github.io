@@ -1,14 +1,14 @@
 ---
 title: "x"
-date: 2021-04-12
-tags: ["doc", "programs", "screen"]
-keywords: ["doc", "programs", "screen"]
+date: 2021-09-12
+tags: ["doc", "dotfiles", "screen"]
+keywords: ["doc", "dotfiles", "screen"]
 description: "Some installation details to be able to display things on the screen."
 ---
-Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
+Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< image src="https://a2n-s.github.io/public/res/doc/config/programs/x-logo.png" 
-          alt="https://a2n-s.github.io/public/res/doc/config/programs/x-logo.png"
+{{< image src="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-x.png" 
+          alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-x.png"
           title="x' logo" height="150" position="center">}}
 
 "The X.Org Server runs on many free-software Unix-like operating systems, including being adopted for use by most Linux distributions and BSD variants."
@@ -33,6 +33,6 @@ Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/co
 Available soon.  
 Snippets on the [dotfiles](https://github.com/a2n-s/dotfiles#4-gallery-toc) repo.
 
-Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
+Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
 [`.xinitrc`]: https://github.com/a2n-s/dotfiles/blob/main/.xinitrc

@@ -1,14 +1,14 @@
 ---
 title: "neofetch"
-date: 2021-04-12
-tags: ["doc", "programs", "terminal"]
-keywords: ["doc", "programs", "terminal"]
+date: 2021-09-12
+tags: ["doc", "dotfiles", "terminal"]
+keywords: ["doc", "dotfiles", "terminal"]
 description: "Prints information on the terminal at log time, information to install the config locally."
 ---
-Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
+Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< image src="https://a2n-s.github.io/public/res/doc/config/programs/neofetch-logo.png" 
-          alt="https://a2n-s.github.io/public/res/doc/config/programs/neofetch-logo.png"
+{{< image src="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-neofetch.png" 
+          alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-neofetch.png"
           title="neofetch's logo" height="150" position="center">}}
 
 `neofetch` is "a command-line system information tool written in bash 3.2+"
@@ -30,7 +30,7 @@ Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/co
 Available soon.  
 Snippets on the [dotfiles](https://github.com/a2n-s/dotfiles#4-gallery-toc) repo.
 
-Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
+Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
 [`config.conf`]: https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/config.conf
 [`.neofetchrc`]: https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/.neofetchrc

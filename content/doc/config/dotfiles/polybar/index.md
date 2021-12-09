@@ -1,11 +1,11 @@
 ---
 title: "polybar"
-date: 2021-05-12
-tags: ["doc", "programs", "bar"]
-keywords: ["doc", "programs", "bar"]
+date: 2021-09-12
+tags: ["doc", "dotfiles", "bar"]
+keywords: ["doc", "dotfiles", "bar"]
 description: "The famous bar."
 ---
-Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
+Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
 "A fast and easy to use tool for creating status bars."
 
@@ -26,6 +26,6 @@ Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/co
 Available soon.  
 Snippets on the [dotfiles](https://github.com/a2n-s/dotfiles#4-gallery-toc) repo.
 
-Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
+Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
 [`spectrWM-baraction.sh`]: https://github.com/a2n-s/dotfiles/blob/main/scripts/spectrWM-baraction.sh

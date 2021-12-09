@@ -1,14 +1,14 @@
 ---
 title: "vim"
-date: 2021-04-12
-tags: ["doc", "programs", "editor"]
-keywords: ["doc", "programs", "editor"]
+date: 2021-09-12
+tags: ["doc", "dotfiles", "editor"]
+keywords: ["doc", "dotfiles", "editor"]
 description: "My config of vim and how to install it."
 ---
-Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
+Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< image src="https://a2n-s.github.io/public/res/doc/config/programs/vim-logo.png" 
-          alt="https://a2n-s.github.io/public/res/doc/config/programs/vim-logo.png"
+{{< image src="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-vim.png" 
+          alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-vim.png"
           title="vim's logo" height="150" position="center">}}
 
 "Vim (/vɪm/; a contraction of Vi IMproved) is a free and open-source, screen-based text editor program for Unix."
@@ -34,6 +34,6 @@ Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/co
 Available soon.  
 Snippets on the [dotfiles](https://github.com/a2n-s/dotfiles#4-gallery-toc) repo.
 
-Go back to the [programs](/public/doc/config/programs), the [doc](/public/doc/config) or the [front page](/public).  
+Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
 [`.vimrc`]: https://github.com/a2n-s/dotfiles/blob/main/.vimrc
