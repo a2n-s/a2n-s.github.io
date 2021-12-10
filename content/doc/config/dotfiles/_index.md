@@ -14,7 +14,6 @@ The programs I run on my machine can be split into a few parts:
 - the basic video drivers:
   - [xorg](/public/doc/config/dotfiles/x)
 - the window management:
-  - [spectrwm](/public/doc/config/dotfiles/spectrwm)
   - [bspwm](/public/doc/config/dotfiles/bspwm)
   - [sxhkd](/public/doc/config/dotfiles/sxhkd)
   - [spectrwm](/public/doc/config/dotfiles/spectrwm)
