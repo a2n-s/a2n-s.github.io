@@ -168,7 +168,7 @@
       <span class="post-date">
         2021-12-04
         
-          [Last update: 2021-12-09]
+          [Last update: 2021-12-10]
         
       </span>
     
@@ -194,30 +194,137 @@
 
   <div class="post-content"><div>
         <p>Go back to the <a href="/public/doc/config/dotfiles">dotfiles</a>, the <a href="/public/doc/config">doc</a> or the <a href="/public">front page</a>.</p>
+
+    <p align="center">
+
+
+<code>--------------------------------------------------------------------</code>
+</p>
+
+
+<p>
+  <figure class="center" >
+    <img src="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-bspwm-normal.png"  alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-bspwm-normal.png"    width="" height=""/>
+    
+      <figcaption class="center" >Some windows in normal/automatic insertion mode.</figcaption>
+    
+  </figure>
+
+
+
+    <p align="center">
+
+
+
+    
+        <i>One can see, from top to bottom and left to right, polybar, my GitHub front page, some git command, an example of dt&#39;s colorsript and htop.</i>
+    
+
+</p>
+
+
+
+  <figure class="center" >
+    <img src="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-bspwm-spiral.png"  alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-bspwm-spiral.png"    width="" height=""/>
+    
+      <figcaption class="center" >Some terminals in spiral insertion mode.</figcaption>
+    
+  </figure>
+
+
+
+    <p align="center">
+
+
+
+    
+        <i>One can see, from top to bottom and left to right, polybar, a lot of terminals with the git tr command and my public personal web site.</i>
+    
+
+</p>
+
+
+
+    <p align="center">
+
+
+
+    
+        <i>Gaps, borders and opacity have been exagerated for aesthetic purposes.</i>
+    
+
+</p>
+
+
+More pictures of the config <a href="https://github.com/a2n-s/dotfiles#4-gallery-toc"><strong>here</strong></a>.</p>
+
+    <p align="center">
+
+
+<code>--------------------------------------------------------------------</code>
+</p>
+
+
 <p>&ldquo;bspwm is a tiling window manager that represents windows as the leaves of a full binary tree.&rdquo;</p>
+<h1 id="table-of-content">Table of Content.<a href="#table-of-content" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
+<ul>
+<li><a href="#the-files">The files</a></li>
+<li><a href="#the-config">The config</a></li>
+<li><a href="#some-resources">Some resources</a></li>
+<li><a href="#dependencies">Dependencies</a></li>
+<li><a href="#manual-installation-process">Manual installation process</a></li>
+</ul>
+
+    <p align="center">
+
+
+<code>--------------------------------------------------------------------</code>
+</p>
+
+
+<h2 id="the-files">The Files.<a href="#the-files" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>All files are available at <a href="https://github.com/a2n-s/dotfiles/blob/main/.config/bspwm">~/.config/bspwm</a>:</p>
+<ul>
+<li><a href="https://github.com/a2n-s/dotfiles/blob/main/.config/bspwm/bspwmrc"><code>bspwmrc</code></a></li>
+<li><a href="https://github.com/a2n-s/dotfiles/blob/main/.config/bspwm/scheme.sh"><code>scheme.sh</code></a></li>
+</ul>
+<h2 id="the-config">The config.<a href="#the-config" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>Some scripts can be found in bspwm&rsquo;s <a href="https://github.com/a2n-s/dotfiles/tree/main/scripts">config</a>.<br>
+<code>bspwm</code> supports <code>polybar</code> very well as in the above images. For an updated version of my <code>polybar</code> see the <a href="https://github.com/a2n-s/polybar-themes">repo</a> or the <a href="/public/doc/config/polybar">doc</a>.<br>
+For all the key-bindings of <code>bspwm</code> see <a href="/public/doc/config/dotfiles/sxhkd">sxhkd</a>.</p>
 <h2 id="some-resources">Some resources.<a href="#some-resources" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <ul>
-<li>the github page <a href="https://github.com/baskerville/bspwm">here</a></li>
-<li>the arch wiki page <a href="https://wiki.archlinux.org/title/bspwm">here</a></li>
-<li>the arch manual page <a href="https://man.archlinux.org/man/bspwm.1">here</a></li>
-<li>the arch manual page of sxhkb <a href="https://man.archlinux.org/man/sxhkd.1">here</a></li>
-<li><a href="https://www.youtube.com/watch?v=_55HGnz422M">https://www.youtube.com/watch?v=_55HGnz422M</a></li>
-<li><a href="https://wiki.archlinux.org/title/rxvt-unicode">https://wiki.archlinux.org/title/rxvt-unicode</a></li>
-<li><a href="https://github.com/notusknot/dotfiles">https://github.com/notusknot/dotfiles</a></li>
-<li><a href="https://github.com/aguslr/bspwm-config">https://github.com/aguslr/bspwm-config</a></li>
-<li><a href="https://gitlab.com/dwt1/dotfiles">https://gitlab.com/dwt1/dotfiles</a></li>
+<li>the <a href="https://github.com/baskerville/bspwm">GitHub</a> page.</li>
+<li>the Arch <a href="https://wiki.archlinux.org/title/bspwm">wiki</a> page.</li>
+<li>the Arch <a href="https://man.archlinux.org/man/bspwm.1">manual</a> page.</li>
+<li>inspired by notusknot&rsquo;s <a href="https://www.youtube.com/watch?v=_55HGnz422M">video</a> on the topic
+and his <a href="https://github.com/notusknot/dotfiles">repo</a> and also
+<a href="https://github.com/aguslr/bspwm-config">aguslr&rsquo;s</a> and <a href="https://gitlab.com/dwt1/dotfiles">dt&rsquo;s</a> configs.</li>
 </ul>
-<h2 id="dependencies-for-bspwm">Dependencies for bspwm.<a href="#dependencies-for-bspwm" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<h2 id="dependencies">Dependencies.<a href="#dependencies" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <ul>
-<li>available soon.</li>
+<li>feh.</li>
+<li>bspc.</li>
+<li>sxhkd.</li>
+<li>alacritty.</li>
 </ul>
-<h2 id="install-bspwm">Install bspwm.<a href="#install-bspwm" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<h2 id="manual-installation-process">Manual installation process.<a href="#manual-installation-process" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <ul>
-<li>available soon.</li>
+<li>install all the dependencies above.</li>
+<li>move the content of <a href="https://github.com/a2n-s/dotfiles/blob/main/.config/bspwm"><code>bspwm's config</code></a> to your <code>~/.config/bspwm</code> directory.</li>
 </ul>
-<h2 id="gallery">Gallery.<a href="#gallery" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
-<p>Available soon.<br>
-Snippets on the <a href="https://github.com/a2n-s/dotfiles#4-gallery-toc">dotfiles</a> repo.</p>
+<p>in a nutshell and to be adapted:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo pacman -Syu feh bspwm sxhkd alacritty
+git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
+mv a2n-s_dotfiles/.config/bspwm/* ~/.config/bspwm
+</code></pre></div>
+    <p align="center">
+
+
+<code>--------------------------------------------------------------------</code>
+</p>
+
+
 <p>Go back to the <a href="/public/doc/config/dotfiles">dotfiles</a>, the <a href="/public/doc/config">doc</a> or the <a href="/public">front page</a>.</p>
 
       </div></div>

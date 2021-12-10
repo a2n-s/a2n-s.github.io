@@ -14,28 +14,103 @@
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/vifm/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
-&amp;ldquo;Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. &amp;quot;
-Some resources.  the home page of vifm here. the github page here. the arch wiki page here.  Install vifm.  install the vifm command. copy vifmrc and the colors inside your ~/.</description>
+--------------------------------------------------------------------  Coming soon.   More pictures of the config here.
+-------------------------------------------------------------------- &amp;ldquo;Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. &amp;quot;
+Table of Content.  The files The config Some resources Dependencies Manual installation process  -------------------------------------------------------------------- The Files. All files are available at ~/.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-vifm.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-vifm.png&#34;    width=&#34;&#34; height=&#34;&#34;/&gt;
+    
+      &lt;figcaption class=&#34;center&#34; &gt;Coming soon.&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+
+    
+        &lt;i&gt;&lt;/i&gt;
+    
+
+&lt;/p&gt;
+
+
+More pictures of the config &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 
   &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-vifm.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-vifm.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&amp;ldquo;Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. &amp;quot;&lt;/p&gt;
+&lt;h1 id=&#34;table-of-content&#34;&gt;Table of Content.&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#the-files&#34;&gt;The files&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#the-config&#34;&gt;The config&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#some-resources&#34;&gt;Some resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#dependencies&#34;&gt;Dependencies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#manual-installation-process&#34;&gt;Manual installation process&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;h2 id=&#34;the-files&#34;&gt;The Files.&lt;/h2&gt;
+&lt;p&gt;All files are available at &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/vifm&#34;&gt;~/.config/vifm&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/vifm/vifmrc&#34;&gt;&lt;code&gt;vifmrc&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/vifm/colors&#34;&gt;&lt;code&gt;colors&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-config&#34;&gt;The config.&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;WORK IN PROGRESS&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;the home page of vifm &lt;a href=&#34;https://vifm.info/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;the github page &lt;a href=&#34;https://github.com/vifm/vifm&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;the arch wiki page &lt;a href=&#34;https://wiki.archlinux.org/title/Vifm&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;install-vifm&#34;&gt;Install vifm.&lt;/h2&gt;
+&lt;h2 id=&#34;dependencies&#34;&gt;Dependencies.&lt;/h2&gt;
+&lt;p&gt;No dependencies.&lt;/p&gt;
+&lt;h2 id=&#34;manual-installation-process&#34;&gt;Manual installation process.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;install the &lt;code&gt;vifm&lt;/code&gt; command.&lt;/li&gt;
 &lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/vifm/vifmrc&#34;&gt;&lt;code&gt;vifmrc&lt;/code&gt;&lt;/a&gt; and the &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/vifm/colors&#34;&gt;&lt;code&gt;colors&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/.config/vifm&lt;/code&gt; directory.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
-&lt;p&gt;Available soon.&lt;br&gt;
-Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
+&lt;p&gt;in a nutshell and to be adapted:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;sudo pacman -Syu vifm
+git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
+mv a2n-s_dotfiles/.config/vifm/vifmrc ~/.config/vifm/vifmrc
+mv a2n-s_dotfiles/.config/vifm/colors ~/.config/vifm/colors
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>

@@ -37,13 +37,14 @@ Go back to the front page.</description>
       <guid>https://a2n-s.github.io/public/doc/config/</guid>
       <description>This page allows the user to redirect to the different docs of my config, as the latter is composed of many different blocks.
 One can find information below:
- the doftiles for my Arch setup. the scripts I use to make my life easier. my dmenu rice. all the dmscripts I use. my wallpapers.  Go back to the doc or to the front page.</description>
+ the doftiles for my Arch setup. the scripts I use to make my life easier. my dmenu rice. my polybar. all the dmscripts I use. my wallpapers.  Go back to the doc or to the front page.</description>
       <content>&lt;p&gt;This page allows the user to redirect to the different docs of my config, as the latter is composed of many different blocks.&lt;br&gt;
 One can find information below:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;doftiles&lt;/a&gt; for my Arch setup.&lt;/li&gt;
 &lt;li&gt;the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt; I use to make my life easier.&lt;/li&gt;
 &lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dmenu&#34;&gt;dmenu rice&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/polybar&#34;&gt;polybar&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;all the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dmscripts&#34;&gt;dmscripts&lt;/a&gt; I use.&lt;/li&gt;
 &lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/wallpapers&#34;&gt;wallpapers&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;

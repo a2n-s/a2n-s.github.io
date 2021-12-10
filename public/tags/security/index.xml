@@ -14,25 +14,77 @@
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/xscreensaver/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
-&amp;ldquo;XScreenSaver is a screen saver and locker for the X Window System. &amp;quot;
-Some resources.  the github page here. the arch wiki page here.  Install alacritty manually.  install the xscreensaver command. copy .xscreensaver inside your ~/ directory.  Gallery. Available soon.
-Snippets on the dotfiles repo.
-Go back to the dotfiles, the doc or the front page.</description>
+-------------------------------------------------------------------- More pictures of the config here.
+-------------------------------------------------------------------- &amp;ldquo;XScreenSaver is a screen saver and locker for the X Window System. &amp;quot;
+Table of Content.  The files The config Some resources Dependencies Manual installation process  -------------------------------------------------------------------- The Files. All files are available at ~/:
+ .xscreensaver  The config. Run xscreensaver-settings to see available lock screens.
+Some resources.  the GitHub page the Arch wiki page.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;More pictures of the config &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;p&gt;&amp;ldquo;XScreenSaver is a screen saver and locker for the X Window System. &amp;quot;&lt;/p&gt;
+&lt;h1 id=&#34;table-of-content&#34;&gt;Table of Content.&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#the-files&#34;&gt;The files&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#the-config&#34;&gt;The config&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#some-resources&#34;&gt;Some resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#dependencies&#34;&gt;Dependencies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#manual-installation-process&#34;&gt;Manual installation process&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;h2 id=&#34;the-files&#34;&gt;The Files.&lt;/h2&gt;
+&lt;p&gt;All files are available at &lt;a href=&#34;https://github.com/a2n-s/dotfiles&#34;&gt;~/&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.xscreensaver&#34;&gt;&lt;code&gt;.xscreensaver&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-config&#34;&gt;The config.&lt;/h2&gt;
+&lt;p&gt;Run &lt;code&gt;xscreensaver-settings&lt;/code&gt; to see available lock screens.&lt;/p&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;the github page &lt;a href=&#34;https://en.wikipedia.org/wiki/XScreenSaver&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;the arch wiki page &lt;a href=&#34;https://wiki.archlinux.org/title/XScreenSaver&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://en.wikipedia.org/wiki/XScreenSaver&#34;&gt;GitHub&lt;/a&gt; page&lt;/li&gt;
+&lt;li&gt;the Arch &lt;a href=&#34;https://wiki.archlinux.org/title/XScreenSaver&#34;&gt;wiki&lt;/a&gt; page.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;install-alacritty-manually&#34;&gt;Install alacritty manually.&lt;/h2&gt;
+&lt;h2 id=&#34;dependencies&#34;&gt;Dependencies.&lt;/h2&gt;
+&lt;p&gt;No dependencies.&lt;/p&gt;
+&lt;h2 id=&#34;manual-installation-process&#34;&gt;Manual installation process.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;install the &lt;code&gt;xscreensaver&lt;/code&gt; command.&lt;/li&gt;
 &lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.xscreensaver&#34;&gt;&lt;code&gt;.xscreensaver&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/&lt;/code&gt; directory.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
-&lt;p&gt;Available soon.&lt;br&gt;
-Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
+&lt;p&gt;in a nutshell and to be adapted:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;sudo pacman -Syu xscreensaver
+git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
+mv a2n-s_dotfiles/.xscreensaver ~/.xscreensaver
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>

@@ -14,27 +14,94 @@
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/sxhkd/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
-&amp;ldquo;sxhkd is an X daemon that reacts to input events by executing commands.&amp;rdquo;
-Some resources.  the github page  Dependencies for sxhkd.  available soon.  Install sxhkd.  available soon.  Gallery. Available soon.
-Snippets on the dotfiles repo.
-Go back to the dotfiles, the doc or the front page.</description>
+--------------------------------------------------------------------  Caption.  Gaps, borders and opacity have been exagerated for aesthetic purposes. More pictures of the config here.
+-------------------------------------------------------------------- &amp;ldquo;sxhkd is an X daemon that reacts to input events by executing commands.&amp;rdquo;
+Table of Content.  The files The config Some resources Dependencies Manual installation process  -------------------------------------------------------------------- The Files. All files are available at ~/.config/alacritty:
+ [alacritty.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-.png&#34;    width=&#34;&#34; height=&#34;&#34;/&gt;
+    
+      &lt;figcaption class=&#34;center&#34; &gt;Caption.&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+
+    
+        &lt;i&gt;Gaps, borders and opacity have been exagerated for aesthetic purposes.&lt;/i&gt;
+    
+
+&lt;/p&gt;
+
+
+More pictures of the config &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;p&gt;&amp;ldquo;sxhkd is an X daemon that reacts to input events by executing commands.&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;table-of-content&#34;&gt;Table of Content.&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#the-files&#34;&gt;The files&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#the-config&#34;&gt;The config&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#some-resources&#34;&gt;Some resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#dependencies&#34;&gt;Dependencies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#manual-installation-process&#34;&gt;Manual installation process&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;h2 id=&#34;the-files&#34;&gt;The Files.&lt;/h2&gt;
+&lt;p&gt;All files are available at &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/alacritty&#34;&gt;~/.config/alacritty&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[&lt;code&gt;alacritty.yml&lt;/code&gt;]:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-config&#34;&gt;The config.&lt;/h2&gt;
+&lt;p&gt;Blabla.&lt;/p&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;the &lt;a href=&#34;https://github.com/baskerville/sxhkd&#34;&gt;github page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;the Arch manual page of sxhkb &lt;a href=&#34;https://man.archlinux.org/man/sxhkd.1&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;dependencies-for-sxhkd&#34;&gt;Dependencies for sxhkd.&lt;/h2&gt;
+&lt;h2 id=&#34;dependencies&#34;&gt;Dependencies.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;available soon.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;install-sxhkd&#34;&gt;Install sxhkd.&lt;/h2&gt;
+&lt;h2 id=&#34;manual-installation-process&#34;&gt;Manual installation process.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;available soon.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
-&lt;p&gt;Available soon.&lt;br&gt;
-Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>

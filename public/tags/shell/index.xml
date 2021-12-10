@@ -14,32 +14,125 @@
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/bash/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
-&amp;ldquo;Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.&amp;rdquo;
-Some resources.  the wikipedia page here. an extensive tutorial to use bash here.  Dependencies for the bash shell.  the scripts in the scripts directory. neofetch, git and cal.  Install the bash shell environment manually.</description>
+-------------------------------------------------------------------- More pictures of the config here.
+-------------------------------------------------------------------- &amp;ldquo;Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.&amp;rdquo;
+Table of Content.  The files The config Some resources Dependencies Manual Installation process  -------------------------------------------------------------------- The Files. All files are available at ~/:
+ .bash_aliases .</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;More pictures of the config &lt;a href=&#34;https://github.com/a2n-s/dotfiles/#4-gallery-toc&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 
   &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-bash.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-bash.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&amp;ldquo;Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;table-of-content&#34;&gt;Table of Content.&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#the-files&#34;&gt;The files&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#the-config&#34;&gt;The config&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#some-resources&#34;&gt;Some resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#dependencies&#34;&gt;Dependencies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#manual-installation-process&#34;&gt;Manual Installation process&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;h2 id=&#34;the-files&#34;&gt;The Files.&lt;/h2&gt;
+&lt;p&gt;All files are available at &lt;a href=&#34;https://github.com/a2n-s/dotfiles&#34;&gt;~/&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bash_aliases&#34;&gt;&lt;code&gt;.bash_aliases&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bash_logout&#34;&gt;&lt;code&gt;.bash_logout&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bash_profile&#34;&gt;&lt;code&gt;.bash_profile&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bashrc&#34;&gt;&lt;code&gt;.bashrc&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.profile&#34;&gt;&lt;code&gt;.profile&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-config&#34;&gt;The Config.&lt;/h2&gt;
+&lt;h4 id=&#34;1-profile&#34;&gt;1. Profile.&lt;/h4&gt;
+&lt;p&gt;Launches &lt;code&gt;mpd&lt;/code&gt; for music, starts &lt;code&gt;x&lt;/code&gt; when on &lt;code&gt;tty1&lt;/code&gt; or sources &lt;code&gt;.bashrc&lt;/code&gt; otherwise.&lt;/p&gt;
+&lt;h4 id=&#34;2-bashrc&#34;&gt;2. bashrc.&lt;/h4&gt;
+&lt;p&gt;Does the following in sequence:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;loads the aliases below.&lt;/li&gt;
+&lt;li&gt;tries to load some completion.&lt;/li&gt;
+&lt;li&gt;adds &lt;code&gt;~/scripts&lt;/code&gt; and &lt;code&gt;~/.local/bin&lt;/code&gt; to &lt;code&gt;PATH&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;changes the prompt to use &lt;code&gt;_shortwd&lt;/code&gt; and &lt;code&gt;_parse_git_info&lt;/code&gt; (see &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/&#34;&gt;the scripts&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;disables my broken caps lock key.&lt;/li&gt;
+&lt;li&gt;switches to &lt;code&gt;vi&lt;/code&gt; mode.&lt;/li&gt;
+&lt;li&gt;loads &lt;code&gt;virtualenvwrapper&lt;/code&gt; to manage &lt;code&gt;python&lt;/code&gt; virtual environments.&lt;/li&gt;
+&lt;li&gt;prints a &lt;code&gt;colorscript&lt;/code&gt; using Distrotube&amp;rsquo;s repo &lt;a href=&#34;https://gitlab.com/dwt1/shell-color-scripts&#34;&gt;here&lt;/a&gt;.
+&lt;ul&gt;
+&lt;li&gt;can be changed to &lt;code&gt;neofetch&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;prints a 3-month calendar.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;3-aliases&#34;&gt;3. Aliases.&lt;/h4&gt;
+&lt;p&gt;I define some aliases to make my life easier, e.g.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;xcc&lt;/code&gt; to pipe &lt;code&gt;stdout&lt;/code&gt; to clipboard.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;cfg&lt;/code&gt; to control the bare repository of my config.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;lgr&lt;/code&gt; to list all the &lt;code&gt;git&lt;/code&gt; repositories in my &lt;code&gt;$HOME&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;tns&lt;/code&gt;, &lt;code&gt;tls&lt;/code&gt;, &lt;code&gt;tat&lt;/code&gt; and &lt;code&gt;tkt&lt;/code&gt; to respectively create, list, attach and kill a session in &lt;code&gt;tmux&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;xrandr-run&lt;/code&gt; to connect to HDMI monitors.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ncu*&lt;/code&gt; to connect to my favorite networks.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;jpy&lt;/code&gt; and &lt;code&gt;jnb&lt;/code&gt; to launch respectively &lt;code&gt;jupyter&lt;/code&gt; and &lt;code&gt;jupyter-nontebook&lt;/code&gt; when available.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;sdn&lt;/code&gt; and &lt;code&gt;sdnr&lt;/code&gt; to respectively shutdown and reboot my machine from the terminal.&lt;/li&gt;
+&lt;li&gt;classic &lt;code&gt;ls&lt;/code&gt; variants such as &lt;code&gt;ll&lt;/code&gt; ~ &lt;code&gt;ls -l&lt;/code&gt; or &lt;code&gt;la&lt;/code&gt; ~ ~ls -A`.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;4-logout&#34;&gt;4. Logout.&lt;/h4&gt;
+&lt;p&gt;Default behaviour.&lt;/p&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;the wikipedia page &lt;a href=&#34;https://en.wikipedia.org/wiki/Bash_(Unix_shell)&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;an extensive tutorial to use bash &lt;a href=&#34;https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://en.wikipedia.org/wiki/Bash_(Unix_shell)&#34;&gt;wikipedia&lt;/a&gt; page.&lt;/li&gt;
+&lt;li&gt;an &lt;a href=&#34;https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html&#34;&gt;extensive tutorial&lt;/a&gt; to use bash.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;dependencies-for-the-bash-shell&#34;&gt;Dependencies for the bash shell.&lt;/h2&gt;
+&lt;h2 id=&#34;dependencies&#34;&gt;Dependencies.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;the scripts in the &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts&#34;&gt;&lt;code&gt;scripts&lt;/code&gt;&lt;/a&gt; directory.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;neofetch&lt;/code&gt;, &lt;code&gt;git&lt;/code&gt; and &lt;code&gt;cal&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Distrotube&amp;rsquo;s &lt;code&gt;colorscript&lt;/code&gt; -&amp;gt; can be found &lt;a href=&#34;https://gitlab.com/dwt1/shell-color-scripts&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;install-the-bash-shell-environment-manually&#34;&gt;Install the bash shell environment manually.&lt;/h2&gt;
+&lt;h2 id=&#34;manual-installation-process&#34;&gt;Manual installation process.&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;install the dependencies.&lt;/li&gt;
+&lt;li&gt;install the dependencies above.&lt;/li&gt;
 &lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bash_aliases&#34;&gt;&lt;code&gt;.bash_aliases&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bash_logout&#34;&gt;&lt;code&gt;.bash_logout&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bash_profile&#34;&gt;&lt;code&gt;.bash_profile&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bashrc&#34;&gt;&lt;code&gt;.bashrc&lt;/code&gt;&lt;/a&gt; and &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.profile&#34;&gt;&lt;code&gt;.profile&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/&lt;/code&gt; directory.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
-&lt;p&gt;Available soon.&lt;br&gt;
-Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
+&lt;p&gt;in a nutshell and to be adapted:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;sudo pacman -Syu neofetch git cal
+yay -S shell-color-scripts   &lt;span style=&#34;color:#75715e&#34;&gt;# or follow instructions at https://gitlab.com/dwt1/shell-color-scripts#installing-shell-color-scripts-on-other-linux-distrtibutions &lt;/span&gt;
+git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
+mv a2n-s_dotfiles/.bash_profile ~/.bash_profile
+mv a2n-s_dotfiles/.bashrc ~/.bashrc
+mv a2n-s_dotfiles/.bash_aliases ~/.bash_aliases
+mv a2n-s_dotfiles/.bash_logout ~/.bash_logout
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>

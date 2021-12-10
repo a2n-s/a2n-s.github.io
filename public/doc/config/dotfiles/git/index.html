@@ -168,7 +168,7 @@
       <span class="post-date">
         2021-12-04
         
-          [Last update: 2021-12-09]
+          [Last update: 2021-12-10]
         
       </span>
     
@@ -195,24 +195,418 @@
   <div class="post-content"><div>
         <p>Go back to the <a href="/public/doc/config/dotfiles">dotfiles</a>, the <a href="/public/doc/config">doc</a> or the <a href="/public">front page</a>.</p>
 
+    <p align="center">
+
+
+<code>--------------------------------------------------------------------</code>
+</p>
+
+
+<p>
+  <figure class="center" >
+    <img src="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-git.png"  alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-git.png"    width="" height=""/>
+    
+      <figcaption class="center" >Caption.</figcaption>
+    
+  </figure>
+
+
+
+    <p align="center">
+
+
+
+    
+        <i>Gaps, borders and opacity have been exagerated for aesthetic purposes.</i>
+    
+
+</p>
+
+
+More pictures of the config <a href="https://github.com/a2n-s/dotfiles/#4-gallery-toc"><strong>here</strong></a>.</p>
+
+    <p align="center">
+
+
+<code>--------------------------------------------------------------------</code>
+</p>
+
+
+
   <img src="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-git.png"  alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-git.png"  class="center"  width="" height="150" />
 
 
 <p>&ldquo;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&rdquo;</p>
+<h1 id="table-of-content">Table of Content.<a href="#table-of-content" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
+<ul>
+<li><a href="#the-files">The files</a></li>
+<li><a href="#the-config">The config</a></li>
+<li><a href="#some-resources">Some resources</a></li>
+<li><a href="#dependencies">Dependencies</a></li>
+<li><a href="#manual-installation-process">Manual Installation process</a></li>
+</ul>
+
+    <p align="center">
+
+
+<code>--------------------------------------------------------------------</code>
+</p>
+
+
+<h2 id="the-files">The Files.<a href="#the-files" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>All files are available at <a href="https://github.com/a2n-s/dotfiles">~/</a>:</p>
+<ul>
+<li><a href="https://github.com/a2n-s/dotfiles/blob/main/.gitconfig"><code>.gitconfig</code></a></li>
+</ul>
+<h2 id="the-config">The Config.<a href="#the-config" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>I use <code>vim</code> as my <code>git</code> editor, <code>main</code> as a default branch name and the <code>rebase</code> method for pulling.<br>
+Then I simply wrote many aliases to make my life easier:
+
+    <p align="center">
+
+
+
+    
+        <b>Basic aliases.</b>
+    
+
+</p>
+
+</p>
+<table>
+<thead>
+<tr>
+<th>shortcut</th>
+<th>command</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>i</td>
+<td>init</td>
+</tr>
+<tr>
+<td>cl</td>
+<td>clone</td>
+</tr>
+<tr>
+<td>st</td>
+<td>status</td>
+</tr>
+<tr>
+<td>cm</td>
+<td>commit</td>
+</tr>
+<tr>
+<td>sw</td>
+<td>switch</td>
+</tr>
+<tr>
+<td>co</td>
+<td>checkout</td>
+</tr>
+</tbody>
+</table>
+
+    <p align="center">
+
+
+
+    
+        <b>Move branches around.</b>
+    
+
+</p>
+
+
+<table>
+<thead>
+<tr>
+<th>shortcut</th>
+<th>command</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>cp</td>
+<td>cherry-pick</td>
+</tr>
+<tr>
+<td>rb</td>
+<td>rebase</td>
+</tr>
+<tr>
+<td>rbi</td>
+<td>rebase -i</td>
+</tr>
+<tr>
+<td>mg</td>
+<td>merge</td>
+</tr>
+</tbody>
+</table>
+
+    <p align="center">
+
+
+
+    
+        <b>Inspect the commit tree.</b>
+    
+
+</p>
+
+
+<table>
+<thead>
+<tr>
+<th>shortcut</th>
+<th>command</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ga</td>
+<td>log &ndash;graph &ndash;all</td>
+</tr>
+<tr>
+<td>tr</td>
+<td>log &ndash;graph &ndash;oneline &ndash;all &ndash;decorate</td>
+</tr>
+<tr>
+<td>trs</td>
+<td>log &ndash;oneline &ndash;decorate &ndash;all &ndash;graph &ndash;stat</td>
+</tr>
+</tbody>
+</table>
+
+    <p align="center">
+
+
+
+    
+        <b>Inspect the tracked files.</b>
+    
+
+</p>
+
+
+<table>
+<thead>
+<tr>
+<th>shortcut</th>
+<th>command</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>lf</td>
+<td>ls-files</td>
+</tr>
+<tr>
+<td>lfs</td>
+<td>!git ls-files | xargs ls -1 | sort -nrk5</td>
+</tr>
+<tr>
+<td>lfsh</td>
+<td>!git ls-files | xargs ls -1 | sort -nrk5 | head -n</td>
+</tr>
+</tbody>
+</table>
+<p>
+    <p align="center">
+
+
+
+    
+        <b>Interact with remote repos...</b>
+    
+
+</p>
+
+
+
+    <p align="center">
+
+
+
+    
+        <i>down stream.</i>
+    
+
+</p>
+
+</p>
+<table>
+<thead>
+<tr>
+<th>shortcut</th>
+<th>command</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>fc</td>
+<td>fetch</td>
+</tr>
+<tr>
+<td>fcp</td>
+<td>fetch -p</td>
+</tr>
+<tr>
+<td>pl</td>
+<td>pull</td>
+</tr>
+<tr>
+<td>praff</td>
+<td>pull &ndash;rebase &ndash;autostash &ndash;ff</td>
+</tr>
+<tr>
+<td>praffom</td>
+<td>pull &ndash;rebase &ndash;autostash &ndash;ff origin main</td>
+</tr>
+<tr>
+<td>praffum</td>
+<td>pull &ndash;rebase &ndash;autostash &ndash;ff upstream main</td>
+</tr>
+</tbody>
+</table>
+
+    <p align="center">
+
+
+
+    
+        <i>up stream.</i>
+    
+
+</p>
+
+
+<table>
+<thead>
+<tr>
+<th>shortcut</th>
+<th>command</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ps</td>
+<td>push</td>
+</tr>
+<tr>
+<td>pom</td>
+<td>push origin main</td>
+</tr>
+</tbody>
+</table>
+
+    <p align="center">
+
+
+
+    
+        <b>Undo and clean the tree.</b>
+    
+
+</p>
+
+
+<table>
+<thead>
+<tr>
+<th>shortcut</th>
+<th>command</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>rv</td>
+<td>revert</td>
+</tr>
+<tr>
+<td>rs</td>
+<td>reset</td>
+</tr>
+<tr>
+<td>rh</td>
+<td>reset &ndash;hard</td>
+</tr>
+<tr>
+<td>cfd</td>
+<td>clean -fd</td>
+</tr>
+<tr>
+<td>cdf</td>
+<td>clean -fd</td>
+</tr>
+</tbody>
+</table>
+
+    <p align="center">
+
+
+
+    
+        <b>Remote links actions.</b>
+    
+
+</p>
+
+
+<table>
+<thead>
+<tr>
+<th>shortcut</th>
+<th>command</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>rmt</td>
+<td>remote</td>
+</tr>
+<tr>
+<td>rmtv</td>
+<td>remote -v</td>
+</tr>
+<tr>
+<td>rmta</td>
+<td>remote add</td>
+</tr>
+<tr>
+<td>rmtsu</td>
+<td>remote set-url</td>
+</tr>
+</tbody>
+</table>
 <h2 id="some-resources">Some resources.<a href="#some-resources" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <ul>
-<li>the official page <a href="https://git-scm.com/">here</a>.</li>
-<li>the arch wiki page <a href="https://wiki.archlinux.org/title/git">here</a>.</li>
-<li>an interactive and visual tutorial to learn git <a href="https://learngitbranching.js.org/">here</a>.</li>
+<li>the <a href="https://git-scm.com/">official</a> page.</li>
+<li>the Arch <a href="https://wiki.archlinux.org/title/git">wiki</a> page.</li>
+<li>an interactive and visual <a href="https://learngitbranching.js.org/">tutorial</a> to learn <code>git</code>.</li>
 </ul>
-<h2 id="install-git-manually">Install git manually.<a href="#install-git-manually" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<h2 id="dependencies">Dependencies.<a href="#dependencies" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>No dependencies.</p>
+<h2 id="manual-installation-process">Manual installation process.<a href="#manual-installation-process" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <ul>
 <li>install the <code>git</code> command.</li>
 <li>copy <a href="https://github.com/a2n-s/dotfiles/blob/main/.gitconfig"><code>.gitconfig</code></a> inside your <code>~/</code> directory.</li>
+<li><strong>DO NOT FORGET</strong> to replace my name and email address with yours!</li>
 </ul>
-<h2 id="gallery">Gallery.<a href="#gallery" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
-<p>Available soon.<br>
-Snippets on the <a href="https://github.com/a2n-s/dotfiles#4-gallery-toc">dotfiles</a> repo.</p>
+<p>in a nutshell and to be adapted:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo pacman -Syu git
+git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
+mv a2n-s_dotfiles/.gitconfig ~/.gitconfig
+</code></pre></div>
+    <p align="center">
+
+
+<code>--------------------------------------------------------------------</code>
+</p>
+
+
 <p>Go back to the <a href="/public/doc/config/dotfiles">dotfiles</a>, the <a href="/public/doc/config">doc</a> or the <a href="/public">front page</a>.</p>
 
       </div></div>

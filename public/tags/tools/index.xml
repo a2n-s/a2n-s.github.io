@@ -14,28 +14,423 @@
       
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/git/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
-&amp;ldquo;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&amp;rdquo;
-Some resources.  the official page here. the arch wiki page here. an interactive and visual tutorial to learn git here.  Install git manually.  install the git command. copy .gitconfig inside your ~/ directory.</description>
+--------------------------------------------------------------------  Caption.  Gaps, borders and opacity have been exagerated for aesthetic purposes. More pictures of the config here.
+-------------------------------------------------------------------- &amp;ldquo;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&amp;rdquo;
+Table of Content.  The files The config Some resources Dependencies Manual Installation process  -------------------------------------------------------------------- The Files.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-git.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-git.png&#34;    width=&#34;&#34; height=&#34;&#34;/&gt;
+    
+      &lt;figcaption class=&#34;center&#34; &gt;Caption.&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+
+    
+        &lt;i&gt;Gaps, borders and opacity have been exagerated for aesthetic purposes.&lt;/i&gt;
+    
+
+&lt;/p&gt;
+
+
+More pictures of the config &lt;a href=&#34;https://github.com/a2n-s/dotfiles/#4-gallery-toc&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 
   &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-git.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-git.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&amp;ldquo;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;table-of-content&#34;&gt;Table of Content.&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#the-files&#34;&gt;The files&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#the-config&#34;&gt;The config&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#some-resources&#34;&gt;Some resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#dependencies&#34;&gt;Dependencies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#manual-installation-process&#34;&gt;Manual Installation process&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;h2 id=&#34;the-files&#34;&gt;The Files.&lt;/h2&gt;
+&lt;p&gt;All files are available at &lt;a href=&#34;https://github.com/a2n-s/dotfiles&#34;&gt;~/&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.gitconfig&#34;&gt;&lt;code&gt;.gitconfig&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-config&#34;&gt;The Config.&lt;/h2&gt;
+&lt;p&gt;I use &lt;code&gt;vim&lt;/code&gt; as my &lt;code&gt;git&lt;/code&gt; editor, &lt;code&gt;main&lt;/code&gt; as a default branch name and the &lt;code&gt;rebase&lt;/code&gt; method for pulling.&lt;br&gt;
+Then I simply wrote many aliases to make my life easier:
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+
+    
+        &lt;b&gt;Basic aliases.&lt;/b&gt;
+    
+
+&lt;/p&gt;
+
+&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;shortcut&lt;/th&gt;
+&lt;th&gt;command&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;i&lt;/td&gt;
+&lt;td&gt;init&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cl&lt;/td&gt;
+&lt;td&gt;clone&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;st&lt;/td&gt;
+&lt;td&gt;status&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cm&lt;/td&gt;
+&lt;td&gt;commit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;sw&lt;/td&gt;
+&lt;td&gt;switch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;co&lt;/td&gt;
+&lt;td&gt;checkout&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+
+    
+        &lt;b&gt;Move branches around.&lt;/b&gt;
+    
+
+&lt;/p&gt;
+
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;shortcut&lt;/th&gt;
+&lt;th&gt;command&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;cp&lt;/td&gt;
+&lt;td&gt;cherry-pick&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;rb&lt;/td&gt;
+&lt;td&gt;rebase&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;rbi&lt;/td&gt;
+&lt;td&gt;rebase -i&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;mg&lt;/td&gt;
+&lt;td&gt;merge&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+
+    
+        &lt;b&gt;Inspect the commit tree.&lt;/b&gt;
+    
+
+&lt;/p&gt;
+
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;shortcut&lt;/th&gt;
+&lt;th&gt;command&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;ga&lt;/td&gt;
+&lt;td&gt;log &amp;ndash;graph &amp;ndash;all&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;tr&lt;/td&gt;
+&lt;td&gt;log &amp;ndash;graph &amp;ndash;oneline &amp;ndash;all &amp;ndash;decorate&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;trs&lt;/td&gt;
+&lt;td&gt;log &amp;ndash;oneline &amp;ndash;decorate &amp;ndash;all &amp;ndash;graph &amp;ndash;stat&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+
+    
+        &lt;b&gt;Inspect the tracked files.&lt;/b&gt;
+    
+
+&lt;/p&gt;
+
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;shortcut&lt;/th&gt;
+&lt;th&gt;command&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;lf&lt;/td&gt;
+&lt;td&gt;ls-files&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lfs&lt;/td&gt;
+&lt;td&gt;!git ls-files | xargs ls -1 | sort -nrk5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lfsh&lt;/td&gt;
+&lt;td&gt;!git ls-files | xargs ls -1 | sort -nrk5 | head -n&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+    &lt;p align=&#34;center&#34;&gt;
+
+
+
+    
+        &lt;b&gt;Interact with remote repos...&lt;/b&gt;
+    
+
+&lt;/p&gt;
+
+
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+
+    
+        &lt;i&gt;down stream.&lt;/i&gt;
+    
+
+&lt;/p&gt;
+
+&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;shortcut&lt;/th&gt;
+&lt;th&gt;command&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;fc&lt;/td&gt;
+&lt;td&gt;fetch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;fcp&lt;/td&gt;
+&lt;td&gt;fetch -p&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;pl&lt;/td&gt;
+&lt;td&gt;pull&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;praff&lt;/td&gt;
+&lt;td&gt;pull &amp;ndash;rebase &amp;ndash;autostash &amp;ndash;ff&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;praffom&lt;/td&gt;
+&lt;td&gt;pull &amp;ndash;rebase &amp;ndash;autostash &amp;ndash;ff origin main&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;praffum&lt;/td&gt;
+&lt;td&gt;pull &amp;ndash;rebase &amp;ndash;autostash &amp;ndash;ff upstream main&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+
+    
+        &lt;i&gt;up stream.&lt;/i&gt;
+    
+
+&lt;/p&gt;
+
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;shortcut&lt;/th&gt;
+&lt;th&gt;command&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;ps&lt;/td&gt;
+&lt;td&gt;push&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;pom&lt;/td&gt;
+&lt;td&gt;push origin main&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+
+    
+        &lt;b&gt;Undo and clean the tree.&lt;/b&gt;
+    
+
+&lt;/p&gt;
+
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;shortcut&lt;/th&gt;
+&lt;th&gt;command&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;rv&lt;/td&gt;
+&lt;td&gt;revert&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;rs&lt;/td&gt;
+&lt;td&gt;reset&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;rh&lt;/td&gt;
+&lt;td&gt;reset &amp;ndash;hard&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cfd&lt;/td&gt;
+&lt;td&gt;clean -fd&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cdf&lt;/td&gt;
+&lt;td&gt;clean -fd&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+
+    
+        &lt;b&gt;Remote links actions.&lt;/b&gt;
+    
+
+&lt;/p&gt;
+
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;shortcut&lt;/th&gt;
+&lt;th&gt;command&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;rmt&lt;/td&gt;
+&lt;td&gt;remote&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;rmtv&lt;/td&gt;
+&lt;td&gt;remote -v&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;rmta&lt;/td&gt;
+&lt;td&gt;remote add&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;rmtsu&lt;/td&gt;
+&lt;td&gt;remote set-url&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;the official page &lt;a href=&#34;https://git-scm.com/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;the arch wiki page &lt;a href=&#34;https://wiki.archlinux.org/title/git&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;an interactive and visual tutorial to learn git &lt;a href=&#34;https://learngitbranching.js.org/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://git-scm.com/&#34;&gt;official&lt;/a&gt; page.&lt;/li&gt;
+&lt;li&gt;the Arch &lt;a href=&#34;https://wiki.archlinux.org/title/git&#34;&gt;wiki&lt;/a&gt; page.&lt;/li&gt;
+&lt;li&gt;an interactive and visual &lt;a href=&#34;https://learngitbranching.js.org/&#34;&gt;tutorial&lt;/a&gt; to learn &lt;code&gt;git&lt;/code&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;install-git-manually&#34;&gt;Install git manually.&lt;/h2&gt;
+&lt;h2 id=&#34;dependencies&#34;&gt;Dependencies.&lt;/h2&gt;
+&lt;p&gt;No dependencies.&lt;/p&gt;
+&lt;h2 id=&#34;manual-installation-process&#34;&gt;Manual installation process.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;install the &lt;code&gt;git&lt;/code&gt; command.&lt;/li&gt;
 &lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.gitconfig&#34;&gt;&lt;code&gt;.gitconfig&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/&lt;/code&gt; directory.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DO NOT FORGET&lt;/strong&gt; to replace my name and email address with yours!&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;gallery&#34;&gt;Gallery.&lt;/h2&gt;
-&lt;p&gt;Available soon.&lt;br&gt;
-Snippets on the &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;dotfiles&lt;/a&gt; repo.&lt;/p&gt;
+&lt;p&gt;in a nutshell and to be adapted:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;sudo pacman -Syu git
+git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
+mv a2n-s_dotfiles/.gitconfig ~/.gitconfig
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>

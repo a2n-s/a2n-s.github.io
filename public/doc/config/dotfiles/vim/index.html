@@ -168,7 +168,7 @@
       <span class="post-date">
         2021-12-04
         
-          [Last update: 2021-12-09]
+          [Last update: 2021-12-10]
         
       </span>
     
@@ -195,33 +195,327 @@
   <div class="post-content"><div>
         <p>Go back to the <a href="/public/doc/config/dotfiles">dotfiles</a>, the <a href="/public/doc/config">doc</a> or the <a href="/public">front page</a>.</p>
 
+    <p align="center">
+
+
+<code>--------------------------------------------------------------------</code>
+</p>
+
+
+<p>
+  <figure class="center" >
+    <img src="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-vim.png"  alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-vim.png"    width="" height=""/>
+    
+      <figcaption class="center" >My vim rice.</figcaption>
+    
+  </figure>
+
+
+
+  <figure class="center" >
+    <img src="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-vim2.png"  alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-vim2.png"    width="" height=""/>
+    
+      <figcaption class="center" >A terminal inside vim?.</figcaption>
+    
+  </figure>
+
+
+More pictures of the config <a href="https://github.com/a2n-s/dotfiles#4-gallery-toc"><strong>here</strong></a>.</p>
+
+    <p align="center">
+
+
+<code>--------------------------------------------------------------------</code>
+</p>
+
+
+
   <img src="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-vim.png"  alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-vim.png"  class="center"  width="" height="150" />
 
 
 <p>&ldquo;Vim (/vɪm/; a contraction of Vi IMproved) is a free and open-source, screen-based text editor program for Unix.&rdquo;</p>
+<h1 id="table-of-content">Table of Content.<a href="#table-of-content" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
+<ul>
+<li><a href="#the-files">The files</a></li>
+<li><a href="#the-config">The config</a></li>
+<li><a href="#some-resources">Some resources</a></li>
+<li><a href="#dependencies">Dependencies</a></li>
+<li><a href="#manual-installation-process">Manual installation process</a></li>
+</ul>
+
+    <p align="center">
+
+
+<code>--------------------------------------------------------------------</code>
+</p>
+
+
+<h2 id="the-files">The Files.<a href="#the-files" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>All files are available at <a href="https://github.com/a2n-s/dotfiles">~/</a>:</p>
+<ul>
+<li><a href="https://github.com/a2n-s/dotfiles/blob/main/.vimrc"><code>.vimrc</code></a></li>
+</ul>
+<h2 id="the-config">The config.<a href="#the-config" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>All details can be found in [<code>vimrc</code>] but below are some characteristic stuff about the config:</p>
+<ul>
+<li>
+<p>I can use a terminal directly in the <code>vim</code> window.</p>
+</li>
+<li>
+<p>the list of my key-bindings ('\' is the leader key with <code>let mapleader = &quot;\\&quot;</code>:</p>
+<table>
+<thead>
+<tr>
+<th>Key-bindings</th>
+<th>What the key-binding does.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>nnoremap &lt;leader&gt;sv :source $MYVIMRC&lt;cr&gt;</td>
+<td>applies the changes made to .vimrc</td>
+</tr>
+<tr>
+<td>nnoremap &lt;leader&gt;\ :nohlsearch&lt;CR&gt;</td>
+<td>turn off search highlighting by pressing \.</td>
+</tr>
+<tr>
+<td>nnoremap &lt;leader&gt;' ``</td>
+<td>press `` to jump back to the last cursor position.</td>
+</tr>
+<tr>
+<td>noremap &lt;leader&gt;] &lt;c-w&gt;=</td>
+<td>make all splits the same size, as best as vim can do.</td>
+</tr>
+<tr>
+<td>noremap &lt;leader&gt;t :%s/\s+$//&lt;cr&gt;</td>
+<td>clears trailling spaces.</td>
+</tr>
+<tr>
+<td>nnoremap &lt;S-j&gt; :m .+1&lt;CR&gt;</td>
+<td>moves lines dowm.</td>
+</tr>
+<tr>
+<td>vnoremap &lt;S-j&gt; :m &lsquo;&gt;+1&lt;CR&gt;gv=gv</td>
+<td>moves lines dowm.</td>
+</tr>
+<tr>
+<td>nnoremap &lt;S-k&gt; :m .-2&lt;CR&gt;</td>
+<td>moves lines up.</td>
+</tr>
+<tr>
+<td>vnoremap &lt;S-k&gt; :m &lsquo;&lt;-2&lt;CR&gt;gv=gv</td>
+<td>moves lines up.</td>
+</tr>
+<tr>
+<td>inoremap jj &lt;Esc&gt;</td>
+<td>type jj to exit insert mode quickly.</td>
+</tr>
+<tr>
+<td>nnoremap &lt;space&gt; :</td>
+<td>press the space bar to type the : character in command mode.</td>
+</tr>
+<tr>
+<td>nnoremap o o&lt;esc&gt;</td>
+<td>exit insert mode after creating a new line below the current line.</td>
+</tr>
+<tr>
+<td>nnoremap O O&lt;esc&gt;</td>
+<td>exit insert mode after creating a new line above the current line.</td>
+</tr>
+<tr>
+<td>nnoremap n nzz</td>
+<td>center the cursor vertically when moving to the next word during a search.</td>
+</tr>
+<tr>
+<td>nnoremap N Nzz</td>
+<td>center the cursor vertically when moving to the previous word during a search.</td>
+</tr>
+<tr>
+<td>nnoremap Y y$</td>
+<td>yank from cursor to the end of line.</td>
+</tr>
+<tr>
+<td>nnoremap &lt;c-j&gt; &lt;c-w&gt;j</td>
+<td>navigate to down split by pressing CTRL+j.</td>
+</tr>
+<tr>
+<td>nnoremap &lt;c-k&gt; &lt;c-w&gt;k</td>
+<td>navigate to up split by pressing CTRL+k.</td>
+</tr>
+<tr>
+<td>nnoremap &lt;c-h&gt; &lt;c-w&gt;h</td>
+<td>navigate to left split by pressing CTRL+h.</td>
+</tr>
+<tr>
+<td>nnoremap &lt;c-l&gt; &lt;c-w&gt;l</td>
+<td>navigate to right split by pressing CTRL+l.</td>
+</tr>
+<tr>
+<td>noremap &lt;c-up&gt; &lt;c-w&gt;+</td>
+<td>resize split windows bigger vertically by pressing: CTRL+UP.</td>
+</tr>
+<tr>
+<td>noremap &lt;c-down&gt; &lt;c-w&gt;-</td>
+<td>resize split windows smaller vertically by pressing: CTRL+DOWN.</td>
+</tr>
+<tr>
+<td>noremap &lt;c-left&gt; &lt;c-w&gt;&gt;</td>
+<td>resize split windows bigger horizontally by pressing: CTRL+LEFT.</td>
+</tr>
+<tr>
+<td>noremap &lt;c-right&gt; &lt;c-w&gt;&lt;</td>
+<td>resize split windows smaller horizontally by pressing: CTRL+RIGHT.</td>
+</tr>
+<tr>
+<td>nnoremap &lt;F3&gt; :NERDTreeToggle&lt;cr&gt;</td>
+<td>map the F3 key to toggle NERDTree open and close.</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<p>the list of my installed plugins:</p>
+<table>
+<thead>
+<tr>
+<th>Plugin name</th>
+<th>Plugin link to repository</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SimpylFold</td>
+<td><a href="https://github.com/tmhedberg/SimpylFold">https://github.com/tmhedberg/SimpylFold</a></td>
+</tr>
+<tr>
+<td>fzf</td>
+<td><a href="https://github.com/junegunn/fzf">https://github.com/junegunn/fzf</a></td>
+</tr>
+<tr>
+<td>vim-floaterm</td>
+<td><a href="https://github.com/voldikss/vim-floaterm">https://github.com/voldikss/vim-floaterm</a></td>
+</tr>
+<tr>
+<td>ale</td>
+<td><a href="https://github.com/dense-analysis/ale">https://github.com/dense-analysis/ale</a></td>
+</tr>
+<tr>
+<td>YouCompleteMe</td>
+<td><a href="https://github.com/ycm-core/YouCompleteMe">https://github.com/ycm-core/YouCompleteMe</a></td>
+</tr>
+<tr>
+<td>vim-signify</td>
+<td><a href="https://github.com/mhinz/vim-signify">https://github.com/mhinz/vim-signify</a></td>
+</tr>
+<tr>
+<td>fzf.vim</td>
+<td><a href="https://github.com/junegunn/fzf.vim">https://github.com/junegunn/fzf.vim</a></td>
+</tr>
+<tr>
+<td>vim-cmake</td>
+<td><a href="https://github.com/cdelledonne/vim-cmake">https://github.com/cdelledonne/vim-cmake</a></td>
+</tr>
+<tr>
+<td>rainbow_parentheses.vim</td>
+<td><a href="https://github.com/junegunn/rainbow_parentheses.vim">https://github.com/junegunn/rainbow_parentheses.vim</a></td>
+</tr>
+<tr>
+<td>vim-commentary</td>
+<td><a href="https://github.com/tpope/vim-commentary">https://github.com/tpope/vim-commentary</a></td>
+</tr>
+<tr>
+<td>nerdtree</td>
+<td><a href="https://github.com/preservim/nerdtree">https://github.com/preservim/nerdtree</a></td>
+</tr>
+<tr>
+<td>vim-startify</td>
+<td><a href="https://github.com/mhinz/vim-startify">https://github.com/mhinz/vim-startify</a></td>
+</tr>
+<tr>
+<td>powerline</td>
+<td><a href="https://github.com/powerline/powerline">https://github.com/powerline/powerline</a></td>
+</tr>
+<tr>
+<td>vim-fugitive</td>
+<td><a href="https://github.com/tpope/vim-fugitive">https://github.com/tpope/vim-fugitive</a></td>
+</tr>
+<tr>
+<td>indentpython.vim</td>
+<td><a href="https://github.com/vim-scripts/indentpython.vim">https://github.com/vim-scripts/indentpython.vim</a></td>
+</tr>
+<tr>
+<td>syntastic</td>
+<td><a href="https://github.com/vim-syntastic/syntastic">https://github.com/vim-syntastic/syntastic</a></td>
+</tr>
+<tr>
+<td>gv.vim</td>
+<td><a href="https://github.com/junegunn/gv.vim">https://github.com/junegunn/gv.vim</a></td>
+</tr>
+<tr>
+<td>ctrlp.vim</td>
+<td><a href="https://github.com/kien/ctrlp.vim">https://github.com/kien/ctrlp.vim</a></td>
+</tr>
+<tr>
+<td>onedark.vim</td>
+<td><a href="https://github.com/joshdick/onedark.vim">https://github.com/joshdick/onedark.vim</a></td>
+</tr>
+<tr>
+<td>vim-rhubarb</td>
+<td><a href="https://github.com/tpope/vim-rhubarb">https://github.com/tpope/vim-rhubarb</a></td>
+</tr>
+<tr>
+<td>vim-which-key</td>
+<td><a href="https://github.com/liuchengxu/vim-which-key">https://github.com/liuchengxu/vim-which-key</a></td>
+</tr>
+<tr>
+<td>FastFold</td>
+<td><a href="https://github.com/Konfekt/FastFold">https://github.com/Konfekt/FastFold</a></td>
+</tr>
+<tr>
+<td>vim-flake8</td>
+<td><a href="https://github.com/nvie/vim-flake8">https://github.com/nvie/vim-flake8</a></td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
 <h2 id="some-resources">Some resources.<a href="#some-resources" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <ul>
-<li>the wikipedia page <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)">here</a>.</li>
-<li>the arch wiki page <a href="https://wiki.archlinux.org/title/vim">here</a>.</li>
+<li>the <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)">wikipedia</a> page.</li>
+<li>the Arch <a href="https://wiki.archlinux.org/title/vim">wiki</a> page.</li>
 <li>for the hardcore vimmers among you, check <a href="https://tuppervim.org/">here</a>.</li>
-<li>an introduction to configuring vim <a href="https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/">here</a>.</li>
+<li>an <a href="https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/">introduction</a> to configuring vim.</li>
 <li>adding python IDE features to vim <a href="https://realpython.com/vim-and-python-a-match-made-in-heaven/">here</a>.</li>
 </ul>
-<h2 id="dependencies-for-vim">Dependencies for vim.<a href="#dependencies-for-vim" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<h2 id="dependencies">Dependencies.<a href="#dependencies" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <ul>
 <li>make sure to either run <code>vim</code> once with the <code>.vimrc</code> file installed or issue <code>mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/color ~/.vim/plugged</code>.</li>
 <li>a plugin manager: I use <code>vim-plug</code> which can be installed with <code>curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim</code></li>
 <li>the <code>molokai</code> colorscheme -&gt; can be installed with <code>cd ~/.vim/colors; curl -o molokai.vim https://raw.githubusercontent.com/tomasr/molokai/master/colors/molokai.vim</code>.</li>
 </ul>
-<h2 id="install-vim">Install vim.<a href="#install-vim" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<h2 id="manual-installation-process">Manual installation process.<a href="#manual-installation-process" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <ul>
 <li>install the dependencies.</li>
 <li>install the <code>vim</code> command.</li>
 <li>copy <a href="https://github.com/a2n-s/dotfiles/blob/main/.vimrc"><code>.vimrc</code></a> inside your <code>~/</code> directory.</li>
 </ul>
-<h2 id="gallery">Gallery.<a href="#gallery" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
-<p>Available soon.<br>
-Snippets on the <a href="https://github.com/a2n-s/dotfiles#4-gallery-toc">dotfiles</a> repo.</p>
+<p>in a nutshell and to be adapted:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo pacman -Syu vim
+mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/color ~/.vim/plugged
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+cd ~/.vim/colors; curl -o molokai.vim https://raw.githubusercontent.com/tomasr/molokai/master/colors/molokai.vim<span style="color:#e6db74">`</span>
+git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
+mv a2n-s_dotfiles/.vimrc ~/.vimrc
+</code></pre></div><p>and then run <code>:PlugInstall</code> in <code>vim</code> to install the plugins.`</p>
+
+    <p align="center">
+
+
+<code>--------------------------------------------------------------------</code>
+</p>
+
+
 <p>Go back to the <a href="/public/doc/config/dotfiles">dotfiles</a>, the <a href="/public/doc/config">doc</a> or the <a href="/public">front page</a>.</p>
 
       </div></div>
