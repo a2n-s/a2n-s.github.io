@@ -62,6 +62,7 @@ I define some aliases to make my life easier, e.g.
 - `ncu*` to connect to my favorite networks.
 - `jpy` and `jnb` to launch respectively `jupyter` and `jupyter-nontebook` when available.
 - `sdn` and `sdnr` to respectively shutdown and reboot my machine from the terminal.
+- `rmv`, `rmi`, `rmr` and `rmrf` where `rm*` runs `rm -*`
 - classic `ls` variants such as `ll` ~ `ls -l` or `la` ~ ~ls -A`.
 #### 4. Logout.
 Default behaviour.
