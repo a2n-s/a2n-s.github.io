@@ -32,6 +32,7 @@ More pictures of the config [**here**](https://github.com/a2n-s/dotfiles#4-galle
 Alacritty is a minimal terminal emulator.
 
 # Table of Content.
+- [The files](#the-files)
 - [The config](#the-config)
 - [Some resources](#some-resources)
 - [Dependencies](#dependencies)
@@ -39,6 +40,10 @@ Alacritty is a minimal terminal emulator.
 
 {{< code align="center"
          text="--------------------------------------------------------------------">}}
+
+## The Files.
+All files are available at [~/.config/alacritty](https://github.com/a2n-s/dotfiles/blob/main/.config/alacritty):
+- [`alacritty.yml`]: 
 
 ## The config.
 The **theme** is *simple* and *easy on the eyes*.  

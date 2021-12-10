@@ -23,6 +23,7 @@ More pictures of the config [**here**](https://github.com/a2n-s/dotfiles/#4-gall
 "Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell."
 
 # Table of Content.
+- [The files](#the-files)
 - [The config](#the-config)
 - [Some resources](#some-resources)
 - [Dependencies](#dependencies)
@@ -30,6 +31,14 @@ More pictures of the config [**here**](https://github.com/a2n-s/dotfiles/#4-gall
 
 {{< code align="center"
          text="--------------------------------------------------------------------">}}
+
+## The Files.
+All files are available at [~/](https://github.com/a2n-s/dotfiles):
+- [`.bash_aliases`]
+- [`.bash_logout`]
+- [`.bash_profile`]
+- [`.bashrc`]
+- [`.profile`]
 
 ## The Config.
 #### 1. Profile.

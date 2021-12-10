@@ -34,6 +34,7 @@ More pictures of the config [**here**](https://github.com/a2n-s/dotfiles#4-galle
 "bspwm is a tiling window manager that represents windows as the leaves of a full binary tree."
 
 # Table of Content.
+- [The files](#the-files)
 - [The config](#the-config)
 - [Some resources](#some-resources)
 - [Dependencies](#dependencies)
@@ -41,6 +42,11 @@ More pictures of the config [**here**](https://github.com/a2n-s/dotfiles#4-galle
 
 {{< code align="center"
          text="--------------------------------------------------------------------">}}
+
+## The Files.
+All files are available at [~/.config/bspwm](https://github.com/a2n-s/dotfiles/blob/main/.config/bspwm):
+- [`bspwmrc`](https://github.com/a2n-s/dotfiles/blob/main/.config/bspwm/bspwmrc)
+- [`scheme.sh`](https://github.com/a2n-s/dotfiles/blob/main/.config/bspwm/scheme.sh)
 
 ## The config.
 Some scripts can be found in bspwm's [config](https://github.com/a2n-s/dotfiles/tree/main/scripts).  
