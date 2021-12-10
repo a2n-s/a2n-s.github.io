@@ -1,7 +1,7 @@
 ---
 title: "Dotfiles"
 date: 2021-12-04
-lastMod: 2021-12-09
+lastMod: 2021-12-10
 tags: ["doc", "dotfiles"]
 keywords: ["doc", "dotfiles"]
 description: "All the dotfiles of the programs I run on my machine: my windows manager of the moment, my bar, my terminal emulator and many more."
@@ -18,7 +18,7 @@ The programs I run on my machine can be split into a few parts:
   - [nitrogen](/public/doc/config/dotfiles/nitrogen)
 - programs that interacts with the system:
   - [vifm](/public/doc/config/dotfiles/vifm)
-  - [polybar](/public/doc/config/dotfiles/polybar)
+  - [polybar](/public/doc/config/polybar)
   - [xscreensaver](/public/doc/config/dotfiles/xscreensaver)
 - the programs for the terminal:
   - [alacritty](/public/doc/config/dotfiles/alacritty)
