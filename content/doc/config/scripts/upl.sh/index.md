@@ -10,4 +10,10 @@ Go back to the [scripts](/public/doc/config/scripts), the [doc](/public/doc/conf
 
 {{< code align="center" text="--------------------------------------------------------------------" >}}
 
-script can be found [here](https://github.com/a2n-s/dotfiles/blob/main/scripts/upl.sh).
+Script can be found [here](https://github.com/a2n-s/dotfiles/blob/main/scripts/upl.sh) with following header:
+```
+Description:  updates some lists of installed packages.
+Dependencies: pacman, comm
+License:      https://github.com/a2n-s/dotfiles/LICENSE 
+Contributors: Stevan Antoine
+```

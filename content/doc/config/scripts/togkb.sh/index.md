@@ -10,7 +10,10 @@ Go back to the [scripts](/public/doc/config/scripts), the [doc](/public/doc/conf
 
 {{< code align="center" text="--------------------------------------------------------------------" >}}
 
-script can be found [here](https://github.com/a2n-s/dotfiles/blob/main/scripts/togkb.sh).
-
-## Dependencies for togkb.sh
-- `setxkbmap` to change the keyboard layout.
+Script can be found [here](https://github.com/a2n-s/dotfiles/blob/main/scripts/togkb.sh) with following header:
+```
+Description:  toggles the keyboard layout between qwerty and azerty.
+Dependencies: setxkbmap 
+License:      https://github.com/a2n-s/dotfiles/LICENSE 
+Contributors: Stevan Antoine
+```

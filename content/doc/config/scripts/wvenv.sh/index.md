@@ -10,15 +10,33 @@ Go back to the [scripts](/public/doc/config/scripts), the [doc](/public/doc/conf
 
 {{< code align="center" text="--------------------------------------------------------------------" >}}
 
-script can be found [here](https://github.com/a2n-s/dotfiles/blob/main/scripts/wvenv.sh).
+Script can be found [here](https://github.com/a2n-s/dotfiles/blob/main/scripts/wvenv.sh) with following header:
+```
+Description:  prints some information about the current virtual
+              python environment running.
+              an example when not inside a virtual environment.
+                    command |                    path (version)
+                   ---------+-------------------------------------------------------
+                    python  | /usr/bin/python (Python 3.9.9)
+                       pip  | /usr/bin/pip (pip 20.3.4)
+                   python3  | /usr/bin/python3 (Python 3.9.9)
+                      pip3  | /usr/bin/pip3 (pip 20.3.4)
+                   jupyter  | --
+                   notebook | -- (--)
 
-
-## Dependencies for wvenv.
-`wvenv` will not crash without these, but the output might be unpredictable.  
-- `which` to know where the command is located.
-- `python`, `python3` the python interpreters.
-- `pip`, `pip3` the python package managers.
-- `jupyter`, `jupyter-notebook` to edit and see jupyter notebooks.
+              an example when inside a virtual environement, with jupyter installed.
+                    command |                    path (version)
+                   ---------+-------------------------------------------------------
+                    python  | /home/ants/.venvs/ml/bin/python (Python 3.9.9)
+                       pip  | /home/ants/.venvs/ml/bin/pip (pip 21.3.1)
+                   python3  | /home/ants/.venvs/ml/bin/python3 (Python 3.9.9)
+                      pip3  | /home/ants/.venvs/ml/bin/pip3 (pip 21.3.1)
+                   jupyter  | /home/ants/.venvs/ml/bin/jupyter
+                   notebook | /home/ants/.venvs/ml/bin/jupyter-notebook (6.4.6)
+Dependencies: python, pip, and jupyter, jupyter-notebook to have full information but required.
+License:      https://github.com/a2n-s/dotfiles/LICENSE 
+Contributors: Stevan Antoine
+```
 
 Notes:
 - I really highly recommend you, once you have installed python on the system, to install `virtualenv`, `pyenv`, `conda`, or similar

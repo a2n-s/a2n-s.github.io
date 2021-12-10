@@ -10,9 +10,10 @@ Go back to the [scripts](/public/doc/config/scripts), the [doc](/public/doc/conf
 
 {{< code align="center" text="--------------------------------------------------------------------" >}}
 
-script can be found [here](https://github.com/a2n-s/dotfiles/blob/main/scripts/spectrWM-baraction.sh).
-
-## Dependencies for spectrWM-baraction.sh
-- disk commands: `df`, `free`, `mpstat`
-- networking commands: `ip`, `nmcli`, `ifstat`
-- `setxkbmap` to look at the keyboard layout, `play` to play sounds.
+Script can be found [here](https://github.com/a2n-s/dotfiles/blob/main/scripts/spectrWM-baraction.sh) with following header:
+```
+Description:   the baraction script for the spectwm windows manager.
+Dependencies:  mpstat, amixer, nmcli, ifstat, setxkbmap, play.
+License:       https://github.com/a2n-s/dotfiles/LICENSE 
+Contributors: Stevan Antoine
+```

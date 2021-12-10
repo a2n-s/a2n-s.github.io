@@ -10,7 +10,11 @@ Go back to the [scripts](/public/doc/config/scripts), the [doc](/public/doc/conf
 
 {{< code align="center" text="--------------------------------------------------------------------" >}}
 
-script can be found [here](https://github.com/a2n-s/dotfiles/blob/main/scripts/xtcl.sh).
-
-## Dependencies for xtcl
-- `xdotool` to force the key value to unactive and `xmodmap` to disable the key.
+Script can be found [here](https://github.com/a2n-s/dotfiles/blob/main/scripts/xtcl.sh) with following header:
+```
+Description:  turns off proprely the Caps_Lock key because it is broken and ultra sensitive on my machine.
+              semi-deprecated but can still be useful to disable broken and annoying keys.
+Dependencies: xdotool, xmodmap.
+License:      https://github.com/a2n-s/dotfiles/LICENSE 
+Contributors: Stevan Antoine
+```

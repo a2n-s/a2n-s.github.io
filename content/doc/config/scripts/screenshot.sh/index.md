@@ -10,7 +10,12 @@ Go back to the [scripts](/public/doc/config/scripts), the [doc](/public/doc/conf
 
 {{< code align="center" text="--------------------------------------------------------------------" >}}
 
-script can be found [here](https://github.com/a2n-s/dotfiles/blob/main/scripts/screenshot.sh).
-
-## Dependencies for screenshot.sh.
-- the `scrot` command: can be installed with `sudo pacman -S scrot` on Arch.
+Script can be found [here](https://github.com/a2n-s/dotfiles/blob/main/scripts/screenshot.sh) with following header:
+```
+Description:  takes a screenshot of all the screens with the 'full' flag and only a selected window with the 'window' flag.
+              '$SCRIPTS/screenshot.sh full' will take a screenshot of the whole screen.
+              '$SCRIPTS/screenshot.sh window' will let the user chose the window he wants to take a screenshot of.
+Dependencies: scrot
+License:      https://github.com/a2n-s/dotfiles/LICENSE 
+Contributors: Stevan Antoine
+```
