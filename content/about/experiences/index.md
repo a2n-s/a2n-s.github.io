@@ -8,6 +8,8 @@ description: "Details about my professional and semi-professional experiences."
 ---
 Go back to the [about me](/public/about) section or the [front page](/public).  
 
+{{< code align="center" text="--------------------------------------------------------------------" >}}
+
 # july 2021 – august 2021
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2nd year internship (7 weeks)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SuReLI, ISAE-supaero  
@@ -18,7 +20,7 @@ Continuation of the previous research topic of my PIR project:
 | Hard  | Full ML pipeline | Image processing      | Imitation RL          |
 | Soft  | Autonomy         | Talking about my work | Resilience to failure |
 
-# january 2021– july 2021
+# january 2021 – july 2021
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Innovation & Research Project(PIR) (5 months)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ISAE-Supaero  
 First research experience leading to a paper with academic level.
@@ -30,7 +32,7 @@ First research experience leading to a paper with academic level.
 | Hard  | Image processing      | Disentanglement   | Submitting a paper |
 | Soft  | Writing communication | Oral presentation | Fast learning      |
 
-# november2020 – april2021
+# november 2020 – april 2021
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tutor for students (6 months / part-time)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ISAE-Supaero  
 - Organized support sessions about basic or deeper notions.
@@ -41,7 +43,7 @@ First research experience leading to a paper with academic level.
 | Hard  ||| 
 | Soft  | Patience | Popularization skill | Time Management |
 
-# october 2020– may 2021
+# october 2020 – may 2021
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Part-time operator (8 months)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ISAE-Supaero, InnovSpace  
 - Managed ISAE-Supaero’s InnovSpace during my free-time.
@@ -51,7 +53,7 @@ First research experience leading to a paper with academic level.
 | Hard  | Manual tools | Professional management | |
 | Soft  | Decication   | Autonomy                | |
 
-# july 2020 –august 20201
+# july 2020 – august 2020
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1st year internship (8 weeks)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naval Force 3, La Rochelle, France  
 Naval Force 3 is a private shipyard (SME) in La Rochelle.
@@ -62,7 +64,7 @@ Naval Force 3 is a private shipyard (SME) in La Rochelle.
 | Hard  | Building nautical objects | Resin techniques          ||
 | Soft  | Managing a workshop       | Going out of comfort zone ||
 
-# september2018 – june2019
+# september 2018 – june 2019
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research school project (TIPE) (9 months / part-time)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Georges Clemenceau, Nantes, France  
 First research experience.
@@ -73,5 +75,7 @@ First research experience.
 | Hard  | Problem statement | Evolutionary algorithms |                       |
 | Soft  | Autonomy          | Oral communication      |                       |
 
+
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 Go back to the [about me](/public/about) section or the [front page](/public).  

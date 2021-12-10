@@ -6,6 +6,9 @@ tags: ["doc", "dotfiles"]
 keywords: ["doc", "dotfiles"]
 description: "All the dotfiles of the programs I run on my machine: my windows manager of the moment, my bar, my terminal emulator and many more."
 ---
+Go back to the [doc](/public/doc/config) or the [front page](/public).  
+
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 The programs I run on my machine can be split into a few parts:
 - the basic video drivers:
@@ -32,5 +35,6 @@ The programs I run on my machine can be split into a few parts:
 
 or in the list below.
 
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 Go back to the [doc](/public/doc/config) or the [front page](/public).  

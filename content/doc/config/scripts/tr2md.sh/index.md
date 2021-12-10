@@ -8,4 +8,6 @@ description: "Turns a tree structure into something useable."
 ---
 Go back to the [scripts](/public/doc/config/scripts), the [doc](/public/doc/config) or the [front page](/public).  
 
+{{< code align="center" text="--------------------------------------------------------------------" >}}
+
 File is [here](https://github.com/a2n-s/dotfiles/blob/main/scripts/tree2md.sh)

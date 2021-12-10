@@ -8,8 +8,7 @@ description: "The version control system of choice for me, suited for GitHub, Gi
 ---
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 {{< figure src="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-git.png" 
            alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-git.png"
@@ -19,8 +18,7 @@ Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/co
            text="Gaps, borders and opacity have been exagerated for aesthetic purposes." >}}
 More pictures of the config [**here**](https://github.com/a2n-s/dotfiles/#4-gallery-toc).
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 {{< image src="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-git.png" 
           alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-git.png"
@@ -35,8 +33,7 @@ More pictures of the config [**here**](https://github.com/a2n-s/dotfiles/#4-gall
 - [Dependencies](#dependencies)
 - [Manual Installation process](#manual-installation-process)
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 ## The Files.
 All files are available at [~/](https://github.com/a2n-s/dotfiles):
@@ -132,8 +129,7 @@ git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.gitconfig ~/.gitconfig
 ```
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 

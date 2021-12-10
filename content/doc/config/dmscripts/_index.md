@@ -10,4 +10,6 @@ description: "A fork of scripts for dmenu, allowing the use of complex commands 
 # Doc unavailable...
 Please refer to the [GitHub repo](https://github.com/a2n-s/dmscripts) instead.
 
+{{< code align="center" text="--------------------------------------------------------------------" >}}
+
 Go back to the [doc](/public/doc/config) or the [front page](/public).  

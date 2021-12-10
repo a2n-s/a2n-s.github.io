@@ -8,6 +8,8 @@ description: "Details about my skills, hars/technical ones and soft/human ones."
 ---
 Go back to the [about me](/public/about) section or the [front page](/public).  
 
+{{< code align="center" text="--------------------------------------------------------------------" >}}
+
 # Languages
 French - native speaker  
 English - fluent  
@@ -26,5 +28,7 @@ LSF - beginner
 
 # Soft Skills
 Dedicated - Intrinsically curious - Calm under pressure - Versatile - Fast-learner - Spontaneous - Honest - Open-minded
+
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 Go back to the [about me](/public/about) section or the [front page](/public).  

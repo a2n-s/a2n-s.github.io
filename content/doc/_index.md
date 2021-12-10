@@ -11,4 +11,6 @@ This page allows the user to redirect to the different docs I wrote.
 One can find information below:
 - my [config](/public/doc/config).
 
+{{< code align="center" text="--------------------------------------------------------------------" >}}
+
 Go back to the [front page](/public).  

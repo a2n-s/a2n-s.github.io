@@ -8,13 +8,11 @@ description: "The famous Unix Shell, some detail, how to install my config."
 ---
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 More pictures of the config [**here**](https://github.com/a2n-s/dotfiles/#4-gallery-toc).
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 {{< image src="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-bash.png" 
           alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-bash.png"
@@ -29,8 +27,7 @@ More pictures of the config [**here**](https://github.com/a2n-s/dotfiles/#4-gall
 - [Dependencies](#dependencies)
 - [Manual Installation process](#manual-installation-process)
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 ## The Files.
 All files are available at [~/](https://github.com/a2n-s/dotfiles):
@@ -93,8 +90,7 @@ mv a2n-s_dotfiles/.bash_aliases ~/.bash_aliases
 mv a2n-s_dotfiles/.bash_logout ~/.bash_logout
 ```
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 

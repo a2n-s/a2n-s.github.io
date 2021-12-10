@@ -6,6 +6,7 @@ tags: ["index", "main page", "about"]
 keywords: ["index", "main page", "about"]
 description: "An introduction to me and links to more specific information."
 ---
+Go back to the [front page](/public).  
 **Quick menu**: 
 [res.](/public/about/resume),
 [me](/public/about/me),
@@ -13,6 +14,8 @@ description: "An introduction to me and links to more specific information."
 [exp.](/public/about/experiences),
 [skills](/public/about/skills),
 [hobbies](/public/about/hobbies)
+
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 In this bundle of files, I am talking about myself!  
 # But, wait a minute, who am I??
@@ -29,6 +32,8 @@ I am actively looking for an internship in a research lab, in the field of RL, w
 - (2) **Coordination & Multi-Agent RL (MARL)**
 - (3) **Robustness & Safety**.
 
+{{< code align="center" text="--------------------------------------------------------------------" >}}
+
 ### Places one might want to explore.
 - my full resume [here](/public/about/resume)  
 - some more information about me [here](/public/about/me)  
@@ -38,5 +43,7 @@ I am actively looking for an internship in a research lab, in the field of RL, w
 - my hobbies [here](/public/about/hobbies)  
 
 or in the list below.
+
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 Go back to the [front page](/public).  

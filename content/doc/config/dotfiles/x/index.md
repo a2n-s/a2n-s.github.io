@@ -8,13 +8,11 @@ description: "Some installation details to be able to display things on the scre
 ---
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 More pictures of the config [**here**](https://github.com/a2n-s/dotfiles#4-gallery-toc).
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 {{< image src="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-x.png" 
           alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-x.png"
@@ -29,8 +27,7 @@ More pictures of the config [**here**](https://github.com/a2n-s/dotfiles#4-galle
 - [Dependencies](#dependencies)
 - [Manual installation process](#manual-installation-process)
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 ## The Files.
 All files are available at [~/](https://github.com/a2n-s/dotfiles):
@@ -60,8 +57,7 @@ git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.xinitrc ~/.xinitrc
 ```
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 

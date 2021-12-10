@@ -8,8 +8,7 @@ description: "Explore files of the system with the config of vifm."
 ---
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 {{< figure src="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-vifm.png" 
            alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-vifm.png"
@@ -19,8 +18,7 @@ Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/co
            text="" >}}
 More pictures of the config [**here**](https://github.com/a2n-s/dotfiles#4-gallery-toc).
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 {{< image src="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-vifm.png" 
           alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-vifm.png"
@@ -35,8 +33,7 @@ More pictures of the config [**here**](https://github.com/a2n-s/dotfiles#4-galle
 - [Dependencies](#dependencies)
 - [Manual installation process](#manual-installation-process)
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 ## The Files.
 All files are available at [~/.config/vifm](https://github.com/a2n-s/dotfiles/blob/main/.config/vifm):
@@ -66,8 +63,7 @@ mv a2n-s_dotfiles/.config/vifm/vifmrc ~/.config/vifm/vifmrc
 mv a2n-s_dotfiles/.config/vifm/colors ~/.config/vifm/colors
 ```
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 

@@ -43,4 +43,6 @@ description: "The famous bar."
 # Doc unavailable...
 Please refer to the [GitHub repo](https://github.com/a2n-s/polybar-themes) instead.
 
+{{< code align="center" text="--------------------------------------------------------------------">}}
+
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  

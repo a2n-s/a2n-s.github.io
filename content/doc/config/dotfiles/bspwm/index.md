@@ -8,8 +8,7 @@ description: "The binary space partitioning windows manager."
 ---
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 {{< figure src="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-bspwm-normal.png" 
            alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-bspwm-normal.png"
@@ -28,8 +27,7 @@ Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/co
            text="Gaps, borders and opacity have been exagerated for aesthetic purposes." >}}
 More pictures of the config [**here**](https://github.com/a2n-s/dotfiles#4-gallery-toc).
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 "bspwm is a tiling window manager that represents windows as the leaves of a full binary tree."
 
@@ -40,8 +38,7 @@ More pictures of the config [**here**](https://github.com/a2n-s/dotfiles#4-galle
 - [Dependencies](#dependencies)
 - [Manual installation process](#manual-installation-process)
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 ## The Files.
 All files are available at [~/.config/bspwm](https://github.com/a2n-s/dotfiles/blob/main/.config/bspwm):
@@ -80,8 +77,7 @@ mv a2n-s_dotfiles/.config/bspwm/* ~/.config/bspwm
 ```
 
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 

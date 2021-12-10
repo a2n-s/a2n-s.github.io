@@ -8,8 +8,7 @@ description: "A very easy to use process monitoring in the terminal, to manage, 
 ---
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 "htop is an interactive system-monitor process-viewer and process-manager."
 
@@ -20,8 +19,7 @@ Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/co
 - [Dependencies](#dependencies)
 - [Manual installation process](#manual-installation-process)
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 ## The Files.
 All files are available at [~/.config/htop](https://github.com/a2n-s/dotfiles/blob/main/.config/htop):
@@ -47,8 +45,7 @@ git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.config/htop/htoprc ~/.config/htop/htoprc
 ```
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 

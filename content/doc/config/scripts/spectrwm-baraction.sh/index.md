@@ -8,8 +8,9 @@ description: "Manages the bar of spectrWM."
 ---
 Go back to the [scripts](/public/doc/config/scripts), the [doc](/public/doc/config) or the [front page](/public).  
 
-script can be found [here](https://github.com/a2n-s/dotfiles/blob/main/scripts/spectrWM-baraction.sh).
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
+script can be found [here](https://github.com/a2n-s/dotfiles/blob/main/scripts/spectrWM-baraction.sh).
 
 ## Dependencies for spectrWM-baraction.sh
 - disk commands: `df`, `free`, `mpstat`

@@ -8,8 +8,9 @@ description: "Toggles the keyboard layout between qwerty and azerty."
 ---
 Go back to the [scripts](/public/doc/config/scripts), the [doc](/public/doc/config) or the [front page](/public).  
 
-script can be found [here](https://github.com/a2n-s/dotfiles/blob/main/scripts/togkb.sh).
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
+script can be found [here](https://github.com/a2n-s/dotfiles/blob/main/scripts/togkb.sh).
 
 ## Dependencies for togkb.sh
 - `setxkbmap` to change the keyboard layout.

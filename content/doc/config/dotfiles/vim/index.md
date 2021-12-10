@@ -8,8 +8,7 @@ description: "My config of vim and how to install it."
 ---
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 {{< figure src="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-vim.png" 
            alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-vim.png"
@@ -19,8 +18,7 @@ Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/co
            title="vim" caption="A terminal inside vim?." position="center">}}
 More pictures of the config [**here**](https://github.com/a2n-s/dotfiles#4-gallery-toc).
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 {{< image src="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-vim.png" 
           alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-vim.png"
@@ -35,8 +33,7 @@ More pictures of the config [**here**](https://github.com/a2n-s/dotfiles#4-galle
 - [Dependencies](#dependencies)
 - [Manual installation process](#manual-installation-process)
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 ## The Files.
 All files are available at [~/](https://github.com/a2n-s/dotfiles):
@@ -129,8 +126,7 @@ mv a2n-s_dotfiles/.vimrc ~/.vimrc
 ```
 and then run `:PlugInstall` in `vim` to install the plugins.`
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 

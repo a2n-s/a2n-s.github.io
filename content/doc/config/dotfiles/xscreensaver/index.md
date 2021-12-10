@@ -8,13 +8,11 @@ description: "Some config installation to secure once machine."
 ---
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 More pictures of the config [**here**](https://github.com/a2n-s/dotfiles#4-gallery-toc).
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 "XScreenSaver is a screen saver and locker for the X Window System. "
 
@@ -25,8 +23,7 @@ More pictures of the config [**here**](https://github.com/a2n-s/dotfiles#4-galle
 - [Dependencies](#dependencies)
 - [Manual installation process](#manual-installation-process)
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 ## The Files.
 All files are available at [~/](https://github.com/a2n-s/dotfiles):
@@ -53,8 +50,7 @@ git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.xscreensaver ~/.xscreensaver
 ```
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 

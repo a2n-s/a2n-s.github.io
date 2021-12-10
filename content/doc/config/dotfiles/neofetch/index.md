@@ -8,16 +8,14 @@ description: "Prints information on the terminal at log time, information to ins
 ---
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 {{< figure src="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-neofetch.png" 
            alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-neofetch.png"
            title="neofetch art examples" caption="Some example of ascii pieces of art." position="center">}}
 More pictures of the config [**here**](https://github.com/a2n-s/dotfiles#4-gallery-toc).
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 {{< image src="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-neofetch.png" 
           alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-neofetch.png"
@@ -32,8 +30,7 @@ More pictures of the config [**here**](https://github.com/a2n-s/dotfiles#4-galle
 - [Dependencies](#dependencies)
 - [Manual installation process](#manual-installation-process)
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 ## The Files.
 All files are available at [~/.config/neofetch](https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch):
@@ -67,8 +64,7 @@ mv a2n-s_dotfiles/.config/neofetch/neofetchrc ~/.config/neofetch/neofetchrc
 mv a2n-s_dotfiles/.config/neofetch/ascii/* ~/.config/neofetch/ascii
 ```
 
-{{< code align="center"
-         text="--------------------------------------------------------------------">}}
+{{< code align="center" text="--------------------------------------------------------------------" >}}
 
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 

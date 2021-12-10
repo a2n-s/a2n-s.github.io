@@ -14,4 +14,6 @@ description: "What I do for fun."
 - 6502 μ-computer, on breadboard, with custom games in assembly.
 - A CPU out of logic gates with custom assembly.
 
+{{< code align="center" text="--------------------------------------------------------------------" >}}
+
 Go back to the [about me](/public/about) section or the [front page](/public).  

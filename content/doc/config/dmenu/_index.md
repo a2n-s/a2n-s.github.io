@@ -10,4 +10,6 @@ description: "This is the doc of my fork of the dmenu source code, mainly patche
 # Doc unavailable...
 Please refer to the [GitHub repo](https://github.com/a2n-s/dmenu) instead.
 
+{{< code align="center" text="--------------------------------------------------------------------" >}}
+
 Go back to the [doc](/public/doc/config) or the [front page](/public).  
