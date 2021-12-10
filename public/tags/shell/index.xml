@@ -97,6 +97,7 @@ Table of Content.  The files The config Some resources Dependencies Manual Insta
 &lt;li&gt;&lt;code&gt;ncu*&lt;/code&gt; to connect to my favorite networks.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;jpy&lt;/code&gt; and &lt;code&gt;jnb&lt;/code&gt; to launch respectively &lt;code&gt;jupyter&lt;/code&gt; and &lt;code&gt;jupyter-nontebook&lt;/code&gt; when available.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;sdn&lt;/code&gt; and &lt;code&gt;sdnr&lt;/code&gt; to respectively shutdown and reboot my machine from the terminal.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;rmv&lt;/code&gt;, &lt;code&gt;rmi&lt;/code&gt;, &lt;code&gt;rmr&lt;/code&gt; and &lt;code&gt;rmrf&lt;/code&gt; where &lt;code&gt;rm*&lt;/code&gt; runs &lt;code&gt;rm -*&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;classic &lt;code&gt;ls&lt;/code&gt; variants such as &lt;code&gt;ll&lt;/code&gt; ~ &lt;code&gt;ls -l&lt;/code&gt; or &lt;code&gt;la&lt;/code&gt; ~ ~ls -A`.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;4-logout&#34;&gt;4. Logout.&lt;/h4&gt;

@@ -14,10 +14,28 @@
       
       <guid>https://a2n-s.github.io/public/doc/config/scripts/prompt.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
-File is here</description>
+-------------------------------------------------------------------- File is here with following header:
+Description: a dmenu binary prompt inspired by https://www.youtube.com/watch?v=R9m723tAurA Gives a dmenu prompt labeled with $1 and ask to perform command $2. For example: ~/scripts/prompt &amp;quot;Do you really want to shutdown your machine?&amp;quot; &amp;quot;shutdown -h now&amp;quot; will ask you before shutting down. Dependencies: dmenu License: https://github.com/a2n-s/dotfiles/LICENSE Contributors: Stevan Antoine </description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/prompt.sh&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</content>
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/prompt.sh&#34;&gt;here&lt;/a&gt; with following header:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Description:  a dmenu binary prompt inspired by https://www.youtube.com/watch?v=R9m723tAurA 
+              Gives a dmenu prompt labeled with $1 and ask to perform command $2.
+
+              For example:
+              ~/scripts/prompt &amp;quot;Do you really want to shutdown your machine?&amp;quot; &amp;quot;shutdown -h now&amp;quot;
+              will ask you before shutting down.
+Dependencies: dmenu
+License:      https://github.com/a2n-s/dotfiles/LICENSE 
+Contributors: Stevan Antoine
+&lt;/code&gt;&lt;/pre&gt;</content>
     </item>
     
     <item>
@@ -27,15 +45,25 @@ File is here</description>
       
       <guid>https://a2n-s.github.io/public/doc/config/scripts/screenshot.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
-script can be found here.
-Dependencies for screenshot.sh.  the scrot command: can be installed with sudo pacman -S scrot on Arch.  </description>
+-------------------------------------------------------------------- Script can be found here with following header:
+Description: takes a screenshot of all the screens with the &#39;full&#39; flag and only a selected window with the &#39;window&#39; flag. &#39;$SCRIPTS/screenshot.sh full&#39; will take a screenshot of the whole screen. &#39;$SCRIPTS/screenshot.sh window&#39; will let the user chose the window he wants to take a screenshot of. Dependencies: scrot License: https://github.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/screenshot.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;dependencies-for-screenshotsh&#34;&gt;Dependencies for screenshot.sh.&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;the &lt;code&gt;scrot&lt;/code&gt; command: can be installed with &lt;code&gt;sudo pacman -S scrot&lt;/code&gt; on Arch.&lt;/li&gt;
-&lt;/ul&gt;
-</content>
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;Script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/screenshot.sh&#34;&gt;here&lt;/a&gt; with following header:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Description:  takes a screenshot of all the screens with the &#39;full&#39; flag and only a selected window with the &#39;window&#39; flag.
+              &#39;$SCRIPTS/screenshot.sh full&#39; will take a screenshot of the whole screen.
+              &#39;$SCRIPTS/screenshot.sh window&#39; will let the user chose the window he wants to take a screenshot of.
+Dependencies: scrot
+License:      https://github.com/a2n-s/dotfiles/LICENSE 
+Contributors: Stevan Antoine
+&lt;/code&gt;&lt;/pre&gt;</content>
     </item>
     
     <item>
@@ -46,7 +74,7 @@ Dependencies for screenshot.sh.  the scrot command: can be installed with sudo p
       <guid>https://a2n-s.github.io/public/doc/config/scripts/</guid>
       <description>The programs I run on my machine can be split into a few parts:
  prompt.sh screenshot.sh spectrWM-baraction.sh togkb.sh tr2md.sh upl.sh wvenv.sh xtcl.sh  or in the list below.
-Go back to the doc or the front page.</description>
+-------------------------------------------------------------------- Go back to the doc or the front page.</description>
       <content>&lt;p&gt;The programs I run on my machine can be split into a few parts:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/prompt.sh&#34;&gt;prompt.sh&lt;/a&gt;&lt;/li&gt;
@@ -59,6 +87,14 @@ Go back to the doc or the front page.</description>
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/xtcl.sh&#34;&gt;xtcl.sh&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;or in the list below.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
@@ -70,17 +106,23 @@ Go back to the doc or the front page.</description>
       
       <guid>https://a2n-s.github.io/public/doc/config/scripts/spectrwm-baraction.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
-script can be found here.
-Dependencies for spectrWM-baraction.sh  disk commands: df, free, mpstat networking commands: ip, nmcli, ifstat setxkbmap to look at the keyboard layout, play to play sounds.  </description>
+-------------------------------------------------------------------- Script can be found here with following header:
+Description: the baraction script for the spectwm windows manager. Dependencies: mpstat, amixer, nmcli, ifstat, setxkbmap, play. License: https://github.com/a2n-s/dotfiles/LICENSE Contributors: Stevan Antoine </description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/spectrWM-baraction.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;dependencies-for-spectrwm-baractionsh&#34;&gt;Dependencies for spectrWM-baraction.sh&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;disk commands: &lt;code&gt;df&lt;/code&gt;, &lt;code&gt;free&lt;/code&gt;, &lt;code&gt;mpstat&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;networking commands: &lt;code&gt;ip&lt;/code&gt;, &lt;code&gt;nmcli&lt;/code&gt;, &lt;code&gt;ifstat&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;setxkbmap&lt;/code&gt; to look at the keyboard layout, &lt;code&gt;play&lt;/code&gt; to play sounds.&lt;/li&gt;
-&lt;/ul&gt;
-</content>
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;Script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/spectrWM-baraction.sh&#34;&gt;here&lt;/a&gt; with following header:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Description:   the baraction script for the spectwm windows manager.
+Dependencies:  mpstat, amixer, nmcli, ifstat, setxkbmap, play.
+License:       https://github.com/a2n-s/dotfiles/LICENSE 
+Contributors: Stevan Antoine
+&lt;/code&gt;&lt;/pre&gt;</content>
     </item>
     
     <item>
@@ -90,15 +132,23 @@ Dependencies for spectrWM-baraction.sh  disk commands: df, free, mpstat networki
       
       <guid>https://a2n-s.github.io/public/doc/config/scripts/togkb.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
-script can be found here.
-Dependencies for togkb.sh  setxkbmap to change the keyboard layout.  </description>
+-------------------------------------------------------------------- Script can be found here with following header:
+Description: toggles the keyboard layout between qwerty and azerty. Dependencies: setxkbmap License: https://github.com/a2n-s/dotfiles/LICENSE Contributors: Stevan Antoine </description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/togkb.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;dependencies-for-togkbsh&#34;&gt;Dependencies for togkb.sh&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;setxkbmap&lt;/code&gt; to change the keyboard layout.&lt;/li&gt;
-&lt;/ul&gt;
-</content>
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;Script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/togkb.sh&#34;&gt;here&lt;/a&gt; with following header:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Description:  toggles the keyboard layout between qwerty and azerty.
+Dependencies: setxkbmap 
+License:      https://github.com/a2n-s/dotfiles/LICENSE 
+Contributors: Stevan Antoine
+&lt;/code&gt;&lt;/pre&gt;</content>
     </item>
     
     <item>
@@ -108,10 +158,24 @@ Dependencies for togkb.sh  setxkbmap to change the keyboard layout.  </descripti
       
       <guid>https://a2n-s.github.io/public/doc/config/scripts/tr2md.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
-File is here</description>
+-------------------------------------------------------------------- File is here with following header:
+Description: turns the tree architecture of a directory into a usable one inside a markdown file. WORK IN PROGRESS. Dependencies: tree License: https://github.com/a2n-s/dotfiles/LICENSE Contributors: Stevan Antoine </description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/tree2md.sh&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</content>
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/tree2md.sh&#34;&gt;here&lt;/a&gt; with following header:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Description:  turns the tree architecture of a directory into a usable one inside a markdown file.
+              WORK IN PROGRESS.
+Dependencies: tree
+License:      https://github.com/a2n-s/dotfiles/LICENSE 
+Contributors: Stevan Antoine
+&lt;/code&gt;&lt;/pre&gt;</content>
     </item>
     
     <item>
@@ -121,10 +185,23 @@ File is here</description>
       
       <guid>https://a2n-s.github.io/public/doc/config/scripts/upl.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
-script can be found here.</description>
+-------------------------------------------------------------------- Script can be found here with following header:
+Description: updates some lists of installed packages. Dependencies: pacman, comm License: https://github.com/a2n-s/dotfiles/LICENSE Contributors: Stevan Antoine </description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/upl.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</content>
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;Script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/upl.sh&#34;&gt;here&lt;/a&gt; with following header:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Description:  updates some lists of installed packages.
+Dependencies: pacman, comm
+License:      https://github.com/a2n-s/dotfiles/LICENSE 
+Contributors: Stevan Antoine
+&lt;/code&gt;&lt;/pre&gt;</content>
     </item>
     
     <item>
@@ -134,21 +211,43 @@ script can be found here.</description>
       
       <guid>https://a2n-s.github.io/public/doc/config/scripts/wvenv.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
-script can be found here.
-Dependencies for wvenv. wvenv will not crash without these, but the output might be unpredictable.
- which to know where the command is located. python, python3 the python interpreters. pip, pip3 the python package managers. jupyter, jupyter-notebook to edit and see jupyter notebooks.  Notes:
- I really highly recommend you, once you have installed python on the system, to install virtualenv, pyenv, conda, or similar and NEVER intall python package on you system directly!</description>
+-------------------------------------------------------------------- Script can be found here with following header:
+Description: prints some information about the current virtual python environment running. an example when not inside a virtual environment. command | path (version) ---------+------------------------------------------------------- python | /usr/bin/python (Python 3.9.9) pip | /usr/bin/pip (pip 20.3.4) python3 | /usr/bin/python3 (Python 3.9.9) pip3 | /usr/bin/pip3 (pip 20.3.4) jupyter | -- notebook | -- (--) an example when inside a virtual environement, with jupyter installed.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/wvenv.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;dependencies-for-wvenv&#34;&gt;Dependencies for wvenv.&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;wvenv&lt;/code&gt; will not crash without these, but the output might be unpredictable.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;which&lt;/code&gt; to know where the command is located.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;python&lt;/code&gt;, &lt;code&gt;python3&lt;/code&gt; the python interpreters.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;pip&lt;/code&gt;, &lt;code&gt;pip3&lt;/code&gt; the python package managers.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;jupyter&lt;/code&gt;, &lt;code&gt;jupyter-notebook&lt;/code&gt; to edit and see jupyter notebooks.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Notes:&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;Script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/wvenv.sh&#34;&gt;here&lt;/a&gt; with following header:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Description:  prints some information about the current virtual
+              python environment running.
+              an example when not inside a virtual environment.
+                    command |                    path (version)
+                   ---------+-------------------------------------------------------
+                    python  | /usr/bin/python (Python 3.9.9)
+                       pip  | /usr/bin/pip (pip 20.3.4)
+                   python3  | /usr/bin/python3 (Python 3.9.9)
+                      pip3  | /usr/bin/pip3 (pip 20.3.4)
+                   jupyter  | --
+                   notebook | -- (--)
+
+              an example when inside a virtual environement, with jupyter installed.
+                    command |                    path (version)
+                   ---------+-------------------------------------------------------
+                    python  | /home/ants/.venvs/ml/bin/python (Python 3.9.9)
+                       pip  | /home/ants/.venvs/ml/bin/pip (pip 21.3.1)
+                   python3  | /home/ants/.venvs/ml/bin/python3 (Python 3.9.9)
+                      pip3  | /home/ants/.venvs/ml/bin/pip3 (pip 21.3.1)
+                   jupyter  | /home/ants/.venvs/ml/bin/jupyter
+                   notebook | /home/ants/.venvs/ml/bin/jupyter-notebook (6.4.6)
+Dependencies: python, pip, and jupyter, jupyter-notebook to have full information but required.
+License:      https://github.com/a2n-s/dotfiles/LICENSE 
+Contributors: Stevan Antoine
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Notes:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;I really highly recommend you, once you have installed python on the system, to install &lt;code&gt;virtualenv&lt;/code&gt;, &lt;code&gt;pyenv&lt;/code&gt;, &lt;code&gt;conda&lt;/code&gt;, or similar
 and NEVER intall &lt;code&gt;python&lt;/code&gt; package on you system directly!&lt;/li&gt;
@@ -156,6 +255,15 @@ and NEVER intall &lt;code&gt;python&lt;/code&gt; package on you system directly!
 &lt;li&gt;one can use multiple environments for different purposes. For instance a dedicated environment for &lt;code&gt;jupyter&lt;/code&gt;
 (it is a pain to uninstall from the main system), another one for machine learning stuff, and so on&amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
@@ -166,15 +274,24 @@ and NEVER intall &lt;code&gt;python&lt;/code&gt; package on you system directly!
       
       <guid>https://a2n-s.github.io/public/doc/config/scripts/xtcl.sh/</guid>
       <description>Go back to the scripts, the doc or the front page.
-script can be found here.
-Dependencies for xtcl  xdotool to force the key value to unactive and xmodmap to disable the key.  </description>
+-------------------------------------------------------------------- Script can be found here with following header:
+Description: turns off proprely the Caps_Lock key because it is broken and ultra sensitive on my machine. semi-deprecated but can still be useful to disable broken and annoying keys. Dependencies: xdotool, xmodmap. License: https://github.com/a2n-s/dotfiles/LICENSE Contributors: Stevan Antoine </description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/xtcl.sh&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;dependencies-for-xtcl&#34;&gt;Dependencies for xtcl&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;xdotool&lt;/code&gt; to force the key value to unactive and &lt;code&gt;xmodmap&lt;/code&gt; to disable the key.&lt;/li&gt;
-&lt;/ul&gt;
-</content>
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;Script can be found &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/xtcl.sh&#34;&gt;here&lt;/a&gt; with following header:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Description:  turns off proprely the Caps_Lock key because it is broken and ultra sensitive on my machine.
+              semi-deprecated but can still be useful to disable broken and annoying keys.
+Dependencies: xdotool, xmodmap.
+License:      https://github.com/a2n-s/dotfiles/LICENSE 
+Contributors: Stevan Antoine
+&lt;/code&gt;&lt;/pre&gt;</content>
     </item>
     
   </channel>

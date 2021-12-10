@@ -13,7 +13,7 @@
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/about/hobbies/</guid>
-      <description>Configuring and building software for my ArchLinux distro. I document my Arch configuration on my websites. Coding games in the SCSC or ML algorithms in my free time for fun. An artistic pane out of wood and resin to decorate my place. 6502 μ-computer, on breadboard, with custom games in assembly. A CPU out of logic gates with custom assembly.  Go back to the about me section or the front page.</description>
+      <description>Configuring and building software for my ArchLinux distro. I document my Arch configuration on my websites. Coding games in the SCSC or ML algorithms in my free time for fun. An artistic pane out of wood and resin to decorate my place. 6502 μ-computer, on breadboard, with custom games in assembly. A CPU out of logic gates with custom assembly.  -------------------------------------------------------------------- Go back to the about me section or the front page.</description>
       <content>&lt;ul&gt;
 &lt;li&gt;Configuring and building software for my ArchLinux distro.&lt;/li&gt;
 &lt;li&gt;I document my Arch configuration on my websites.&lt;/li&gt;
@@ -22,6 +22,14 @@
 &lt;li&gt;6502 μ-computer, on breadboard, with custom games in assembly.&lt;/li&gt;
 &lt;li&gt;A CPU out of logic gates with custom assembly.&lt;/li&gt;
 &lt;/ul&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>

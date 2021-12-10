@@ -14,13 +14,21 @@
       
       <guid>https://a2n-s.github.io/public/about/skills/</guid>
       <description>Go back to the about me section or the front page.
-Languages French - native speaker
+-------------------------------------------------------------------- Languages French - native speaker
 English - fluent
 German - very good
 Japanese - beginner
 LSF - beginner
 Hard Skills  Linux, Arch, Windows Python, LaTeX, C, C++, Java, Processing, Assembly, Arduino, CamL, Racket MySQL, PostGreSQL, Redis PyTorch, NumPy, Pandas, SciPy, Scikit-Learn sh, bash, ssh, git Jupyter, Google Colab, Computers Cluster, Excel, Gimp, Blender markdown, css, JavaScript, html  Soft Skills Dedicated - Intrinsically curious - Calm under pressure - Versatile - Fast-learner - Spontaneous - Honest - Open-minded</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;h1 id=&#34;languages&#34;&gt;Languages&lt;/h1&gt;
 &lt;p&gt;French - native speaker&lt;br&gt;
 English - fluent&lt;br&gt;
@@ -39,6 +47,14 @@ LSF - beginner&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;soft-skills&#34;&gt;Soft Skills&lt;/h1&gt;
 &lt;p&gt;Dedicated - Intrinsically curious - Calm under pressure - Versatile - Fast-learner - Spontaneous - Honest - Open-minded&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/about&#34;&gt;about me&lt;/a&gt; section or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>

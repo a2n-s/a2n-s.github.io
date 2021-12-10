@@ -14,13 +14,21 @@
       
       <guid>https://a2n-s.github.io/public/contact/</guid>
       <description>I you want to contact me, fell free to:
- reach me on GitHub DM me on Discord (antoine#1306) send me an email  Go back to the front page.</description>
+ reach me on GitHub DM me on Discord (antoine#1306) send me an email  -------------------------------------------------------------------- Go back to the front page.</description>
       <content>&lt;p&gt;I you want to contact me, fell free to:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;reach me on &lt;a href=&#34;https://github.com/a2n-s&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;DM me on Discord (antoine#1306)&lt;/li&gt;
 &lt;li&gt;send me an &lt;a href=&#34;mailto:Antoine.Stevan@student.isae-supaero.fr&#34;&gt;email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>

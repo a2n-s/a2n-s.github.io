@@ -13,18 +13,28 @@
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/about/</guid>
-      <description>Quick menu: res., me, edu., exp., skills, hobbies
-In this bundle of files, I am talking about myself!
+      <description>Go back to the front page.
+Quick menu: res., me, edu., exp., skills, hobbies
+-------------------------------------------------------------------- In this bundle of files, I am talking about myself!
 But, wait a minute, who am I?? I am a french student currently living in Toulouse.
  Somewhere around this brick buildings, along the &amp;ldquo;Canal du Midi&amp;rdquo; lies the ISAE-Supaero graduate school.
 I am studying data science &amp;amp; machine learning (ML) on one side and research &amp;amp; reinforcement learning (RL) on the other side.</description>
-      <content>&lt;p&gt;&lt;strong&gt;Quick menu&lt;/strong&gt;:
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;br&gt;
+&lt;strong&gt;Quick menu&lt;/strong&gt;:
 &lt;a href=&#34;https://a2n-s.github.io/public/public/about/resume&#34;&gt;res.&lt;/a&gt;,
 &lt;a href=&#34;https://a2n-s.github.io/public/public/about/me&#34;&gt;me&lt;/a&gt;,
 &lt;a href=&#34;https://a2n-s.github.io/public/public/about/education&#34;&gt;edu.&lt;/a&gt;,
 &lt;a href=&#34;https://a2n-s.github.io/public/public/about/experiences&#34;&gt;exp.&lt;/a&gt;,
 &lt;a href=&#34;https://a2n-s.github.io/public/public/about/skills&#34;&gt;skills&lt;/a&gt;,
 &lt;a href=&#34;https://a2n-s.github.io/public/public/about/hobbies&#34;&gt;hobbies&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;p&gt;In this bundle of files, I am talking about myself!&lt;/p&gt;
 &lt;h1 id=&#34;but-wait-a-minute-who-am-i&#34;&gt;But, wait a minute, who am I??&lt;/h1&gt;
 &lt;p&gt;I am a french student currently living in &lt;strong&gt;Toulouse&lt;/strong&gt;.&lt;/p&gt;
@@ -44,6 +54,14 @@ I am studying &lt;strong&gt;data science &amp;amp; machine learning (ML)&lt;/str
 &lt;li&gt;(2) &lt;strong&gt;Coordination &amp;amp; Multi-Agent RL (MARL)&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;(3) &lt;strong&gt;Robustness &amp;amp; Safety&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;h3 id=&#34;places-one-might-want-to-explore&#34;&gt;Places one might want to explore.&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;my full resume &lt;a href=&#34;https://a2n-s.github.io/public/public/about/resume&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
@@ -54,6 +72,14 @@ I am studying &lt;strong&gt;data science &amp;amp; machine learning (ML)&lt;/str
 &lt;li&gt;my hobbies &lt;a href=&#34;https://a2n-s.github.io/public/public/about/hobbies&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;or in the list below.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
@@ -65,17 +91,26 @@ I am studying &lt;strong&gt;data science &amp;amp; machine learning (ML)&lt;/str
       
       <guid>https://a2n-s.github.io/public/config/</guid>
       <description>This is the config section.
- the entire doc here. the doftiles for my Arch setup (*). my dmenu rice (*). all the dmscripts I use (*). my wallpapers (*).  (*) means that the field comes from another place. Clicking will redirect you there.
-Go back to the front page.</description>
+ the entire doc here. the doftiles (*) for my Arch setup. my dmenu rice (*). my polybar (*). all the dmscripts (*) I use. my wallpapers (*).  (*) means that the field comes from another place. Clicking will redirect you there.
+-------------------------------------------------------------------- Go back to the front page.</description>
       <content>&lt;p&gt;This is the config section.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;the entire doc &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;the &lt;a href=&#34;https://github.com/a2n-s/dotfiles&#34;&gt;doftiles&lt;/a&gt; for my Arch setup (*).&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://github.com/a2n-s/dotfiles&#34;&gt;doftiles&lt;/a&gt; (*) for my Arch setup.&lt;/li&gt;
 &lt;li&gt;my &lt;a href=&#34;https://github.com/a2n-s/dmenu&#34;&gt;dmenu rice&lt;/a&gt; (*).&lt;/li&gt;
-&lt;li&gt;all the &lt;a href=&#34;https://github.com/a2n-s/dmscripts&#34;&gt;dmscripts&lt;/a&gt; I use (*).&lt;/li&gt;
+&lt;li&gt;my &lt;a href=&#34;https://github.com/a2n-s/polybar-themes&#34;&gt;polybar&lt;/a&gt; (*).&lt;/li&gt;
+&lt;li&gt;all the &lt;a href=&#34;https://github.com/a2n-s/dmscripts&#34;&gt;dmscripts&lt;/a&gt; (*) I use.&lt;/li&gt;
 &lt;li&gt;my &lt;a href=&#34;https://github.com/a2n-s/wallpapers&#34;&gt;wallpapers&lt;/a&gt; (*).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;(*) means that the field comes from another place. Clicking will redirect you there.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
@@ -88,17 +123,25 @@ Go back to the front page.</description>
       <guid>https://a2n-s.github.io/public/doc/config/</guid>
       <description>This page allows the user to redirect to the different docs of my config, as the latter is composed of many different blocks.
 One can find information below:
- the doftiles for my Arch setup. the scripts I use to make my life easier. my dmenu rice. my polybar. all the dmscripts I use. my wallpapers.  Go back to the doc or to the front page.</description>
+ the dotfiles for my Arch setup. the scripts I use to make my life easier. my dmenu rice. my polybar. all the dmscripts I use. my wallpapers.  -------------------------------------------------------------------- Go back to the doc or to the front page.</description>
       <content>&lt;p&gt;This page allows the user to redirect to the different docs of my config, as the latter is composed of many different blocks.&lt;br&gt;
 One can find information below:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;doftiles&lt;/a&gt; for my Arch setup.&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt; for my Arch setup.&lt;/li&gt;
 &lt;li&gt;the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt; I use to make my life easier.&lt;/li&gt;
 &lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dmenu&#34;&gt;dmenu rice&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/polybar&#34;&gt;polybar&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;all the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dmscripts&#34;&gt;dmscripts&lt;/a&gt; I use.&lt;/li&gt;
 &lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/wallpapers&#34;&gt;wallpapers&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc&#34;&gt;doc&lt;/a&gt; or to the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
@@ -110,13 +153,21 @@ One can find information below:&lt;/p&gt;
       
       <guid>https://a2n-s.github.io/public/contact/</guid>
       <description>I you want to contact me, fell free to:
- reach me on GitHub DM me on Discord (antoine#1306) send me an email  Go back to the front page.</description>
+ reach me on GitHub DM me on Discord (antoine#1306) send me an email  -------------------------------------------------------------------- Go back to the front page.</description>
       <content>&lt;p&gt;I you want to contact me, fell free to:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;reach me on &lt;a href=&#34;https://github.com/a2n-s&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;DM me on Discord (antoine#1306)&lt;/li&gt;
 &lt;li&gt;send me an &lt;a href=&#34;mailto:Antoine.Stevan@student.isae-supaero.fr&#34;&gt;email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
@@ -129,12 +180,20 @@ One can find information below:&lt;/p&gt;
       <guid>https://a2n-s.github.io/public/doc/</guid>
       <description>This page allows the user to redirect to the different docs I wrote.
 One can find information below:
- my config.  Go back to the front page.</description>
+ my config.  -------------------------------------------------------------------- Go back to the front page.</description>
       <content>&lt;p&gt;This page allows the user to redirect to the different docs I wrote.&lt;br&gt;
 One can find information below:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;config&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
@@ -147,10 +206,18 @@ One can find information below:&lt;/p&gt;
       <guid>https://a2n-s.github.io/public/posts/</guid>
       <description>Below here, I would like to take the time to write some blog posts some day.
 These would prbably be content about code, linux, mathematics, these kind of stuff.
-Stay tuned!! Go back to the front page.</description>
+Stay tuned!! -------------------------------------------------------------------- Go back to the front page.</description>
       <content>&lt;p&gt;Below here, I would like to take the time to write some blog posts some day.&lt;br&gt;
 These would prbably be content about code, linux, mathematics, these kind of stuff.&lt;/p&gt;
 &lt;h1 id=&#34;stay-tuned&#34;&gt;Stay tuned!!&lt;/h1&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>

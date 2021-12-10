@@ -202,28 +202,7 @@
 </p>
 
 
-<p>
-  <figure class="center" >
-    <img src="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-.png"  alt="https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-.png"    width="" height=""/>
-    
-      <figcaption class="center" >Caption.</figcaption>
-    
-  </figure>
-
-
-
-    <p align="center">
-
-
-
-    
-        <i>Gaps, borders and opacity have been exagerated for aesthetic purposes.</i>
-    
-
-</p>
-
-
-More pictures of the config <a href="https://github.com/a2n-s/dotfiles#4-gallery-toc"><strong>here</strong></a>.</p>
+<p>More pictures of the config <a href="https://github.com/a2n-s/dotfiles#4-gallery-toc"><strong>here</strong></a>.</p>
 
     <p align="center">
 
@@ -250,26 +229,234 @@ More pictures of the config <a href="https://github.com/a2n-s/dotfiles#4-gallery
 
 
 <h2 id="the-files">The Files.<a href="#the-files" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
-<p>All files are available at <a href="https://github.com/a2n-s/dotfiles/blob/main/.config/alacritty">~/.config/alacritty</a>:</p>
+<p>All files are available at <a href="https://github.com/a2n-s/dotfiles/blob/main/.config/sxhkd">~/.config/sxhkd</a>:</p>
 <ul>
-<li>[<code>alacritty.yml</code>]:</li>
+<li><a href="https://github.com/a2n-s/dotfiles/blob/main/.config/sxhkd/sxhkdrc"><code>sxhkdrc</code></a></li>
 </ul>
 <h2 id="the-config">The config.<a href="#the-config" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
-<p>Blabla.</p>
+<p>The most interesting with <code>sxhkd</code> are the key-bindings:</p>
+<ul>
+<li>
+<p><strong>wm agnostic shortcuts</strong>:</p>
+<table>
+<thead>
+<tr>
+<th><strong>SUPER</strong> + keys</th>
+<th>command</th>
+<th>what it does</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Escape</td>
+<td>pkill -USR1 -x sxhkd</td>
+<td>make sxhkd reload its configuration files</td>
+</tr>
+<tr>
+<td>Return</td>
+<td>alacritty</td>
+<td>open the terminal emulator</td>
+</tr>
+<tr>
+<td>@space</td>
+<td>dmenu_run</td>
+<td>run a program launcher</td>
+</tr>
+<tr>
+<td>F1</td>
+<td>~/repos/dmscripts/scripts/dm-hub</td>
+<td>open the hub of dmenu with dmscripts.</td>
+</tr>
+<tr>
+<td>F2</td>
+<td>~/repos/dmscripts/scripts/dm-confedit</td>
+<td>pop a list of all config files to edit them.</td>
+</tr>
+<tr>
+<td>F3</td>
+<td>bash ~/.config/polybar/launch.sh &ndash;forest</td>
+<td>restart all instances of polybar.</td>
+</tr>
+<tr>
+<td>F4</td>
+<td>killall -q polybar</td>
+<td>kill all instances of polybar.</td>
+</tr>
+<tr>
+<td>F5</td>
+<td>brightnessctl s 8-</td>
+<td>brightness of the main screen down.</td>
+</tr>
+<tr>
+<td>F6</td>
+<td>brightnessctl s 8+</td>
+<td>brightness of the main screen up.</td>
+</tr>
+<tr>
+<td>{_, shift +}F7</td>
+<td>~/scripts/screenshot.sh full</td>
+<td>take a screenshot of everything or chose a window.</td>
+</tr>
+<tr>
+<td>ctrl + F12</td>
+<td>xscreensaver-command &ndash;lock</td>
+<td>lock the computer.</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<p><strong>bspwm dependant shortcuts</strong>:</p>
+<table>
+<thead>
+<tr>
+<th><strong>SUPER</strong> + keys</th>
+<th>bspc + command</th>
+<th>what it does</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>alt + {q,r}</td>
+<td>{quit,wm -r}</td>
+<td>quit/restart bspwm</td>
+</tr>
+<tr>
+<td>{_,shift + }w</td>
+<td>node -{c,k}</td>
+<td>close and kill</td>
+</tr>
+<tr>
+<td>m</td>
+<td>desktop -l next</td>
+<td>alternate between the tiled and monocle layout</td>
+</tr>
+<tr>
+<td>y</td>
+<td>node newest.marked.local -n newest.!automatic.local</td>
+<td>send the newest marked node to the newest preselected node</td>
+</tr>
+<tr>
+<td>g</td>
+<td>node -s biggest.window</td>
+<td>swap the current node and the biggest window</td>
+</tr>
+<tr>
+<td>{t,shift + t,s,f}</td>
+<td>node -t {tiled,pseudo_tiled,floating,fullscreen}</td>
+<td>set the window state</td>
+</tr>
+<tr>
+<td>ctrl + {m,x,y,z}</td>
+<td>node -g {marked,locked,sticky,private}</td>
+<td>set the node flags</td>
+</tr>
+<tr>
+<td>{_,shift + }{h,j,k,l}</td>
+<td>node -{f,s} {west,south,north,east}</td>
+<td>focus the node in the given direction</td>
+</tr>
+<tr>
+<td>{p,b,comma,period}</td>
+<td>node -f @{parent,brother,first,second}</td>
+<td>focus the node for the given path jump</td>
+</tr>
+<tr>
+<td>{_,shift + }c</td>
+<td>node -f {next,prev}.local.!hidden.window</td>
+<td>focus the next/previous window in the current desktop</td>
+</tr>
+<tr>
+<td>bracket{left,right}</td>
+<td>desktop -f {prev,next}.local</td>
+<td>focus the next/previous desktop in the current monitor</td>
+</tr>
+<tr>
+<td>{grave,Tab}</td>
+<td>{node,desktop} -f last</td>
+<td>focus the last node/desktop</td>
+</tr>
+<tr>
+<td>{o,i}</td>
+<td>wm -h off; bspc node {older,newer} -f; bspc wm -h on</td>
+<td>focus the older or newer node in the focus history</td>
+</tr>
+<tr>
+<td>{_,shift + }{1-9,0}</td>
+<td>{desktop -f,node -d} &lsquo;^{1-9,10}&rsquo;</td>
+<td>focus or send to the given desktop</td>
+</tr>
+<tr>
+<td>ctrl + {h,j,k,l}</td>
+<td>node -p {west,south,north,east}</td>
+<td>preselect the direction</td>
+</tr>
+<tr>
+<td>ctrl + {1-9}</td>
+<td>node -o 0.{1-9}</td>
+<td>preselect the ratio</td>
+</tr>
+<tr>
+<td>ctrl + space</td>
+<td>node -p cancel</td>
+<td>cancel the preselection for the focused node</td>
+</tr>
+<tr>
+<td>ctrl + shift + space</td>
+<td>query -N -d | xargs -I id -n 1 bspc node id -p cancel</td>
+<td>cancel the preselection for the focused desktop</td>
+</tr>
+<tr>
+<td>alt + {h,j,k,l}</td>
+<td>node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}</td>
+<td>expand a window by moving one of its side outward</td>
+</tr>
+<tr>
+<td>alt + shift + {h,j,k,l}</td>
+<td>node -z {right -20 0,top 0 20,bottom 0 -20,left 20 0}</td>
+<td>contract a window by moving one of its side inward</td>
+</tr>
+<tr>
+<td>{Left,Down,Up,Right}</td>
+<td>node -v {-20 0,0 20,0 -20,20 0}</td>
+<td>move a floating window</td>
+</tr>
+<tr>
+<td>{F10, F11, F12}</td>
+<td>~/.config/bspwm/scheme.sh {first_child,longest_side,spiral}</td>
+<td>to change layouts</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
 <h2 id="some-resources">Some resources.<a href="#some-resources" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <ul>
-<li>the <a href="https://github.com/baskerville/sxhkd">github page</a></li>
-<li>the Arch manual page of sxhkb <a href="https://man.archlinux.org/man/sxhkd.1">here</a></li>
+<li>the <a href="https://github.com/baskerville/sxhkd">github</a> page.</li>
+<li>the Arch <a href="https://man.archlinux.org/man/sxhkd.1">manual</a> page of sxhkb.</li>
 </ul>
 <h2 id="dependencies">Dependencies.<a href="#dependencies" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <ul>
-<li>available soon.</li>
+<li><code>bspc</code></li>
+<li><code>alacritty</code></li>
+<li><code>xscreensaver-command</code></li>
+<li><code>brightnessctl</code></li>
+<li><code>dmenu</code></li>
+<li><code>~/.config/bspwm/scheme.sh</code></li>
+<li><code>~/scripts/screenshot.sh</code> or equivalent</li>
+<li>my <code>polybar-themes</code> or equivalent</li>
+<li>my <code>dmscripts</code> or equivalent</li>
 </ul>
 <h2 id="manual-installation-process">Manual installation process.<a href="#manual-installation-process" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <ul>
-<li>available soon.</li>
+<li>install <code>sxhkd</code></li>
+<li>copy the <a href="https://github.com/a2n-s/dotfiles/blob/main/.config/sxhkd/sxhkdrc"><code>sxhkdrc</code></a> file to your <code>~/.config/sxhkd</code>.</li>
 </ul>
-
+<p>in a nutshell and to be adapted:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo pacman -Syu sxhkd
+git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
+mv a2n-s_dotfiles/.config/sxhkd/sxhkdrc ~/.config/sxhkd/sxhkdrc
+</code></pre></div>
     <p align="center">
 
 
