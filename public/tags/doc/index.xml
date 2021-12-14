@@ -6,7 +6,129 @@
     <description>Recent content in doc on a2n-s&#39; Personal Website &amp; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/doc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/doc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starship.</title>
+      <link>https://a2n-s.github.io/public/doc/config/dotfiles/starship/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/doc/config/dotfiles/starship/</guid>
+      <description>Go back to the dotfiles, the doc or the front page.
+--------------------------------------------------------------------  Available soon.  More pictures of the config here.
+-------------------------------------------------------------------- &amp;ldquo;The minimal, blazing-fast, and infinitely customizable prompt for any shell!&amp;rdquo;
+Table of Content.  The files The config Some resources Dependencies Manual installation process  -------------------------------------------------------------------- The Files. All files are available at ~/.config/starship:
+ config.toml  The config. Previews available soon.
+Some resources.  the GitHub page.</description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-starship.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/rice-starship.png&#34;    width=&#34;&#34; height=&#34;&#34;/&gt;
+    
+      &lt;figcaption class=&#34;center&#34; &gt;Available soon.&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+More pictures of the config &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+
+  &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-starship.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-starship.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+
+
+&lt;p&gt;&amp;ldquo;The minimal, blazing-fast, and infinitely customizable prompt for any shell!&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;table-of-content&#34;&gt;Table of Content.&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#the-files&#34;&gt;The files&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#the-config&#34;&gt;The config&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#some-resources&#34;&gt;Some resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#dependencies&#34;&gt;Dependencies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#manual-installation-process&#34;&gt;Manual installation process&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;h2 id=&#34;the-files&#34;&gt;The Files.&lt;/h2&gt;
+&lt;p&gt;All files are available at &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/starship&#34;&gt;~/.config/starship&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/starship/config.toml&#34;&gt;&lt;code&gt;config.toml&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-config&#34;&gt;The config.&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Previews available soon.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;the &lt;a href=&#34;https://github.com/starship/starship&#34;&gt;GitHub&lt;/a&gt; page.&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://starship.rs/&#34;&gt;official&lt;/a&gt; page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dependencies&#34;&gt;Dependencies.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;the &lt;code&gt;nerd&lt;/code&gt; fonts.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;manual-installation-process&#34;&gt;Manual installation process.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;install the dependencies above.&lt;/li&gt;
+&lt;li&gt;install the &lt;code&gt;starship&lt;/code&gt; command.&lt;/li&gt;
+&lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/starship/config.toml&#34;&gt;&lt;code&gt;config.toml&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/.config/starship&lt;/code&gt; directory.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;in a nutshell and to be adapted:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;yay -S nerd-fonts-mononoki
+sudo pacman -Syu starship
+git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
+mv a2n-s_dotfiles/.config/starship/config.toml ~/.config/starship/config.toml
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>dmenu</title>
+      <link>https://a2n-s.github.io/public/doc/config/surf/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/doc/config/surf/</guid>
+      <description>Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+-------------------------------------------------------------------- Go back to the doc or the front page.</description>
+      <content>&lt;h1 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h1&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/surf&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Alacritty.</title>
       <link>https://a2n-s.github.io/public/doc/config/dotfiles/alacritty/</link>
@@ -92,7 +214,7 @@ More pictures of the config &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-
 &lt;h2 id=&#34;the-files&#34;&gt;The Files.&lt;/h2&gt;
 &lt;p&gt;All files are available at &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/alacritty&#34;&gt;~/.config/alacritty&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/alacritty/alacritty.yml&#34;&gt;&lt;code&gt;alacritty.yml&lt;/code&gt;&lt;/a&gt;:&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/alacritty/alacritty.yml&#34;&gt;&lt;code&gt;alacritty.yml&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;the-config&#34;&gt;The config.&lt;/h2&gt;
 &lt;p&gt;The &lt;strong&gt;theme&lt;/strong&gt; is &lt;em&gt;simple&lt;/em&gt; and &lt;em&gt;easy on the eyes&lt;/em&gt;.&lt;br&gt;
@@ -478,23 +600,24 @@ mv a2n-s_dotfiles/.config/bspwm/* ~/.config/bspwm
     </item>
     
     <item>
-      <title>Configs&#39;s Doc</title>
+      <title>Config&#39;s Doc</title>
       <link>https://a2n-s.github.io/public/doc/config/</link>
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/</guid>
       <description>This page allows the user to redirect to the different docs of my config, as the latter is composed of many different blocks.
 One can find information below:
- the dotfiles for my Arch setup. the scripts I use to make my life easier. my dmenu rice. my polybar. all the dmscripts I use. my wallpapers.  -------------------------------------------------------------------- Go back to the doc or to the front page.</description>
+ the dotfiles for my Arch setup. the scripts I use to make my life easier. my wallpapers. my polybar. my dmenu rice. all the dmscripts I use. my surf rice.  -------------------------------------------------------------------- Go back to the doc or to the front page.</description>
       <content>&lt;p&gt;This page allows the user to redirect to the different docs of my config, as the latter is composed of many different blocks.&lt;br&gt;
 One can find information below:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt; for my Arch setup.&lt;/li&gt;
 &lt;li&gt;the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt; I use to make my life easier.&lt;/li&gt;
-&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dmenu&#34;&gt;dmenu rice&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/polybar&#34;&gt;polybar&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;all the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dmscripts&#34;&gt;dmscripts&lt;/a&gt; I use.&lt;/li&gt;
 &lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/wallpapers&#34;&gt;wallpapers&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/polybar&#34;&gt;polybar&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dmenu&#34;&gt;dmenu rice&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;all the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dmscripts&#34;&gt;dmscripts&lt;/a&gt; I use.&lt;/li&gt;
+&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/surf&#34;&gt;surf rice&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
     &lt;p align=&#34;center&#34;&gt;
@@ -586,7 +709,7 @@ One can find information below:&lt;/p&gt;
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/</guid>
       <description>Go back to the doc or the front page.
 -------------------------------------------------------------------- The programs I run on my machine can be split into a few parts:
- the basic video drivers:  xorg   the window management:  bspwm sxhkd spectrwm nitrogen   programs that interacts with the system:  vifm polybar xscreensaver   the programs for the terminal:  alacritty bash tmux neofetch   miscellaneous:  vim git htop    or in the list below.</description>
+ the basic video drivers:  xorg   the window management:  bspwm nitrogen sxhkd spectrwm   programs that interacts with the system:  polybar vifm xscreensaver   the programs for the terminal:  alacritty bash neofetch starship tmux   miscellaneous:  git htop surf vim    or in the list below.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
@@ -606,15 +729,15 @@ One can find information below:&lt;/p&gt;
 &lt;li&gt;the window management:
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/bspwm&#34;&gt;bspwm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/nitrogen&#34;&gt;nitrogen&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/sxhkd&#34;&gt;sxhkd&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/spectrwm&#34;&gt;spectrwm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/nitrogen&#34;&gt;nitrogen&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;programs that interacts with the system:
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/vifm&#34;&gt;vifm&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/polybar&#34;&gt;polybar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/vifm&#34;&gt;vifm&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/xscreensaver&#34;&gt;xscreensaver&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -622,15 +745,17 @@ One can find information below:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/alacritty&#34;&gt;alacritty&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/bash&#34;&gt;bash&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/tmux&#34;&gt;tmux&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/neofetch&#34;&gt;neofetch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/starship&#34;&gt;starship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/tmux&#34;&gt;tmux&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;miscellaneous:
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/vim&#34;&gt;vim&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/git&#34;&gt;git&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/htop&#34;&gt;htop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/surf&#34;&gt;surf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/vim&#34;&gt;vim&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -1778,6 +1903,11 @@ Table of Content.  The files The config Some resources Dependencies Manual insta
 &lt;td&gt;bracket{left,right}&lt;/td&gt;
 &lt;td&gt;desktop -f {prev,next}.local&lt;/td&gt;
 &lt;td&gt;focus the next/previous desktop in the current monitor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;shift + bracket{left,right}&lt;/td&gt;
+&lt;td&gt;monitor -f {prev,next}&lt;/td&gt;
+&lt;td&gt;focus the next/previous monitor&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;{grave,Tab}&lt;/td&gt;

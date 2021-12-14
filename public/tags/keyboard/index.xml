@@ -198,6 +198,11 @@ Table of Content.  The files The config Some resources Dependencies Manual insta
 &lt;td&gt;focus the next/previous desktop in the current monitor&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td&gt;shift + bracket{left,right}&lt;/td&gt;
+&lt;td&gt;monitor -f {prev,next}&lt;/td&gt;
+&lt;td&gt;focus the next/previous monitor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;{grave,Tab}&lt;/td&gt;
 &lt;td&gt;{node,desktop} -f last&lt;/td&gt;
 &lt;td&gt;focus the last node/desktop&lt;/td&gt;
