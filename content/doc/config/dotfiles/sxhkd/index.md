@@ -47,30 +47,31 @@ The most interesting with `sxhkd` are the key-bindings:
 | ctrl + F12              | xscreensaver-command --lock                                 | lock the computer.                                 |
 
 - **bspwm dependant shortcuts**:
-| **SUPER** + keys        | bspc + command                                              | what it does                                               |
-|-------------------------|-------------------------------------------------------------|------------------------------------------------------------|
-| alt + {q,r}             | {quit,wm -r}                                                | quit/restart bspwm                                         |
-| {\_,shift + }w          | node -{c,k}                                                 | close and kill                                             |
-| m                       | desktop -l next                                             | alternate between the tiled and monocle layout             |
-| y                       | node newest.marked.local -n newest.!automatic.local         | send the newest marked node to the newest preselected node |
-| g                       | node -s biggest.window                                      | swap the current node and the biggest window               |
-| {t,shift + t,s,f}       | node -t {tiled,pseudo_tiled,floating,fullscreen}            | set the window state                                       |
-| ctrl + {m,x,y,z}        | node -g {marked,locked,sticky,private}                      | set the node flags                                         |
-| {\_,shift + }{h,j,k,l}  | node -{f,s} {west,south,north,east}                         | focus the node in the given direction                      |
-| {p,b,comma,period}      | node -f @{parent,brother,first,second}                      | focus the node for the given path jump                     |
-| {\_,shift + }c          | node -f {next,prev}.local.!hidden.window                    | focus the next/previous window in the current desktop      |
-| bracket{left,right}     | desktop -f {prev,next}.local                                | focus the next/previous desktop in the current monitor     |
-| {grave,Tab}             | {node,desktop} -f last                                      | focus the last node/desktop                                |
-| {o,i}                   | wm -h off; bspc node {older,newer} -f; bspc wm -h on        | focus the older or newer node in the focus history         |
-| {\_,shift + }{1-9,0}    | {desktop -f,node -d} '^{1-9,10}'                            | focus or send to the given desktop                         |
-| ctrl + {h,j,k,l}        | node -p {west,south,north,east}                             | preselect the direction                                    |
-| ctrl + {1-9}            | node -o 0.{1-9}                                             | preselect the ratio                                        |
-| ctrl + space            | node -p cancel                                              | cancel the preselection for the focused node               |
-| ctrl + shift + space    | query -N -d \| xargs -I id -n 1 bspc node id -p cancel      | cancel the preselection for the focused desktop            |
-| alt + {h,j,k,l}         | node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}       | expand a window by moving one of its side outward          |
-| alt + shift + {h,j,k,l} | node -z {right -20 0,top 0 20,bottom 0 -20,left 20 0}       | contract a window by moving one of its side inward         |
-| {Left,Down,Up,Right}    | node -v {-20 0,0 20,0 -20,20 0}                             | move a floating window                                     |
-| {F10, F11, F12}         | ~/.config/bspwm/scheme.sh {first_child,longest_side,spiral} | to change layouts                                          |
+| **SUPER** + keys            | bspc + command                                              | what it does                                               |
+|-----------------------------|-------------------------------------------------------------|------------------------------------------------------------|
+| alt + {q,r}                 | {quit,wm -r}                                                | quit/restart bspwm                                         |
+| {\_,shift + }w              | node -{c,k}                                                 | close and kill                                             |
+| m                           | desktop -l next                                             | alternate between the tiled and monocle layout             |
+| y                           | node newest.marked.local -n newest.!automatic.local         | send the newest marked node to the newest preselected node |
+| g                           | node -s biggest.window                                      | swap the current node and the biggest window               |
+| {t,shift + t,s,f}           | node -t {tiled,pseudo_tiled,floating,fullscreen}            | set the window state                                       |
+| ctrl + {m,x,y,z}            | node -g {marked,locked,sticky,private}                      | set the node flags                                         |
+| {\_,shift + }{h,j,k,l}      | node -{f,s} {west,south,north,east}                         | focus the node in the given direction                      |
+| {p,b,comma,period}          | node -f @{parent,brother,first,second}                      | focus the node for the given path jump                     |
+| {\_,shift + }c              | node -f {next,prev}.local.!hidden.window                    | focus the next/previous window in the current desktop      |
+| bracket{left,right}         | desktop -f {prev,next}.local                                | focus the next/previous desktop in the current monitor     |
+| shift + bracket{left,right} | monitor -f {prev,next}                                      | focus the next/previous monitor                            |
+| {grave,Tab}                 | {node,desktop} -f last                                      | focus the last node/desktop                                |
+| {o,i}                       | wm -h off; bspc node {older,newer} -f; bspc wm -h on        | focus the older or newer node in the focus history         |
+| {\_,shift + }{1-9,0}        | {desktop -f,node -d} '^{1-9,10}'                            | focus or send to the given desktop                         |
+| ctrl + {h,j,k,l}            | node -p {west,south,north,east}                             | preselect the direction                                    |
+| ctrl + {1-9}                | node -o 0.{1-9}                                             | preselect the ratio                                        |
+| ctrl + space                | node -p cancel                                              | cancel the preselection for the focused node               |
+| ctrl + shift + space        | query -N -d \| xargs -I id -n 1 bspc node id -p cancel      | cancel the preselection for the focused desktop            |
+| alt + {h,j,k,l}             | node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}       | expand a window by moving one of its side outward          |
+| alt + shift + {h,j,k,l}     | node -z {right -20 0,top 0 20,bottom 0 -20,left 20 0}       | contract a window by moving one of its side inward         |
+| {Left,Down,Up,Right}        | node -v {-20 0,0 20,0 -20,20 0}                             | move a floating window                                     |
+| {F10, F11, F12}             | ~/.config/bspwm/scheme.sh {first_child,longest_side,spiral} | to change layouts                                          |
 
 ## Some resources.
 - the [github](https://github.com/baskerville/sxhkd) page.

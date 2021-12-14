@@ -40,7 +40,7 @@ Alacritty is a minimal terminal emulator.
 
 ## The Files.
 All files are available at [~/.config/alacritty](https://github.com/a2n-s/dotfiles/blob/main/.config/alacritty):
-- [`alacritty.yml`]: 
+- [`alacritty.yml`]
 
 ## The config.
 The **theme** is *simple* and *easy on the eyes*.  
