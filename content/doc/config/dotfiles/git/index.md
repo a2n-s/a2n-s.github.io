@@ -1,7 +1,7 @@
 ---
 title: "git"
 date: 2021-12-04
-lastMod: 2021-12-10
+lastMod: 2021-12-15
 tags: ["doc", "dotfiles", "tools"]
 keywords: ["doc", "dotfiles", "tools"]
 description: "The version control system of choice for me, suited for GitHub, GitLab and many more. Some pieces of advice to install the config."
@@ -43,14 +43,24 @@ All files are available at [~/](https://github.com/a2n-s/dotfiles):
 I use `vim` as my `git` editor, `main` as a default branch name and the `rebase` method for pulling.  
 Then I simply wrote many aliases to make my life easier:
 {{< align align="center" bold=" " text="Basic aliases." >}}
-| shortcut | command  |
-|----------|----------|
-| i        | init     |
-| cl       | clone    |
-| st       | status   |
-| cm       | commit   |
-| sw       | switch   |
-| co       | checkout |
+| shortcut | command        |
+|----------|----------------|
+| i        | init           |
+| cl       | clone          |
+| a        | add            |
+| au       | add -u         |
+| st       | status         |
+| cm       | commit         |
+| cmm      | commit -m      |
+| cma      | commit --amend |
+| sw       | switch         |
+| swc      | switch -c      |
+| co       | checkout       |
+| cob      | checkout -b    |
+| br       | branch         |
+| brf      | branch -f      |
+| brm      | branch -m      |
+| brd      | branch -D      |
 
 {{< align align="center" bold=" " text="Move branches around." >}}
 | shortcut | command     |
@@ -61,11 +71,13 @@ Then I simply wrote many aliases to make my life easier:
 | mg       | merge       |
 
 {{< align align="center" bold=" " text="Inspect the commit tree." >}}
-| shortcut | command                                       |
-|----------|-----------------------------------------------|
-| ga       | log --graph --all                             |
-| tr       | log --graph --oneline --all --decorate        |
-| trs      | log --oneline --decorate --all --graph --stat |
+| shortcut | command                                           |
+|----------|---------------------------------------------------|
+| ga       | log --graph --all                                 |
+| tr       | log --graph --all --oneline --decorate        -10 |
+| tra      | log --graph --all --oneline --decorate            |
+| trs      | log --graph --all --oneline --decorate --stat -10 |
+| trsa     | log --graph --all --oneline --decorate --stat     |
 
 {{< align align="center" bold=" " text="Inspect the tracked files." >}}
 | shortcut | command                                               |
@@ -73,32 +85,42 @@ Then I simply wrote many aliases to make my life easier:
 | lf       | ls-files                                              |
 | lfs      | !git ls-files \| xargs ls -1 \| sort -nrk5            |
 | lfsh     | !git ls-files \| xargs ls -1 \| sort -nrk5 \| head -n |
+| df       | diff                                                  |
 
 {{< align align="center" bold=" " text="Interact with remote repos..." >}}
 {{< align align="center" italic=" " text="down stream." >}}
-| shortcut | command                                      |
-|----------|----------------------------------------------|
-| fc       | fetch                                        |
-| fcp      | fetch -p                                     |
-| pl       | pull                                         |
-| praff    | pull --rebase --autostash --ff               |
-| praffom  | pull --rebase --autostash --ff origin main   |
-| praffum  | pull --rebase --autostash --ff upstream main |
+| shortcut | command                       |
+|----------|-------------------------------|
+| ft       | fetch                         |
+| ftp      | fetch -p                      |
+| fto      | fetch origin                  |
+| ftop     | fetch origin -p               |
+| ftu      | fetch upstream                |
+| ftup     | fetch upstream -p             |
+| pl       | pull                          |
+| plo      | pull origin                   |
+| plu      | pull upstream                 |
+| plaf     | pull--autostash --ff          |
+| plafo    | pull--autostash --ff origin   |
+| plafu    | pull--autostash --ff upstream |
 
 {{< align align="center" italic=" " text="up stream." >}}
 | shortcut | command          |
 |----------|------------------|
 | ps       | push             |
 | pom      | push origin main |
+| pso      | push origin      |
+| psu      | push upstream    |
 
 {{< align align="center" bold=" " text="Undo and clean the tree." >}}
-| shortcut | command      |
-|----------|--------------|
-| rv       | revert       |
-| rs       | reset        |
-| rh       | reset --hard |
-| cfd      | clean -fd    |
-| cdf      | clean -fd    |
+| shortcut | command          |
+|----------|------------------|
+| rst      | restore          |
+| rsts     | restore --staged |
+| rv       | revert           |
+| rs       | reset            |
+| rh       | reset --hard     |
+| cdf      | clean -df        |
 
 {{< align align="center" bold=" " text="Remote links actions." >}}
 | shortcut | command        |
