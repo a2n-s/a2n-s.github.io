@@ -1,7 +1,7 @@
 ---
 title: "Config's Doc"
 date: 2021-12-04
-lastMod: 2021-12-11
+lastMod: 2021-12-17
 tags: ["index", "main page", "doc", "config"]
 keywords: ["index", "main page", "doc", "config"]
 description: "The documentation of my Arch Linux configuration."
@@ -16,6 +16,9 @@ One can find information below:
 - my [dmenu rice](/public/doc/config/dmenu).
 - all the [dmscripts](/public/doc/config/dmscripts) I use.
 - my [surf rice](/public/doc/config/surf).
+- my [oh-my-bash fork](/public/doc/config/bash).
+- my [oh-my-fish fork](/public/doc/config/fish).
+- my [oh-my-zsh fork](/public/doc/config/zsh).
 
 {{< code align="center" text="--------------------------------------------------------------------" >}}
 
