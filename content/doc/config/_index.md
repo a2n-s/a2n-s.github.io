@@ -19,6 +19,7 @@ One can find information below:
 - my [oh-my-bash fork](/public/doc/config/bash).
 - my [oh-my-fish fork](/public/doc/config/fish).
 - my [oh-my-zsh fork](/public/doc/config/zsh).
+- my [kitty fork](/public/doc/config/kitty).
 
 {{< code align="center" text="--------------------------------------------------------------------" >}}
 

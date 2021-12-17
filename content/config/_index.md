@@ -19,6 +19,7 @@ Below, one can find every piece of my current config.
 - my [oh-my-bash fork](https://github.com/a2n-s/oh-my-bash) (\*).
 - my [oh-my-fish fork](https://github.com/a2n-s/oh-my-fish) (\*).
 - my [oh-my-zsh fork](https://github.com/a2n-s/ohmyzsh) (\*).
+- my [kitty fork](https://github.com/a2n-s/kitty) (\*).
 
 (\*) means that the field comes from another place. Clicking will redirect you there.
 
