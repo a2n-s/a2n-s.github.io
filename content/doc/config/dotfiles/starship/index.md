@@ -1,7 +1,7 @@
 ---
 title: "Starship."
 date: 2021-12-14
-lastMod: 2021-12-14
+lastMod: 2021-12-17
 tags: ["doc", "dotfiles", "terminal"]
 keywords: ["doc", "dotfiles", "terminal"]
 description: "A minimal terminal emulator for a minimal linux config."
@@ -33,8 +33,8 @@ More pictures of the config [**here**](https://github.com/a2n-s/dotfiles#4-galle
 {{< code align="center" text="--------------------------------------------------------------------" >}}
 
 ## The Files.
-All files are available at [~/.config/starship](https://github.com/a2n-s/dotfiles/blob/main/.config/starship):
-- [`config.toml`]
+All files are available at [~/.config](https://github.com/a2n-s/dotfiles/blob/main/.config):
+- [`starship.toml`]
 
 ## The config.
 **Previews available soon.**
@@ -45,23 +45,22 @@ All files are available at [~/.config/starship](https://github.com/a2n-s/dotfile
 
 ## Dependencies.
 - the `nerd` fonts.
-- `git`.
 
 ## Manual installation process.
 - install the dependencies above.
 - install the `starship` command.
-- copy [`config.toml`] inside your `~/.config/starship` directory.
+- copy [`starship.toml`] inside your `~/.config` directory.
 
 in a nutshell and to be adapted:
 ```bash
 yay -S nerd-fonts-mononoki
 sudo pacman -Syu starship
 git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
-mv a2n-s_dotfiles/.config/starship/config.toml ~/.config/starship/config.toml
+mv a2n-s_dotfiles/.config/starship.toml ~/.config/starship.toml
 ```
 
 {{< code align="center" text="--------------------------------------------------------------------" >}}
 
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).
 
-[`config.toml`]: https://github.com/a2n-s/dotfiles/blob/main/.config/starship/config.toml
+[`starship.toml`]: https://github.com/a2n-s/dotfiles/blob/main/.config/starship.toml

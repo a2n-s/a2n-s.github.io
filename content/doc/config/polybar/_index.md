@@ -1,9 +1,9 @@
 ---
 title: "polybar"
 date: 2021-12-04
-lastMod: 2021-12-10
-tags: ["doc", "dotfiles", "bar"]
-keywords: ["doc", "dotfiles", "bar"]
+lastMod: 2021-12-17
+tags: ["doc", "bar"]
+keywords: ["doc", "bar"]
 description: "The famous bar."
 ---
 <!-- Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public). -->  
@@ -40,9 +40,10 @@ description: "The famous bar."
 
 <!-- {{< code align="center" text="--------------------------------------------------------------------">}} -->
 
-# Doc unavailable...
+# Polybar documentation.
+## Doc unavailable...
 Please refer to the [GitHub repo](https://github.com/a2n-s/polybar-themes) instead.
 
 {{< code align="center" text="--------------------------------------------------------------------">}}
 
-Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
+Go back to the [doc](/public/doc/config) or the [front page](/public).  
