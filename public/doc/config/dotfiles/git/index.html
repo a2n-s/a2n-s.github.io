@@ -168,7 +168,7 @@
       <span class="post-date">
         2021-12-04
         
-          [Last update: 2021-12-10]
+          [Last update: 2021-12-15]
         
       </span>
     
@@ -290,6 +290,14 @@ Then I simply wrote many aliases to make my life easier:
 <td>clone</td>
 </tr>
 <tr>
+<td>a</td>
+<td>add</td>
+</tr>
+<tr>
+<td>au</td>
+<td>add -u</td>
+</tr>
+<tr>
 <td>st</td>
 <td>status</td>
 </tr>
@@ -298,12 +306,44 @@ Then I simply wrote many aliases to make my life easier:
 <td>commit</td>
 </tr>
 <tr>
+<td>cmm</td>
+<td>commit -m</td>
+</tr>
+<tr>
+<td>cma</td>
+<td>commit &ndash;amend</td>
+</tr>
+<tr>
 <td>sw</td>
 <td>switch</td>
 </tr>
 <tr>
+<td>swc</td>
+<td>switch -c</td>
+</tr>
+<tr>
 <td>co</td>
 <td>checkout</td>
+</tr>
+<tr>
+<td>cob</td>
+<td>checkout -b</td>
+</tr>
+<tr>
+<td>br</td>
+<td>branch</td>
+</tr>
+<tr>
+<td>brf</td>
+<td>branch -f</td>
+</tr>
+<tr>
+<td>brm</td>
+<td>branch -m</td>
+</tr>
+<tr>
+<td>brd</td>
+<td>branch -D</td>
 </tr>
 </tbody>
 </table>
@@ -371,11 +411,19 @@ Then I simply wrote many aliases to make my life easier:
 </tr>
 <tr>
 <td>tr</td>
-<td>log &ndash;graph &ndash;oneline &ndash;all &ndash;decorate</td>
+<td>log &ndash;graph &ndash;all &ndash;oneline &ndash;decorate        -10</td>
+</tr>
+<tr>
+<td>tra</td>
+<td>log &ndash;graph &ndash;all &ndash;oneline &ndash;decorate</td>
 </tr>
 <tr>
 <td>trs</td>
-<td>log &ndash;oneline &ndash;decorate &ndash;all &ndash;graph &ndash;stat</td>
+<td>log &ndash;graph &ndash;all &ndash;oneline &ndash;decorate &ndash;stat -10</td>
+</tr>
+<tr>
+<td>trsa</td>
+<td>log &ndash;graph &ndash;all &ndash;oneline &ndash;decorate &ndash;stat</td>
 </tr>
 </tbody>
 </table>
@@ -410,6 +458,10 @@ Then I simply wrote many aliases to make my life easier:
 <tr>
 <td>lfsh</td>
 <td>!git ls-files | xargs ls -1 | sort -nrk5 | head -n</td>
+</tr>
+<tr>
+<td>df</td>
+<td>diff</td>
 </tr>
 </tbody>
 </table>
@@ -446,28 +498,52 @@ Then I simply wrote many aliases to make my life easier:
 </thead>
 <tbody>
 <tr>
-<td>fc</td>
+<td>ft</td>
 <td>fetch</td>
 </tr>
 <tr>
-<td>fcp</td>
+<td>ftp</td>
 <td>fetch -p</td>
+</tr>
+<tr>
+<td>fto</td>
+<td>fetch origin</td>
+</tr>
+<tr>
+<td>ftop</td>
+<td>fetch origin -p</td>
+</tr>
+<tr>
+<td>ftu</td>
+<td>fetch upstream</td>
+</tr>
+<tr>
+<td>ftup</td>
+<td>fetch upstream -p</td>
 </tr>
 <tr>
 <td>pl</td>
 <td>pull</td>
 </tr>
 <tr>
-<td>praff</td>
-<td>pull &ndash;rebase &ndash;autostash &ndash;ff</td>
+<td>plo</td>
+<td>pull origin</td>
 </tr>
 <tr>
-<td>praffom</td>
-<td>pull &ndash;rebase &ndash;autostash &ndash;ff origin main</td>
+<td>plu</td>
+<td>pull upstream</td>
 </tr>
 <tr>
-<td>praffum</td>
-<td>pull &ndash;rebase &ndash;autostash &ndash;ff upstream main</td>
+<td>plaf</td>
+<td>pull&ndash;autostash &ndash;ff</td>
+</tr>
+<tr>
+<td>plafo</td>
+<td>pull&ndash;autostash &ndash;ff origin</td>
+</tr>
+<tr>
+<td>plafu</td>
+<td>pull&ndash;autostash &ndash;ff upstream</td>
 </tr>
 </tbody>
 </table>
@@ -499,6 +575,14 @@ Then I simply wrote many aliases to make my life easier:
 <td>pom</td>
 <td>push origin main</td>
 </tr>
+<tr>
+<td>pso</td>
+<td>push origin</td>
+</tr>
+<tr>
+<td>psu</td>
+<td>push upstream</td>
+</tr>
 </tbody>
 </table>
 
@@ -522,6 +606,14 @@ Then I simply wrote many aliases to make my life easier:
 </thead>
 <tbody>
 <tr>
+<td>rst</td>
+<td>restore</td>
+</tr>
+<tr>
+<td>rsts</td>
+<td>restore &ndash;staged</td>
+</tr>
+<tr>
 <td>rv</td>
 <td>revert</td>
 </tr>
@@ -534,12 +626,8 @@ Then I simply wrote many aliases to make my life easier:
 <td>reset &ndash;hard</td>
 </tr>
 <tr>
-<td>cfd</td>
-<td>clean -fd</td>
-</tr>
-<tr>
 <td>cdf</td>
-<td>clean -fd</td>
+<td>clean -df</td>
 </tr>
 </tbody>
 </table>
@@ -623,8 +711,10 @@ mv a2n-s_dotfiles/.gitconfig ~/.gitconfig
     <footer class="footer">
   <div class="footer__inner">
     
-      <div class="copyright">
+      <div class="copyright copyright--user">
         <span>© 2021 Powered by <a href="http://gohugo.io">Hugo</a></span>
+        <span>:: <a href="https://github.com/a2n-s/a2n-s.github.io">Project</a></span>
+        <span>:: <a href="https://github.com/a2n-s/a2n-s.github.io/blob/main/LICENSE">License</a></span>
     
         <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
       </div>
