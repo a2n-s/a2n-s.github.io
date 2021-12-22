@@ -1,7 +1,7 @@
 ---
 title: "Config's Doc"
 date: 2021-12-04
-lastMod: 2021-12-17
+lastMod: 2021-12-22
 tags: ["index", "main page", "doc", "config"]
 keywords: ["index", "main page", "doc", "config"]
 description: "The documentation of my Arch Linux configuration."
@@ -20,6 +20,8 @@ One can find information below:
 - my [oh-my-fish fork](/public/doc/config/fish).
 - my [oh-my-zsh fork](/public/doc/config/zsh).
 - my [kitty fork](/public/doc/config/kitty).
+- my [tabbed rice](/public/doc/config/tabbed).
+- my [slock rice](/public/doc/config/slock).
 
 {{< code align="center" text="--------------------------------------------------------------------" >}}
 

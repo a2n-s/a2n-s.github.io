@@ -1,7 +1,7 @@
 ---
 title: "Dotfiles"
 date: 2021-12-04
-lastMod: 2021-12-14
+lastMod: 2021-12-22
 tags: ["doc", "dotfiles"]
 keywords: ["doc", "dotfiles"]
 description: "All the dotfiles of the programs I run on my machine: my windows manager of the moment, my bar, my terminal emulator and many more."
@@ -20,11 +20,15 @@ The programs I run on my machine can be split into a few parts:
   - [spectrwm](/public/doc/config/dotfiles/spectrwm)
 - programs that interacts with the system:
   - [polybar](/public/doc/config/polybar)
+  - [slock](/public/doc/config/slock)
   - [vifm](/public/doc/config/dotfiles/vifm)
   - [xscreensaver](/public/doc/config/dotfiles/xscreensaver)
 - the programs for the terminal:
   - [alacritty](/public/doc/config/dotfiles/alacritty)
   - [bash](/public/doc/config/dotfiles/bash)
+  - [fish](/public/doc/config/fish)
+  - [zsh](/public/doc/config/zsh)
+  - [kitty](/public/doc/config/kitty)
   - [neofetch](/public/doc/config/dotfiles/neofetch)
   - [starship](/public/doc/config/dotfiles/starship)
   - [tmux](/public/doc/config/dotfiles/tmux)
@@ -32,6 +36,7 @@ The programs I run on my machine can be split into a few parts:
   - [git](/public/doc/config/dotfiles/git)
   - [htop](/public/doc/config/dotfiles/htop)
   - [surf](/public/doc/config/surf)
+  - [tabbed](/public/doc/config/tabbed)
   - [vim](/public/doc/config/dotfiles/vim)
 
 or in the list below.
