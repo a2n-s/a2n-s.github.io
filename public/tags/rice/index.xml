@@ -7,16 +7,86 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>https://github.com/a2n-s/a2n-s.github.io</copyright>
-    <lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/rice/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/rice/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>dmenu</title>
+      <title>oh-my-bash</title>
+      <link>https://a2n-s.github.io/public/doc/config/bash/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/doc/config/bash/</guid>
+      <description>oh-my-bash documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+-------------------------------------------------------------------- Go back to the doc or the front page.</description>
+      <content>&lt;h1 id=&#34;oh-my-bash-documentation&#34;&gt;oh-my-bash documentation.&lt;/h1&gt;
+&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/oh-my-bash&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>oh-my-fish</title>
+      <link>https://a2n-s.github.io/public/doc/config/fish/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/doc/config/fish/</guid>
+      <description>oh-my-fish documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+-------------------------------------------------------------------- Go back to the doc or the front page.</description>
+      <content>&lt;h1 id=&#34;oh-my-fish-documentation&#34;&gt;oh-my-fish documentation.&lt;/h1&gt;
+&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/oh-my-fish&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>oh-my-zsh</title>
+      <link>https://a2n-s.github.io/public/doc/config/zsh/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/doc/config/zsh/</guid>
+      <description>oh-my-zsh documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+-------------------------------------------------------------------- Go back to the doc or the front page.</description>
+      <content>&lt;h1 id=&#34;oh-my-zsh-documentation&#34;&gt;oh-my-zsh documentation.&lt;/h1&gt;
+&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/ohmyzsh&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>surf</title>
       <link>https://a2n-s.github.io/public/doc/config/surf/</link>
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/surf/</guid>
-      <description>Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+      <description>Surf documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
 -------------------------------------------------------------------- Go back to the doc or the front page.</description>
-      <content>&lt;h1 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h1&gt;
+      <content>&lt;h1 id=&#34;surf-documentation&#34;&gt;Surf documentation.&lt;/h1&gt;
+&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/surf&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
@@ -36,9 +106,10 @@
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dmenu/</guid>
-      <description>Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+      <description>Dmenu documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
 -------------------------------------------------------------------- Go back to the doc or the front page.</description>
-      <content>&lt;h1 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h1&gt;
+      <content>&lt;h1 id=&#34;dmenu-documentation&#34;&gt;Dmenu documentation.&lt;/h1&gt;
+&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/dmenu&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;

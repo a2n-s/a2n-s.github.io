@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>system on a2n-s&#39; Personal Website &amp; Blog</title>
+    <link>https://a2n-s.github.io/public/tags/system/</link>
+    <description>Recent content in system on a2n-s&#39; Personal Website &amp; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>https://github.com/a2n-s/a2n-s.github.io</copyright>
+    <lastBuildDate>Wed, 22 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>slock</title>
+      <link>https://a2n-s.github.io/public/doc/config/slock/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/doc/config/slock/</guid>
+      <description>slock documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+-------------------------------------------------------------------- Go back to the doc or the front page.</description>
+      <content>&lt;h1 id=&#34;slock-documentation&#34;&gt;slock documentation.&lt;/h1&gt;
+&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/slock&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

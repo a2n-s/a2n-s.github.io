@@ -7,7 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>https://github.com/a2n-s/a2n-s.github.io</copyright>
-    <lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/scripts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/scripts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dmrun.sh</title>
+      <link>https://a2n-s.github.io/public/doc/config/scripts/dmrun.sh/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/doc/config/scripts/dmrun.sh/</guid>
+      <description>Go back to the scripts, the doc or the front page.
+-------------------------------------------------------------------- File is here with following header:
+Description: wrapper around dmenu_run to launch dmenu in the middle and in a grid fashion. Dependencies: dmenu License: https://github.com/a2n-s/dotfiles/LICENSE Contributors: Stevan Antoine </description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/dmrun.sh&#34;&gt;here&lt;/a&gt; with following header:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Description:  wrapper around dmenu_run to launch dmenu in the middle and in a grid fashion.
+Dependencies: dmenu
+License:      https://github.com/a2n-s/dotfiles/LICENSE 
+Contributors: Stevan Antoine
+&lt;/code&gt;&lt;/pre&gt;</content>
+    </item>
+    
+    <item>
+      <title>slock-cst.sh</title>
+      <link>https://a2n-s.github.io/public/doc/config/scripts/slock-cst.sh/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/doc/config/scripts/slock-cst.sh/</guid>
+      <description>Go back to the scripts, the doc or the front page.
+-------------------------------------------------------------------- File is here with following header:
+Description: a wrapper for slock which prints a fancy raibow cow on the lock screen. Dependencies: cowsay, fortune, locat. License: https://github.com/a2n-s/dotfiles/LICENSE Contributors: Stevan Antoine </description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/slock-cst.sh&#34;&gt;here&lt;/a&gt; with following header:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Description:  a wrapper for slock which prints a fancy raibow cow on the lock screen.
+Dependencies: cowsay, fortune, locat.
+License:      https://github.com/a2n-s/dotfiles/LICENSE 
+Contributors: Stevan Antoine
+&lt;/code&gt;&lt;/pre&gt;</content>
+    </item>
+    
+    <item>
+      <title>dmscripts</title>
+      <link>https://a2n-s.github.io/public/doc/config/dmscripts/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/doc/config/dmscripts/</guid>
+      <description>dmscripts documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+-------------------------------------------------------------------- Go back to the doc or the front page.</description>
+      <content>&lt;h1 id=&#34;dmscripts-documentation&#34;&gt;dmscripts documentation.&lt;/h1&gt;
+&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/dmscripts&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>prompt.sh</title>
       <link>https://a2n-s.github.io/public/doc/config/scripts/prompt.sh/</link>
@@ -74,12 +149,14 @@ Contributors: Stevan Antoine
       
       <guid>https://a2n-s.github.io/public/doc/config/scripts/</guid>
       <description>The programs I run on my machine can be split into a few parts:
- prompt.sh screenshot.sh spectrWM-baraction.sh togkb.sh tr2md.sh upl.sh wvenv.sh xtcl.sh  or in the list below.
+ dmrun.sh prompt.sh screenshot.sh slock-cst.sh spectrWM-baraction.sh togkb.sh tr2md.sh upl.sh wvenv.sh xtcl.sh  or in the list below.
 -------------------------------------------------------------------- Go back to the doc or the front page.</description>
       <content>&lt;p&gt;The programs I run on my machine can be split into a few parts:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/dmrun.sh&#34;&gt;dmrun.sh&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/prompt.sh&#34;&gt;prompt.sh&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/screenshot.sh&#34;&gt;screenshot.sh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/slock-cst.sh&#34;&gt;slock-cst.sh&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/spectrwm-baraction.sh&#34;&gt;spectrWM-baraction.sh&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/togkb.sh&#34;&gt;togkb.sh&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/tr2md.sh&#34;&gt;tr2md.sh&lt;/a&gt;&lt;/li&gt;

@@ -7,11 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>https://github.com/a2n-s/a2n-s.github.io</copyright>
-    <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>browser</title>
+      <link>https://a2n-s.github.io/public/tags/browser/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/browser/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
     <item>
       <title>doc</title>
       <link>https://a2n-s.github.io/public/tags/doc/</link>
-      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/tags/doc/</guid>
       <description></description>
@@ -19,11 +29,21 @@
     </item>
     
     <item>
-      <title>dotfiles</title>
-      <link>https://a2n-s.github.io/public/tags/dotfiles/</link>
-      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <title>scripts</title>
+      <link>https://a2n-s.github.io/public/tags/scripts/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/tags/dotfiles/</guid>
+      <guid>https://a2n-s.github.io/public/tags/scripts/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>system</title>
+      <link>https://a2n-s.github.io/public/tags/system/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/system/</guid>
       <description></description>
       <content></content>
     </item>
@@ -31,7 +51,7 @@
     <item>
       <title>terminal</title>
       <link>https://a2n-s.github.io/public/tags/terminal/</link>
-      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/tags/terminal/</guid>
       <description></description>
@@ -39,9 +59,19 @@
     </item>
     
     <item>
+      <title>tool</title>
+      <link>https://a2n-s.github.io/public/tags/tool/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/tool/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
       <title>rice</title>
       <link>https://a2n-s.github.io/public/tags/rice/</link>
-      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/tags/rice/</guid>
       <description></description>
@@ -49,11 +79,21 @@
     </item>
     
     <item>
-      <title>surf</title>
-      <link>https://a2n-s.github.io/public/tags/surf/</link>
-      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      <title>shell</title>
+      <link>https://a2n-s.github.io/public/tags/shell/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://a2n-s.github.io/public/tags/surf/</guid>
+      <guid>https://a2n-s.github.io/public/tags/shell/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>dotfiles</title>
+      <link>https://a2n-s.github.io/public/tags/dotfiles/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/dotfiles/</guid>
       <description></description>
       <content></content>
     </item>
@@ -94,26 +134,6 @@
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/tags/contact/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>dmenu</title>
-      <link>https://a2n-s.github.io/public/tags/dmenu/</link>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/tags/dmenu/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>dmscripts</title>
-      <link>https://a2n-s.github.io/public/tags/dmscripts/</link>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/tags/dmscripts/</guid>
       <description></description>
       <content></content>
     </item>
@@ -209,6 +229,16 @@
     </item>
     
     <item>
+      <title>menu</title>
+      <link>https://a2n-s.github.io/public/tags/menu/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/menu/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
       <title>monitoring</title>
       <link>https://a2n-s.github.io/public/tags/monitoring/</link>
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
@@ -249,31 +279,11 @@
     </item>
     
     <item>
-      <title>scripts</title>
-      <link>https://a2n-s.github.io/public/tags/scripts/</link>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/tags/scripts/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
       <title>security</title>
       <link>https://a2n-s.github.io/public/tags/security/</link>
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/tags/security/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>shell</title>
-      <link>https://a2n-s.github.io/public/tags/shell/</link>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/tags/shell/</guid>
       <description></description>
       <content></content>
     </item>

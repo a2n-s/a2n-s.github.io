@@ -7,7 +7,131 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>https://github.com/a2n-s/a2n-s.github.io</copyright>
-    <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/dotfiles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/dotfiles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fish.</title>
+      <link>https://a2n-s.github.io/public/doc/config/dotfiles/fish/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/doc/config/dotfiles/fish/</guid>
+      <description>Go back to the dotfiles, the doc or the front page.
+-------------------------------------------------------------------- More pictures of the config here.
+-------------------------------------------------------------------- &amp;ldquo;fish is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family.&amp;rdquo;
+Table of Content.  The files The config Some resources Dependencies Manual Installation process  -------------------------------------------------------------------- The Files. All files are available at ~/.config/fish:
+ completions conf.d config.fish fish_variables functions  The Config. Available soon.</description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;More pictures of the config &lt;a href=&#34;https://github.com/a2n-s/dotfiles/#4-gallery-toc&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+
+  &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-fish.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-fish.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+
+
+&lt;p&gt;&amp;ldquo;fish is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family.&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;table-of-content&#34;&gt;Table of Content.&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#the-files&#34;&gt;The files&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#the-config&#34;&gt;The config&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#some-resources&#34;&gt;Some resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#dependencies&#34;&gt;Dependencies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#manual-installation-process&#34;&gt;Manual Installation process&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;h2 id=&#34;the-files&#34;&gt;The Files.&lt;/h2&gt;
+&lt;p&gt;All files are available at &lt;a href=&#34;https://github.com/a2n-s/dotfiles/tree/main/.config/fish&#34;&gt;~/.config/fish&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/fish/completions&#34;&gt;&lt;code&gt;completions&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/fish/conf.d&#34;&gt;&lt;code&gt;conf.d&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/fish/config.fish&#34;&gt;&lt;code&gt;config.fish&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/fish/fish_variables&#34;&gt;&lt;code&gt;fish_variables&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/fish/functions&#34;&gt;&lt;code&gt;functions&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-config&#34;&gt;The Config.&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Available soon.&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Available soon.&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;dependencies&#34;&gt;Dependencies.&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Available soon.&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;manual-installation-process&#34;&gt;Manual installation process.&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Available soon.&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Starship.</title>
       <link>https://a2n-s.github.io/public/doc/config/dotfiles/starship/</link>
@@ -17,8 +141,8 @@
       <description>Go back to the dotfiles, the doc or the front page.
 --------------------------------------------------------------------  Available soon.  More pictures of the config here.
 -------------------------------------------------------------------- &amp;ldquo;The minimal, blazing-fast, and infinitely customizable prompt for any shell!&amp;rdquo;
-Table of Content.  The files The config Some resources Dependencies Manual installation process  -------------------------------------------------------------------- The Files. All files are available at ~/.config/starship:
- config.toml  The config. Previews available soon.
+Table of Content.  The files The config Some resources Dependencies Manual installation process  -------------------------------------------------------------------- The Files. All files are available at ~/.config:
+ starship.toml  The config. Previews available soon.
 Some resources.  the GitHub page.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
@@ -69,9 +193,9 @@ More pictures of the config &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-
 
 
 &lt;h2 id=&#34;the-files&#34;&gt;The Files.&lt;/h2&gt;
-&lt;p&gt;All files are available at &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/starship&#34;&gt;~/.config/starship&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;All files are available at &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config&#34;&gt;~/.config&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/starship/config.toml&#34;&gt;&lt;code&gt;config.toml&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/starship.toml&#34;&gt;&lt;code&gt;starship.toml&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;the-config&#34;&gt;The config.&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Previews available soon.&lt;/strong&gt;&lt;/p&gt;
@@ -83,19 +207,18 @@ More pictures of the config &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-
 &lt;h2 id=&#34;dependencies&#34;&gt;Dependencies.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;the &lt;code&gt;nerd&lt;/code&gt; fonts.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;git&lt;/code&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;manual-installation-process&#34;&gt;Manual installation process.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;install the dependencies above.&lt;/li&gt;
 &lt;li&gt;install the &lt;code&gt;starship&lt;/code&gt; command.&lt;/li&gt;
-&lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/starship/config.toml&#34;&gt;&lt;code&gt;config.toml&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/.config/starship&lt;/code&gt; directory.&lt;/li&gt;
+&lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/starship.toml&#34;&gt;&lt;code&gt;starship.toml&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/.config&lt;/code&gt; directory.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;in a nutshell and to be adapted:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;yay -S nerd-fonts-mononoki
 sudo pacman -Syu starship
 git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
-mv a2n-s_dotfiles/.config/starship/config.toml ~/.config/starship/config.toml
+mv a2n-s_dotfiles/.config/starship.toml ~/.config/starship.toml
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
     &lt;p align=&#34;center&#34;&gt;
 
@@ -586,7 +709,7 @@ mv a2n-s_dotfiles/.config/bspwm/* ~/.config/bspwm
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/</guid>
       <description>Go back to the doc or the front page.
 -------------------------------------------------------------------- The programs I run on my machine can be split into a few parts:
- the basic video drivers:  xorg   the window management:  bspwm nitrogen sxhkd spectrwm   programs that interacts with the system:  polybar vifm xscreensaver   the programs for the terminal:  alacritty bash neofetch starship tmux   miscellaneous:  git htop surf vim    or in the list below.</description>
+ the basic video drivers:  xorg   the window management:  bspwm nitrogen sxhkd spectrwm   programs that interacts with the system:  polybar slock vifm xscreensaver   the programs for the terminal:  alacritty bash fish zsh kitty neofetch starship tmux   miscellaneous:  git htop surf tabbed vim    or in the list below.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
@@ -614,6 +737,7 @@ mv a2n-s_dotfiles/.config/bspwm/* ~/.config/bspwm
 &lt;li&gt;programs that interacts with the system:
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/polybar&#34;&gt;polybar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/slock&#34;&gt;slock&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/vifm&#34;&gt;vifm&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/xscreensaver&#34;&gt;xscreensaver&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -622,6 +746,9 @@ mv a2n-s_dotfiles/.config/bspwm/* ~/.config/bspwm
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/alacritty&#34;&gt;alacritty&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/bash&#34;&gt;bash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/fish&#34;&gt;fish&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/zsh&#34;&gt;zsh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/kitty&#34;&gt;kitty&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/neofetch&#34;&gt;neofetch&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/starship&#34;&gt;starship&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/tmux&#34;&gt;tmux&lt;/a&gt;&lt;/li&gt;
@@ -632,6 +759,7 @@ mv a2n-s_dotfiles/.config/bspwm/* ~/.config/bspwm
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/git&#34;&gt;git&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/htop&#34;&gt;htop&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/surf&#34;&gt;surf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/tabbed&#34;&gt;tabbed&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/vim&#34;&gt;vim&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -1404,51 +1532,6 @@ Some resources.  the Arch wiki page. a youtube tutorial.  Dependencies.  some wa
 git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.config/nitrogen/nitrogen.cfg ~/.config/nitrogen/nitrogen.cfg
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-    &lt;p align=&#34;center&#34;&gt;
-
-
-&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
-&lt;/p&gt;
-
-
-&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>polybar</title>
-      <link>https://a2n-s.github.io/public/doc/config/polybar/</link>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/doc/config/polybar/</guid>
-      <description>Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
--------------------------------------------------------------------- Go back to the dotfiles, the doc or the front page.</description>
-      <content>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h1 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h1&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/polybar-themes&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
-
     &lt;p align=&#34;center&#34;&gt;
 
 

@@ -90,9 +90,10 @@ mv a2n-s_dotfiles/.config/nitrogen/nitrogen.cfg ~/.config/nitrogen/nitrogen.cfg
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/wallpapers/</guid>
-      <description>Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+      <description>Wallpapers documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
 -------------------------------------------------------------------- Go back to the doc or the front page.</description>
-      <content>&lt;h1 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h1&gt;
+      <content>&lt;h1 id=&#34;wallpapers-documentation&#34;&gt;Wallpapers documentation.&lt;/h1&gt;
+&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/wallpapers&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
