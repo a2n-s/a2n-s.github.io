@@ -7,23 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>https://github.com/a2n-s/a2n-s.github.io</copyright>
-    <lastBuildDate>Wed, 22 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>doc</title>
+      <link>https://a2n-s.github.io/public/tags/doc/</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/doc/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>editor</title>
+      <link>https://a2n-s.github.io/public/tags/editor/</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/tags/editor/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
     <item>
       <title>browser</title>
       <link>https://a2n-s.github.io/public/tags/browser/</link>
       <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/tags/browser/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>doc</title>
-      <link>https://a2n-s.github.io/public/tags/doc/</link>
-      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/tags/doc/</guid>
       <description></description>
       <content></content>
     </item>
@@ -134,16 +144,6 @@
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/tags/contact/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>editor</title>
-      <link>https://a2n-s.github.io/public/tags/editor/</link>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://a2n-s.github.io/public/tags/editor/</guid>
       <description></description>
       <content></content>
     </item>

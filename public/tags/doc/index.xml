@@ -7,7 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>https://github.com/a2n-s/a2n-s.github.io</copyright>
-    <lastBuildDate>Wed, 22 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/doc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/doc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>neovim</title>
+      <link>https://a2n-s.github.io/public/doc/config/neovim/</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/doc/config/neovim/</guid>
+      <description>Neovim documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+-------------------------------------------------------------------- Go back to the doc or the front page.</description>
+      <content>&lt;h1 id=&#34;neovim-documentation&#34;&gt;Neovim documentation.&lt;/h1&gt;
+&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/neovim&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>dmrun.sh</title>
       <link>https://a2n-s.github.io/public/doc/config/scripts/dmrun.sh/</link>
@@ -939,6 +962,7 @@ One can find information below:&lt;/p&gt;
 &lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/kitty&#34;&gt;kitty fork&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/tabbed&#34;&gt;tabbed rice&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/slock&#34;&gt;slock rice&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/neovim&#34;&gt;neovim config&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
     &lt;p align=&#34;center&#34;&gt;

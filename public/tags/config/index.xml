@@ -15,7 +15,7 @@
       
       <guid>https://a2n-s.github.io/public/config/</guid>
       <description>Below, one can find every piece of my current config.
- the entire doc HERE. the doftiles (*) for my Arch setup. my wallpapers (*). my polybar (*). my dmenu rice (*). all the dmscripts (*) I use. my surf rice (*). my oh-my-bash fork (*). my oh-my-fish fork (*). my oh-my-zsh fork (*). my kitty fork (*). my tabbed rice (*). my slock rice (*).  (*) means that the field comes from another place.</description>
+ the entire doc HERE. the doftiles (*) for my Arch setup. my wallpapers (*). my polybar (*). my dmenu rice (*). all the dmscripts (*) I use. my surf rice (*). my oh-my-bash fork (*). my oh-my-fish fork (*). my oh-my-zsh fork (*). my kitty fork (*). my tabbed rice (*). my slock rice (*). my neovim config (*).  (*) means that the field comes from another place.</description>
       <content>&lt;p&gt;Below, one can find every piece of my current config.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;the &lt;strong&gt;entire doc &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;HERE&lt;/a&gt;.&lt;/strong&gt;&lt;/li&gt;
@@ -31,6 +31,7 @@
 &lt;li&gt;my &lt;a href=&#34;https://github.com/a2n-s/kitty&#34;&gt;kitty fork&lt;/a&gt; (*).&lt;/li&gt;
 &lt;li&gt;my &lt;a href=&#34;https://github.com/a2n-s/tabbed&#34;&gt;tabbed rice&lt;/a&gt; (*).&lt;/li&gt;
 &lt;li&gt;my &lt;a href=&#34;https://github.com/a2n-s/slock&#34;&gt;slock rice&lt;/a&gt; (*).&lt;/li&gt;
+&lt;li&gt;my &lt;a href=&#34;https://github.com/a2n-s/neovim&#34;&gt;neovim config&lt;/a&gt; (*).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;(*) means that the field comes from another place. Clicking will redirect you there.&lt;/p&gt;
 
@@ -70,6 +71,7 @@ One can find information below:&lt;/p&gt;
 &lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/kitty&#34;&gt;kitty fork&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/tabbed&#34;&gt;tabbed rice&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/slock&#34;&gt;slock rice&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/neovim&#34;&gt;neovim config&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
     &lt;p align=&#34;center&#34;&gt;
