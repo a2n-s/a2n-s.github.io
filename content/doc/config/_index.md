@@ -1,7 +1,7 @@
 ---
 title: "Config's Doc"
 date: 2021-12-04
-lastMod: 2021-12-22
+lastMod: 2021-12-25
 tags: ["index", "main page", "doc", "config"]
 keywords: ["index", "main page", "doc", "config"]
 description: "The documentation of my Arch Linux configuration."
@@ -22,6 +22,7 @@ One can find information below:
 - my [kitty fork](/public/doc/config/kitty).
 - my [tabbed rice](/public/doc/config/tabbed).
 - my [slock rice](/public/doc/config/slock).
+- my [neovim config](/public/doc/config/neovim).
 
 {{< code align="center" text="--------------------------------------------------------------------" >}}
 

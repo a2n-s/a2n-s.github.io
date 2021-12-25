@@ -1,7 +1,7 @@
 ---
 title: "Config"
 date: 2021-12-04
-lastMod: 2021-12-22
+lastMod: 2021-12-25
 tags: ["index", "main page", "config"]
 keywords: ["index", "main page", "config"]
 description: "Details about my linux configuration."
@@ -22,6 +22,7 @@ Below, one can find every piece of my current config.
 - my [kitty fork](https://github.com/a2n-s/kitty) (\*).
 - my [tabbed rice](https://github.com/a2n-s/tabbed) (\*).
 - my [slock rice](https://github.com/a2n-s/slock) (\*).
+- my [neovim config](https://github.com/a2n-s/neovim) (\*).
 
 (\*) means that the field comes from another place. Clicking will redirect you there.
 
