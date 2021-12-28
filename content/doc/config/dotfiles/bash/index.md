@@ -1,7 +1,7 @@
 ---
 title: "bash."
 date: 2021-12-04
-lastMod: 2021-12-10
+lastMod: 2021-12-28
 tags: ["doc", "dotfiles", "shell"]
 keywords: ["doc", "dotfiles", "shell"]
 description: "The famous Unix Shell, some detail, how to install my config."
@@ -25,45 +25,54 @@ More pictures of the config [**here**](https://github.com/a2n-s/dotfiles/#4-gall
 - [The config](#the-config)
 - [Some resources](#some-resources)
 - [Dependencies](#dependencies)
-- [Manual Installation process](#manual-installation-process)
+- [Manual Installation process](#manual-installation-process-deprecated) **DEPRECATED**
 
 {{< code align="center" text="--------------------------------------------------------------------" >}}
 
 ## The Files.
 All files are available at [~/](https://github.com/a2n-s/dotfiles):
-- [`.bash_aliases`]
 - [`.bash_logout`]
 - [`.bash_profile`]
 - [`.bashrc`]
 - [`.profile`]
 
 ## The Config.
+My `bash` config makes an extensive use of the [`oh-my-bash`] framework.
 #### 1. Profile.
 Launches `mpd` for music, starts `x` when on `tty1` or sources `.bashrc` otherwise.
 #### 2. bashrc.
 Does the following in sequence:
-- loads the aliases below.
-- tries to load some completion.
+- defines general parameters for [`oh-my-bash`].
+  -  a scheme for the prompt, set to `random`.
+- defines the **completion** that `oh-my-bash` should source.
+  -  `git`
+  -  `composer`
+  -  `ssh`
+- defines the **aliases** that `oh-my-bash` should source.
+  -  `general`
+  -  `chmod`
+  -  `ls`
+  -  `example` from `custom/aliases`
+- defines the **plugins** that `oh-my-bash` should source.
+  -  `git`
+  -  `bashmarks`
 - adds `~/scripts` and `~/.local/bin` to `PATH`.
-- changes the prompt to use `_shortwd` and `_parse_git_info` (see [the scripts](/public/doc/config/scripts/)).
-- disables my broken caps lock key.
 - switches to `vi` mode.
 - loads `virtualenvwrapper` to manage `python` virtual environments.
-- prints a `colorscript` using Distrotube's repo [here](https://gitlab.com/dwt1/shell-color-scripts).
-  * can be changed to `neofetch`.
-- prints a 3-month calendar.
+<!-- - prints a `colorscript` using Distrotube's repo [here](https://gitlab.com/dwt1/shell-color-scripts). -->
+<!--   - can be changed to `neofetch`. -->
+<!-- - prints a 3-month calendar. -->
+- prints a fortunate pony...
+- starts `starship` for a better prompt
+- sources `bash-insulter`
 #### 3. Aliases.
 I define some aliases to make my life easier, e.g.
 - `xcc` to pipe `stdout` to clipboard.
 - `cfg` to control the bare repository of my config.
 - `lgr` to list all the `git` repositories in my `$HOME`.
-- `tns`, `tls`, `tat` and `tkt` to respectively create, list, attach and kill a session in `tmux`.
-- `xrandr-run` to connect to HDMI monitors.
-- `ncu*` to connect to my favorite networks.
-- `jpy` and `jnb` to launch respectively `jupyter` and `jupyter-nontebook` when available.
-- `sdn` and `sdnr` to respectively shutdown and reboot my machine from the terminal.
-- `rmv`, `rmi`, `rmr` and `rmrf` where `rm*` runs `rm -*`
-- classic `ls` variants such as `ll` ~ `ls -l` or `la` ~ ~ls -A`.
+- ...
+
+See [`oh-my-bash`] for more.
 #### 4. Logout.
 Default behaviour.
 
@@ -73,22 +82,28 @@ Default behaviour.
 
 ## Dependencies.
 - the scripts in the [`scripts`] directory.
-- `neofetch`, `git` and `cal`.
-- Distrotube's `colorscript` -> can be found [here](https://gitlab.com/dwt1/shell-color-scripts).
+<!-- - `neofetch`, `git` and `cal`. -->
+- `oh-my-bash`, the `bash-insulter`, `nvim`, `virtualenvwrapper`, `git`, `ponysay`, `fortune` and `starship`.
+<!-- - Distrotube's `colorscript` -> can be found [here](https://gitlab.com/dwt1/shell-color-scripts). -->
 
-## Manual installation process.
+## Manual installation process. **DEPRECATED**
 - install the dependencies above.
-- copy [`.bash_aliases`], [`.bash_logout`], [`.bash_profile`], [`.bashrc`] and [`.profile`] inside your `~/` directory.
+- copy [`.bash_logout`], [`.bash_profile`], [`.bashrc`] and [`.profile`] inside your `~/` directory.
 
-in a nutshell and to be adapted:
+in a nutshell and to be adapted: **DEPRECATED**
+<!-- sudo pacman -Syu neofetch git cal -->
 ```bash
-sudo pacman -Syu neofetch git cal
+sudo pacman -Syu nvim git ponysay fortune starship
+git clone git://github.com/a2n-s/oh-my-bash.git ~/repos/oh-my-bash
+sudo wget -O /etc/bash.command-not-found https://raw.githubusercontent.com/hkbakke/bash-insulter/master/src/bash.command-not-found
+pip install virtualenvwrapper
 yay -S shell-color-scripts   # or follow instructions at https://gitlab.com/dwt1/shell-color-scripts#installing-shell-color-scripts-on-other-linux-distrtibutions 
 git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.bash_profile ~/.bash_profile
+mv a2n-s_dotfiles/.profile ~/.profile
 mv a2n-s_dotfiles/.bashrc ~/.bashrc
-mv a2n-s_dotfiles/.bash_aliases ~/.bash_aliases
 mv a2n-s_dotfiles/.bash_logout ~/.bash_logout
+rm -rf a2n-s_dotfiles  # optional
 ```
 
 {{< code align="center" text="--------------------------------------------------------------------" >}}
@@ -96,8 +111,8 @@ mv a2n-s_dotfiles/.bash_logout ~/.bash_logout
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
 [`scripts`]:       https://github.com/a2n-s/dotfiles/blob/main/scripts
-[`.bash_aliases`]: https://github.com/a2n-s/dotfiles/blob/main/.bash_aliases
 [`.bash_logout`]:  https://github.com/a2n-s/dotfiles/blob/main/.bash_logout
 [`.bash_profile`]: https://github.com/a2n-s/dotfiles/blob/main/.bash_profile
 [`.bashrc`]:       https://github.com/a2n-s/dotfiles/blob/main/.bashrc
 [`.profile`]:      https://github.com/a2n-s/dotfiles/blob/main/.profile
+[`oh-my-bash`]:    http://localhost:1313/public/doc/config/bash
