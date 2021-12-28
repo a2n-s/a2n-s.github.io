@@ -1,7 +1,7 @@
 ---
 title: "Scripts"
 date: 2021-12-04
-lastMod: 2021-12-22
+lastMod: 2021-12-28
 tags: ["doc", "scripts"]
 keywords: ["doc", "scripts"]
 description: "All the hand-crafted scripts I use on my machine: tools using dmenu, utils to take screenshots, run the bar of spectrWM, and many more."
@@ -9,6 +9,7 @@ description: "All the hand-crafted scripts I use on my machine: tools using dmen
 
 The programs I run on my machine can be split into a few parts:
 - [dmrun.sh](/public/doc/config/scripts/dmrun.sh)
+- [lfrun.sh](/public/doc/config/scripts/lfrun.sh)
 - [prompt.sh](/public/doc/config/scripts/prompt.sh)
 - [screenshot.sh](/public/doc/config/scripts/screenshot.sh)
 - [slock-cst.sh](/public/doc/config/scripts/slock-cst.sh)
