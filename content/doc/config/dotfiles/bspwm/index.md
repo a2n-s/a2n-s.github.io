@@ -1,7 +1,7 @@
 ---
 title: "bspwm"
 date: 2021-12-04
-lastMod: 2021-12-10
+lastMod: 2021-12-28
 tags: ["doc", "dotfiles", "windows manager"]
 keywords: ["doc", "dotfiles", "windows manager"]
 description: "The binary space partitioning windows manager."
@@ -36,7 +36,7 @@ More pictures of the config [**here**](https://github.com/a2n-s/dotfiles#4-galle
 - [The config](#the-config)
 - [Some resources](#some-resources)
 - [Dependencies](#dependencies)
-- [Manual installation process](#manual-installation-process)
+- [Manual installation process](#manual-installation-process-deprecated) **DEPRECATED**
 
 {{< code align="center" text="--------------------------------------------------------------------" >}}
 
@@ -60,18 +60,20 @@ and his [repo](https://github.com/notusknot/dotfiles) and also
 
 
 ## Dependencies.
-- feh.
-- bspc.
-- sxhkd.
-- alacritty.
+- `feh`
+- `bspc`
+- `sxhkd`
+- `alacritty` or `kitty`
 
-## Manual installation process.
+## Manual installation process. **DEPRECATED**
 - install all the dependencies above.
 - move the content of [`bspwm's config`] to your `~/.config/bspwm` directory.
 
-in a nutshell and to be adapted:
+in a nutshell and to be adapted, **DEPRECATED**:
 ```bash
 sudo pacman -Syu feh bspwm sxhkd alacritty
+# or
+sudo pacman -Syu feh bspwm sxhkd kitty
 git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.config/bspwm/* ~/.config/bspwm
 ```

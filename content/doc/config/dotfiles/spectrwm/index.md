@@ -1,7 +1,7 @@
 ---
 title: "spectrWM"
 date: 2021-12-04
-lastMod: 2021-12-10
+lastMod: 2021-12-28
 tags: ["doc", "dotfiles", "windows manager"]
 keywords: ["doc", "dotfiles", "windows manager"]
 description: "My first ever windows manager and advices to install all the required config on your machine."
@@ -21,7 +21,7 @@ More pictures of the config [**here**](https://github.com/a2n-s/dotfiles#4-galle
 - [The config](#the-config)
 - [Some resources](#some-resources)
 - [Dependencies](#dependencies)
-- [Manual installation process](#manual-installation-process)
+- [Manual installation process](#manual-installation-process-deprecated) **DEPRECATED**
 
 {{< code align="center" text="--------------------------------------------------------------------" >}}
 
@@ -56,12 +56,12 @@ and [~/.config/scripts](https://github.com/a2n-s/dotfiles/blob/main/scripts):
 - [`togkb.sh`] to switch the keyboard layout.
 - `xscreensaver` to lock and save the screen usage.
 
-## Manual installation process.
+## Manual installation process. **DEPRECATED**
 - install the dependencies.
 - install the `spectrwm` command.
 - copy [`spectrwm.conf`] and [`spectrwm_us.conf`] inside your `~/.config/spectrwm` directory.
 
-in a nutshell and to be adapted:
+in a nutshell and to be adapted, **DEPRECATED**:
 ```bash
 git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.config/spectrwm/spectrwm.conf ~/.config/spectrwm/spectrwm.conf

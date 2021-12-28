@@ -1,7 +1,7 @@
 ---
 title: "sxhkd"
 date: 2021-12-04
-lastMod: 2021-12-10
+lastMod: 2021-12-28
 tags: ["doc", "dotfiles", "keyboard"]
 keywords: ["doc", "dotfiles", "keyboard"]
 description: "Needed to interact with and control bspwm."
@@ -21,7 +21,7 @@ More pictures of the config [**here**](https://github.com/a2n-s/dotfiles#4-galle
 - [The config](#the-config)
 - [Some resources](#some-resources)
 - [Dependencies](#dependencies)
-- [Manual installation process](#manual-installation-process)
+- [Manual installation process](#manual-installation-process-deprecated) **DEPRECATED**
 
 {{< code align="center" text="--------------------------------------------------------------------" >}}
 
@@ -88,11 +88,11 @@ The most interesting with `sxhkd` are the key-bindings:
 - my `polybar-themes` or equivalent
 - my `dmscripts` or equivalent
 
-## Manual installation process.
+## Manual installation process. **DEPRECATED**
 - install `sxhkd`
 - copy the [`sxhkdrc`] file to your `~/.config/sxhkd`.
 
-in a nutshell and to be adapted:
+in a nutshell and to be adapted, **DEPRECATED**:
 ```bash
 sudo pacman -Syu sxhkd
 git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
