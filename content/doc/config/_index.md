@@ -9,20 +9,20 @@ description: "The documentation of my Arch Linux configuration."
 
 This page allows the user to redirect to the different docs of my config, as the latter is composed of many different blocks.  
 One can find information below:
-- the [dotfiles](/public/doc/config/dotfiles) for my Arch setup.
-- the [scripts](/public/doc/config/scripts) I use to make my life easier.
-- my [wallpapers](/public/doc/config/wallpapers).
-- my [polybar](/public/doc/config/polybar).
-- my [dmenu rice](/public/doc/config/dmenu).
-- all the [dmscripts](/public/doc/config/dmscripts) I use.
-- my [surf rice](/public/doc/config/surf).
-- my [oh-my-bash fork](/public/doc/config/bash).
-- my [oh-my-fish fork](/public/doc/config/fish).
-- my [oh-my-zsh fork](/public/doc/config/zsh).
-- my [kitty fork](/public/doc/config/kitty).
-- my [tabbed rice](/public/doc/config/tabbed).
-- my [slock rice](/public/doc/config/slock).
-- my [neovim config](/public/doc/config/neovim).
+- [x] the [dotfiles](/public/doc/config/dotfiles) for my Arch setup.
+- [x] the [scripts](/public/doc/config/scripts) I use to make my life easier.
+- [x] my [wallpapers](/public/doc/config/wallpapers).
+- [x] my [polybar](/public/doc/config/polybar).
+- [x] my [dmenu rice](/public/doc/config/dmenu).
+- [x] all the [dmscripts](/public/doc/config/dmscripts) I use.
+- [x] my [surf rice](/public/doc/config/surf).
+- [x] my [oh-my-bash fork](/public/doc/config/bash).
+- [ ] my [oh-my-fish fork](/public/doc/config/fish).
+- [ ] my [oh-my-zsh fork](/public/doc/config/zsh).
+- [x] my [kitty fork](/public/doc/config/kitty).
+- [x] my [tabbed rice](/public/doc/config/tabbed).
+- [x] my [slock rice](/public/doc/config/slock).
+- [x] my [neovim config](/public/doc/config/neovim).
 
 {{< code align="center" text="--------------------------------------------------------------------" >}}
 
