@@ -1,7 +1,7 @@
 ---
 title: "neofetch"
 date: 2021-12-04
-lastMod: 2021-12-10
+lastMod: 2021-12-29
 tags: ["doc", "dotfiles", "terminal"]
 keywords: ["doc", "dotfiles", "terminal"]
 description: "Prints information on the terminal at log time, information to install the config locally."
@@ -49,6 +49,7 @@ I wrote the `neofetchrc` script that launches different ascii art based on the d
 
 ## Dependencies.
 - some art works in `~/.config/neofetch/ascii`.
+- the `pr` command to vertically concatenate the images and the `neofetch` infos.
 
 ## Manual installation process.
 - install the dependencies.
@@ -57,7 +58,7 @@ I wrote the `neofetchrc` script that launches different ascii art based on the d
 
 in a nutshell and to be adapted:
 ```bash
-sudo pacman -Syu neofetch
+sudo pacman -Syu neofetch pr
 git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.config/neofetch/config.conf ~/.config/neofetch/config.conf
 mv a2n-s_dotfiles/.config/neofetch/neofetchrc ~/.config/neofetch/neofetchrc
@@ -69,5 +70,5 @@ mv a2n-s_dotfiles/.config/neofetch/ascii/* ~/.config/neofetch/ascii
 Go back to the [dotfiles](/public/doc/config/dotfiles), the [doc](/public/doc/config) or the [front page](/public).  
 
 [`config.conf`]: https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/config.conf
-[`neofetchrc`]:  https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/.neofetchrc
+[`neofetchrc`]:  https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/neofetchrc
 [`ascii`]:       https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/ascii
