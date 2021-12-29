@@ -168,7 +168,7 @@
       <span class="post-date">
         2021-12-04
         
-          [Last update: 2021-12-10]
+          [Last update: 2021-12-28]
         
       </span>
     
@@ -222,7 +222,7 @@
 <li><a href="#the-config">The config</a></li>
 <li><a href="#some-resources">Some resources</a></li>
 <li><a href="#dependencies">Dependencies</a></li>
-<li><a href="#manual-installation-process">Manual Installation process</a></li>
+<li><a href="#manual-installation-process-deprecated">Manual Installation process</a> <strong>DEPRECATED</strong></li>
 </ul>
 
     <p align="center">
@@ -235,31 +235,55 @@
 <h2 id="the-files">The Files.<a href="#the-files" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <p>All files are available at <a href="https://github.com/a2n-s/dotfiles">~/</a>:</p>
 <ul>
-<li><a href="https://github.com/a2n-s/dotfiles/blob/main/.bash_aliases"><code>.bash_aliases</code></a></li>
 <li><a href="https://github.com/a2n-s/dotfiles/blob/main/.bash_logout"><code>.bash_logout</code></a></li>
 <li><a href="https://github.com/a2n-s/dotfiles/blob/main/.bash_profile"><code>.bash_profile</code></a></li>
 <li><a href="https://github.com/a2n-s/dotfiles/blob/main/.bashrc"><code>.bashrc</code></a></li>
 <li><a href="https://github.com/a2n-s/dotfiles/blob/main/.profile"><code>.profile</code></a></li>
 </ul>
 <h2 id="the-config">The Config.<a href="#the-config" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>My <code>bash</code> config makes an extensive use of the <a href="http://localhost:1313/public/doc/config/bash"><code>oh-my-bash</code></a> framework.</p>
 <h4 id="1-profile">1. Profile.<a href="#1-profile" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h4>
 <p>Launches <code>mpd</code> for music, starts <code>x</code> when on <code>tty1</code> or sources <code>.bashrc</code> otherwise.</p>
 <h4 id="2-bashrc">2. bashrc.<a href="#2-bashrc" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h4>
 <p>Does the following in sequence:</p>
 <ul>
-<li>loads the aliases below.</li>
-<li>tries to load some completion.</li>
-<li>adds <code>~/scripts</code> and <code>~/.local/bin</code> to <code>PATH</code>.</li>
-<li>changes the prompt to use <code>_shortwd</code> and <code>_parse_git_info</code> (see <a href="/public/doc/config/scripts/">the scripts</a>).</li>
-<li>disables my broken caps lock key.</li>
-<li>switches to <code>vi</code> mode.</li>
-<li>loads <code>virtualenvwrapper</code> to manage <code>python</code> virtual environments.</li>
-<li>prints a <code>colorscript</code> using Distrotube&rsquo;s repo <a href="https://gitlab.com/dwt1/shell-color-scripts">here</a>.
+<li>defines general parameters for <a href="http://localhost:1313/public/doc/config/bash"><code>oh-my-bash</code></a>.
 <ul>
-<li>can be changed to <code>neofetch</code>.</li>
+<li>a scheme for the prompt, set to <code>random</code>.</li>
 </ul>
 </li>
-<li>prints a 3-month calendar.</li>
+<li>defines the <strong>completion</strong> that <code>oh-my-bash</code> should source.
+<ul>
+<li><code>git</code></li>
+<li><code>composer</code></li>
+<li><code>ssh</code></li>
+</ul>
+</li>
+<li>defines the <strong>aliases</strong> that <code>oh-my-bash</code> should source.
+<ul>
+<li><code>general</code></li>
+<li><code>chmod</code></li>
+<li><code>ls</code></li>
+<li><code>example</code> from <code>custom/aliases</code></li>
+</ul>
+</li>
+<li>defines the <strong>plugins</strong> that <code>oh-my-bash</code> should source.
+<ul>
+<li><code>git</code></li>
+<li><code>bashmarks</code></li>
+</ul>
+</li>
+<li>adds <code>~/scripts</code> and <code>~/.local/bin</code> to <code>PATH</code>.</li>
+<li>switches to <code>vi</code> mode.</li>
+<li>loads <code>virtualenvwrapper</code> to manage <code>python</code> virtual environments.</li>
+</ul>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<ul>
+<li>prints a fortunate pony&hellip;</li>
+<li>starts <code>starship</code> for a better prompt</li>
+<li>sources <code>bash-insulter</code></li>
 </ul>
 <h4 id="3-aliases">3. Aliases.<a href="#3-aliases" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h4>
 <p>I define some aliases to make my life easier, e.g.</p>
@@ -267,14 +291,9 @@
 <li><code>xcc</code> to pipe <code>stdout</code> to clipboard.</li>
 <li><code>cfg</code> to control the bare repository of my config.</li>
 <li><code>lgr</code> to list all the <code>git</code> repositories in my <code>$HOME</code>.</li>
-<li><code>tns</code>, <code>tls</code>, <code>tat</code> and <code>tkt</code> to respectively create, list, attach and kill a session in <code>tmux</code>.</li>
-<li><code>xrandr-run</code> to connect to HDMI monitors.</li>
-<li><code>ncu*</code> to connect to my favorite networks.</li>
-<li><code>jpy</code> and <code>jnb</code> to launch respectively <code>jupyter</code> and <code>jupyter-nontebook</code> when available.</li>
-<li><code>sdn</code> and <code>sdnr</code> to respectively shutdown and reboot my machine from the terminal.</li>
-<li><code>rmv</code>, <code>rmi</code>, <code>rmr</code> and <code>rmrf</code> where <code>rm*</code> runs <code>rm -*</code></li>
-<li>classic <code>ls</code> variants such as <code>ll</code> ~ <code>ls -l</code> or <code>la</code> ~ ~ls -A`.</li>
+<li>&hellip;</li>
 </ul>
+<p>See <a href="http://localhost:1313/public/doc/config/bash"><code>oh-my-bash</code></a> for more.</p>
 <h4 id="4-logout">4. Logout.<a href="#4-logout" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h4>
 <p>Default behaviour.</p>
 <h2 id="some-resources">Some resources.<a href="#some-resources" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
@@ -285,22 +304,30 @@
 <h2 id="dependencies">Dependencies.<a href="#dependencies" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <ul>
 <li>the scripts in the <a href="https://github.com/a2n-s/dotfiles/blob/main/scripts"><code>scripts</code></a> directory.</li>
-<li><code>neofetch</code>, <code>git</code> and <code>cal</code>.</li>
-<li>Distrotube&rsquo;s <code>colorscript</code> -&gt; can be found <a href="https://gitlab.com/dwt1/shell-color-scripts">here</a>.</li>
 </ul>
-<h2 id="manual-installation-process">Manual installation process.<a href="#manual-installation-process" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<!-- raw HTML omitted -->
+<ul>
+<li><code>oh-my-bash</code>, the <code>bash-insulter</code>, <code>nvim</code>, <code>virtualenvwrapper</code>, <code>git</code>, <code>ponysay</code>, <code>fortune</code> and <code>starship</code>.</li>
+</ul>
+<!-- raw HTML omitted -->
+<h2 id="manual-installation-process-deprecated">Manual installation process. <strong>DEPRECATED</strong><a href="#manual-installation-process-deprecated" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <ul>
 <li>install the dependencies above.</li>
-<li>copy <a href="https://github.com/a2n-s/dotfiles/blob/main/.bash_aliases"><code>.bash_aliases</code></a>, <a href="https://github.com/a2n-s/dotfiles/blob/main/.bash_logout"><code>.bash_logout</code></a>, <a href="https://github.com/a2n-s/dotfiles/blob/main/.bash_profile"><code>.bash_profile</code></a>, <a href="https://github.com/a2n-s/dotfiles/blob/main/.bashrc"><code>.bashrc</code></a> and <a href="https://github.com/a2n-s/dotfiles/blob/main/.profile"><code>.profile</code></a> inside your <code>~/</code> directory.</li>
+<li>copy <a href="https://github.com/a2n-s/dotfiles/blob/main/.bash_logout"><code>.bash_logout</code></a>, <a href="https://github.com/a2n-s/dotfiles/blob/main/.bash_profile"><code>.bash_profile</code></a>, <a href="https://github.com/a2n-s/dotfiles/blob/main/.bashrc"><code>.bashrc</code></a> and <a href="https://github.com/a2n-s/dotfiles/blob/main/.profile"><code>.profile</code></a> inside your <code>~/</code> directory.</li>
 </ul>
-<p>in a nutshell and to be adapted:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo pacman -Syu neofetch git cal
+<p>in a nutshell and to be adapted: <strong>DEPRECATED</strong></p>
+<!-- raw HTML omitted -->
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo pacman -Syu nvim git ponysay fortune starship
+git clone git://github.com/a2n-s/oh-my-bash.git ~/repos/oh-my-bash
+sudo wget -O /etc/bash.command-not-found https://raw.githubusercontent.com/hkbakke/bash-insulter/master/src/bash.command-not-found
+pip install virtualenvwrapper
 yay -S shell-color-scripts   <span style="color:#75715e"># or follow instructions at https://gitlab.com/dwt1/shell-color-scripts#installing-shell-color-scripts-on-other-linux-distrtibutions </span>
 git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.bash_profile ~/.bash_profile
+mv a2n-s_dotfiles/.profile ~/.profile
 mv a2n-s_dotfiles/.bashrc ~/.bashrc
-mv a2n-s_dotfiles/.bash_aliases ~/.bash_aliases
 mv a2n-s_dotfiles/.bash_logout ~/.bash_logout
+rm -rf a2n-s_dotfiles  <span style="color:#75715e"># optional</span>
 </code></pre></div>
     <p align="center">
 

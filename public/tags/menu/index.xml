@@ -14,11 +14,18 @@
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dmenu/</guid>
-      <description>Dmenu documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+      <description>Dmenu documentation. Manual installation DEPRECATED:
+git clone https://github.com/a2n-s/dmenu ~/repos/dmenu cd ~/repos/dmenu git checkout main make clean install One can change the colorscheme by editing the config.h file and changing the #include &amp;quot;colors/&amp;lt;theme&amp;gt;.h&amp;quot; line.
+One can also refer to the GitHub repo.
 -------------------------------------------------------------------- Go back to the doc or the front page.</description>
       <content>&lt;h1 id=&#34;dmenu-documentation&#34;&gt;Dmenu documentation.&lt;/h1&gt;
-&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/dmenu&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+&lt;p&gt;Manual installation &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone https://github.com/a2n-s/dmenu ~/repos/dmenu
+cd ~/repos/dmenu
+git checkout main
+make clean install
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;One can change the colorscheme by editing the &lt;code&gt;config.h&lt;/code&gt; file and changing the &lt;code&gt;#include &amp;quot;colors/&amp;lt;theme&amp;gt;.h&amp;quot;&lt;/code&gt; line.&lt;br&gt;
+One can also refer to the &lt;a href=&#34;https://github.com/a2n-s/dmenu&#34;&gt;GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
 
@@ -37,11 +44,12 @@
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dmscripts/</guid>
-      <description>dmscripts documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+      <description>dmscripts documentation. No particular installation process required.
+One can also refer to the GitHub repo.
 -------------------------------------------------------------------- Go back to the doc or the front page.</description>
       <content>&lt;h1 id=&#34;dmscripts-documentation&#34;&gt;dmscripts documentation.&lt;/h1&gt;
-&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/dmscripts&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+&lt;p&gt;No particular installation process required.&lt;br&gt;
+One can also refer to the &lt;a href=&#34;https://github.com/a2n-s/dmscripts&#34;&gt;GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
 

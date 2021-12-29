@@ -95,7 +95,7 @@ More pictures of the config &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-
 &lt;li&gt;&lt;a href=&#34;#the-config&#34;&gt;The config&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#some-resources&#34;&gt;Some resources&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#dependencies&#34;&gt;Dependencies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#manual-installation-process&#34;&gt;Manual installation process&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#manual-installation-process-deprecated&#34;&gt;Manual installation process&lt;/a&gt; &lt;strong&gt;DEPRECATED&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
     &lt;p align=&#34;center&#34;&gt;
@@ -126,18 +126,20 @@ and his &lt;a href=&#34;https://github.com/notusknot/dotfiles&#34;&gt;repo&lt;/a
 &lt;/ul&gt;
 &lt;h2 id=&#34;dependencies&#34;&gt;Dependencies.&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;feh.&lt;/li&gt;
-&lt;li&gt;bspc.&lt;/li&gt;
-&lt;li&gt;sxhkd.&lt;/li&gt;
-&lt;li&gt;alacritty.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;feh&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;bspc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;sxhkd&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;alacritty&lt;/code&gt; or &lt;code&gt;kitty&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;manual-installation-process&#34;&gt;Manual installation process.&lt;/h2&gt;
+&lt;h2 id=&#34;manual-installation-process-deprecated&#34;&gt;Manual installation process. &lt;strong&gt;DEPRECATED&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;install all the dependencies above.&lt;/li&gt;
 &lt;li&gt;move the content of &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/bspwm&#34;&gt;&lt;code&gt;bspwm&#39;s config&lt;/code&gt;&lt;/a&gt; to your &lt;code&gt;~/.config/bspwm&lt;/code&gt; directory.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;in a nutshell and to be adapted:&lt;/p&gt;
+&lt;p&gt;in a nutshell and to be adapted, &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;sudo pacman -Syu feh bspwm sxhkd alacritty
+&lt;span style=&#34;color:#75715e&#34;&gt;# or&lt;/span&gt;
+sudo pacman -Syu feh bspwm sxhkd kitty
 git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.config/bspwm/* ~/.config/bspwm
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
@@ -161,7 +163,7 @@ mv a2n-s_dotfiles/.config/bspwm/* ~/.config/bspwm
       <description>Go back to the dotfiles, the doc or the front page.
 -------------------------------------------------------------------- More pictures of the config here.
 -------------------------------------------------------------------- &amp;ldquo;spectrwm is a small, dynamic tiling and reparenting window manager for X11.&amp;rdquo;
-Table of Content.  The files The config Some resources Dependencies Manual installation process  -------------------------------------------------------------------- The Files. All files are available at ~/.config/spectrwm and ~/.config/scripts:
+Table of Content.  The files The config Some resources Dependencies Manual installation process DEPRECATED  -------------------------------------------------------------------- The Files. All files are available at ~/.config/spectrwm and ~/.config/scripts:
  spectrWM-baraction.sh togkb.sh spectrwm.conf spectrwm_us.conf spectrwm_fr.conf  The config. DEPRECATED -&amp;gt; I was about to dive into spectrwm before I discovered and fell in love with bspwm.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
@@ -188,7 +190,7 @@ Table of Content.  The files The config Some resources Dependencies Manual insta
 &lt;li&gt;&lt;a href=&#34;#the-config&#34;&gt;The config&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#some-resources&#34;&gt;Some resources&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#dependencies&#34;&gt;Dependencies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#manual-installation-process&#34;&gt;Manual installation process&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#manual-installation-process-deprecated&#34;&gt;Manual installation process&lt;/a&gt; &lt;strong&gt;DEPRECATED&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
     &lt;p align=&#34;center&#34;&gt;
@@ -231,13 +233,13 @@ and &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts&#34;&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/togkb.sh&#34;&gt;&lt;code&gt;togkb.sh&lt;/code&gt;&lt;/a&gt; to switch the keyboard layout.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;xscreensaver&lt;/code&gt; to lock and save the screen usage.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;manual-installation-process&#34;&gt;Manual installation process.&lt;/h2&gt;
+&lt;h2 id=&#34;manual-installation-process-deprecated&#34;&gt;Manual installation process. &lt;strong&gt;DEPRECATED&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;install the dependencies.&lt;/li&gt;
 &lt;li&gt;install the &lt;code&gt;spectrwm&lt;/code&gt; command.&lt;/li&gt;
 &lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/spectrwm/spectrwm.conf&#34;&gt;&lt;code&gt;spectrwm.conf&lt;/code&gt;&lt;/a&gt; and &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/spectrwm/spectrwm_us.conf&#34;&gt;&lt;code&gt;spectrwm_us.conf&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/.config/spectrwm&lt;/code&gt; directory.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;in a nutshell and to be adapted:&lt;/p&gt;
+&lt;p&gt;in a nutshell and to be adapted, &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.config/spectrwm/spectrwm.conf ~/.config/spectrwm/spectrwm.conf
 mv a2n-s_dotfiles/.config/spectrwm/spectrwm_us.conf ~/.config/spectrwm/spectrwm_us.conf

@@ -14,11 +14,68 @@
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/bash/</guid>
-      <description>oh-my-bash documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
--------------------------------------------------------------------- Go back to the doc or the front page.</description>
-      <content>&lt;h1 id=&#34;oh-my-bash-documentation&#34;&gt;oh-my-bash documentation.&lt;/h1&gt;
-&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/oh-my-bash&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+      <description>Go back to the doc or the front page.
+-------------------------------------------------------------------- oh-my-bash documentation. I mainly redefined aliases in custom/aliases:
+ misc  dfm, hdmic, hdmim, hdmib, hdmid, xcc, pkgl, bmm, seecsv, lf, diag, nv, discord   git  lgr, lg, cfg, lcfg, tcfg, tiga   tmux  tls, tns, tat, tkt   network  ncua, ncue   jupyter  jpy, jnb   shutdown  sdn, sdnr   rm  rmv, rmi, rmr, rmrf   pacman  p, pu   ls  ls, dir, vdir, grep, fgrep, egrep, ll    One can also refer to the GitHub repo or to the bash entry of the doc.</description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;h1 id=&#34;oh-my-bash-documentation&#34;&gt;oh-my-bash documentation.&lt;/h1&gt;
+&lt;p&gt;I mainly redefined aliases in &lt;a href=&#34;https://github.com/a2n-s/oh-my-bash/blob/main/custom/aliases&#34;&gt;&lt;code&gt;custom/aliases&lt;/code&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;misc
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;dfm&lt;/code&gt;, &lt;code&gt;hdmic&lt;/code&gt;, &lt;code&gt;hdmim&lt;/code&gt;, &lt;code&gt;hdmib&lt;/code&gt;, &lt;code&gt;hdmid&lt;/code&gt;, &lt;code&gt;xcc&lt;/code&gt;, &lt;code&gt;pkgl&lt;/code&gt;, &lt;code&gt;bmm&lt;/code&gt;, &lt;code&gt;seecsv&lt;/code&gt;, &lt;code&gt;lf&lt;/code&gt;, &lt;code&gt;diag&lt;/code&gt;, &lt;code&gt;nv&lt;/code&gt;, &lt;code&gt;discord&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;git
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;lgr&lt;/code&gt;, &lt;code&gt;lg&lt;/code&gt;, &lt;code&gt;cfg&lt;/code&gt;, &lt;code&gt;lcfg&lt;/code&gt;, &lt;code&gt;tcfg&lt;/code&gt;, &lt;code&gt;tiga&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;tmux
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;tls&lt;/code&gt;, &lt;code&gt;tns&lt;/code&gt;, &lt;code&gt;tat&lt;/code&gt;, &lt;code&gt;tkt&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;network
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ncua&lt;/code&gt;, &lt;code&gt;ncue&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;jupyter
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;jpy&lt;/code&gt;, &lt;code&gt;jnb&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;shutdown
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;sdn&lt;/code&gt;, &lt;code&gt;sdnr&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;rm
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;rmv&lt;/code&gt;, &lt;code&gt;rmi&lt;/code&gt;, &lt;code&gt;rmr&lt;/code&gt;, &lt;code&gt;rmrf&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;pacman
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;p&lt;/code&gt;, &lt;code&gt;pu&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ls
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ls&lt;/code&gt;, &lt;code&gt;dir&lt;/code&gt;, &lt;code&gt;vdir&lt;/code&gt;, &lt;code&gt;grep&lt;/code&gt;, &lt;code&gt;fgrep&lt;/code&gt;, &lt;code&gt;egrep&lt;/code&gt;, &lt;code&gt;ll&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One can also refer to the &lt;a href=&#34;https://github.com/a2n-s/oh-my-bash&#34;&gt;GitHub repo&lt;/a&gt; or to the &lt;a href=&#34;http://localhost:1313/public/doc/config/dotfiles/bash&#34;&gt;&lt;code&gt;bash&lt;/code&gt;&lt;/a&gt; entry of the doc.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
 
@@ -83,11 +140,16 @@
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/surf/</guid>
-      <description>Surf documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+      <description>Surf documentation. Manual installation DEPRECATED:
+git clone https://github.com/a2n-s/surf ~/repos/surf cd ~/repos/surf git checkout main make clean install One can also refer to the GitHub repo.
 -------------------------------------------------------------------- Go back to the doc or the front page.</description>
       <content>&lt;h1 id=&#34;surf-documentation&#34;&gt;Surf documentation.&lt;/h1&gt;
-&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/surf&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+&lt;p&gt;Manual installation &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone https://github.com/a2n-s/surf ~/repos/surf
+cd ~/repos/surf
+git checkout main
+make clean install
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;One can also refer to the &lt;a href=&#34;https://github.com/a2n-s/surf&#34;&gt;GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
 
@@ -106,11 +168,18 @@
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dmenu/</guid>
-      <description>Dmenu documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+      <description>Dmenu documentation. Manual installation DEPRECATED:
+git clone https://github.com/a2n-s/dmenu ~/repos/dmenu cd ~/repos/dmenu git checkout main make clean install One can change the colorscheme by editing the config.h file and changing the #include &amp;quot;colors/&amp;lt;theme&amp;gt;.h&amp;quot; line.
+One can also refer to the GitHub repo.
 -------------------------------------------------------------------- Go back to the doc or the front page.</description>
       <content>&lt;h1 id=&#34;dmenu-documentation&#34;&gt;Dmenu documentation.&lt;/h1&gt;
-&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/dmenu&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+&lt;p&gt;Manual installation &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone https://github.com/a2n-s/dmenu ~/repos/dmenu
+cd ~/repos/dmenu
+git checkout main
+make clean install
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;One can change the colorscheme by editing the &lt;code&gt;config.h&lt;/code&gt; file and changing the &lt;code&gt;#include &amp;quot;colors/&amp;lt;theme&amp;gt;.h&amp;quot;&lt;/code&gt; line.&lt;br&gt;
+One can also refer to the &lt;a href=&#34;https://github.com/a2n-s/dmenu&#34;&gt;GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
 

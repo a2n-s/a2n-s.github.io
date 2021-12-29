@@ -14,11 +14,13 @@
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/neovim/</guid>
-      <description>Neovim documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+      <description>Neovim documentation. Manual installation DEPRECATED:
+git clone https://github.com/a2n-s/neovim ~/.config/nvim Please refer to the GitHub repo instead.
 -------------------------------------------------------------------- Go back to the doc or the front page.</description>
       <content>&lt;h1 id=&#34;neovim-documentation&#34;&gt;Neovim documentation.&lt;/h1&gt;
-&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/neovim&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+&lt;p&gt;Manual installation &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone https://github.com/a2n-s/neovim ~/.config/nvim
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/neovim&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
 

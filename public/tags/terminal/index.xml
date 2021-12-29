@@ -14,11 +14,17 @@
       <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/kitty/</guid>
-      <description>kitty documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+      <description>kitty documentation. Manual installation DEPRECATED:
+git clone https://github.com/a2n-s/kitty ~/repos/kitty cd ~/repos/kitty git checkout main make ln -s ./kitty/launcher/kitty /usr/bin/kitty One can also refer to the GitHub repo.
 -------------------------------------------------------------------- Go back to the doc or the front page.</description>
       <content>&lt;h1 id=&#34;kitty-documentation&#34;&gt;kitty documentation.&lt;/h1&gt;
-&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/kitty&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+&lt;p&gt;Manual installation &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone https://github.com/a2n-s/kitty ~/repos/kitty
+cd ~/repos/kitty
+git checkout main
+make
+ln -s ./kitty/launcher/kitty /usr/bin/kitty
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;One can also refer to the &lt;a href=&#34;https://github.com/a2n-s/kitty&#34;&gt;GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
 
@@ -388,7 +394,7 @@ More pictures of the config &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-
 &lt;p&gt;All files are available at &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch&#34;&gt;~/.config/neofetch&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/config.conf&#34;&gt;&lt;code&gt;config.conf&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/.neofetchrc&#34;&gt;&lt;code&gt;neofetchrc&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/neofetchrc&#34;&gt;&lt;code&gt;neofetchrc&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/ascii&#34;&gt;&lt;code&gt;ascii&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;the-config&#34;&gt;The config.&lt;/h2&gt;
@@ -403,15 +409,16 @@ I wrote the &lt;code&gt;neofetchrc&lt;/code&gt; script that launches different a
 &lt;h2 id=&#34;dependencies&#34;&gt;Dependencies.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;some art works in &lt;code&gt;~/.config/neofetch/ascii&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;the &lt;code&gt;pr&lt;/code&gt; command to vertically concatenate the images and the &lt;code&gt;neofetch&lt;/code&gt; infos.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;manual-installation-process&#34;&gt;Manual installation process.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;install the dependencies.&lt;/li&gt;
 &lt;li&gt;install the &lt;code&gt;neofetch&lt;/code&gt; command.&lt;/li&gt;
-&lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/config.conf&#34;&gt;&lt;code&gt;config.conf&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/.neofetchrc&#34;&gt;&lt;code&gt;neofetchrc&lt;/code&gt;&lt;/a&gt; and the files in &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/ascii&#34;&gt;&lt;code&gt;ascii&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/.config/neofetch&lt;/code&gt; directory.&lt;/li&gt;
+&lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/config.conf&#34;&gt;&lt;code&gt;config.conf&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/neofetchrc&#34;&gt;&lt;code&gt;neofetchrc&lt;/code&gt;&lt;/a&gt; and the files in &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/ascii&#34;&gt;&lt;code&gt;ascii&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/.config/neofetch&lt;/code&gt; directory.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;in a nutshell and to be adapted:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;sudo pacman -Syu neofetch
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;sudo pacman -Syu neofetch pr
 git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.config/neofetch/config.conf ~/.config/neofetch/config.conf
 mv a2n-s_dotfiles/.config/neofetch/neofetchrc ~/.config/neofetch/neofetchrc

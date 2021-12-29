@@ -7,18 +7,48 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>https://github.com/a2n-s/a2n-s.github.io</copyright>
-    <lastBuildDate>Sat, 25 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/doc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/tags/doc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lfrun.sh</title>
+      <link>https://a2n-s.github.io/public/doc/config/scripts/lfrun.sh/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/doc/config/scripts/lfrun.sh/</guid>
+      <description>Go back to the scripts, the doc or the front page.
+-------------------------------------------------------------------- File is here with following header:
+Description: wrapper around lf to support advanced file preview with ueberzug. creates cache files to make previews faster once computed one time. Dependencies: ueberzug License: https://github.com/a2n-s/dotfiles/blob/main/LICENSE Contributors: Stevan Antoine gokcehan -&amp;gt; https://github.com/gokcehan/lf/wiki/Previews </description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/lfrun.sh&#34;&gt;here&lt;/a&gt; with following header:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Description:  wrapper around lf to support advanced file preview with ueberzug.
+              creates cache files to make previews faster once computed one time.
+Dependencies: ueberzug
+License:      https://github.com/a2n-s/dotfiles/blob/main/LICENSE 
+Contributors: Stevan Antoine
+              gokcehan -&amp;gt; https://github.com/gokcehan/lf/wiki/Previews 
+&lt;/code&gt;&lt;/pre&gt;</content>
+    </item>
+    
     <item>
       <title>neovim</title>
       <link>https://a2n-s.github.io/public/doc/config/neovim/</link>
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/neovim/</guid>
-      <description>Neovim documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+      <description>Neovim documentation. Manual installation DEPRECATED:
+git clone https://github.com/a2n-s/neovim ~/.config/nvim Please refer to the GitHub repo instead.
 -------------------------------------------------------------------- Go back to the doc or the front page.</description>
       <content>&lt;h1 id=&#34;neovim-documentation&#34;&gt;Neovim documentation.&lt;/h1&gt;
-&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/neovim&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+&lt;p&gt;Manual installation &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone https://github.com/a2n-s/neovim ~/.config/nvim
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/neovim&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
 
@@ -63,11 +93,17 @@ Contributors: Stevan Antoine
       <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/kitty/</guid>
-      <description>kitty documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+      <description>kitty documentation. Manual installation DEPRECATED:
+git clone https://github.com/a2n-s/kitty ~/repos/kitty cd ~/repos/kitty git checkout main make ln -s ./kitty/launcher/kitty /usr/bin/kitty One can also refer to the GitHub repo.
 -------------------------------------------------------------------- Go back to the doc or the front page.</description>
       <content>&lt;h1 id=&#34;kitty-documentation&#34;&gt;kitty documentation.&lt;/h1&gt;
-&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/kitty&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+&lt;p&gt;Manual installation &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone https://github.com/a2n-s/kitty ~/repos/kitty
+cd ~/repos/kitty
+git checkout main
+make
+ln -s ./kitty/launcher/kitty /usr/bin/kitty
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;One can also refer to the &lt;a href=&#34;https://github.com/a2n-s/kitty&#34;&gt;GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
 
@@ -86,11 +122,16 @@ Contributors: Stevan Antoine
       <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/slock/</guid>
-      <description>slock documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+      <description>slock documentation. Manual installation DEPRECATED:
+git clone https://github.com/a2n-s/slock ~/repos/slock cd ~/repos/slock git checkout main make clean install One can also refer to the GitHub repo.
 -------------------------------------------------------------------- Go back to the doc or the front page.</description>
       <content>&lt;h1 id=&#34;slock-documentation&#34;&gt;slock documentation.&lt;/h1&gt;
-&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/slock&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+&lt;p&gt;Manual installation &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone https://github.com/a2n-s/slock ~/repos/slock
+cd ~/repos/slock
+git checkout main
+make clean install
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;One can also refer to the &lt;a href=&#34;https://github.com/a2n-s/slock&#34;&gt;GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
 
@@ -135,11 +176,16 @@ Contributors: Stevan Antoine
       <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/tabbed/</guid>
-      <description>tabbed documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+      <description>tabbed documentation. Manual installation DEPRECATED:
+git clone https://github.com/a2n-s/tabbed ~/repos/tabbed cd ~/repos/tabbed git checkout main make clean install One can also refer to the GitHub repo.
 -------------------------------------------------------------------- Go back to the doc or the front page.</description>
       <content>&lt;h1 id=&#34;tabbed-documentation&#34;&gt;tabbed documentation.&lt;/h1&gt;
-&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/tabbed&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+&lt;p&gt;Manual installation &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone https://github.com/a2n-s/tabbed ~/repos/tabbed
+cd ~/repos/tabbed
+git checkout main
+make clean install
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;One can also refer to the &lt;a href=&#34;https://github.com/a2n-s/tabbed&#34;&gt;GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
 
@@ -158,11 +204,68 @@ Contributors: Stevan Antoine
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/bash/</guid>
-      <description>oh-my-bash documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
--------------------------------------------------------------------- Go back to the doc or the front page.</description>
-      <content>&lt;h1 id=&#34;oh-my-bash-documentation&#34;&gt;oh-my-bash documentation.&lt;/h1&gt;
-&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/oh-my-bash&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+      <description>Go back to the doc or the front page.
+-------------------------------------------------------------------- oh-my-bash documentation. I mainly redefined aliases in custom/aliases:
+ misc  dfm, hdmic, hdmim, hdmib, hdmid, xcc, pkgl, bmm, seecsv, lf, diag, nv, discord   git  lgr, lg, cfg, lcfg, tcfg, tiga   tmux  tls, tns, tat, tkt   network  ncua, ncue   jupyter  jpy, jnb   shutdown  sdn, sdnr   rm  rmv, rmi, rmr, rmrf   pacman  p, pu   ls  ls, dir, vdir, grep, fgrep, egrep, ll    One can also refer to the GitHub repo or to the bash entry of the doc.</description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;h1 id=&#34;oh-my-bash-documentation&#34;&gt;oh-my-bash documentation.&lt;/h1&gt;
+&lt;p&gt;I mainly redefined aliases in &lt;a href=&#34;https://github.com/a2n-s/oh-my-bash/blob/main/custom/aliases&#34;&gt;&lt;code&gt;custom/aliases&lt;/code&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;misc
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;dfm&lt;/code&gt;, &lt;code&gt;hdmic&lt;/code&gt;, &lt;code&gt;hdmim&lt;/code&gt;, &lt;code&gt;hdmib&lt;/code&gt;, &lt;code&gt;hdmid&lt;/code&gt;, &lt;code&gt;xcc&lt;/code&gt;, &lt;code&gt;pkgl&lt;/code&gt;, &lt;code&gt;bmm&lt;/code&gt;, &lt;code&gt;seecsv&lt;/code&gt;, &lt;code&gt;lf&lt;/code&gt;, &lt;code&gt;diag&lt;/code&gt;, &lt;code&gt;nv&lt;/code&gt;, &lt;code&gt;discord&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;git
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;lgr&lt;/code&gt;, &lt;code&gt;lg&lt;/code&gt;, &lt;code&gt;cfg&lt;/code&gt;, &lt;code&gt;lcfg&lt;/code&gt;, &lt;code&gt;tcfg&lt;/code&gt;, &lt;code&gt;tiga&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;tmux
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;tls&lt;/code&gt;, &lt;code&gt;tns&lt;/code&gt;, &lt;code&gt;tat&lt;/code&gt;, &lt;code&gt;tkt&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;network
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ncua&lt;/code&gt;, &lt;code&gt;ncue&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;jupyter
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;jpy&lt;/code&gt;, &lt;code&gt;jnb&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;shutdown
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;sdn&lt;/code&gt;, &lt;code&gt;sdnr&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;rm
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;rmv&lt;/code&gt;, &lt;code&gt;rmi&lt;/code&gt;, &lt;code&gt;rmr&lt;/code&gt;, &lt;code&gt;rmrf&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;pacman
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;p&lt;/code&gt;, &lt;code&gt;pu&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ls
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ls&lt;/code&gt;, &lt;code&gt;dir&lt;/code&gt;, &lt;code&gt;vdir&lt;/code&gt;, &lt;code&gt;grep&lt;/code&gt;, &lt;code&gt;fgrep&lt;/code&gt;, &lt;code&gt;egrep&lt;/code&gt;, &lt;code&gt;ll&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One can also refer to the &lt;a href=&#34;https://github.com/a2n-s/oh-my-bash&#34;&gt;GitHub repo&lt;/a&gt; or to the &lt;a href=&#34;http://localhost:1313/public/doc/config/dotfiles/bash&#34;&gt;&lt;code&gt;bash&lt;/code&gt;&lt;/a&gt; entry of the doc.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
 
@@ -450,11 +553,16 @@ mv a2n-s_dotfiles/.config/starship.toml ~/.config/starship.toml
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/surf/</guid>
-      <description>Surf documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+      <description>Surf documentation. Manual installation DEPRECATED:
+git clone https://github.com/a2n-s/surf ~/repos/surf cd ~/repos/surf git checkout main make clean install One can also refer to the GitHub repo.
 -------------------------------------------------------------------- Go back to the doc or the front page.</description>
       <content>&lt;h1 id=&#34;surf-documentation&#34;&gt;Surf documentation.&lt;/h1&gt;
-&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/surf&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+&lt;p&gt;Manual installation &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone https://github.com/a2n-s/surf ~/repos/surf
+cd ~/repos/surf
+git checkout main
+make clean install
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;One can also refer to the &lt;a href=&#34;https://github.com/a2n-s/surf&#34;&gt;GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
 
@@ -671,8 +779,8 @@ mv a2n-s_dotfiles/.config/alacritty/alacritty.yml ~/.config/alacritty/alacritty.
       <description>Go back to the dotfiles, the doc or the front page.
 -------------------------------------------------------------------- More pictures of the config here.
 -------------------------------------------------------------------- &amp;ldquo;Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.&amp;rdquo;
-Table of Content.  The files The config Some resources Dependencies Manual Installation process  -------------------------------------------------------------------- The Files. All files are available at ~/:
- .bash_aliases .</description>
+Table of Content.  The files The config Some resources Dependencies Manual Installation process DEPRECATED  -------------------------------------------------------------------- The Files. All files are available at ~/:
+ .</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
@@ -702,7 +810,7 @@ Table of Content.  The files The config Some resources Dependencies Manual Insta
 &lt;li&gt;&lt;a href=&#34;#the-config&#34;&gt;The config&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#some-resources&#34;&gt;Some resources&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#dependencies&#34;&gt;Dependencies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#manual-installation-process&#34;&gt;Manual Installation process&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#manual-installation-process-deprecated&#34;&gt;Manual Installation process&lt;/a&gt; &lt;strong&gt;DEPRECATED&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
     &lt;p align=&#34;center&#34;&gt;
@@ -715,31 +823,55 @@ Table of Content.  The files The config Some resources Dependencies Manual Insta
 &lt;h2 id=&#34;the-files&#34;&gt;The Files.&lt;/h2&gt;
 &lt;p&gt;All files are available at &lt;a href=&#34;https://github.com/a2n-s/dotfiles&#34;&gt;~/&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bash_aliases&#34;&gt;&lt;code&gt;.bash_aliases&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bash_logout&#34;&gt;&lt;code&gt;.bash_logout&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bash_profile&#34;&gt;&lt;code&gt;.bash_profile&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bashrc&#34;&gt;&lt;code&gt;.bashrc&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.profile&#34;&gt;&lt;code&gt;.profile&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;the-config&#34;&gt;The Config.&lt;/h2&gt;
+&lt;p&gt;My &lt;code&gt;bash&lt;/code&gt; config makes an extensive use of the &lt;a href=&#34;http://localhost:1313/public/doc/config/bash&#34;&gt;&lt;code&gt;oh-my-bash&lt;/code&gt;&lt;/a&gt; framework.&lt;/p&gt;
 &lt;h4 id=&#34;1-profile&#34;&gt;1. Profile.&lt;/h4&gt;
 &lt;p&gt;Launches &lt;code&gt;mpd&lt;/code&gt; for music, starts &lt;code&gt;x&lt;/code&gt; when on &lt;code&gt;tty1&lt;/code&gt; or sources &lt;code&gt;.bashrc&lt;/code&gt; otherwise.&lt;/p&gt;
 &lt;h4 id=&#34;2-bashrc&#34;&gt;2. bashrc.&lt;/h4&gt;
 &lt;p&gt;Does the following in sequence:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;loads the aliases below.&lt;/li&gt;
-&lt;li&gt;tries to load some completion.&lt;/li&gt;
-&lt;li&gt;adds &lt;code&gt;~/scripts&lt;/code&gt; and &lt;code&gt;~/.local/bin&lt;/code&gt; to &lt;code&gt;PATH&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;changes the prompt to use &lt;code&gt;_shortwd&lt;/code&gt; and &lt;code&gt;_parse_git_info&lt;/code&gt; (see &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/&#34;&gt;the scripts&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;disables my broken caps lock key.&lt;/li&gt;
-&lt;li&gt;switches to &lt;code&gt;vi&lt;/code&gt; mode.&lt;/li&gt;
-&lt;li&gt;loads &lt;code&gt;virtualenvwrapper&lt;/code&gt; to manage &lt;code&gt;python&lt;/code&gt; virtual environments.&lt;/li&gt;
-&lt;li&gt;prints a &lt;code&gt;colorscript&lt;/code&gt; using Distrotube&amp;rsquo;s repo &lt;a href=&#34;https://gitlab.com/dwt1/shell-color-scripts&#34;&gt;here&lt;/a&gt;.
+&lt;li&gt;defines general parameters for &lt;a href=&#34;http://localhost:1313/public/doc/config/bash&#34;&gt;&lt;code&gt;oh-my-bash&lt;/code&gt;&lt;/a&gt;.
 &lt;ul&gt;
-&lt;li&gt;can be changed to &lt;code&gt;neofetch&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;a scheme for the prompt, set to &lt;code&gt;random&lt;/code&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;prints a 3-month calendar.&lt;/li&gt;
+&lt;li&gt;defines the &lt;strong&gt;completion&lt;/strong&gt; that &lt;code&gt;oh-my-bash&lt;/code&gt; should source.
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;git&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;composer&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ssh&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;defines the &lt;strong&gt;aliases&lt;/strong&gt; that &lt;code&gt;oh-my-bash&lt;/code&gt; should source.
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;general&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;chmod&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ls&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;example&lt;/code&gt; from &lt;code&gt;custom/aliases&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;defines the &lt;strong&gt;plugins&lt;/strong&gt; that &lt;code&gt;oh-my-bash&lt;/code&gt; should source.
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;git&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;bashmarks&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;adds &lt;code&gt;~/scripts&lt;/code&gt; and &lt;code&gt;~/.local/bin&lt;/code&gt; to &lt;code&gt;PATH&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;switches to &lt;code&gt;vi&lt;/code&gt; mode.&lt;/li&gt;
+&lt;li&gt;loads &lt;code&gt;virtualenvwrapper&lt;/code&gt; to manage &lt;code&gt;python&lt;/code&gt; virtual environments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;prints a fortunate pony&amp;hellip;&lt;/li&gt;
+&lt;li&gt;starts &lt;code&gt;starship&lt;/code&gt; for a better prompt&lt;/li&gt;
+&lt;li&gt;sources &lt;code&gt;bash-insulter&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;3-aliases&#34;&gt;3. Aliases.&lt;/h4&gt;
 &lt;p&gt;I define some aliases to make my life easier, e.g.&lt;/p&gt;
@@ -747,14 +879,9 @@ Table of Content.  The files The config Some resources Dependencies Manual Insta
 &lt;li&gt;&lt;code&gt;xcc&lt;/code&gt; to pipe &lt;code&gt;stdout&lt;/code&gt; to clipboard.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;cfg&lt;/code&gt; to control the bare repository of my config.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;lgr&lt;/code&gt; to list all the &lt;code&gt;git&lt;/code&gt; repositories in my &lt;code&gt;$HOME&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;tns&lt;/code&gt;, &lt;code&gt;tls&lt;/code&gt;, &lt;code&gt;tat&lt;/code&gt; and &lt;code&gt;tkt&lt;/code&gt; to respectively create, list, attach and kill a session in &lt;code&gt;tmux&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;xrandr-run&lt;/code&gt; to connect to HDMI monitors.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;ncu*&lt;/code&gt; to connect to my favorite networks.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;jpy&lt;/code&gt; and &lt;code&gt;jnb&lt;/code&gt; to launch respectively &lt;code&gt;jupyter&lt;/code&gt; and &lt;code&gt;jupyter-nontebook&lt;/code&gt; when available.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;sdn&lt;/code&gt; and &lt;code&gt;sdnr&lt;/code&gt; to respectively shutdown and reboot my machine from the terminal.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;rmv&lt;/code&gt;, &lt;code&gt;rmi&lt;/code&gt;, &lt;code&gt;rmr&lt;/code&gt; and &lt;code&gt;rmrf&lt;/code&gt; where &lt;code&gt;rm*&lt;/code&gt; runs &lt;code&gt;rm -*&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;classic &lt;code&gt;ls&lt;/code&gt; variants such as &lt;code&gt;ll&lt;/code&gt; ~ &lt;code&gt;ls -l&lt;/code&gt; or &lt;code&gt;la&lt;/code&gt; ~ ~ls -A`.&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;See &lt;a href=&#34;http://localhost:1313/public/doc/config/bash&#34;&gt;&lt;code&gt;oh-my-bash&lt;/code&gt;&lt;/a&gt; for more.&lt;/p&gt;
 &lt;h4 id=&#34;4-logout&#34;&gt;4. Logout.&lt;/h4&gt;
 &lt;p&gt;Default behaviour.&lt;/p&gt;
 &lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
@@ -765,22 +892,30 @@ Table of Content.  The files The config Some resources Dependencies Manual Insta
 &lt;h2 id=&#34;dependencies&#34;&gt;Dependencies.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;the scripts in the &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts&#34;&gt;&lt;code&gt;scripts&lt;/code&gt;&lt;/a&gt; directory.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;neofetch&lt;/code&gt;, &lt;code&gt;git&lt;/code&gt; and &lt;code&gt;cal&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Distrotube&amp;rsquo;s &lt;code&gt;colorscript&lt;/code&gt; -&amp;gt; can be found &lt;a href=&#34;https://gitlab.com/dwt1/shell-color-scripts&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;manual-installation-process&#34;&gt;Manual installation process.&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;oh-my-bash&lt;/code&gt;, the &lt;code&gt;bash-insulter&lt;/code&gt;, &lt;code&gt;nvim&lt;/code&gt;, &lt;code&gt;virtualenvwrapper&lt;/code&gt;, &lt;code&gt;git&lt;/code&gt;, &lt;code&gt;ponysay&lt;/code&gt;, &lt;code&gt;fortune&lt;/code&gt; and &lt;code&gt;starship&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;manual-installation-process-deprecated&#34;&gt;Manual installation process. &lt;strong&gt;DEPRECATED&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;install the dependencies above.&lt;/li&gt;
-&lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bash_aliases&#34;&gt;&lt;code&gt;.bash_aliases&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bash_logout&#34;&gt;&lt;code&gt;.bash_logout&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bash_profile&#34;&gt;&lt;code&gt;.bash_profile&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bashrc&#34;&gt;&lt;code&gt;.bashrc&lt;/code&gt;&lt;/a&gt; and &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.profile&#34;&gt;&lt;code&gt;.profile&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/&lt;/code&gt; directory.&lt;/li&gt;
+&lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bash_logout&#34;&gt;&lt;code&gt;.bash_logout&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bash_profile&#34;&gt;&lt;code&gt;.bash_profile&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.bashrc&#34;&gt;&lt;code&gt;.bashrc&lt;/code&gt;&lt;/a&gt; and &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.profile&#34;&gt;&lt;code&gt;.profile&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/&lt;/code&gt; directory.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;in a nutshell and to be adapted:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;sudo pacman -Syu neofetch git cal
+&lt;p&gt;in a nutshell and to be adapted: &lt;strong&gt;DEPRECATED&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;sudo pacman -Syu nvim git ponysay fortune starship
+git clone git://github.com/a2n-s/oh-my-bash.git ~/repos/oh-my-bash
+sudo wget -O /etc/bash.command-not-found https://raw.githubusercontent.com/hkbakke/bash-insulter/master/src/bash.command-not-found
+pip install virtualenvwrapper
 yay -S shell-color-scripts   &lt;span style=&#34;color:#75715e&#34;&gt;# or follow instructions at https://gitlab.com/dwt1/shell-color-scripts#installing-shell-color-scripts-on-other-linux-distrtibutions &lt;/span&gt;
 git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.bash_profile ~/.bash_profile
+mv a2n-s_dotfiles/.profile ~/.profile
 mv a2n-s_dotfiles/.bashrc ~/.bashrc
-mv a2n-s_dotfiles/.bash_aliases ~/.bash_aliases
 mv a2n-s_dotfiles/.bash_logout ~/.bash_logout
+rm -rf a2n-s_dotfiles  &lt;span style=&#34;color:#75715e&#34;&gt;# optional&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
     &lt;p align=&#34;center&#34;&gt;
 
@@ -880,7 +1015,7 @@ More pictures of the config &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-
 &lt;li&gt;&lt;a href=&#34;#the-config&#34;&gt;The config&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#some-resources&#34;&gt;Some resources&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#dependencies&#34;&gt;Dependencies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#manual-installation-process&#34;&gt;Manual installation process&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#manual-installation-process-deprecated&#34;&gt;Manual installation process&lt;/a&gt; &lt;strong&gt;DEPRECATED&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
     &lt;p align=&#34;center&#34;&gt;
@@ -911,18 +1046,20 @@ and his &lt;a href=&#34;https://github.com/notusknot/dotfiles&#34;&gt;repo&lt;/a
 &lt;/ul&gt;
 &lt;h2 id=&#34;dependencies&#34;&gt;Dependencies.&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;feh.&lt;/li&gt;
-&lt;li&gt;bspc.&lt;/li&gt;
-&lt;li&gt;sxhkd.&lt;/li&gt;
-&lt;li&gt;alacritty.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;feh&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;bspc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;sxhkd&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;alacritty&lt;/code&gt; or &lt;code&gt;kitty&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;manual-installation-process&#34;&gt;Manual installation process.&lt;/h2&gt;
+&lt;h2 id=&#34;manual-installation-process-deprecated&#34;&gt;Manual installation process. &lt;strong&gt;DEPRECATED&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;install all the dependencies above.&lt;/li&gt;
 &lt;li&gt;move the content of &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/bspwm&#34;&gt;&lt;code&gt;bspwm&#39;s config&lt;/code&gt;&lt;/a&gt; to your &lt;code&gt;~/.config/bspwm&lt;/code&gt; directory.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;in a nutshell and to be adapted:&lt;/p&gt;
+&lt;p&gt;in a nutshell and to be adapted, &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;sudo pacman -Syu feh bspwm sxhkd alacritty
+&lt;span style=&#34;color:#75715e&#34;&gt;# or&lt;/span&gt;
+sudo pacman -Syu feh bspwm sxhkd kitty
 git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.config/bspwm/* ~/.config/bspwm
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
@@ -945,24 +1082,24 @@ mv a2n-s_dotfiles/.config/bspwm/* ~/.config/bspwm
       <guid>https://a2n-s.github.io/public/doc/config/</guid>
       <description>This page allows the user to redirect to the different docs of my config, as the latter is composed of many different blocks.
 One can find information below:
- the dotfiles for my Arch setup. the scripts I use to make my life easier. my wallpapers. my polybar. my dmenu rice. all the dmscripts I use. my surf rice. my oh-my-bash fork. my oh-my-fish fork. my oh-my-zsh fork. my kitty fork.</description>
+ the dotfiles for my Arch setup. the scripts I use to make my life easier. my wallpapers. my oh-my-bash fork. my oh-my-fish fork. my oh-my-zsh fork. my polybar. my dmenu rice. all the dmscripts I use. my surf rice. my kitty fork.</description>
       <content>&lt;p&gt;This page allows the user to redirect to the different docs of my config, as the latter is composed of many different blocks.&lt;br&gt;
 One can find information below:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt; for my Arch setup.&lt;/li&gt;
-&lt;li&gt;the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt; I use to make my life easier.&lt;/li&gt;
-&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/wallpapers&#34;&gt;wallpapers&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/polybar&#34;&gt;polybar&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dmenu&#34;&gt;dmenu rice&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;all the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dmscripts&#34;&gt;dmscripts&lt;/a&gt; I use.&lt;/li&gt;
-&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/surf&#34;&gt;surf rice&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/bash&#34;&gt;oh-my-bash fork&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/fish&#34;&gt;oh-my-fish fork&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/zsh&#34;&gt;oh-my-zsh fork&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/kitty&#34;&gt;kitty fork&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/tabbed&#34;&gt;tabbed rice&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/slock&#34;&gt;slock rice&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/neovim&#34;&gt;neovim config&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt; for my Arch setup.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt; I use to make my life easier.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/wallpapers&#34;&gt;wallpapers&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/bash&#34;&gt;oh-my-bash fork&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/fish&#34;&gt;oh-my-fish fork&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/zsh&#34;&gt;oh-my-zsh fork&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/polybar&#34;&gt;polybar&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dmenu&#34;&gt;dmenu rice&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; all the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dmscripts&#34;&gt;dmscripts&lt;/a&gt; I use.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/surf&#34;&gt;surf rice&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/kitty&#34;&gt;kitty fork&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/tabbed&#34;&gt;tabbed rice&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/slock&#34;&gt;slock rice&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; my &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/neovim&#34;&gt;neovim config&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
     &lt;p align=&#34;center&#34;&gt;
@@ -982,11 +1119,18 @@ One can find information below:&lt;/p&gt;
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dmenu/</guid>
-      <description>Dmenu documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+      <description>Dmenu documentation. Manual installation DEPRECATED:
+git clone https://github.com/a2n-s/dmenu ~/repos/dmenu cd ~/repos/dmenu git checkout main make clean install One can change the colorscheme by editing the config.h file and changing the #include &amp;quot;colors/&amp;lt;theme&amp;gt;.h&amp;quot; line.
+One can also refer to the GitHub repo.
 -------------------------------------------------------------------- Go back to the doc or the front page.</description>
       <content>&lt;h1 id=&#34;dmenu-documentation&#34;&gt;Dmenu documentation.&lt;/h1&gt;
-&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/dmenu&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+&lt;p&gt;Manual installation &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone https://github.com/a2n-s/dmenu ~/repos/dmenu
+cd ~/repos/dmenu
+git checkout main
+make clean install
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;One can change the colorscheme by editing the &lt;code&gt;config.h&lt;/code&gt; file and changing the &lt;code&gt;#include &amp;quot;colors/&amp;lt;theme&amp;gt;.h&amp;quot;&lt;/code&gt; line.&lt;br&gt;
+One can also refer to the &lt;a href=&#34;https://github.com/a2n-s/dmenu&#34;&gt;GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
 
@@ -1005,11 +1149,12 @@ One can find information below:&lt;/p&gt;
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/dmscripts/</guid>
-      <description>dmscripts documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+      <description>dmscripts documentation. No particular installation process required.
+One can also refer to the GitHub repo.
 -------------------------------------------------------------------- Go back to the doc or the front page.</description>
       <content>&lt;h1 id=&#34;dmscripts-documentation&#34;&gt;dmscripts documentation.&lt;/h1&gt;
-&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/dmscripts&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+&lt;p&gt;No particular installation process required.&lt;br&gt;
+One can also refer to the &lt;a href=&#34;https://github.com/a2n-s/dmscripts&#34;&gt;GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
 
@@ -1056,7 +1201,7 @@ One can find information below:&lt;/p&gt;
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/</guid>
       <description>Go back to the doc or the front page.
 -------------------------------------------------------------------- The programs I run on my machine can be split into a few parts:
- the basic video drivers:  xorg   the window management:  bspwm nitrogen sxhkd spectrwm   programs that interacts with the system:  polybar slock vifm xscreensaver   the programs for the terminal:  alacritty bash fish zsh kitty neofetch starship tmux   miscellaneous:  git htop surf tabbed vim    or in the list below.</description>
+ the basic video drivers:  xorg   the window management:  bspwm nitrogen sxhkd spectrwm   programs that interacts with the system:  polybar slock vifm xscreensaver   the programs for the terminal:  alacritty bash fish zsh kitty neofetch starship tmux   miscellaneous:  git htop surf tabbed vim neovim    or in the list below.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
@@ -1070,44 +1215,45 @@ One can find information below:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;the basic video drivers:
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/x&#34;&gt;xorg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/x&#34;&gt;xorg&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;the window management:
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/bspwm&#34;&gt;bspwm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/nitrogen&#34;&gt;nitrogen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/sxhkd&#34;&gt;sxhkd&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/spectrwm&#34;&gt;spectrwm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/bspwm&#34;&gt;bspwm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/nitrogen&#34;&gt;nitrogen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/sxhkd&#34;&gt;sxhkd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/spectrwm&#34;&gt;spectrwm&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;programs that interacts with the system:
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/polybar&#34;&gt;polybar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/slock&#34;&gt;slock&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/vifm&#34;&gt;vifm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/xscreensaver&#34;&gt;xscreensaver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/polybar&#34;&gt;polybar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/slock&#34;&gt;slock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/vifm&#34;&gt;vifm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/xscreensaver&#34;&gt;xscreensaver&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;the programs for the terminal:
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/alacritty&#34;&gt;alacritty&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/bash&#34;&gt;bash&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/fish&#34;&gt;fish&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/zsh&#34;&gt;zsh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/kitty&#34;&gt;kitty&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/neofetch&#34;&gt;neofetch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/starship&#34;&gt;starship&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/tmux&#34;&gt;tmux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/alacritty&#34;&gt;alacritty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/bash&#34;&gt;bash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/fish&#34;&gt;fish&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/zsh&#34;&gt;zsh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/kitty&#34;&gt;kitty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/neofetch&#34;&gt;neofetch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/starship&#34;&gt;starship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/tmux&#34;&gt;tmux&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;miscellaneous:
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/git&#34;&gt;git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/htop&#34;&gt;htop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/surf&#34;&gt;surf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/tabbed&#34;&gt;tabbed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/vim&#34;&gt;vim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/git&#34;&gt;git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/htop&#34;&gt;htop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/surf&#34;&gt;surf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/tabbed&#34;&gt;tabbed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles/vim&#34;&gt;vim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/neovim&#34;&gt;neovim&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -1774,7 +1920,7 @@ More pictures of the config &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-
 &lt;p&gt;All files are available at &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch&#34;&gt;~/.config/neofetch&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/config.conf&#34;&gt;&lt;code&gt;config.conf&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/.neofetchrc&#34;&gt;&lt;code&gt;neofetchrc&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/neofetchrc&#34;&gt;&lt;code&gt;neofetchrc&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/ascii&#34;&gt;&lt;code&gt;ascii&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;the-config&#34;&gt;The config.&lt;/h2&gt;
@@ -1789,15 +1935,16 @@ I wrote the &lt;code&gt;neofetchrc&lt;/code&gt; script that launches different a
 &lt;h2 id=&#34;dependencies&#34;&gt;Dependencies.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;some art works in &lt;code&gt;~/.config/neofetch/ascii&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;the &lt;code&gt;pr&lt;/code&gt; command to vertically concatenate the images and the &lt;code&gt;neofetch&lt;/code&gt; infos.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;manual-installation-process&#34;&gt;Manual installation process.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;install the dependencies.&lt;/li&gt;
 &lt;li&gt;install the &lt;code&gt;neofetch&lt;/code&gt; command.&lt;/li&gt;
-&lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/config.conf&#34;&gt;&lt;code&gt;config.conf&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/.neofetchrc&#34;&gt;&lt;code&gt;neofetchrc&lt;/code&gt;&lt;/a&gt; and the files in &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/ascii&#34;&gt;&lt;code&gt;ascii&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/.config/neofetch&lt;/code&gt; directory.&lt;/li&gt;
+&lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/config.conf&#34;&gt;&lt;code&gt;config.conf&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/neofetchrc&#34;&gt;&lt;code&gt;neofetchrc&lt;/code&gt;&lt;/a&gt; and the files in &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/ascii&#34;&gt;&lt;code&gt;ascii&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/.config/neofetch&lt;/code&gt; directory.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;in a nutshell and to be adapted:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;sudo pacman -Syu neofetch
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;sudo pacman -Syu neofetch pr
 git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.config/neofetch/config.conf ~/.config/neofetch/config.conf
 mv a2n-s_dotfiles/.config/neofetch/neofetchrc ~/.config/neofetch/neofetchrc
@@ -1822,7 +1969,7 @@ mv a2n-s_dotfiles/.config/neofetch/ascii/* ~/.config/neofetch/ascii
       <guid>https://a2n-s.github.io/public/doc/config/dotfiles/nitrogen/</guid>
       <description>Go back to the dotfiles, the doc or the front page.
 -------------------------------------------------------------------- a wallpaper manager.
-Table of Content.  The files The config Some resources Dependencies Manual installation process  -------------------------------------------------------------------- The Files. All files are available at ~/.config/nitrogen:
+Table of Content.  The files The config Some resources Dependencies Manual installation process DEPRECATED  -------------------------------------------------------------------- The Files. All files are available at ~/.config/nitrogen:
  nitrogen.cfg  The config. DEPRECATED -&amp;gt; see feh and my wallpapers (doc) instead.
 Some resources.  the Arch wiki page. a youtube tutorial.  Dependencies.  some wallpapers to load and restore.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
@@ -1841,7 +1988,7 @@ Some resources.  the Arch wiki page. a youtube tutorial.  Dependencies.  some wa
 &lt;li&gt;&lt;a href=&#34;#the-config&#34;&gt;The config&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#some-resources&#34;&gt;Some resources&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#dependencies&#34;&gt;Dependencies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#manual-installation-process&#34;&gt;Manual installation process&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#manual-installation-process-deprecated&#34;&gt;Manual installation process&lt;/a&gt; &lt;strong&gt;DEPRECATED&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
     &lt;p align=&#34;center&#34;&gt;
@@ -1868,13 +2015,13 @@ Some resources.  the Arch wiki page. a youtube tutorial.  Dependencies.  some wa
 &lt;li&gt;some wallpapers to load and restore.&lt;/li&gt;
 &lt;li&gt;mine currently is a &lt;a href=&#34;https://voyage-onirique.com/wp-content/uploads/2020/03/backiee-138908-landscape-scaled.jpg&#34;&gt;vibrant scene&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;manual-install-process&#34;&gt;Manual install process.&lt;/h2&gt;
+&lt;h2 id=&#34;manual-installation-process-deprecated&#34;&gt;Manual installation process. &lt;strong&gt;DEPRECATED&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;install the dependencies.&lt;/li&gt;
 &lt;li&gt;install the &lt;code&gt;nitrogen&lt;/code&gt; command.&lt;/li&gt;
 &lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/nitrogen/nitrogen.cfg&#34;&gt;&lt;code&gt;nitrogen.cfg&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/.config/nitrogen&lt;/code&gt; directory.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;in a nutshell and to be adapted:&lt;/p&gt;
+&lt;p&gt;in a nutshell and to be adapted, &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;sudo pacman -Syu nitrogen
 git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.config/nitrogen/nitrogen.cfg ~/.config/nitrogen/nitrogen.cfg
@@ -1896,34 +2043,53 @@ mv a2n-s_dotfiles/.config/nitrogen/nitrogen.cfg ~/.config/nitrogen/nitrogen.cfg
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/polybar/</guid>
-      <description>Polybar documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
--------------------------------------------------------------------- Go back to the doc or the front page.</description>
-      <content>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>Go back to the doc or the front page.
+-------------------------------------------------------------------- More pictures of the config here.
+-------------------------------------------------------------------- &amp;ldquo;A fast and easy to use tool for creating status bars.&amp;rdquo;
+-------------------------------------------------------------------- Polybar documentation. For now I only adapted the code to get it to work on my setup.
+The polybar config can be installed with the following, DEPRECATED:
+git clone --depth=1 https://github.com/a2n-s/polybar-themes.git ~/repos/polybar chmod +x ~/repos/polybar/setup.sh ~/repos/polybar/setup.sh Some resources.  the github page here the home page here the arch wiki page here some themes for polybar here  One can also refer to the GitHub repo.</description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;More pictures of the config &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;&amp;ldquo;A fast and easy to use tool for creating status bars.&amp;rdquo;&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;h1 id=&#34;polybar-documentation&#34;&gt;Polybar documentation.&lt;/h1&gt;
-&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/polybar-themes&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+&lt;p&gt;For now I only adapted the code to get it to work on my setup.&lt;br&gt;
+The polybar config can be installed with the following, &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone --depth=1 https://github.com/a2n-s/polybar-themes.git ~/repos/polybar
+chmod +x ~/repos/polybar/setup.sh
+~/repos/polybar/setup.sh
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;the github page &lt;a href=&#34;https://github.com/polybar/polybar&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;the home page &lt;a href=&#34;https://polybar.github.io/&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;the arch wiki page &lt;a href=&#34;https://wiki.archlinux.org/title/Polybar&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;some themes for polybar &lt;a href=&#34;https://github.com/adi1090x/polybar-themes&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One can also refer to the &lt;a href=&#34;https://github.com/a2n-s/polybar-themes&#34;&gt;GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
 
@@ -2002,11 +2168,12 @@ Contributors: Stevan Antoine
       
       <guid>https://a2n-s.github.io/public/doc/config/scripts/</guid>
       <description>The programs I run on my machine can be split into a few parts:
- dmrun.sh prompt.sh screenshot.sh slock-cst.sh spectrWM-baraction.sh togkb.sh tr2md.sh upl.sh wvenv.sh xtcl.sh  or in the list below.
+ dmrun.sh lfrun.sh prompt.sh screenshot.sh slock-cst.sh spectrWM-baraction.sh togkb.sh tr2md.sh upl.sh wvenv.sh xtcl.sh  or in the list below.
 -------------------------------------------------------------------- Go back to the doc or the front page.</description>
       <content>&lt;p&gt;The programs I run on my machine can be split into a few parts:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/dmrun.sh&#34;&gt;dmrun.sh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/lfrun.sh&#34;&gt;lfrun.sh&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/prompt.sh&#34;&gt;prompt.sh&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/screenshot.sh&#34;&gt;screenshot.sh&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts/slock-cst.sh&#34;&gt;slock-cst.sh&lt;/a&gt;&lt;/li&gt;
@@ -2039,7 +2206,7 @@ Contributors: Stevan Antoine
       <description>Go back to the dotfiles, the doc or the front page.
 -------------------------------------------------------------------- More pictures of the config here.
 -------------------------------------------------------------------- &amp;ldquo;spectrwm is a small, dynamic tiling and reparenting window manager for X11.&amp;rdquo;
-Table of Content.  The files The config Some resources Dependencies Manual installation process  -------------------------------------------------------------------- The Files. All files are available at ~/.config/spectrwm and ~/.config/scripts:
+Table of Content.  The files The config Some resources Dependencies Manual installation process DEPRECATED  -------------------------------------------------------------------- The Files. All files are available at ~/.config/spectrwm and ~/.config/scripts:
  spectrWM-baraction.sh togkb.sh spectrwm.conf spectrwm_us.conf spectrwm_fr.conf  The config. DEPRECATED -&amp;gt; I was about to dive into spectrwm before I discovered and fell in love with bspwm.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
@@ -2066,7 +2233,7 @@ Table of Content.  The files The config Some resources Dependencies Manual insta
 &lt;li&gt;&lt;a href=&#34;#the-config&#34;&gt;The config&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#some-resources&#34;&gt;Some resources&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#dependencies&#34;&gt;Dependencies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#manual-installation-process&#34;&gt;Manual installation process&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#manual-installation-process-deprecated&#34;&gt;Manual installation process&lt;/a&gt; &lt;strong&gt;DEPRECATED&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
     &lt;p align=&#34;center&#34;&gt;
@@ -2109,13 +2276,13 @@ and &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts&#34;&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/togkb.sh&#34;&gt;&lt;code&gt;togkb.sh&lt;/code&gt;&lt;/a&gt; to switch the keyboard layout.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;xscreensaver&lt;/code&gt; to lock and save the screen usage.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;manual-installation-process&#34;&gt;Manual installation process.&lt;/h2&gt;
+&lt;h2 id=&#34;manual-installation-process-deprecated&#34;&gt;Manual installation process. &lt;strong&gt;DEPRECATED&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;install the dependencies.&lt;/li&gt;
 &lt;li&gt;install the &lt;code&gt;spectrwm&lt;/code&gt; command.&lt;/li&gt;
 &lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/spectrwm/spectrwm.conf&#34;&gt;&lt;code&gt;spectrwm.conf&lt;/code&gt;&lt;/a&gt; and &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/spectrwm/spectrwm_us.conf&#34;&gt;&lt;code&gt;spectrwm_us.conf&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/.config/spectrwm&lt;/code&gt; directory.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;in a nutshell and to be adapted:&lt;/p&gt;
+&lt;p&gt;in a nutshell and to be adapted, &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.config/spectrwm/spectrwm.conf ~/.config/spectrwm/spectrwm.conf
 mv a2n-s_dotfiles/.config/spectrwm/spectrwm_us.conf ~/.config/spectrwm/spectrwm_us.conf
@@ -2166,9 +2333,8 @@ Contributors: Stevan Antoine
       <description>Go back to the dotfiles, the doc or the front page.
 -------------------------------------------------------------------- More pictures of the config here.
 -------------------------------------------------------------------- &amp;ldquo;sxhkd is an X daemon that reacts to input events by executing commands.&amp;rdquo;
-Table of Content.  The files The config Some resources Dependencies Manual installation process  -------------------------------------------------------------------- The Files. All files are available at ~/.config/sxhkd:
- sxhkdrc  The config. The most interesting with sxhkd are the key-bindings:
-  wm agnostic shortcuts:</description>
+Table of Content.  The files The config Some resources Dependencies Manual installation process DEPRECATED  -------------------------------------------------------------------- The Files. All files are available at ~/.config/sxhkd:
+ sxhkdrc  The config. The most interesting with sxhkd are the key-bindings:</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
@@ -2194,7 +2360,7 @@ Table of Content.  The files The config Some resources Dependencies Manual insta
 &lt;li&gt;&lt;a href=&#34;#the-config&#34;&gt;The config&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#some-resources&#34;&gt;Some resources&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#dependencies&#34;&gt;Dependencies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#manual-installation-process&#34;&gt;Manual installation process&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#manual-installation-process-deprecated&#34;&gt;Manual installation process&lt;/a&gt; &lt;strong&gt;DEPRECATED&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
     &lt;p align=&#34;center&#34;&gt;
@@ -2428,12 +2594,12 @@ Table of Content.  The files The config Some resources Dependencies Manual insta
 &lt;li&gt;my &lt;code&gt;polybar-themes&lt;/code&gt; or equivalent&lt;/li&gt;
 &lt;li&gt;my &lt;code&gt;dmscripts&lt;/code&gt; or equivalent&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;manual-installation-process&#34;&gt;Manual installation process.&lt;/h2&gt;
+&lt;h2 id=&#34;manual-installation-process-deprecated&#34;&gt;Manual installation process. &lt;strong&gt;DEPRECATED&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;install &lt;code&gt;sxhkd&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;copy the &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.config/sxhkd/sxhkdrc&#34;&gt;&lt;code&gt;sxhkdrc&lt;/code&gt;&lt;/a&gt; file to your &lt;code&gt;~/.config/sxhkd&lt;/code&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;in a nutshell and to be adapted:&lt;/p&gt;
+&lt;p&gt;in a nutshell and to be adapted, &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;sudo pacman -Syu sxhkd
 git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.config/sxhkd/sxhkdrc ~/.config/sxhkd/sxhkdrc
@@ -3153,8 +3319,8 @@ and NEVER intall &lt;code&gt;python&lt;/code&gt; package on you system directly!
       <description>Go back to the dotfiles, the doc or the front page.
 -------------------------------------------------------------------- More pictures of the config here.
 -------------------------------------------------------------------- &amp;ldquo;The X.Org Server runs on many free-software Unix-like operating systems, including being adopted for use by most Linux distributions and BSD variants.&amp;rdquo;
-Table of Content.  The files The config Some resources Dependencies Manual installation process  -------------------------------------------------------------------- The Files. All files are available at ~/:
- .xinitrc  The config. Straightforward .</description>
+Table of Content.  The files The config Some resources Dependencies Manual installation process DEPRECATED  -------------------------------------------------------------------- The Files. All files are available at ~/:
+ .xinitrc  The config.</description>
       <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/dotfiles&#34;&gt;dotfiles&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
@@ -3174,7 +3340,7 @@ Table of Content.  The files The config Some resources Dependencies Manual insta
 
 
 
-  &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-x.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-x.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
+  &lt;img src=&#34;https://a2n-s.github.io/public/res/doc/config/dotfiles/logo-x.png&#34;  alt=&#34;https://a2n-s.github.io/public/res/doc/config/dotf files/logo-x.png&#34;  class=&#34;center&#34;  width=&#34;&#34; height=&#34;150&#34; /&gt;
 
 
 &lt;p&gt;&amp;ldquo;The X.Org Server runs on many free-software Unix-like operating systems, including being adopted for use by most Linux distributions and BSD variants.&amp;rdquo;&lt;/p&gt;
@@ -3184,7 +3350,7 @@ Table of Content.  The files The config Some resources Dependencies Manual insta
 &lt;li&gt;&lt;a href=&#34;#the-config&#34;&gt;The config&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#some-resources&#34;&gt;Some resources&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#dependencies&#34;&gt;Dependencies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#manual-installation-process&#34;&gt;Manual installation process&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#manual-installation-process-deprecated&#34;&gt;Manual installation process&lt;/a&gt; &lt;strong&gt;DEPRECATED&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
     &lt;p align=&#34;center&#34;&gt;
@@ -3210,16 +3376,16 @@ Table of Content.  The files The config Some resources Dependencies Manual insta
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;picom&lt;/code&gt;: a compositor for &lt;code&gt;X11&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;nitrogen&lt;/code&gt; or &lt;code&gt;feh&lt;/code&gt; to load and restore wallpapers.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;xscreensaver&lt;/code&gt; to save and lock the screen.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;spectrWM&lt;/code&gt;: the window manager.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;bspwm&lt;/code&gt; or &lt;code&gt;spectrWM&lt;/code&gt;: windows managers.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;manual-installation-process&#34;&gt;Manual installation process.&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;manual-installation-process-deprecated&#34;&gt;Manual installation process. &lt;strong&gt;DEPRECATED&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;install the dependencies.&lt;/li&gt;
 &lt;li&gt;install the &lt;code&gt;x&lt;/code&gt; package.&lt;/li&gt;
 &lt;li&gt;copy &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/.xinitrc&#34;&gt;&lt;code&gt;.xinitrc&lt;/code&gt;&lt;/a&gt; inside your &lt;code&gt;~/&lt;/code&gt; directory.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;in a nutshell and to be adapted:&lt;/p&gt;
+&lt;p&gt;in a nutshell and to be adapted, &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.xinitrc ~/.xinitrc
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;

@@ -168,7 +168,7 @@
       <span class="post-date">
         2021-12-04
         
-          [Last update: 2021-12-10]
+          [Last update: 2021-12-29]
         
       </span>
     
@@ -245,7 +245,7 @@ More pictures of the config <a href="https://github.com/a2n-s/dotfiles#4-gallery
 <p>All files are available at <a href="https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch">~/.config/neofetch</a>:</p>
 <ul>
 <li><a href="https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/config.conf"><code>config.conf</code></a></li>
-<li><a href="https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/.neofetchrc"><code>neofetchrc</code></a></li>
+<li><a href="https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/neofetchrc"><code>neofetchrc</code></a></li>
 <li><a href="https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/ascii"><code>ascii</code></a></li>
 </ul>
 <h2 id="the-config">The config.<a href="#the-config" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
@@ -260,15 +260,16 @@ I wrote the <code>neofetchrc</code> script that launches different ascii art bas
 <h2 id="dependencies">Dependencies.<a href="#dependencies" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <ul>
 <li>some art works in <code>~/.config/neofetch/ascii</code>.</li>
+<li>the <code>pr</code> command to vertically concatenate the images and the <code>neofetch</code> infos.</li>
 </ul>
 <h2 id="manual-installation-process">Manual installation process.<a href="#manual-installation-process" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <ul>
 <li>install the dependencies.</li>
 <li>install the <code>neofetch</code> command.</li>
-<li>copy <a href="https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/config.conf"><code>config.conf</code></a>, <a href="https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/.neofetchrc"><code>neofetchrc</code></a> and the files in <a href="https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/ascii"><code>ascii</code></a> inside your <code>~/.config/neofetch</code> directory.</li>
+<li>copy <a href="https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/config.conf"><code>config.conf</code></a>, <a href="https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/neofetchrc"><code>neofetchrc</code></a> and the files in <a href="https://github.com/a2n-s/dotfiles/blob/main/.config/neofetch/ascii"><code>ascii</code></a> inside your <code>~/.config/neofetch</code> directory.</li>
 </ul>
 <p>in a nutshell and to be adapted:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo pacman -Syu neofetch
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo pacman -Syu neofetch pr
 git clone git@github.com:a2n-s/dotfiles.git a2n-s_dotfiles
 mv a2n-s_dotfiles/.config/neofetch/config.conf ~/.config/neofetch/config.conf
 mv a2n-s_dotfiles/.config/neofetch/neofetchrc ~/.config/neofetch/neofetchrc

@@ -9,6 +9,34 @@
     <copyright>https://github.com/a2n-s/a2n-s.github.io</copyright>
     <lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://a2n-s.github.io/public/doc/config/scripts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>lfrun.sh</title>
+      <link>https://a2n-s.github.io/public/doc/config/scripts/lfrun.sh/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a2n-s.github.io/public/doc/config/scripts/lfrun.sh/</guid>
+      <description>Go back to the scripts, the doc or the front page.
+-------------------------------------------------------------------- File is here with following header:
+Description: wrapper around lf to support advanced file preview with ueberzug. creates cache files to make previews faster once computed one time. Dependencies: ueberzug License: https://github.com/a2n-s/dotfiles/blob/main/LICENSE Contributors: Stevan Antoine gokcehan -&amp;gt; https://github.com/gokcehan/lf/wiki/Previews </description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config/scripts&#34;&gt;scripts&lt;/a&gt;, the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;File is &lt;a href=&#34;https://github.com/a2n-s/dotfiles/blob/main/scripts/lfrun.sh&#34;&gt;here&lt;/a&gt; with following header:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Description:  wrapper around lf to support advanced file preview with ueberzug.
+              creates cache files to make previews faster once computed one time.
+Dependencies: ueberzug
+License:      https://github.com/a2n-s/dotfiles/blob/main/LICENSE 
+Contributors: Stevan Antoine
+              gokcehan -&amp;gt; https://github.com/gokcehan/lf/wiki/Previews 
+&lt;/code&gt;&lt;/pre&gt;</content>
+    </item>
+    
+    <item>
       <title>dmrun.sh</title>
       <link>https://a2n-s.github.io/public/doc/config/scripts/dmrun.sh/</link>
       <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>

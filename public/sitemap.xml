@@ -3,49 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://a2n-s.github.io/public/tags/doc/</loc>
-    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/public/tags/editor/</loc>
-    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+    <loc>https://a2n-s.github.io/public/doc/config/scripts/lfrun.sh/</loc>
+    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a2n-s.github.io/public/doc/config/neovim/</loc>
-    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+    <loc>https://a2n-s.github.io/public/tags/scripts/</loc>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/</loc>
-    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2n-s.github.io/public/tags/editor/</loc>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a2n-s.github.io/public/doc/config/neovim/</loc>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/browser/</loc>
-    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/scripts/dmrun.sh/</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/kitty/</loc>
-    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://a2n-s.github.io/public/tags/scripts/</loc>
-    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/slock/</loc>
-    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/scripts/slock-cst.sh/</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/system/</loc>
-    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/tabbed/</loc>
-    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/terminal/</loc>
-    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/tool/</loc>
-    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/bash/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/fish/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
@@ -54,13 +57,13 @@
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/rice/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/shell/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/dotfiles/</loc>
-    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/dotfiles/fish/</loc>
     <lastmod>2021-12-15T00:00:00+00:00</lastmod>
@@ -69,7 +72,7 @@
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/surf/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/about/</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
@@ -81,22 +84,22 @@
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/bar/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/dotfiles/bash/</loc>
-    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/dotfiles/bspwm/</loc>
-    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/config/</loc>
-    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/config/</loc>
-    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/</loc>
-    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/contact/</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
@@ -105,16 +108,16 @@
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/dmenu/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/dmscripts/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/dotfiles/</loc>
-    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/about/education/</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
@@ -147,13 +150,13 @@
     <lastmod>2021-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/index/</loc>
-    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/keyboard/</loc>
-    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/main-page/</loc>
-    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/about/me/</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
@@ -162,19 +165,19 @@
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/menu/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/monitoring/</loc>
     <lastmod>2021-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/dotfiles/neofetch/</loc>
-    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/dotfiles/nitrogen/</loc>
-    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/polybar/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/posts/</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
@@ -192,13 +195,13 @@
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/screen/</loc>
-    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/scripts/screenshot.sh/</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/scripts/</loc>
-    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/security/</loc>
     <lastmod>2021-12-10T00:00:00+00:00</lastmod>
@@ -210,13 +213,13 @@
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/dotfiles/spectrwm/</loc>
-    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/scripts/spectrwm-baraction.sh/</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/dotfiles/sxhkd/</loc>
-    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/dotfiles/tmux/</loc>
     <lastmod>2021-12-10T00:00:00+00:00</lastmod>
@@ -246,16 +249,16 @@
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/wallpapers/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/tags/windows-manager/</loc>
-    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/scripts/wvenv.sh/</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/dotfiles/x/</loc>
-    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a2n-s.github.io/public/doc/config/dotfiles/xscreensaver/</loc>
     <lastmod>2021-12-10T00:00:00+00:00</lastmod>

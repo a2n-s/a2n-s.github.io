@@ -14,34 +14,53 @@
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/polybar/</guid>
-      <description>Polybar documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
--------------------------------------------------------------------- Go back to the doc or the front page.</description>
-      <content>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>Go back to the doc or the front page.
+-------------------------------------------------------------------- More pictures of the config here.
+-------------------------------------------------------------------- &amp;ldquo;A fast and easy to use tool for creating status bars.&amp;rdquo;
+-------------------------------------------------------------------- Polybar documentation. For now I only adapted the code to get it to work on my setup.
+The polybar config can be installed with the following, DEPRECATED:
+git clone --depth=1 https://github.com/a2n-s/polybar-themes.git ~/repos/polybar chmod +x ~/repos/polybar/setup.sh ~/repos/polybar/setup.sh Some resources.  the github page here the home page here the arch wiki page here some themes for polybar here  One can also refer to the GitHub repo.</description>
+      <content>&lt;p&gt;Go back to the &lt;a href=&#34;https://a2n-s.github.io/public/public/doc/config&#34;&gt;doc&lt;/a&gt; or the &lt;a href=&#34;https://a2n-s.github.io/public/public&#34;&gt;front page&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;More pictures of the config &lt;a href=&#34;https://github.com/a2n-s/dotfiles#4-gallery-toc&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;&amp;ldquo;A fast and easy to use tool for creating status bars.&amp;rdquo;&lt;/p&gt;
+
+    &lt;p align=&#34;center&#34;&gt;
+
+
+&lt;code&gt;--------------------------------------------------------------------&lt;/code&gt;
+&lt;/p&gt;
+
+
 &lt;h1 id=&#34;polybar-documentation&#34;&gt;Polybar documentation.&lt;/h1&gt;
-&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/polybar-themes&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+&lt;p&gt;For now I only adapted the code to get it to work on my setup.&lt;br&gt;
+The polybar config can be installed with the following, &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone --depth=1 https://github.com/a2n-s/polybar-themes.git ~/repos/polybar
+chmod +x ~/repos/polybar/setup.sh
+~/repos/polybar/setup.sh
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;some-resources&#34;&gt;Some resources.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;the github page &lt;a href=&#34;https://github.com/polybar/polybar&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;the home page &lt;a href=&#34;https://polybar.github.io/&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;the arch wiki page &lt;a href=&#34;https://wiki.archlinux.org/title/Polybar&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;some themes for polybar &lt;a href=&#34;https://github.com/adi1090x/polybar-themes&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One can also refer to the &lt;a href=&#34;https://github.com/a2n-s/polybar-themes&#34;&gt;GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
 

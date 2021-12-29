@@ -14,11 +14,16 @@
       <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://a2n-s.github.io/public/doc/config/slock/</guid>
-      <description>slock documentation. Doc unavailable&amp;hellip; Please refer to the GitHub repo instead.
+      <description>slock documentation. Manual installation DEPRECATED:
+git clone https://github.com/a2n-s/slock ~/repos/slock cd ~/repos/slock git checkout main make clean install One can also refer to the GitHub repo.
 -------------------------------------------------------------------- Go back to the doc or the front page.</description>
       <content>&lt;h1 id=&#34;slock-documentation&#34;&gt;slock documentation.&lt;/h1&gt;
-&lt;h2 id=&#34;doc-unavailable&#34;&gt;Doc unavailable&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/a2n-s/slock&#34;&gt;GitHub repo&lt;/a&gt; instead.&lt;/p&gt;
+&lt;p&gt;Manual installation &lt;strong&gt;DEPRECATED&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone https://github.com/a2n-s/slock ~/repos/slock
+cd ~/repos/slock
+git checkout main
+make clean install
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;One can also refer to the &lt;a href=&#34;https://github.com/a2n-s/slock&#34;&gt;GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p align=&#34;center&#34;&gt;
 
